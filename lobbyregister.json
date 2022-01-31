@@ -9,8 +9,638 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 216,
+  "resultCount": 218,
   "results": [
+    {
+      "registerNumber": "R000221",
+      "registerEntryDetail": {
+        "id": 807,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 270001,
+          "to": 280000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000221",
+          "firstPublicationDate": "2022-01-31T10:07:01.000Z"
+        },
+        "activityDescription": "Das Interesse der IBC SOLAR AG ist auf die Dekarbonisierung der globalen Energieversorgung und dabei besonders auf die Erzeugung, Speicherung und optimale Nutzung grüner, aus Sonnenlicht erzeugter Energie in Deutschland und der Europäischen Union gerichtet. Zu diesem Zweck wirbt die IBC SOLAR AG für die möglichst umfassende Nutzung der Energie aus Sonnenlicht. Unser Vorhaben zielt darauf, die Energienutzung aus Sonnenlicht wegen ihrer technologischen, ökologischen und ihrer Kostenvorteile zu einer der tragenden Säulen der Energieerzeugung zu machen. Dazu werben wir auf der lokalen, der regionalen, auf der Ebene der Bundesländer, Deutschlands, der Europäischen Union und Global für einen regulatorischen Rahmen, der die umfassende Nutzung der Potenziale der Energieerzeugung, -nutzung und -speicherung aus Sonnenlicht ermöglicht. Dazu erarbeiten wir entsprechende Konzepte, führen Gespräche mit allen gesellschaftlichen Gruppen von Einzelpersonen, Bürgerinnen und Bürgern, Investorinnen und Investoren, Funktionsträgerinnen und -trägern, Abgeordneten und Regierungsmitgliedern und richten Veranstaltungen aus bzw. nehmen an Veranstaltungen teil, stellen Informationen zur Verfügung, berichten über aktuelle Entwicklungen und geben Einschätzungen dazu ab, wie sich Veränderungen am gesetzgeberischen Rahmen nach unserer Einschätzung auf das Ziel der Dekarbonisierung der Energieversorgung auswirkt und machen unsererseits Vorschläge für einen gesetzgeberischen Rahmen, der die Erreichung dieses Zieles ermöglicht. Wir engagieren uns daneben durch Mitgliedschaft und Mitwirkung in Verbänden und Vereinen und spenden jährlich über die Parteigrenzen hinweg an politische Parteien. Für die IBC SOLAR AG ist die Interessenvertretung nicht nur Ausdruck gesellschaftlicher Teilhabe sondern auch Wahrnehmung gesellschaftlicher Verpflichtung über die unternehmerische Tätigkeit der IBC SOLAR AG hinaus. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "IBC SOLAR AG",
+          "phoneNumber": "+4995739224102",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Am Hochgericht ",
+            "streetNumber": "10",
+            "zipCode": "96231",
+            "city": "Bad Staffelstein",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_AG",
+            "code_de": "Aktiengesellschaft (AG)",
+            "code_en": "Stock company (AG)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "lobbyregister@ibc-solar.de"
+          ],
+          "websites": [
+            "http://www.ibc-solar.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Phys.",
+              "commonFirstName": "Udo",
+              "lastName": "Möhrstedt",
+              "function": "Vorstandsvorsitzender (CEO)",
+              "phoneNumber": "+49957392240",
+              "organizationMemberEmails": [
+                "vorstand@ibc-solar.de"
+              ]
+            },
+            {
+              "commonFirstName": "Lars",
+              "lastName": "Degendorfer",
+              "function": "Vorstand (CFO)",
+              "phoneNumber": "+49957392240",
+              "organizationMemberEmails": [
+                "vorstand@ibc-solar.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Horstmann",
+              "function": "Vorstand (COO)",
+              "phoneNumber": "+49957392240",
+              "organizationMemberEmails": [
+                "vorstand@ibc-solar.de"
+              ]
+            },
+            {
+              "commonFirstName": "Patrik",
+              "lastName": "Danz",
+              "function": "Vorstand (CSO)",
+              "phoneNumber": "+49957392240",
+              "organizationMemberEmails": [
+                "vorstand@ibc-solar.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Mag. Jur.",
+              "commonFirstName": "Jörg",
+              "lastName": "Ebel"
+            }
+          ],
+          "membershipEntries": [
+            "Afrika-Verein der deutschen Wirtschaft e. V.",
+            "Bundesverband Solarwirtschaft e. V.",
+            "Die Jungen Unternehmer",
+            "Eurosolar e. V. ",
+            "Forum für Zukunftsenergien e. V.",
+            "Foundation for the Global Compact",
+            "ISU e. V. ",
+            "Lateinamerika Verein e. V.",
+            "Deutsch-Jordanische Gesellschaft e.V.",
+            "Mittelstands- und Wirtschaftsunion",
+            "Ostasiatischer Verein e. V.",
+            "PV Austria Bundesverband",
+            "Solar Power Europe",
+            "Solarenergie Förderverein Deutschland e.V.",
+            "Solarverband MV",
+            "Sonnenhaus-Institut e.V.",
+            "South African Photovoltaic Industry Association SAPVIA",
+            "Unión Española Fotovoltaica UNEF",
+            "Verband der Bayerischen Energie- und Wasserwirtschaft e.V. ",
+            "Bundesverband der Energie- und Wasserwirtschaft e. V.",
+            "Verein deutscher Ingenieure e. V. ",
+            "Verein zur Förderung des Mittelstandes und deren Angehörige e. V.",
+            "Wirtschaftsrat der CDU e. V.",
+            "Italia Solare "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Jahresabschlusserstellung ist bei IBC SOLAR AG abgeschlossen bis 30.06. des Folgejahres und wird nach Testat durch Wirtschaftsprüfer umgehend nachgereicht."
+      }
+    },
+    {
+      "registerNumber": "R000220",
+      "registerEntryDetail": {
+        "id": 1245,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 210001,
+          "to": 220000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000220",
+          "firstPublicationDate": "2022-01-31T09:55:45.000Z"
+        },
+        "activityDescription": "Der Verband der Wohnungs- und Immobilienwirtschaft Rheinland Westfalen e. V. (VdW Rheinland Westfalen) vereint Wohnungsunternehmen sowie sonstige dem Wohnungswesen dienende oder das Wohnungswesen fördernde Unternehmen. \r\n \r\nSeine Tätigkeit erstreckt sich auf das Gebiet des Landes Nordrhein-Westfalen und der ehemaligen Regierungsbezirke Koblenz und Trier des Landes Rheinland-Pfalz. \r\n \r\nDer Verband verfolgt ausschließlich gemeinnützige Zwecke. Sein Geschäftsbetrieb dient nicht eigenwirtschaftlichen Bestrebungen. \r\n \r\nDer Verband ist Prüfungsverband im Sinne des Gesetzes über die Erwerbs- und Wirtschaftsgenossenschaften (GenG) sowie des Artikel 25 Einführungsgesetz zum Handelsgesetzbuch (EGHGB). In dieser Funktion wurde ihm das Prüfungsrecht nach  § 63a GenG verliehen. \r\n\r\nDer Verband vertritt und fördert die Interessen seiner Mitglieder. Ihm obliegt deren fachliche Beratung. Er kann sich bei der Wahrnehmung dieser Aufgaben der Hilfe Dritter bedienen. Der Verband hat in diesem Rahmen insbesondere die Aufgaben: \r\n \r\n1.  gegenüber Politik, Gesetzgebung und Verwaltung wohnungswirtschaftliche und unternehmensspezifische Anliegen geltend zu machen sowie die Ideen eines sozialen Wohnungs- und Städtebaues zu pflegen, \r\n \r\n2.  den Erfahrungsaustausch in der Wohnungswirtschaft und in der Stadtentwicklung zu fördern sowie die wohnungswirtschaftlichen Interessen der Mitglieder festzustellen und aufeinander abzustimmen, \r\n \r\n3.  die Belange der Wohnungswirtschaft durch Öffentlichkeitsarbeit geltend zu machen,  \r\n \r\n4.  die Mitglieder regelmäßig umfassend zu informieren, \r\n \r\n5.  die Aus-, Fort- und Weiterbildung zu unterstützen, insbesondere Schulungs- und Weiterbildungseinrichtungen sowie die dem Wohnungswesen und der Stadtentwicklung dienende Forschung zu fördern.\r\n\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband der Wohnungs- und Immobilienwirtschaft Rheinland Westfalen e. V. (VdW Rheinland Westfalen)",
+          "phoneNumber": "+49211169980",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Goltsteinstraße ",
+            "streetNumber": "29",
+            "zipCode": "40211",
+            "city": "Düsseldorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@vdw-rw.de"
+          ],
+          "websites": [
+            "https://www.vdw-rw.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Rychter ",
+              "function": "Vorstand, Verbandsdirektor",
+              "phoneNumber": "+49211169980",
+              "organizationMemberEmails": [
+                "info@vdw-rw.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Daniel",
+              "lastName": "Ranker",
+              "function": "Vorstand, Prüfungsdirektor",
+              "phoneNumber": "+49211169980",
+              "organizationMemberEmails": [
+                "info@vdw-rw.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Isabel",
+              "lastName": "Brähler"
+            },
+            {
+              "commonFirstName": "Laura",
+              "lastName": "Brinkmann"
+            },
+            {
+              "commonFirstName": "Peggy",
+              "lastName": "Evertz"
+            },
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Flatters"
+            },
+            {
+              "commonFirstName": "Christina",
+              "lastName": "Göbel"
+            },
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Gröhbühl"
+            },
+            {
+              "commonFirstName": "Kristina",
+              "lastName": "Klee"
+            },
+            {
+              "commonFirstName": "Cindy",
+              "lastName": "Merz"
+            },
+            {
+              "commonFirstName": "Oliver",
+              "lastName": "Niermann"
+            },
+            {
+              "commonFirstName": "Katrin",
+              "lastName": "Stamm"
+            },
+            {
+              "commonFirstName": "Eva",
+              "lastName": "Stelzner"
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Michael",
+              "lastName": "Pannen"
+            }
+          ],
+          "members": 475,
+          "membersCountDate": "2022-01-23T23:00:00.000Z",
+          "membershipEntries": [
+            "GdW Bundesverband deutscher Wohnungs- und Immobilienunternehmen e.V.",
+            "AGV Arbeitgeberverband der Deutschen Immobilienwirtschaft e. V., Düsseldorf ",
+            "Bauforum Rheinland-Pfalz, Mainz ",
+            "DESWOS Deutsche Entwicklungshilfe für soziales Wohnungs- und Siedlungswesen e. V., Köln ",
+            "Deutscher Baugerichtstag, Hamm ",
+            "DMT - Deutscher Mietgerichtstag, Berlin ",
+            "DV Deutscher Verband für Wohnungswesen, Städtebau und Raumordnung e. V., Berlin ",
+            "Födergesellschaft Deutsches Institut für Stadtbaukunst e.V., Frankfurt ",
+            "GDD Gesellschaft für Datenschutz und Datensicherheit e. V., Bonn ",
+            "KlimaDiskurs.NRW e.V., Düsseldorf ",
+            "Kuratorium Qualitätssiegel Betreutes Wohnen für ältere Menschen in Nordrhein-Westfalen e. V., Bochum ",
+            "Stiftung Baukultur Rheinland-Pfalz, Mainz ",
+            "VdW saar, Verband der saarländischen Wohnungs- und Immobilienwirtschaft e. V., Saarbrücken",
+            "VdW südwest, Verband der Südwestdeutschen Wohnungswirtschaft e. V., Frankfurt ",
+            "Wirtschaftsforum der SPD e.V., Berlin ",
+            "Wirtschaftsprüferkammer, Berlin ",
+            "Initiative Wohnen.2050 e.V.",
+            "Wirtschaftsrat der CDU e.V., Berlin "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in field of energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of ​​the environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in field of European politics and the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in field of internal security"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the area of ​​law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_OTHER",
+            "de": "Sonstiges im Bereich „Medien, Kommunikation und  Informationstechnik“",
+            "en": "Other in the field of media, communication and information technology"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of ​​spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_INTEGRATION",
+            "de": "Integration",
+            "en": "Integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_OTHER",
+            "de": "Sonstiges im Bereich „Gesellschaftspolitik und soziale Gruppen“",
+            "en": "Other in field of social politics, social groups"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2021-05-12-Jahresabschluss-VdW-RW-31-12-2020-Testatsexemplar.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7c/15/1782/2021-05-12-Jahresabschluss-VdW-RW-31-12-2020-Testatsexemplar.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000219",
       "registerEntryDetail": {
@@ -19796,7 +20426,7 @@
     {
       "registerNumber": "R000119",
       "registerEntryDetail": {
-        "id": 1662,
+        "id": 1663,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 1,
@@ -19825,9 +20455,44 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "commonFirstName": "Cornelius",
-          "lastName": "Brand"
+          "identity": "ORGANIZATION",
+          "name": "Aspen Partners PartG",
+          "phoneNumber": "+491622577684",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Tannhäuserweg ",
+            "streetNumber": "2a",
+            "zipCode": "22559",
+            "city": "Hamburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_PG",
+            "code_de": "Partnerschaftsgesellschaft",
+            "code_en": "Partnership company",
+            "type": "LEGAL_ASSOCIATION"
+          },
+          "organizationEmails": [
+            "info@aspenpaertners.de"
+          ],
+          "websites": [
+            "www.aspenpartners.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Cornelius",
+              "lastName": "Brand",
+              "function": "Managing Partner",
+              "phoneNumber": "+491622577684",
+              "organizationMemberEmails": [
+                "brand@aspenpartners.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
         },
         "legislativeProjects": [
           {
@@ -25976,15 +26641,22 @@
     {
       "registerNumber": "R000086",
       "registerEntryDetail": {
-        "id": 285,
+        "id": 1665,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
           "to": 10
         },
         "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
+        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000086",
           "firstPublicationDate": "2022-01-18T09:49:15.000Z"
@@ -26076,11 +26748,19 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d1/0f/1789/Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": false,
         "refuseAnnualFinanceStatement": false,
-        "annualReportExist": false,
-        "missingAnnualReportReason": ""
+        "annualReportExist": true
       }
     },
     {
