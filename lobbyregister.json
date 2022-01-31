@@ -9,12 +9,203 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 223,
+  "resultCount": 224,
   "results": [
+    {
+      "registerNumber": "R000227",
+      "registerEntryDetail": {
+        "id": 1054,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000227",
+          "firstPublicationDate": "2022-01-31T12:07:44.000Z"
+        },
+        "activityDescription": "Das Future of Life Institute ist eine der weltweit führenden Organisationen, die sich mit der Politik der künstlichen Intelligenz (KI) befassen. Das Institut ist eine unabhängige, gemeinnützige Organisation, die sich für die Maximierung des Nutzens der Technologie und die Verringerung der damit verbundenen Risiken einsetzt. FLI hat eines der frühesten und einflussreichsten Regelwerke für KI geschaffen - die Asilomar-Grundsätze für KI - und unterhält ein großes Netzwerk unter den besten KI-Forschern der Welt. Neben den Regierungen Frankreichs und Finnlands ist das Institut auch der zivilgesellschaftliche Unterstützer der Empfehlungen zur künstlichen Intelligenz in der Roadmap für digitale Zusammenarbeit des UN-Generalsekretärs.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Future of Life Institute",
+          "phoneNumber": "+31616647630",
+          "address": {
+            "type": "FOREIGN",
+            "internationalAdditional1": "Doezastraat 23A1",
+            "internationalAdditional2": "3039 ZC",
+            "city": "Rotterdam",
+            "country": {
+              "code": "NL"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "code_en": "Other juristic person",
+            "type": "JURISTIC_PERSON",
+            "legalFormText": "501 C 3 (Amerikanisches Recht)"
+          },
+          "organizationEmails": [
+            "mark@futureoflife.org"
+          ],
+          "websites": [
+            "www.futureoflife.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Max",
+              "lastName": "Tegmark",
+              "function": "Präsident",
+              "phoneNumber": "+16179575578",
+              "organizationMemberEmails": [
+                "max@futureoflife.org"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Meia",
+              "lastName": "Chita-Tegmark",
+              "function": "Schatzmeisterin",
+              "phoneNumber": "+16174179090",
+              "organizationMemberEmails": [
+                "meia@futureoflife.org"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Anthony",
+              "lastName": "Aguirre",
+              "function": "Sekretär",
+              "phoneNumber": "+18313256832",
+              "organizationMemberEmails": [
+                "anthony@futureoflife.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Mark",
+              "lastName": "Brakel",
+              "academicDegreeAfter": "BA MA"
+            },
+            {
+              "commonFirstName": "Emilia",
+              "lastName": "Javorsky",
+              "academicDegreeAfter": "MD MPH"
+            }
+          ],
+          "membershipEntries": [
+            "UN Secretary General's High-level Panel on Digital Cooperation - Roundtable 3C on Artificial Intelligence",
+            "Partnership on AI, a nonprofit coalition committed to the responsible use of artificial intelligence"
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "EU Gesetz über Künstliche Intelligenz"
+          }
+        ],
+        "donators": [
+          {
+            "name": "Silicon Valley Community Foundation, Mountain View, Kalifornien, Vereinigte Staaten",
+            "description": "Keine Leistung.",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 220001,
+              "to": 230000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Founders Pledge Inc, London, Vereinigtes Königreich",
+            "description": "Keine Leistung.",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Prime Trust, Las Vegas, Nevada, Vereinigte Staaten",
+            "description": "Keine Leistung.",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Fidelity Charitable, Cincinnati, Ohio, Vereinigte Staaten",
+            "description": "Keine Leistung.",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Future-of-Life-Institute-2020-990-form.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7c/47/1813/Future-of-Life-Institute-2020-990-form.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000226",
       "registerEntryDetail": {
-        "id": 841,
+        "id": 1681,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -83,6 +274,10 @@
             {
               "commonFirstName": "Stephan",
               "lastName": "Griebel"
+            },
+            {
+              "commonFirstName": "Jürgen",
+              "lastName": "Sturm"
             }
           ],
           "membershipEntries": [
@@ -215,7 +410,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "220118-TID-JAP-31-12-2020-TE-final.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/f7/54/1808/220118-TID-JAP-31-12-2020-TE-final.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/45/32/1812/220118-TID-JAP-31-12-2020-TE-final.pdf",
               "mimeType": "application/pdf"
             }
           }
