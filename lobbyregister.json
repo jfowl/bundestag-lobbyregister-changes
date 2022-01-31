@@ -13585,7 +13585,7 @@
     {
       "registerNumber": "R000151",
       "registerEntryDetail": {
-        "id": 930,
+        "id": 1645,
         "clientIdentity": "",
         "employeeCount": {
           "from": 141,
@@ -13729,9 +13729,9 @@
         "clientPersons": [],
         "registerEntryMedia": [],
         "disclosureRequirementsExist": false,
-        "refuseAnnualFinanceStatement": false,
-        "annualReportExist": false,
-        "missingAnnualReportReason": ""
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Die Veröffentlichung unseres Jahresabschlusses lässt detaillierte Rückschlüsse auf den Organisationsgrad der Beschäftigten im Schornsteinfegerhandwerk zu.",
+        "annualReportExist": false
       }
     },
     {
