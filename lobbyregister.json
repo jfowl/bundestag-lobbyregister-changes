@@ -9,8 +9,218 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 218,
+  "resultCount": 219,
   "results": [
+    {
+      "registerNumber": "R000222",
+      "registerEntryDetail": {
+        "id": 783,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 70001,
+          "to": 80000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000222",
+          "firstPublicationDate": "2022-01-31T10:33:39.000Z"
+        },
+        "activityDescription": "Als Dachverband vertritt die Deutsche Gesellschaft für Mauerwerks- und Wohnungsbau (DGfM) die politischen, wirtschaftlichen und technischen Interessen der Mauerstein erzeugenden Industrie, die einen Umsatz von 1,5 Milliarden Euro pro Jahr erwirtschaftet. Im Bereich der Normung wirkt die DGfM an der Ausarbeitung nationaler und europäischer Richtlinien mit. Ein weiterer Schwerpunkt des Verbandes ist die Förderung des Wohnungsbaus, der in Deutschland zu über 70 Prozent mit Mauerwerk errichtet wird. Im Wohnungsbau sichert die Bauweise Mauerwerk 413.000 Arbeitsplätze und trägt zu einer jährlichen Wertschöpfung von 40 Milliarden Euro bei. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Gesellschaft für Mauerwerks- und Wohnungsbau e.V.",
+          "phoneNumber": "+493025359640",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kochstraße ",
+            "streetNumber": "6-7",
+            "zipCode": "10969",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "mail@dgfm.de"
+          ],
+          "websites": [
+            "www.dgfm.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Ronald",
+              "lastName": "Rast",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493025359640",
+              "organizationMemberEmails": [
+                "rast@dgfm.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Hannes",
+              "lastName": "Zapf",
+              "function": "Vorsitzender",
+              "phoneNumber": "+499119958515",
+              "organizationMemberEmails": [
+                "dr.zapf@zapf-daigfuss.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Silke",
+              "lastName": "Reinhardt"
+            },
+            {
+              "commonFirstName": "Sabrina",
+              "lastName": "Patke"
+            }
+          ],
+          "members": 6,
+          "membersCountDate": "2022-01-24T23:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Baustoffe - Steine und Erden e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the area of ​​law"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of ​​spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "DGfM-e-V-JA2020-m-Unterschrift-u-AGB.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f8/48/1793/DGfM-e-V-JA2020-m-Unterschrift-u-AGB.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000221",
       "registerEntryDetail": {
