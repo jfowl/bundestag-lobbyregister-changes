@@ -9,8 +9,360 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 221,
+  "resultCount": 223,
   "results": [
+    {
+      "registerNumber": "R000226",
+      "registerEntryDetail": {
+        "id": 841,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 30001,
+          "to": 40000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000226",
+          "firstPublicationDate": "2022-01-31T11:49:03.000Z"
+        },
+        "activityDescription": "Texas Instruments entwickelt, produziert, testet und vertreibt analoge und eingebettete Halbleiterchips - wichtige Bestandteile von Dingen, die täglich erlebt und benutzt werden. In Deutschland beschäftigt TI über 1500 Mitarbeiterinnen und Mitarbeiter und ist in Europa mit 38 Standorten in 21 Ländern vertreten.\r\n\r\nTI betreibt seit 1966 Halbleiterforschung, - entwicklung und -produktion in Freising. Die Produktionsanlage wurde im Jahre 2000 auf 200mm Wafer umgerüstet und verfügt heute über rund 10.000 qm an Reinraum.\r\n\r\nAls Teil seines globalen Forschungsnetzwerkes Kilby Labs, verfügt TI in Freising über ein fortschrittliches Technologie-F&E-Zentrum. Benannt nach dem TI Mitarbeiter Jack Kilby, Nobelpreisträger und Erfinder des integrierten Schaltkreises im Jahr 1956, ist das Labor das Zentrum für die Innovationsführerschaft von TI und die F&E-Aktivitäten in Europa. Des weiteren ist Freising Standort von einer Vielzahl von weiteren F&E Aktivitäten im Hinblick auf Chipdesign sowie auf  Produktionseffizienz und -nachhaltigkeit.\r\n\r\nAuf der Grundlage der langjährigen Präsenz in Europa ist TI Teil der Innovationslandschaft für Halbleiter und treibt gemeinsam mit seinen Kunden aus vielen Bereichen gemeinsame Innovationsprojekte insbesondere im Bereich  automotive und industrielle Anwendungen voran. \r\n\r\nTI arbeitet eng mit Wissenschaftlerinnen und Wissenschaftlern zusammen und hat ein besonderes Interesse daran, innovativen und kreativen Start-up-Unternehmen technologische Lösungen anzubieten. In diesem Zusammenhang veranstaltet TI regelmäßig TechMatch-Sessions mit Start-ups. TI verfügt über langjährige Aktivitäten auf regionaler und europäischer Ebene zur Unterstützung der MINT-Bildung und besitzt am Standort Freising die Europazentrale für educational technology. Diese unterstützt die technische Ausstattung von Schulen mit innovativen Hard- und Softwareapplikationen.  Mit dem Ziel der Förderung der Vielfalt im Mikroelektroniksektor und der Stärkung der MINT-Fächer im Sekundarunterricht, ist TI aktives Mitglied des Didacta Verbandes. Daneben unterstützt TI das internationale Netzwerk T3 (Teachers Teaching with Technology)\r\n\r\nTI ist weiterhin aktiv im ZVEI, AmCham Germany und im Netzwerk Silicon Germany. In diesem Kontext bestehen Kontakte zum BMWuK und zum BMBF.\r\n\r\n\r\n\r\n\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Texas Instruments Deutschland GmbH",
+          "phoneNumber": "+498161800",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Haggertystrasse ",
+            "streetNumber": "1",
+            "zipCode": "85356",
+            "city": "Freising",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "j-sturm@ti.com"
+          ],
+          "websites": [
+            "www.ti.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Schwaiger",
+              "function": "Geschäftsführer TI Deutschland GmbH",
+              "phoneNumber": "+498161803347",
+              "organizationMemberEmails": [
+                "a-schwaiger@ti.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Griebel"
+            }
+          ],
+          "membershipEntries": [
+            "ZVEI",
+            "AmCham Germany",
+            "Didacta Verband",
+            "Verband der bayerischen Wirtschaft",
+            "Stifterverband",
+            "VDE Südbayern"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AEROSPACE",
+            "de": "Luft- und Raumfahrt",
+            "en": "Aerospace"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "220118-TID-JAP-31-12-2020-TE-final.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f7/54/1808/220118-TID-JAP-31-12-2020-TE-final.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000225",
+      "registerEntryDetail": {
+        "id": 970,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "",
+        "account": {
+          "registerNumber": "R000225",
+          "firstPublicationDate": "2022-01-31T11:41:40.000Z"
+        },
+        "activityDescription": "Der Zweck des Vereins ist die finanzielle und ideelle Förderung der wissenschaftlichen Forschung und Lehre sowie der Praxis auf dem Gebiet der Internistischen Intensivmedizin und Notfallmedizin.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_OTHER",
+          "text": "Medizinische Fachgesellschaft"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Gesellschaft für Internistische Intensivmedizin und Notfallmedizin e. V.",
+          "phoneNumber": "+4952137266",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Geschäftsstelle",
+            "street": "An der Wuhlheide",
+            "streetNumber": "232 A",
+            "zipCode": "12459",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "gs@dgiin.de"
+          ],
+          "websites": [
+            "www.dgiin.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Christian",
+              "lastName": "Karagiannidis",
+              "function": "Präsident",
+              "phoneNumber": "+4952137266",
+              "organizationMemberEmails": [
+                "KaragiannidisC@kliniken-koeln.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Uwe",
+              "lastName": "Janssens",
+              "function": "Generalsekretär",
+              "phoneNumber": "+4952137266",
+              "organizationMemberEmails": [
+                "uwe.janssens@sah-eschweiler.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "PD Dr. med.",
+              "commonFirstName": "Matthias",
+              "lastName": "Kochanek",
+              "function": "Präsident elect",
+              "phoneNumber": "+4952137266",
+              "organizationMemberEmails": [
+                "matthias.kochanek@uk-koeln.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Riessen",
+              "lastName": "Reimer",
+              "function": "Past Präsident",
+              "phoneNumber": "+4952137266",
+              "organizationMemberEmails": [
+                "reimer.riessen@med.uni-tuebingen.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Karl",
+              "lastName": "Werdan",
+              "function": "Medizinischer Geschäftsführer",
+              "phoneNumber": "+4952137266",
+              "organizationMemberEmails": [
+                "karl.werdan@medizin.uni-halle.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 2139,
+          "membersCountDate": "2022-01-17T23:00:00.000Z",
+          "membershipEntries": [
+            "AWMF"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000224",
       "registerEntryDetail": {
