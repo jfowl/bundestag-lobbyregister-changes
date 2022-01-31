@@ -8454,7 +8454,7 @@
     {
       "registerNumber": "R000177",
       "registerEntryDetail": {
-        "id": 996,
+        "id": 1647,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -8556,11 +8556,19 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Bilanz-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/49/3c/1765/Bilanz-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": false,
         "refuseAnnualFinanceStatement": false,
-        "annualReportExist": false,
-        "missingAnnualReportReason": "Jahresabschluss am 18. Januar 202 noch nicht erstellt "
+        "annualReportExist": true
       }
     },
     {
