@@ -9,8 +9,440 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 230,
+  "resultCount": 233,
   "results": [
+    {
+      "registerNumber": "R000236",
+      "registerEntryDetail": {
+        "id": 1435,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000236",
+          "firstPublicationDate": "2022-01-31T16:38:46.000Z"
+        },
+        "activityDescription": "Es werden die Interessen der ökologisch arbeitenden Winzer:innen in Deutschland gegenüber den Ländern und der Bundesregierung wahrgenommen. Ebenso die Vertretung bei der EU, von wo die gesetzlichen Regelungen zum An- und Ausbau von Bioweinen kommt.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Andreas",
+          "lastName": "Hattemer"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000235",
+      "registerEntryDetail": {
+        "id": 1723,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 130001,
+          "to": 140000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000235",
+          "firstPublicationDate": "2022-01-31T16:32:38.000Z"
+        },
+        "activityDescription": "1992 gegründet, steht der Verband Innovativer Unternehmen e.V. (VIU) für die Stärkung der Industrieforschung und die effiziente Markteinführung von Innovationen im industriellen Mittelstand. Er ist Interessenvertreter für forschende KMU und gemeinnützige externe, nicht grundfinanzierte Industrieforschungseinrichtungen und setzt sich als einziger Unternehmensverband explizit für die Entwicklung und Stärkung von Industrieforschungspotenzialen auch in kleinen Unternehmen ein.\r\n\r\nDer VIU prägt seit 30 Jahren die FuE-Förderlandschaft in Deutschland. Ergebnisse seines engagierten Wirkens sind die vielgenutzten BMWi-Programme ZIM und INNO-KOM sowie Förderinstrumentarien auf Länderebene.\r\n\r\nDer Verband ist akzeptiert als kompetenter und streitbarer Partner in Parlamenten, Ministerien, Verbänden und Kammern. Besonders enge Beziehungen bestehen zum BMWi. Er ist auf Bundes- und Landesebene organisiert. Die Mitgliedschaft ist themen- und branchenoffen sowie rechtsformunabhängig.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband Innovativer Unternehmen e. V.",
+          "phoneNumber": "+493044055020",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Invalidenstraße",
+            "streetNumber": "34",
+            "zipCode": "10115",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "jansen@viunet.de"
+          ],
+          "websites": [
+            "www.viunet.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Ralf-Uwe",
+              "lastName": "Bauer",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+493672308422",
+              "organizationMemberEmails": [
+                "r.bauer@smart-advanced-systems.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gabriele",
+              "lastName": "Seitz",
+              "function": "Vorstand",
+              "phoneNumber": "+4979619256220",
+              "organizationMemberEmails": [
+                "gabriele.seitz@eura-ag.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Michael",
+              "lastName": "Hahn",
+              "function": "Vorstand",
+              "phoneNumber": "+4934527957014",
+              "organizationMemberEmails": [
+                "michael.hahn@ech.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.-Ing.",
+              "commonFirstName": "Sebastian",
+              "lastName": "Ortmann",
+              "function": "Vorstand",
+              "phoneNumber": "+4937127836400",
+              "organizationMemberEmails": [
+                "s.ortmann@icm-chemnitz.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Bernd",
+              "lastName": "Grünler",
+              "function": "Vorstand",
+              "phoneNumber": "+493641282510",
+              "organizationMemberEmails": [
+                "bg@innovent-jena.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hans-Joachim",
+              "lastName": "Münch",
+              "function": "Vorstand",
+              "phoneNumber": "+493451331712",
+              "organizationMemberEmails": [
+                "am.muench@sonotec.de"
+              ]
+            },
+            {
+              "commonFirstName": "Bernd",
+              "lastName": "Rhiemeier",
+              "function": "Vorstand",
+              "phoneNumber": "+493042188600",
+              "organizationMemberEmails": [
+                "brhiemeier@aucoteam.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Klaus",
+              "lastName": "Jansen"
+            }
+          ],
+          "members": 102,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Abschluss-2020-VIU-final.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/48/8e/1868/Abschluss-2020-VIU-final.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000234",
+      "registerEntryDetail": {
+        "id": 950,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000234",
+          "firstPublicationDate": "2022-01-31T16:22:04.000Z"
+        },
+        "activityDescription": "Vertretung der Interessen der Dachdecker-Unternehmen in berufspolitischer, fachlicher, rechtlicher und betriebswirtschaftlicher Hinsicht. Dies erfolgt unter anderem durch Konsultationen von Vertreterinnen und Vertretern des Bundestags und der Bundesregierung in schriftlichen und mündlichen Stellungnahmen, insbesondere bei Normungs- und Gesetzgebungsvorhaben, die das Dachdeckerhandwerk betreffen. Zusätzlich Abschluss von Tarifverträgen auf Arbeitgeberseite, zum größten Teil allgemeinverbindlich.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_EMPLOYER_ASSOC",
+          "de": "Arbeitgeberverband",
+          "en": "Employers association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Zentralverband des Deutschen Dachdeckerhandwerks - Fachverband Dach-, Wand- und Abdichtungstechnik",
+          "phoneNumber": "+492213980380",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Fritz-Reuter-Str.",
+            "streetNumber": "1",
+            "zipCode": "50968",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "zvdh@dachdecker.de"
+          ],
+          "websites": [
+            "www.dachdecker.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Dirk",
+              "lastName": "Bollwerk",
+              "function": "Präsident",
+              "phoneNumber": "+492213980380",
+              "organizationMemberEmails": [
+                "dbollwerk@dachdecker.de"
+              ]
+            },
+            {
+              "commonFirstName": "Ulrich",
+              "lastName": "Marx",
+              "function": "Hauptgeschäftsführer",
+              "phoneNumber": "+492213980380",
+              "organizationMemberEmails": [
+                "umarx@dachdecker.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 6759,
+          "membersCountDate": "2020-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "Zentralverband des Deutschen Handwerks e.V.",
+            "Bundesvereinigung Bauwirtschaft",
+            "Internationale Föderation des Dachdeckerhandwerks (IFD)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Wirtschaft und Energie",
+            "description": "Förderung eines Innovationsclusters im Handwerk durch ein Informations-, Beratungs- und Technologietransfernetzwerk; Modul Gewerbespezifische Informationstransferstellen (GIT)",
+            "location": "Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 110001,
+              "to": 120000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Förderung der fachtechnischen und betriebswirtschaftlichen Leistungsfähigkeit des Dachdeckerhandwerks"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of social security"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Bilanz-ZVDH-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/a5/6f/1862/Bilanz-ZVDH-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000233",
       "registerEntryDetail": {
