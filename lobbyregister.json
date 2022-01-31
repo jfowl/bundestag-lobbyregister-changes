@@ -9,8 +9,244 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 227,
+  "resultCount": 229,
   "results": [
+    {
+      "registerNumber": "R000232",
+      "registerEntryDetail": {
+        "id": 728,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000232",
+          "firstPublicationDate": "2022-01-31T14:10:03.000Z"
+        },
+        "activityDescription": "Unabhängige Versicherungsberatung+Honorarberatung",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Versicherungsberater ",
+          "phoneNumber": "+493026366330",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kaiserdamm",
+            "streetNumber": "97",
+            "zipCode": "14057",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bvvb.de"
+          ],
+          "websites": [
+            "www.bvvb.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Harald",
+              "lastName": "Peschken",
+              "function": "Präsident",
+              "phoneNumber": "+493026366330",
+              "organizationMemberEmails": [
+                "info@bvvb.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 95,
+          "membersCountDate": "2022-01-11T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "unabhängige Versicherungsberatung+Honorarberatung"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "keine gesetzliche Verpflichtung"
+      }
+    },
+    {
+      "registerNumber": "R000231",
+      "registerEntryDetail": {
+        "id": 1189,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000231",
+          "firstPublicationDate": "2022-01-31T14:05:55.000Z"
+        },
+        "activityDescription": "Die Implementierung eines grundständigen Berufes \"staatlich anerkannter Osteopath\" mit entsprechendem Berufsgesetz als weiterer Gesundheitsfachberuf für die qualitätsgesicherte Patientenversorgung.\r\n\r\nBüro Berlin:\r\nAxel-Springer-Str. 54B\r\n10117 Berlin\r\nTel. 030-20077095",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Osteopathie e.V. - BVO",
+          "phoneNumber": "+499232881260",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Am Kurpark",
+            "streetNumber": "1",
+            "zipCode": "95680",
+            "city": "Bad Alexandersbad",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bv-osteopathie.de"
+          ],
+          "websites": [
+            "www.bv-osteopathie.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Georg",
+              "lastName": "Schöner",
+              "academicDegreeAfter": "B. Sc.",
+              "function": "1. Vorsitzender",
+              "phoneNumber": "+499232881260",
+              "organizationMemberEmails": [
+                "georg.schoener@bv-osteopathie.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. Dr.",
+              "commonFirstName": "Alexandra",
+              "lastName": "Bodmann-Peschke",
+              "academicDegreeAfter": "M. Sc.",
+              "function": "1. stellvertretende Vorsitzende",
+              "phoneNumber": "+499232881260",
+              "organizationMemberEmails": [
+                "alexandra.bodmann@bv-osteopathie.de"
+              ]
+            },
+            {
+              "commonFirstName": "Manuela",
+              "lastName": "Frenzel",
+              "function": "2. stellvertretende Vorsitzende",
+              "phoneNumber": "+499232881260",
+              "organizationMemberEmails": [
+                "manuela.frenzel@bv-osteopathie.de"
+              ]
+            },
+            {
+              "commonFirstName": "Lutz M.",
+              "lastName": "Scheuerer",
+              "academicDegreeAfter": "B. Sc.",
+              "function": "Vorstand",
+              "phoneNumber": "+499232881260",
+              "organizationMemberEmails": [
+                "lutz.m.scheuerer@bv-osteopathie.de"
+              ]
+            },
+            {
+              "commonFirstName": "Godehard",
+              "lastName": "Stoll",
+              "function": "Vorstand",
+              "phoneNumber": "+499232881260",
+              "organizationMemberEmails": [
+                "godehard.stoll@bv-osteopathie.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christine",
+              "lastName": "Berek"
+            }
+          ],
+          "members": 3000,
+          "membersCountDate": "2020-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "Bayerischer Heilbäderverband e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000230",
       "registerEntryDetail": {
