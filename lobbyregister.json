@@ -17226,7 +17226,7 @@
     {
       "registerNumber": "R000146",
       "registerEntryDetail": {
-        "id": 496,
+        "id": 1710,
         "clientIdentity": "NATURAL_PERSON",
         "employeeCount": {
           "from": 1,
@@ -17255,9 +17255,47 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "commonFirstName": "Michael",
-          "lastName": "Kothe"
+          "identity": "ORGANIZATION",
+          "name": "Bund Deutscher Osteopathen e.V. ",
+          "phoneNumber": "+4918050160541",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Leibnizstr. ",
+            "streetNumber": "9",
+            "zipCode": "70806",
+            "city": "Kornwestheim",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bund-deutscher-osteopathen.de"
+          ],
+          "websites": [
+            "www.bund-deutscher-osteopathen.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Kothe",
+              "academicDegreeAfter": "M.Sc.Ost.D.O.",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4918050160541",
+              "organizationMemberEmails": [
+                "info@bund-deutscher-osteopathen.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 20,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": []
         },
         "legislativeProjects": [],
         "donators": [],
@@ -17281,7 +17319,11 @@
             "academicDegreeAfter": "M.Sc. Ost."
           }
         ],
-        "registerEntryMedia": []
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
       }
     },
     {
