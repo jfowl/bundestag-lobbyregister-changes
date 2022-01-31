@@ -9,8 +9,127 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 215,
+  "resultCount": 216,
   "results": [
+    {
+      "registerNumber": "R000219",
+      "registerEntryDetail": {
+        "id": 694,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "Es gibt keine Schenkungen.",
+        "locationOfReportPublication": "wird noch nachgereicht.",
+        "account": {
+          "registerNumber": "R000219",
+          "firstPublicationDate": "2022-01-31T09:03:03.000Z"
+        },
+        "activityDescription": "\r\n- Norminierungsarbeiten zb. DIN und VDI\r\n- Normausschuss Heiz- und Raumlufttechnik (NHRS) im DIN\r\n- Haupt- und Untergremium zur VDI 2077 - Beiblatt \"Rohrwärme\"\r\n- Verbandsarbeit mit der ARGE Heiwako e.V.\r\n- Mitglied bei der EVVE (Europäischer Verein zur verbrauchsabhängigen    \r\n  Energiekostenabrechnungen e.V.)\r\n- Schlichtungs- und Schiedsarbeit\r\n- Informationstransparenz an die Mitglieder zb. durch Newsletter per email\r\n- Kundenvermittlung\r\n- Arbeits- und Projektgruppen, zb. Anwendung der HKVO, Erfassungstechniken,  \r\n  Datenaustausch, Steuerfragen, Smart Metering u.a. \r\n- Seminare und Workshops für die Mitglieder\r\n- im 2 Jahres-Turnus wird die Fachmesse \"HeiKo\" veranstaltet zum Austausch und \r\n  Information zb. von neuen Produkten\r\n- Teilnahme an Gesetze und Referentenentwürfen \r\n- Beratung der Mitglieder durch Gutachten und sachverständige Beiträge\r\n- Plattform für Mitglieder auf der Webseite www.fachvereinigung.de \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_OTHER",
+          "text": "Fachverband der Heizkostenunternehmen"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "FHW Fachvereinigung Heizkostenverteiler Wärmekostenabrechnungen e.V.",
+          "phoneNumber": "+49711460518620",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Röntgenstr. ",
+            "streetNumber": "1/1",
+            "zipCode": "73730",
+            "city": "Esslingen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@fachvereinigung.de"
+          ],
+          "websites": [
+            "www.fachvereinigung.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Sven",
+              "lastName": "Kazenmaier",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49711460518620",
+              "organizationMemberEmails": [
+                "info@fachvereinigung.de"
+              ]
+            },
+            {
+              "commonFirstName": "Tanja",
+              "lastName": "Mayer",
+              "function": "Angestellte",
+              "phoneNumber": "+49711460518620",
+              "organizationMemberEmails": [
+                "info@fachvereinigung.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 60,
+          "membersCountDate": "2022-01-11T23:00:00.000Z",
+          "membershipEntries": [
+            "ARGE HeiWaKo, EVVE"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000218",
       "registerEntryDetail": {
