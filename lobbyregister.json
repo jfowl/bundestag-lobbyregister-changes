@@ -9,8 +9,362 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 219,
+  "resultCount": 221,
   "results": [
+    {
+      "registerNumber": "R000224",
+      "registerEntryDetail": {
+        "id": 1146,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 310001,
+          "to": 320000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000224",
+          "firstPublicationDate": "2022-01-31T11:20:18.000Z"
+        },
+        "activityDescription": "Das Forum für Zukunftsenergien e.V. ist eine politisch unabhängige und branchenneutrale Institution der Energiewirtschaft in Deutschland. Sie wurde 1989 mit dem Ziel gegründet, im Vorfeld der politischen Entscheidungen als Mittler zwischen der Politik und den Stakeholdern zu arbeiten. Demzufolge bietet es seinen Mitgliedern und der Öffentlichkeit eine Plattform für den interdisziplinären und interessenübergreifenden Dialog zum Thema Energiewirtschaft.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Forum für Zukunftsenergien e. V.",
+          "phoneNumber": "+4930726159980",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reinhardtstraße",
+            "streetNumber": "3",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@zukunftsenergien.de"
+          ],
+          "websites": [
+            "www.zukunftsenergien.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Hans-Jürgen",
+              "lastName": "Brick",
+              "function": "Vorsitzender des Vorstandes",
+              "phoneNumber": "+4930726159980",
+              "organizationMemberEmails": [
+                "info@zukunftsenergien.de"
+              ]
+            },
+            {
+              "commonFirstName": "Joachim",
+              "lastName": "Rumstadt",
+              "function": "Stellv. Vorstandsvorsitzender",
+              "phoneNumber": "+4930726159980",
+              "organizationMemberEmails": [
+                "info@zukunftsenergien.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. Dr. h. c. ",
+              "commonFirstName": "Reinhard",
+              "lastName": "Hüttl",
+              "function": "Mitglied des Vorstandes",
+              "phoneNumber": "+4930726159980",
+              "organizationMemberEmails": [
+                "info@zukunftsenergien.de"
+              ]
+            },
+            {
+              "commonFirstName": "Torsten",
+              "lastName": "Schein",
+              "function": "Mitglied des Vorstandes",
+              "phoneNumber": "+4930726159980",
+              "organizationMemberEmails": [
+                "info@zukunftsenergien.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Harald",
+              "lastName": "Schwager",
+              "function": "Mitglied des Vorstandes",
+              "phoneNumber": "+4930726159980",
+              "organizationMemberEmails": [
+                "info@zukunftsenergien.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Annette",
+              "lastName": "Nietfeld",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+4930726159980",
+              "organizationMemberEmails": [
+                "info@zukunftsenergien.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 228,
+          "membersCountDate": "2021-12-30T23:00:00.000Z",
+          "membershipEntries": [
+            "Bund der Steuerzahler e.V.",
+            "Bundesverband Bioenergie e.V.",
+            "Deutsche Gesellschaft für Sonnenenergie e.V.",
+            "Deutscher Wasserstoff- und Brennstoffzellenverband e.V.",
+            "Fachagentur Nachwachsende Rohstoffe e.V.",
+            "FGW e.V. Fördergesellschaft Windenergie und andere Dezentrale Energien"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NUCLEAR",
+            "de": "Atomenergie",
+            "en": "Nuclear power"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in field of energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "JA-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/8a/25/1805/JA-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000223",
+      "registerEntryDetail": {
+        "id": 1317,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000223",
+          "firstPublicationDate": "2022-01-31T10:56:07.000Z"
+        },
+        "activityDescription": "Unternehmensvision\r\n\r\nZiel der Venios GmbH ist es, Energienetzbetreibern eine flexible und sichere Plattform für die Netzüberwachung und -steuerung in Echtzeit zu bieten. Dabei sind wir der Überzeugung, dass durch den fortwährenden technologischen Fortschritt lediglich eine offene Softwareplattform mit einem Maximum an Schnittstellen langfristigen Erfolg verspricht. Venios ist Partner für alle Akteure im Netzbereich, an den man sich vertrauensvoll mit dem Anspruch an eine Gesamtlösung wenden kann.\r\n\r\nDabei verstehen wir uns als das Rückgrat all jener, die die Energiewende durch innovative Projekte in der Industrie und umwälzende Gesetzgebungen in der Politik vorantreiben wollen. Es braucht innovative Köpfe und eine Lösung mit hoher Anpassbarkeit, um den raschen Veränderungen gerecht zu werden und den möglichen Entwicklungen nicht im Wege zu stehen. Unsere Vision ist ein grundlegend autonomes Energienetz, welches den Menschen den Freiraum gibt, neue Konzepte umzusetzen und schrittweise in die Zukunft zu schreiten. Wir sind uns der Verantwortung bewusst, dass eine erfolgreiche Energiewende mit all ihren Herausforderungen niemals allein durch Materialeinsatz, sondern erst durch eine intelligente Bewirtschaftung möglich ist.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Venios GmbH",
+          "phoneNumber": "+491795164613",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Schumannstr.",
+            "streetNumber": "34b",
+            "zipCode": "60325",
+            "city": "Frankfurt",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "jonas.danzeisen@venios.de"
+          ],
+          "websites": [
+            "www.venios.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.-Ing.",
+              "commonFirstName": "Jonas J.",
+              "lastName": "Danzeisen",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+491795164613",
+              "organizationMemberEmails": [
+                "jonas.danzeisen@venios.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 20,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "ZVEI e. V.",
+            "DIGITAL GRID INITIATIVE",
+            "BITKOM",
+            "Bundesverband Deutsche Startups"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in field of energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "JA ist in der Erstellung"
+      }
+    },
     {
       "registerNumber": "R000222",
       "registerEntryDetail": {
