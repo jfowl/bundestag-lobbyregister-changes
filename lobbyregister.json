@@ -9,8 +9,379 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 224,
+  "resultCount": 226,
   "results": [
+    {
+      "registerNumber": "R000229",
+      "registerEntryDetail": {
+        "id": 444,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 60001,
+          "to": 70000,
+          "fiscalYearStart": "05/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000229",
+          "firstPublicationDate": "2022-01-31T12:59:56.000Z"
+        },
+        "activityDescription": "Der Zweck des Vereins ist die Förderung von Ökosystemleistungen\r\nzur Wiederherstellung und Erhalt natürlicher Ressourcen und zum Erhalt und Ausbau der Leistungsfähigkeit und Klimaresilienz von Ökosystemen.\r\nDer Satzungszweck wird insbesondere verwirklicht durch:\r\n- die Entwicklung und Förderung der Messbarkeit und Monetarisierung von Ökosystemleistungen (u. a. Klimaschutz, Biologische Vielfalt, Wasser);\r\n- die Förderung weltweiter sozialverträglicher und wirtschaftlich tragfähiger Klima- und Umwelt- und Naturschutzprojekte;\r\n- Informationsvermittlung, Öffentlichkeitsarbeit, Unterrichtungen und\r\nAufklärung der Öffentlichkeit zu Klima-, Umwelt- und Naturschutz;\r\n- Zusammenarbeit mit Vereinigungen, welche dieselben Ziele verfolgen sowie\r\n- fachliche und politische Vertretung und Beratung\r\n\r\nAus dem Zweck des Vereins ergeben sich die Interessen und Tätigkeitsschwerpunkte der Interessensvertretung.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Ecosystem Value Association e.V.",
+          "phoneNumber": "+491713688810",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Linienstraße",
+            "streetNumber": "98",
+            "zipCode": "10115",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@ecosystemvalue.org"
+          ],
+          "websites": [
+            "www.ecosystemvalue.org",
+            "www.waldklimastandard.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Zeihe",
+              "function": "Sprecher des Vorstands",
+              "phoneNumber": "+491752272364",
+              "organizationMemberEmails": [
+                "alexander.zeihe@ecosystemvalue.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Johannes",
+              "lastName": "Lehrer"
+            }
+          ],
+          "members": 10,
+          "membersCountDate": "2022-01-10T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_AQUACULTURE",
+            "de": "Fischerei/Aquakultur",
+            "en": "Fishery/aquaculture"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of agriculture and food"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of ​​the environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_POLITICS",
+            "de": "Institutionelle Fragen der EU",
+            "en": "Institutional questions of European politics"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the area of ​​law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Jahresabschluss befindet sich derzeit in der Erstellung."
+      }
+    },
+    {
+      "registerNumber": "R000228",
+      "registerEntryDetail": {
+        "id": 1034,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 50001,
+          "to": 60000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000228",
+          "firstPublicationDate": "2022-01-31T12:55:08.000Z"
+        },
+        "activityDescription": "Der Verband PRO MEHRWEG - Verband zur Förderung von Mehrwegverpackungen e.V. ist ein Zusammenschluss von Verbänden und Unternehmen der Getränkeindustrie, des Getränkefachgroß- und Getränkeeinzelhandels, ihrer Zulieferindustrien, Umweltverbänden und Einzelpersonen. \r\n\r\nEr versteht sich als Plattform für alle, die zum Erhalt und zur Weiterentwicklung des weltweit einzigartigen Mehrwegsystems in Deutschland beitragen. Die Mitglieder des Verbands treten überall dort für den Einsatz von Mehrweggebinden ein, wo sie ökologisch und ökonomisch sinnvoll sind.\r\n\r\nDer Verband Pro Mehrweg berät gesetzgebende und ausführende Organe auf europäischer, Bundes- und Landesebene in Bezug auf juristische, ökologische, soziale und ökonomische Fragen und Entscheidungen - etwa beim Verpackungs- oder dem Kreislaufwirtschaftsgesetz.\r\n\r\nAußerdem fördert der Verband Pro Mehrweg die Verwendung von Mehrweg-Getränkeverpackungen in der Getränkeindustrie sowie im Groß- und Einzelhandel, unterstützt Maßnahmen zur Optimierung und Weiterentwicklung des Mehrwegsystems für Getränke unter Einbezug aller relevanter Partner und steht im Dialog mit allen relevanten Gruppen der Öffentlichkeit zur Förderung von Mehrweg-Getränkeverpackungen bei den Konsumenten.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "PRO MEHRWEG - Verband zur Förderung von Mehrwegverpackungen e.V.",
+          "phoneNumber": "+49211683938",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Monschauer Str. ",
+            "streetNumber": "7",
+            "zipCode": "40549",
+            "city": "Düsseldorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@promehrweg.de"
+          ],
+          "websites": [
+            "www.promehrweg.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Günther",
+              "lastName": "Guder",
+              "function": "Geschäftsführender Vorstand",
+              "phoneNumber": "+49211683938",
+              "organizationMemberEmails": [
+                "guder@promehrweg.de",
+                "info@promehrweg.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 88,
+          "membersCountDate": "2022-01-17T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of ​​the environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Mehrwegschutz/Kreislaufwirtschaft"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Pro-Mehrweg-Kassenbericht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/fa/44/1822/Pro-Mehrweg-Kassenbericht-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000227",
       "registerEntryDetail": {
