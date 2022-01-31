@@ -9,8 +9,164 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 226,
+  "resultCount": 227,
   "results": [
+    {
+      "registerNumber": "R000230",
+      "registerEntryDetail": {
+        "id": 526,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 70001,
+          "to": 80000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000230",
+          "firstPublicationDate": "2022-01-31T13:47:26.000Z"
+        },
+        "activityDescription": "Die re!source ist eine unabhängige Allianz von Mitgliedern aus Wirtschaft, Gesellschaft, Wissenschaft und Politik, die 2018 gegründet wurde. Sie fördert eine nachhaltige Nutzung von Ressourcen durch die Umsetzung einer echten zirkulären Wertschöpfung in der Bau- und Immobilienwirtschaft. Sie entwickelt gemeinsame Ziele und Prozesse zur Ressourcenschonung und kommuniziert diese an relevante Zielgruppen. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "re!source Stiftung e.V.",
+          "phoneNumber": "+493034647968",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Schlüterstraße",
+            "streetNumber": "40",
+            "zipCode": "10707",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@re-source.com"
+          ],
+          "websites": [
+            "www.re-source.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Annette",
+              "lastName": "von Hagel",
+              "function": "geschäftsführende Vorständin",
+              "phoneNumber": "+491705551499",
+              "organizationMemberEmails": [
+                "vonhagel@re-source.com"
+              ]
+            },
+            {
+              "commonFirstName": "Rolf",
+              "lastName": "Brunkhorst",
+              "function": "geschäftsführender Vorstand",
+              "phoneNumber": "+4915158560603",
+              "organizationMemberEmails": [
+                "brunkhorst@re-source.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 25,
+          "membersCountDate": "2021-12-30T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of economy"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of education and parenting"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "EUR-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/c8/5a/1831/EUR-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Compliance-Regeln-Verhaltenskodex-der-re-source-Stiftung-e-V.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/c4/25/1832/Compliance-Regeln-Verhaltenskodex-der-re-source-Stiftung-e-V.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000229",
       "registerEntryDetail": {
@@ -385,7 +541,7 @@
     {
       "registerNumber": "R000227",
       "registerEntryDetail": {
-        "id": 1054,
+        "id": 1697,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -419,11 +575,11 @@
           "phoneNumber": "+31616647630",
           "address": {
             "type": "FOREIGN",
-            "internationalAdditional1": "Doezastraat 23A1",
-            "internationalAdditional2": "3039 ZC",
-            "city": "Rotterdam",
+            "internationalAdditional1": "933 Montgomery Ave #1012",
+            "internationalAdditional2": "19072",
+            "city": "Narberth, PA",
             "country": {
-              "code": "NL"
+              "code": "US"
             }
           },
           "legalForm": {
@@ -563,7 +719,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "Future-of-Life-Institute-2020-990-form.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/7c/47/1813/Future-of-Life-Institute-2020-990-form.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/59/78/1834/Future-of-Life-Institute-2020-990-form.pdf",
               "mimeType": "application/pdf"
             }
           }
