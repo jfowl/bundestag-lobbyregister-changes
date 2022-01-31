@@ -9,8 +9,190 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 229,
+  "resultCount": 230,
   "results": [
+    {
+      "registerNumber": "R000233",
+      "registerEntryDetail": {
+        "id": 1071,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "Es liegt bisher noch kein entsprechender Fall vor!",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "Es liegt noch kein entsprechender Fall vor!",
+        "locationOfReportPublication": "Kurzversion der Veröffentlichung erfolgt im Bundesanzeiger",
+        "account": {
+          "registerNumber": "R000233",
+          "firstPublicationDate": "2022-01-31T15:51:46.000Z"
+        },
+        "activityDescription": "Zwei Schwerpunkte:\r\n1. Risk assessments\r\n2. Antidumping-Fragen\r\nAußerdem allgemeine Beratung von Unternehmen im Rahmen von public affairs-Angelegenheiten",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "EUS Holding GmbH",
+          "phoneNumber": "+498631168877",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Ernst-Thun-Straße",
+            "streetNumber": "1 A",
+            "zipCode": "84453",
+            "city": "Mühldorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "wpbohrer@eus-holding.com"
+          ],
+          "websites": [
+            "Webseite gibt es nicht"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Melanie",
+              "lastName": "Kölln",
+              "function": "Prokuristin",
+              "phoneNumber": "+4962217781480",
+              "organizationMemberEmails": [
+                "melanie.bohrer@web.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of agriculture and food"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of economy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in field of European politics and the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Association Génerale des Producteurs de Blé et autres céréales (\"AGPB\")",
+            "phoneNumber": "+49615033818",
+            "address": {
+              "type": "FOREIGN",
+              "internationalAdditional1": "23 - 25 avenue de Neuilly",
+              "internationalAdditional2": "",
+              "city": "F - 75116 Paris",
+              "country": {
+                "code": "FR"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EG",
+              "code_de": "Eingetragene Genossenschaft (eG)",
+              "code_en": "Registered cooperative (eG)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "nferenczi@agpb.fr"
+            ],
+            "websites": [
+              "http://www.agpb.fr"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Nicola",
+                "lastName": "Ferenczi",
+                "function": "Manager",
+                "phoneNumber": "+49615033818",
+                "organizationMemberEmails": [
+                  "nferenczi@agpb.fr"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000232",
       "registerEntryDetail": {
