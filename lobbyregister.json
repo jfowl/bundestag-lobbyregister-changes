@@ -19796,7 +19796,7 @@
     {
       "registerNumber": "R000119",
       "registerEntryDetail": {
-        "id": 896,
+        "id": 1662,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 1,
@@ -19816,7 +19816,7 @@
           "registerNumber": "R000119",
           "firstPublicationDate": "2022-01-21T07:08:01.000Z"
         },
-        "activityDescription": "Analysen, Strategien und Netzwerkarbeit zu industriepolitischen Fragestellungen",
+        "activityDescription": "Analysen, Strategien und Netzwerkarbeit zu industriepolitischen Fragestellungen. Es erfolgt die Erstellung von Memoranden sowie Ausarbeitungen zu tagespolitischen Fragestellungen in den Interessensgebieten. Auch werden fachpolitische Veranstaltungen vorbereitet, durchgeführt und nachbreitet.",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_CONSULTING",
