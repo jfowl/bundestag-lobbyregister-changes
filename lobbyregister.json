@@ -9,8 +9,234 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 234,
+  "resultCount": 235,
   "results": [
+    {
+      "registerNumber": "R000238",
+      "registerEntryDetail": {
+        "id": 481,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 440001,
+          "to": 450000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000238",
+          "firstPublicationDate": "2022-02-01T07:40:27.000Z"
+        },
+        "activityDescription": "Wahrnehmung der Interessen der privaten Haus-, Wohnungs- und Grundeigentümer.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Haus & Grund Deutschland",
+          "phoneNumber": "+4930202160",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mohrenstraße",
+            "streetNumber": "33",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@hausundgrund.de"
+          ],
+          "websites": [
+            "www.hausundgrund.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr. iur.",
+              "commonFirstName": "Kai",
+              "lastName": "Warnecke",
+              "function": "Präsident",
+              "phoneNumber": "+493020216500",
+              "organizationMemberEmails": [
+                "praesident@hausundgrund.de"
+              ]
+            },
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Blazek",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493020216500",
+              "organizationMemberEmails": [
+                "info@hausundgrund.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Gerold",
+              "lastName": "Happ"
+            },
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Wiech"
+            },
+            {
+              "commonFirstName": "Corinna",
+              "lastName": "Kodim"
+            },
+            {
+              "commonFirstName": "Inka-Marie",
+              "lastName": "Storm"
+            },
+            {
+              "commonFirstName": "Julia",
+              "lastName": "Wagner"
+            },
+            {
+              "commonFirstName": "Gordon",
+              "lastName": "Gross"
+            },
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "zu Eicken"
+            },
+            {
+              "commonFirstName": "Sibylle",
+              "lastName": "Barent"
+            },
+            {
+              "commonFirstName": "Jadwiga",
+              "lastName": "Höchst"
+            },
+            {
+              "commonFirstName": "Kittiyaphon",
+              "lastName": "Nuaram"
+            }
+          ],
+          "members": 902500,
+          "membersCountDate": "2020-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "UIPI International Union of property owners",
+            "Deutscher Verband für Wohnungswesen",
+            "vzbv Verbraucherzentrale Bundesverband"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of ​​spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Geschäftsbericht ist für 2021 noch in der Erstellung."
+      }
+    },
     {
       "registerNumber": "R000237",
       "registerEntryDetail": {
