@@ -9,8 +9,130 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 233,
+  "resultCount": 234,
   "results": [
+    {
+      "registerNumber": "R000237",
+      "registerEntryDetail": {
+        "id": 784,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 30001,
+          "to": 40000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000237",
+          "firstPublicationDate": "2022-02-01T07:24:31.000Z"
+        },
+        "activityDescription": "- Publikationen und Stellungnahmen zu sämtlichen Fragen im Bereich Legal Tech (Legal Needs, digitale Justiz, Justizausbildung etc.)\r\n- Kontaktaufnahme zu einzelnen Politiker:innen und (un-)mittelbare Einflussnahme auf den politischen Diskurs im Bereich Legal Tech und Digitalisierung des Rechts und der Rechtsanwaltschaft (Gemeinsame Aufnahme von Podcastaufnahmen, Einladung zu Vorträgen, etc.)\r\n- Niederschwellige Kontaktformen, wie öffentliches \"vertaggen\" wie etwa auf LinkedIn\r\n\r\nDie Tätigkeit ist auf Dauer und regelmäßig angelegt, obgleich ein \"Legal-Tech-Gesetz\", welches uns noch nicht weit genug reicht, schon in der letzten Legislaturperiode verabschiedet wurde.\r\n\r\nIn der Satzung heißt es zum Zweck des Vereins:\r\n\"Zweck des Vereins ist es, als Repräsentant von Legal Tech Unternehmungen innerhalb und  außerhalb von Kanzleien in Deutschland tätig zu sein. Er setzt sich für die Gestaltung der Zukunft  des Rechtswesens in Zeiten der Digitalisierung, einen innovationsfreundlichen Rechtsrahmen,  Rechtssicherheit sowie für die Förderung und Erleichterung von Innovationen und Investitionen  innerhalb und außerhalb von Kanzleien ein. Erreichen möchte der Verein dies durch eine  Einwirkung auf Gesetzgebung, Verwaltung und Öffentlichkeit sowie durch Austausch über die  Themen Legal Tech und Legal Innovation. Er fördert die Interessen seiner Mitglieder in ideeller,  fachlicher, rechtlicher und berufsständischer Hinsicht.\"",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Legal Tech Verband Deutschland e.V.",
+          "phoneNumber": "+491733413381",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Friedrichstraße",
+            "streetNumber": "171",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "kontakt@legaltechverband.de"
+          ],
+          "websites": [
+            "https://www.legaltechverband.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Alisha",
+              "lastName": "Andert",
+              "function": "Vorstandsvorsitzende",
+              "phoneNumber": "+491632592622",
+              "organizationMemberEmails": [
+                "alisha@thisislegaldesign.com"
+              ]
+            },
+            {
+              "commonFirstName": "Philipp",
+              "lastName": "Plog",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+491724086704",
+              "organizationMemberEmails": [
+                "philipp.plog@fieldfisher.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Charlotte",
+              "lastName": "Falk"
+            },
+            {
+              "commonFirstName": "Lisa",
+              "lastName": "Gahleitner"
+            },
+            {
+              "commonFirstName": "Leon",
+              "lastName": "Langner"
+            }
+          ],
+          "members": 62,
+          "membersCountDate": "2022-01-12T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [
+          {
+            "name": "Entwurf eines Gesetzes zur Förderung verbrauchergerechter Angebote im Rechtsdienstleistungsmarkt (Drucksache: 19/27673)"
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the area of ​​law"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
     {
       "registerNumber": "R000236",
       "registerEntryDetail": {
@@ -27981,7 +28103,7 @@
     {
       "registerNumber": "R000094",
       "registerEntryDetail": {
-        "id": 572,
+        "id": 1740,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -28063,9 +28185,9 @@
         "clientPersons": [],
         "registerEntryMedia": [],
         "disclosureRequirementsExist": false,
-        "refuseAnnualFinanceStatement": false,
-        "annualReportExist": false,
-        "missingAnnualReportReason": ""
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Jahresbericht folgt",
+        "annualReportExist": false
       }
     },
     {
