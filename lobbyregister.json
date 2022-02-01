@@ -1808,7 +1808,7 @@
     {
       "registerNumber": "R000243",
       "registerEntryDetail": {
-        "id": 1394,
+        "id": 1825,
         "clientIdentity": "",
         "employeeCount": {
           "from": 0,
@@ -1829,10 +1829,47 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "academicDegreeBefore": "Dr.",
-          "commonFirstName": "Werner",
-          "lastName": "Müller"
+          "identity": "ORGANIZATION",
+          "name": "Frankfurter Initiative zur Fortentwicklung des AGB-Rechts",
+          "phoneNumber": "+4969299080",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Bethmannstraße",
+            "streetNumber": "50",
+            "zipCode": "60311",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GBR",
+            "code_de": "Gesellschaft des bürgerlichen Rechts (GbR; BGB-Gesellschaft)",
+            "code_en": "Civil law association (GbR; BGB-Gesellschaft)",
+            "type": "LEGAL_ASSOCIATION"
+          },
+          "organizationEmails": [
+            "werner.mueller@bakermckenzie.com"
+          ],
+          "websites": [
+            "www.bakermckenzie.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Werner",
+              "lastName": "Müller",
+              "function": "Rechtsanwalt",
+              "phoneNumber": "+4969299080",
+              "organizationMemberEmails": [
+                "werner.mueller@bakermckenzie.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 41,
+          "membersCountDate": "2022-01-31T23:00:00.000Z",
+          "membershipEntries": []
         },
         "legislativeProjects": [],
         "donators": [],
