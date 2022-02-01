@@ -9,8 +9,66 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 239,
+  "resultCount": 240,
   "results": [
+    {
+      "registerNumber": "R000243",
+      "registerEntryDetail": {
+        "id": 1394,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000243",
+          "firstPublicationDate": "2022-02-01T11:39:55.000Z"
+        },
+        "activityDescription": "In der juristischen Literatur wird die Initiative in der Regel kurz als \"Frankfurter Initiative\" bezeichnet. Ihre Teilnehmer sind der Überzeugung, dass die Rechtsprechung zur AGB-Kontrolle im unternehmerischen Geschäftsverkehr unangemessen starr und dass der Gesetzgeber gefordert ist, für Abhilfe zu sorgen. Ziel ist ein Gesetz, mit dem das BGB entsprechend geändert wird. Dabei soll die AGB-Kontrolle im Verbraucherbereich unangetastet bleiben, und schutzbedürftige Unternehmen sollen weiterhin geschützt bleiben. Dort, wo kein Schutzbedürfnis besteht, soll es Unternehmen aber ermöglicht werden, Verträge zu schließen, ohne befürchten zu müssen, dass der Vertrag später durch die Gerichte als AGB gewertet und als unangemessen benachteiligend für unwirksam erklärt wird. Damit soll das ausdrückliche Ziel des AGB-Gesetzes realisiert werden, dass die Privatautonomie im unternehmerischen Geschäftsverkehr nicht mehr als notwendig eingeschränkt wird. \r\n\r\nFür dieses Ziel setzen sich die Teilnehmer der Initiative in unterschiedlicher Form und Intensität ein, in der Regel durch Vorträge, Aufsätze oder politische Kontakte. Jeder Teilnehmer ist für das, was er tut, selbst verantwortlich, auch finanziell.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_OTHER",
+          "text": "Im Jahr 2008 traf sich eine kleine Zahl von wirtschaftsrechtlich tätigen Juristen aus dem Bereich Frankfurt am Main. Das verbindende Element war und ist die Überzeugung, dass die Rechtsprechung zur AGB-Kontrolle im unternehmerischen Geschäftsverkehr unangemessen starr und dass der Gesetzgeber gefordert ist, für Abhilfe zu sorgen. Der Email-Verteiler dieser \"Frankfurter Initiative zur Fortentwicklung des AGB-Rechts\" enthält inzwischen etwa 40 Namen aus ganz Deutschland."
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "academicDegreeBefore": "Dr.",
+          "commonFirstName": "Werner",
+          "lastName": "Müller"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of economy"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000242",
       "registerEntryDetail": {
