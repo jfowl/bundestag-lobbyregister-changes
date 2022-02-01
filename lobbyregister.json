@@ -9,8 +9,101 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 237,
+  "resultCount": 238,
   "results": [
+    {
+      "registerNumber": "R000241",
+      "registerEntryDetail": {
+        "id": 1514,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "",
+        "account": {
+          "registerNumber": "R000241",
+          "firstPublicationDate": "2022-02-01T09:31:12.000Z"
+        },
+        "activityDescription": "Die Ziele des Vereins, der schon 1955 gegründet wurde, verfolgen gemeinnützige Zwecke, insbesondere die Förderung und Pflege der mittelständischen Tagesausflugsschiffahrt und des Fremdenverkehrs auf deutschen Binnengewässern.\r\n\r\nDazu gehört auch die Mitarbeit bei der Weiterentwicklung der technischen Sicherheit an Bord in engem Kontakt zu den zuständigen Behörden und die Vertretung der Interessen des Gewerbes in den verschiedenen Gremien.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Mittelständische Personenschiffahrt e.V.",
+          "phoneNumber": "+4961312407427",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Heidesheimer Str",
+            "streetNumber": "46",
+            "zipCode": "55124",
+            "city": "Mainz",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@mpsev.de"
+          ],
+          "websites": [
+            "https://www.personenschiffahrt-ev.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Maria",
+              "lastName": "Plicht",
+              "function": "Geschäftsstellenleitung",
+              "phoneNumber": "+4961312407427",
+              "organizationMemberEmails": [
+                "info@mpsev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 106,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Fährverband.e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000240",
       "registerEntryDetail": {
