@@ -9,8 +9,124 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 246,
+  "resultCount": 247,
   "results": [
+    {
+      "registerNumber": "R000250",
+      "registerEntryDetail": {
+        "id": 473,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000250",
+          "firstPublicationDate": "2022-02-01T15:50:04.000Z"
+        },
+        "activityDescription": "Wahrnehmung der Berufs- und Standesinteressen dieser vier MTA-\r\nBerufsgruppen,\r\n \r\n- Medizinisch-technische Laboratoriumsassistentin/Laboratoriumsassi-\r\nstent (MTLA);\r\n- Medizinisch-technische Radiologieassistentin/Radiologieassistent\r\n(MTRA);\r\n- Medizinisch-technische Assistentin/Assistent für Funktionsdiagno-\r\nstik (MTAF) und\r\n- Veterinärmedizinisch-technische Assistentin/Assistent (VMTA);\r\n\r\nals eine der größten Berufsgruppen des Gesundheitswesens, insbesondere durch:\r\n\r\n- fachkundige Stellungnahmen und Initiativen zur Arbeit des Gesetz-\r\ngebers;\r\n\r\n- fachkundige Arbeiten zur Verbesserung, Entwicklung und Förderung\r\nder Ausbildung, Fort- und Weiterbildung sowie\r\n\r\n- Kooperation mit Berufsorganisationen im In- und Ausland.  \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Dachverband für Technologen/-innen und Analytiker/-innen in der Medizin Deutschland e.V. DVTA",
+          "phoneNumber": "+49402351170",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Spaldingstrasse ",
+            "streetNumber": "110 B",
+            "zipCode": "20097",
+            "city": "Hamburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@dvta-ev.de"
+          ],
+          "websites": [
+            "www.dvta.de",
+            "www.mtawerden.dvta.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Claudia",
+              "lastName": "Rössing",
+              "academicDegreeAfter": "B.A. Gesundheitsökonomie",
+              "function": "Präsidentin Radiologie/Funktionsdiagnostik",
+              "phoneNumber": "+49402351170",
+              "organizationMemberEmails": [
+                "info@dvta-ev.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christiane",
+              "lastName": "Maschek",
+              "academicDegreeAfter": "B.S. Gesundheitswissenschaft",
+              "function": "Präsidentin Laboratoriumsmedizin/Veterinärmedizin",
+              "phoneNumber": "+49402351170",
+              "organizationMemberEmails": [
+                "info@dvta-ev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 10000,
+          "membersCountDate": "2021-12-30T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "0001630593-20400-2020-Dezember-EB-digitale-Kopie-Unterschr-HSM.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/c7/26/1979/0001630593-20400-2020-Dezember-EB-digitale-Kopie-Unterschr-HSM.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000249",
       "registerEntryDetail": {
