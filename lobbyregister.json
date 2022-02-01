@@ -9,8 +9,284 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 247,
+  "resultCount": 248,
   "results": [
+    {
+      "registerNumber": "R000251",
+      "registerEntryDetail": {
+        "id": 895,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000251",
+          "firstPublicationDate": "2022-02-01T19:11:12.000Z"
+        },
+        "activityDescription": "D64 ist das Zentrum für digitalen Fortschritt.\r\n\r\nWir begreifen die digitale Transformation als große Chance, das Miteinander unserer modernen Gesellschaft zu verbessern. Die soziale, ökologische, technologische und politische Entwicklung wollen wir konstruktiv, kritisch und kreativ mitgestalten.\r\n\r\nUnser Ziel ist es, die Grundwerte Freiheit, Gerechtigkeit und Solidarität durch eine progressive Digitalpolitik zu verwirklichen. Dafür wirken wir mit Hilfe der breitgefächerten Expertise unserer Mitglieder als unabhängiger Verein, der in allen Themenbereichen der Digitalisierung vordenkt und Impulse gibt.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "D64 - Zentrum für digitalen Fortschritt e.V.",
+          "phoneNumber": "+493057714256",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Gipsstr.",
+            "streetNumber": "3",
+            "zipCode": "10119",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@d-64.org"
+          ],
+          "websites": [
+            "https://d-64.org/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Henning",
+              "lastName": "Tillmann",
+              "function": "Co-Vorsitzender",
+              "phoneNumber": "+493057714256",
+              "organizationMemberEmails": [
+                "info@d-64.org"
+              ]
+            },
+            {
+              "commonFirstName": "Anne",
+              "lastName": "Schwarz",
+              "function": "Beisitzende",
+              "phoneNumber": "+493057714256",
+              "organizationMemberEmails": [
+                "info@d-64.org"
+              ]
+            },
+            {
+              "commonFirstName": "Lena",
+              "lastName": "Stork",
+              "function": "Beisitzende",
+              "phoneNumber": "+493057714256",
+              "organizationMemberEmails": [
+                "info@d-64.org"
+              ]
+            },
+            {
+              "commonFirstName": "Dejan",
+              "lastName": "Mihajlović",
+              "function": "Beisitzende",
+              "phoneNumber": "+493057714256",
+              "organizationMemberEmails": [
+                "info@d-64.org"
+              ]
+            },
+            {
+              "commonFirstName": "Erik",
+              "lastName": "Tuchtfeld",
+              "function": "Beisitzender",
+              "phoneNumber": "+493057714256",
+              "organizationMemberEmails": [
+                "info@d-64.org"
+              ]
+            },
+            {
+              "commonFirstName": "Philipp",
+              "lastName": "Marten",
+              "function": "Beisitzender",
+              "phoneNumber": "+493057714256",
+              "organizationMemberEmails": [
+                "info@d-64.org"
+              ]
+            },
+            {
+              "commonFirstName": "Ralf",
+              "lastName": "Jäger",
+              "function": "Schatzmeister",
+              "phoneNumber": "+493057714256",
+              "organizationMemberEmails": [
+                "info@d-64.org"
+              ]
+            },
+            {
+              "commonFirstName": "Marina",
+              "lastName": "Weisband",
+              "function": "Co-Vorsitzende",
+              "phoneNumber": "+493057714256",
+              "organizationMemberEmails": [
+                "info@d-64.org"
+              ]
+            },
+            {
+              "commonFirstName": "Alicia",
+              "lastName": "Hinon",
+              "academicDegreeAfter": "MBA",
+              "function": "Beisitzende",
+              "phoneNumber": "+493057714256",
+              "organizationMemberEmails": [
+                "info@d-64.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Lena",
+              "lastName": "Kilian"
+            },
+            {
+              "commonFirstName": "Anika",
+              "lastName": "Lange"
+            }
+          ],
+          "members": 735,
+          "membersCountDate": "2022-01-18T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_VICTIM_PROTECTION",
+            "de": "Opferschutz",
+            "en": "Victim protection"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_MASS",
+            "de": "Massenmedien",
+            "en": "Mass media"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "D64-Jahresbericht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/26/5a/1991/D64-Jahresbericht-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000250",
       "registerEntryDetail": {
