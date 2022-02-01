@@ -30292,7 +30292,7 @@
     {
       "registerNumber": "R000083",
       "registerEntryDetail": {
-        "id": 231,
+        "id": 1749,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -30386,6 +30386,10 @@
             {
               "commonFirstName": "Roland",
               "lastName": "Pichler"
+            },
+            {
+              "commonFirstName": "Bernhard",
+              "lastName": "Stehfest"
             }
           ],
           "membershipEntries": []
@@ -30535,7 +30539,7 @@
         "disclosureRequirementsExist": false,
         "refuseAnnualFinanceStatement": false,
         "annualReportExist": false,
-        "missingAnnualReportReason": ""
+        "missingAnnualReportReason": "Die Gründung erfolgte im Jahr 2021. Es liegt noch kein Geschäftsbericht vor."
       }
     },
     {
