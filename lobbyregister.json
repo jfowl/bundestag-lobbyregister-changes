@@ -9,8 +9,154 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 238,
+  "resultCount": 239,
   "results": [
+    {
+      "registerNumber": "R000242",
+      "registerEntryDetail": {
+        "id": 61,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 170001,
+          "to": 180000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000242",
+          "firstPublicationDate": "2022-02-01T09:45:11.000Z"
+        },
+        "activityDescription": "Als Bundesverband der Betreiber medizinischer Versorgungszentren e.V. setzen wir uns für eine breite Trägervielfalt und die bestmögliche Versorgungsqualität für Patientinnen und Patienten im ambulanten Gesundheitssektor ein. Wir sind der Überzeugung, dass unser Gesundheitssystem eine Vielfalt an Möglichkeiten zur Ausgestaltung der ambulanten Versorgungsstrukturen erhalten und die Weiterentwicklung dieser Strukturen konsequent an der medizinischen Qualität und dem Patientenwohl ausrichten muss. Darüber hinaus tragen wir den veränderten Bedürfnissen der Ärztinnen und Ärzte Rechnung, für die tradierten Niederlassungsstrukturen an Attraktivität verloren haben. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Betreiber medizinischer Versorgungszentren (BBMV) e.V.",
+          "phoneNumber": "+493027593805",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Marienstraße",
+            "streetNumber": "15",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bbmv.de"
+          ],
+          "websites": [
+            "www.bbmv.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Sibylle",
+              "lastName": "Stauch-Eckmann",
+              "function": "Vorsitzende",
+              "phoneNumber": "+493027593805",
+              "organizationMemberEmails": [
+                "sibylle.stauch-eckmann@bbmv.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kaweh",
+              "lastName": "Schayan-Araghi",
+              "function": "1. stellv. Vorsitzender",
+              "phoneNumber": "+493027593805",
+              "organizationMemberEmails": [
+                "kaweh.schayan@bbmv.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kristian",
+              "lastName": "Koch",
+              "function": "Stellv. Vorsitzender",
+              "phoneNumber": "+493027593805",
+              "organizationMemberEmails": [
+                "kristian.koch@bbmv.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. Dr.",
+              "commonFirstName": "Dirk",
+              "lastName": "Knüppel",
+              "function": "Stellv. Vorsitzender",
+              "phoneNumber": "+493027593805",
+              "organizationMemberEmails": [
+                "dirk.knueppel@bbmv.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gernot",
+              "lastName": "Nahrung",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4915121375071",
+              "organizationMemberEmails": [
+                "gernot.nahrung@bbmv.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 11,
+          "membersCountDate": "2021-01-02T23:00:00.000Z",
+          "membershipEntries": [
+            "Wirtschaftsrat der CDU e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "BBMV-Verhaltenskodex.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/87/38/1900/BBMV-Verhaltenskodex.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "in Erstellung"
+      }
+    },
     {
       "registerNumber": "R000241",
       "registerEntryDetail": {
