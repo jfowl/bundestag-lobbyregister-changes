@@ -9,8 +9,278 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 235,
+  "resultCount": 237,
   "results": [
+    {
+      "registerNumber": "R000240",
+      "registerEntryDetail": {
+        "id": 51,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000240",
+          "firstPublicationDate": "2022-02-01T09:22:52.000Z"
+        },
+        "activityDescription": "Beauftragter des Verbands Deutscher Reeder (VDR)",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Stefan",
+          "lastName": "Evers"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Verband Deutscher Reeder (VDR)",
+            "phoneNumber": "+4940350970",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Burchardstr.",
+              "streetNumber": "24",
+              "zipCode": "20095",
+              "city": "Hamburg",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "vdr@reederverband.de"
+            ],
+            "websites": [
+              "www.reederverband.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Ralf",
+                "lastName": "Nagel",
+                "function": "Geschäftsführendes Präsidiumsmitglied",
+                "phoneNumber": "+4940350970",
+                "organizationMemberEmails": [
+                  "nagel@reederverband.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Martin",
+                "lastName": "Kröger",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4940350970",
+                "organizationMemberEmails": [
+                  "kroeger@reederverband.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000239",
+      "registerEntryDetail": {
+        "id": 1370,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 240001,
+          "to": 250000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000239",
+          "firstPublicationDate": "2022-02-01T09:04:23.000Z"
+        },
+        "activityDescription": "Der Zweck des Vereins ist die Förderung der Wissenschaft und Forschung für die Nutzung geothermischer Energie. Der Zweck wird insbesondere verwirklicht durch:\r\n1. Aufklärung und Öffentlichkeitsarbeit\r\n2. Forschung und Entwicklung\r\n3. Fachübergreifende Zusammenarbeit\r\nDer Verein pflegt und fördert die interdisziplinäre Zusammenarbeit von Naturwissenschaftlern, Ingenieuren und sonstigen an der Erdwärmenutzung Interessierten aus Wissenschaft, Wirtschaft und Staat. Dadurch soll fachübergreifendes Denken und Arbeiten intensiviert sowie an der Lösung der vielfältigen Aufgaben unter geowissenschaftlichen, technischen, wirtschaftlichen und ökologischen Aspekten mitgewirkt werden. Hierzu beteiligt er sich beispielsweise mit Stellungnahmen zu Novellierungsverfahren an Gesetzen und untergesetzlichen Regelwerken.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Geothermie e.V.",
+          "phoneNumber": "+4930200954953",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Bundesverband Geothermie e.V.",
+            "street": "Albrechtsstraße",
+            "streetNumber": "22",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "andre.deinhardt@geothermie.de"
+          ],
+          "websites": [
+            "www.geothermie.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Uve",
+              "lastName": "Braun",
+              "function": "Präsident",
+              "phoneNumber": "+4930200954953",
+              "organizationMemberEmails": [
+                "info@geothermie.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Inga",
+              "lastName": "Moeck",
+              "function": "stellvertretende Präsidentin",
+              "phoneNumber": "+4930200954953",
+              "organizationMemberEmails": [
+                "info@geothermie.de"
+              ]
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Jahrfeld",
+              "function": "stellevertretender Präsident",
+              "phoneNumber": "+4930200954953",
+              "organizationMemberEmails": [
+                "info@geothermie.de"
+              ]
+            },
+            {
+              "commonFirstName": "Leonhard",
+              "lastName": "Thien",
+              "function": "Mitglied des Präsidiums",
+              "phoneNumber": "+4930200953954",
+              "organizationMemberEmails": [
+                "info@geothermie.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "André",
+              "lastName": "Deinhardt"
+            }
+          ],
+          "members": 400,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Erneuerbare Energien e.V.",
+            "Agentur für Erneuerbare Energien e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Bundesverband-Geothermie-e-V-JA-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/66/7e/1893/Bundesverband-Geothermie-e-V-JA-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000238",
       "registerEntryDetail": {
