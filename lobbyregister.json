@@ -9,8 +9,685 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 244,
+  "resultCount": 246,
   "results": [
+    {
+      "registerNumber": "R000249",
+      "registerEntryDetail": {
+        "id": 172,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000249",
+          "firstPublicationDate": "2022-02-01T15:44:20.000Z"
+        },
+        "activityDescription": "Transparency Deutschland arbeitet deutschlandweit an einer effektiven und nachhaltigen Bekämpfung und Eindämmung der Korruption. Dazu müssen Staat, Wirtschaft und Zivilgesellschaft zusammenarbeiten und Koalitionen bilden. Wir sind als gemeinnützig anerkannt und arbeiten politisch unabhängig. Grundprinzipien sind Integrität, Verantwortlichkeit, Transparenz und Partizipation der Zivilgesellschaft. Ziel ist es, das öffentliche Bewusstsein über die schädlichen Folgen der Korruption zu schärfen und Integritätssysteme zu stärken.\r\n\r\nTransparency Deutschland setzt sich daher für mehr Transparenz in den unterschiedlichsten Bereichen ein: Ob beim Lobbyismus, der Verwaltung, im Sport, Gesundheitssystem oder Lieferketten. Dafür wird regelmäßig Kontakt mit Regierungsvertretern, Ministerialbeamten und/oder Abgeordneten aufgenommen, Gespräche geführt, Diskussionsveranstaltungen organisiert usw..",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Transparency International Deutschland e.V.",
+          "phoneNumber": "+49305498980",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Alte Schönhauser Straße",
+            "streetNumber": "44",
+            "zipCode": "10119",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "office@transparency.de"
+          ],
+          "websites": [
+            "www.transparency.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Hartmut",
+              "lastName": "Bäumer",
+              "function": "Vorsitzender",
+              "phoneNumber": "+49305498980",
+              "organizationMemberEmails": [
+                "office@transparency.de"
+              ]
+            },
+            {
+              "commonFirstName": "Helena",
+              "lastName": "Peltonen-Gassmann",
+              "function": "Stellvertretende Vorsitzende",
+              "phoneNumber": "+49305498980",
+              "organizationMemberEmails": [
+                "office@transparency.de"
+              ]
+            },
+            {
+              "commonFirstName": "Carel ",
+              "lastName": "Mohn",
+              "function": "Stellvertretender Vorsitzende",
+              "phoneNumber": "+49305498980",
+              "organizationMemberEmails": [
+                "office@transparency.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Anna-Maija",
+              "lastName": "Mertens"
+            },
+            {
+              "commonFirstName": "Enno",
+              "lastName": "Coordes"
+            },
+            {
+              "commonFirstName": "Adrian",
+              "lastName": "Nennich"
+            },
+            {
+              "commonFirstName": "Karsten",
+              "lastName": "Kläge"
+            }
+          ],
+          "members": 1330,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "Bund Deutscher Kriminalbeamter",
+            "Deutsches Netzwerk Wirtschaftsethik EBEN Deutschland e.V. (dnwe)",
+            "Europäische Bewegung Deutschland e.V. (EBD)",
+            "European Healthcare Fraud and Corruption Network (EHFCN)",
+            "Global Cooperation Council (Nord-Süd-Forum) e.V.",
+            "ICC Deutschland e.V.",
+            "Nord-Süd-Forum München e.V.",
+            "Whistleblower Netzwerk e.V.",
+            "BBE Geschäftsstelle gemeinnützige GmbH",
+            "Global Compact Netzwerk Deutschland"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Stiftung Chancen für Kinder, Schwarzer Weg 16a 21218 Seevetal",
+            "description": "Projektbezogene Spende für die Arbeit der Transparency-Arbeitsgruppe Politische Bildung.",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 10001,
+              "to": 20000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+            "description": "Die Förderung der GIZ GmbH ist für Transparency Deutschlands Rolle in der Multi-Stakeholder-Gruppe (MSG) der \"Initiative für Transparenz im rohstoffgewinnenden Sektor\" (D-EITI). In der MSG sind Akteure aus Regierung, Wirtschaft und  Zivilgesellschaft vertreten. Sie werden von der Bundesregierung für einen Zeitraum von mindestens zwei Jahren berufen. Aufgabe der MSG ist die Steuerung und Kontrolle der Umsetzung von D-EITI. Dazu gehören unter anderem die Abnahme von Arbeitsplänen und Fortschrittsberichten.",
+            "location": "Friedrich-Ebert-Allee 32 + 36, 53113 Bonn",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Deutsche Stiftung für Engagement und Ehrenamt",
+            "description": "Die Förderung hat den Zweck der Digitalisierung der internen Arbeitsprozesse der ITZ. \r\nSeit ihrer Gründung haben sich rund 1.500 Organisationen der Initiative Transparente Zivilgesellschaft (ITZ) angeschlossen und sich freiwillig dazu verpflichtet, wichtige Informationen über die eigene Arbeit, Struktur und Finanzen öffentlich zu machen. Langfristiges Ziel dieses Projektes ist es, über die ITZ verstärkt für die Relevanz von Transparenz zu sensibilisieren und die ITZ als Mindeststandard für Transparenz innerhalb des Sektors zu etablieren. Die Förderung der DSEE hat dabei den Zweck, eine digitale Infrastruktur aufzubauen, die eine bedarfsgerechte Beratung, Betreuung und langfristig Vernetzung einer großen Anzahl von Organisationen ermöglicht und der Vielfalt der Zivilgesellschaft gerecht wird.",
+            "location": "Woldegker Chaussee 35, D-17235 Neustrelitz",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_POLICY",
+            "de": "Verteidigungspolitik",
+            "en": "Defense policy"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of economy"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_POLITICS",
+            "de": "Institutionelle Fragen der EU",
+            "en": "Institutional questions of European politics"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_TERRORISM",
+            "de": "Terrorismusbekämpfung",
+            "en": "Counter terrorism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_OTHER",
+            "de": "Sonstiges im Bereich „Sport, Freizeit und Tourismus“",
+            "en": "Other in the field of sport, leisure and tourism"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_PROFESSIONAL_SPORT",
+            "de": "Profisport",
+            "en": "Professional sports"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Alle korruptionsrelevanten Bereiche."
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_ORGANIZATION",
+            "de": "Staatsorganisation",
+            "en": "State organization"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_SERVICE",
+            "de": "Öffentlicher Dienst und öffentliche Verwaltung",
+            "en": "Public service"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020-TI-D.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/fa/07/1977/Jahresabschluss-2020-TI-D.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Verhaltenskodex-06-09-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/39/27/1978/Verhaltenskodex-06-09-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000248",
+      "registerEntryDetail": {
+        "id": 1391,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 90001,
+          "to": 100000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000248",
+          "firstPublicationDate": "2022-02-01T15:38:23.000Z"
+        },
+        "activityDescription": "Politische Interessenvertretung zu aktuellen und künftigen politischen und regulatorischen Themen mit Relevanz für Technologieplattformen. Diese schließen u.a. die Bereiche Wirtschaftspolitik, wie Wettbewerb, Beschäftigung, Nachhaltigkeit, Plattformregulierung, Digitalisierung, Verkehr, Verbraucherschutz, Datenschutz, Steuern und Finanzen ein.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Wolt Enterprises Deutschland GmbH",
+          "phoneNumber": "+4915224723698",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Wolt Ent. Deutschland GmbH ",
+            "street": "Stralauer Allee",
+            "streetNumber": "6",
+            "zipCode": "10245",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "laurin.sepoetro@wolt.com"
+          ],
+          "websites": [
+            "www.wolt.com/de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Henrik",
+              "lastName": "Riedl",
+              "function": "Geschäftsführer & Rechtsanwalt",
+              "phoneNumber": "+491726142640",
+              "organizationMemberEmails": [
+                "henrik.riedl@wolt.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Laurin",
+              "lastName": "Sepoetro"
+            },
+            {
+              "commonFirstName": "Samuel",
+              "lastName": "Laurinkari"
+            }
+          ],
+          "membershipEntries": [
+            "Bitkom e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in field of European politics and the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_ACCIDENT",
+            "de": "Unfallversicherung",
+            "en": "Accident insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_BASIC",
+            "de": "Grundsicherung",
+            "en": "Basic security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Bundesanzeiger-WoltEnterprsiesDEGmbH.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/9f/8a/1974/Bundesanzeiger-WoltEnterprsiesDEGmbH.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000247",
       "registerEntryDetail": {
@@ -16169,7 +16846,7 @@
     {
       "registerNumber": "R000165",
       "registerEntryDetail": {
-        "id": 1095,
+        "id": 1652,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 1,
@@ -16198,10 +16875,76 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "academicDegreeBefore": "Dr.-Ing.",
-          "commonFirstName": "Martin",
-          "lastName": "Haunschild"
+          "identity": "ORGANIZATION",
+          "name": "Mynaric AG / Mynaric Lasercom GmbH",
+          "phoneNumber": "+49810579990",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Dornierstraße",
+            "streetNumber": "19",
+            "zipCode": "82205",
+            "city": "Gilching",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_AG",
+            "code_de": "Aktiengesellschaft (AG)",
+            "code_en": "Stock company (AG)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "martin.haunschild@mynaric.com"
+          ],
+          "websites": [
+            "www.mynaric.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Bulent",
+              "lastName": "Altan",
+              "function": "CEO",
+              "phoneNumber": "+49810579990",
+              "organizationMemberEmails": [
+                "bulent.altan@mynaric.com"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Berndt-von Bülow",
+              "function": "CFO",
+              "phoneNumber": "+49810579990",
+              "organizationMemberEmails": [
+                "stefan.berndtvonbuelow@mynaric.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.-Ing.",
+              "commonFirstName": "Martin",
+              "lastName": "Haunschild",
+              "function": "Business Development",
+              "phoneNumber": "+4981057999610",
+              "organizationMemberEmails": [
+                "martin.haunschild@mynaric.com"
+              ]
+            },
+            {
+              "commonFirstName": "Joachim",
+              "lastName": "Horwath",
+              "function": "CTO",
+              "phoneNumber": "+49810579990",
+              "organizationMemberEmails": [
+                "joachim.horwath@mynaric.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "BDLI",
+            "BDI New Space",
+            "bavAIRia e.V."
+          ]
         },
         "legislativeProjects": [],
         "donators": [
@@ -16303,7 +17046,18 @@
           }
         ],
         "clientPersons": [],
-        "registerEntryMedia": []
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "EDF-2021-DIGIT-D-MDOC-EDOCC-MYN-Annex6-Annual-Report-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7a/d6/1973/EDF-2021-DIGIT-D-MDOC-EDOCC-MYN-Annex6-Annual-Report-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
       }
     },
     {
