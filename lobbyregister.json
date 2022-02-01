@@ -2544,7 +2544,7 @@
     {
       "registerNumber": "R000232",
       "registerEntryDetail": {
-        "id": 728,
+        "id": 1805,
         "clientIdentity": "",
         "employeeCount": {
           "from": 0,
@@ -2624,10 +2624,19 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "BVVB-Kassenbericht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/ab/c4/1948/BVVB-Kassenbericht-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": false,
-        "refuseAnnualFinanceStatement": true,
-        "refuseAnnualFinanceStatementReason": "keine gesetzliche Verpflichtung"
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
       }
     },
     {
