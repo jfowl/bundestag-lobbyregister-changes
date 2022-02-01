@@ -34748,7 +34748,7 @@
     {
       "registerNumber": "R000062",
       "registerEntryDetail": {
-        "id": 589,
+        "id": 1773,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -34769,11 +34769,11 @@
           "firstPublicationDate": "2022-01-15T09:21:47.000Z"
         },
         "activityDescription": "Entwicklung von Ideen und Lösungen zur Zukunftsgestaltung.",
-        "activityOperationType": "BOTH",
+        "activityOperationType": "SELF_OPERATED",
         "activity": {
-          "code": "ACT_RESEARCH_FACILITY",
-          "de": "Denkfabrik, Forschungseinrichtung oder Hochschule",
-          "en": "Think tank, research institution or university"
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
         },
         "codexViolation": false,
         "lobbyistIdentity": {
