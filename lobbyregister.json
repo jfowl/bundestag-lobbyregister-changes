@@ -9,8 +9,171 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 267,
+  "resultCount": 268,
   "results": [
+    {
+      "registerNumber": "R000271",
+      "registerEntryDetail": {
+        "id": 397,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000271",
+          "firstPublicationDate": "2022-02-02T15:43:15.000Z"
+        },
+        "activityDescription": "Die Deutsche Gesellschaft für Medizinische Physik e.V. (DGMP) widmet sich als gemeinnütziger Verein der Förderung der Wissenschaft auf dem Gebiet \"Medizinische Physik\" einschließlich der medizinischen Technik und sieht sich hierbei insbesondere als Kristallisationspunkt, um die Erforschung, Entwicklung und Anwendung physikalischer und technischer Methoden in der Medizin und verwandten Gebieten zu initiieren und zu gestalten. \r\n\r\nWeitere Aufgaben der Gesellschaft sind der Erfahrungsaustausch der Mitglieder untereinander, die Präsentation und Diskussion wissenschaftlicher Ergebnisse und die Weiterbildung der in der Medizin tätigen Physiker. Es werden verschiedene Fort- und Weiterbildungsveranstaltungen organisiert.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Gesellschaft für Medizinische Physik e.V.",
+          "phoneNumber": "+493039835190",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Ernst-Reuter-Platz",
+            "streetNumber": "10",
+            "zipCode": "10587",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "guehrs@dgmp.de"
+          ],
+          "websites": [
+            "https://www.dgmp.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Baltas",
+              "lastName": "Dimos",
+              "function": "Präsident",
+              "phoneNumber": "+4976127094820",
+              "organizationMemberEmails": [
+                "dimos.baltas@uniklinik-freiburg.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Fiebich",
+              "lastName": "Martin",
+              "function": "Vize-Präsident",
+              "phoneNumber": "+496413092573",
+              "organizationMemberEmails": [
+                "Martin.Fiebich@lse.thm.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Mark",
+              "lastName": "Ladd",
+              "function": "Vize-Präsident",
+              "phoneNumber": "+496221422550",
+              "organizationMemberEmails": [
+                "mark.ladd@dkfz.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Erik",
+              "lastName": "Gührs"
+            }
+          ],
+          "members": 1775,
+          "membersCountDate": "2022-01-05T23:00:00.000Z",
+          "membershipEntries": [
+            "Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V.",
+            "International Organization for Medical Physics",
+            "European Federation of Organisations for Medical Physics"
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "Strahlenschutzgesetz"
+          },
+          {
+            "name": "Strahlenschutzverordnung"
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Der Gesamtumsatz beträgt ca. 260.000 € p.a.. Hiervon wird nur ein sehr geringer Teil für die Interessenvertretung verwendet. Aufwand und Nutzen der Veröffentlichung stehen in keinem Verhältnis."
+      }
+    },
     {
       "registerNumber": "R000270",
       "registerEntryDetail": {
@@ -6334,24 +6497,31 @@
     {
       "registerNumber": "R000243",
       "registerEntryDetail": {
-        "id": 1825,
+        "id": 1833,
         "clientIdentity": "",
         "employeeCount": {
           "from": 0,
           "to": 0
         },
         "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
+        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000243",
           "firstPublicationDate": "2022-02-01T11:39:55.000Z"
         },
-        "activityDescription": "In der juristischen Literatur wird die Initiative in der Regel kurz als \"Frankfurter Initiative\" bezeichnet. Ihre Teilnehmer sind der Überzeugung, dass die Rechtsprechung zur AGB-Kontrolle im unternehmerischen Geschäftsverkehr unangemessen starr und dass der Gesetzgeber gefordert ist, für Abhilfe zu sorgen. Ziel ist ein Gesetz, mit dem das BGB entsprechend geändert wird. Dabei soll die AGB-Kontrolle im Verbraucherbereich unangetastet bleiben, und schutzbedürftige Unternehmen sollen weiterhin geschützt bleiben. Dort, wo kein Schutzbedürfnis besteht, soll es Unternehmen aber ermöglicht werden, Verträge zu schließen, ohne befürchten zu müssen, dass der Vertrag später durch die Gerichte als AGB gewertet und als unangemessen benachteiligend für unwirksam erklärt wird. Damit soll das ausdrückliche Ziel des AGB-Gesetzes realisiert werden, dass die Privatautonomie im unternehmerischen Geschäftsverkehr nicht mehr als notwendig eingeschränkt wird. \r\n\r\nFür dieses Ziel setzen sich die Teilnehmer der Initiative in unterschiedlicher Form und Intensität ein, in der Regel durch Vorträge, Aufsätze oder politische Kontakte. Jeder Teilnehmer ist für das, was er tut, selbst verantwortlich, auch finanziell.",
+        "activityDescription": "Im Jahr 2008 traf sich eine kleine Zahl von wirtschaftsrechtlich tätigen Juristen aus dem Bereich Frankfurt am Main. Das verbindende Element war und ist die Überzeugung, dass die Rechtsprechung zur AGB-Kontrolle im unternehmerischen Geschäftsverkehr unangemessen starr und dass der Gesetzgeber gefordert ist, für Abhilfe zu sorgen. Der Email-Verteiler dieser \"Frankfurte Initiative zur Fortentwicklung des AGB-Rechts\" enthält inzwischen etwa 40 Namen aus ganz Deutschland - Syndici, externe Anwälte, Verbandsjuristen, Universitätsprofessoren.\r\n\r\nIn der juristischen Literatur wird die Initiative in der Regel kurz als \"Frankfurter Initiative\" bezeichnet. Ziel der Initiative ist ein Gesetz, mit dem das BGB dahingehend geändert wird, dass die AGB-Kontrolle im unternehmerischen Geschäftsverkehr von den deutschen Gerichten weniger starr gehandhabt wird. Dabei soll die AGB-Kontrolle im Verbraucherbereich unangetastet bleiben, und schutzbedürftige Unternehmen sollen weiterhin geschützt bleiben. Dort, wo kein Schutzbedürfnis besteht, soll es Unternehmen aber ermöglicht werden, Verträge zu schließen, ohne befürchten zu müssen, dass der Vertrag später durch die Gerichte als AGB gewertet und als unangemessen benachteiligend für unwirksam erklärt wird. Damit soll das ausdrückliche Ziel des AGB-Gesetzes realisiert werden, dass die Privatautonomie im unternehmerischen Geschäftsverkehr nicht mehr als notwendig eingeschränkt wird. \r\n\r\nFür dieses Ziel setzen sich die Teilnehmer der Initiative in unterschiedlicher Form und Intensität ein, in der Regel durch Vorträge, Aufsätze oder politische Kontakte. Jeder Teilnehmer ist für das, was er tut, selbst verantwortlich, auch finanziell.",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_OTHER",
-          "text": "Im Jahr 2008 traf sich eine kleine Zahl von wirtschaftsrechtlich tätigen Juristen aus dem Bereich Frankfurt am Main. Das verbindende Element war und ist die Überzeugung, dass die Rechtsprechung zur AGB-Kontrolle im unternehmerischen Geschäftsverkehr unangemessen starr und dass der Gesetzgeber gefordert ist, für Abhilfe zu sorgen. Der Email-Verteiler dieser \"Frankfurter Initiative zur Fortentwicklung des AGB-Rechts\" enthält inzwischen etwa 40 Namen aus ganz Deutschland."
+          "text": "Eine Initiative von wirtschaftsrechtlich tätigen Juristen, die sich für eine weniger starre AGB-Kontrolle im unternehmerischen Geschäftsverkehr einsetzen. "
         },
         "codexViolation": false,
         "lobbyistIdentity": {
