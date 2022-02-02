@@ -9,8 +9,170 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 256,
+  "resultCount": 257,
   "results": [
+    {
+      "registerNumber": "R000260",
+      "registerEntryDetail": {
+        "id": 159,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000260",
+          "firstPublicationDate": "2022-02-02T10:42:12.000Z"
+        },
+        "activityDescription": "Interessenvertretung von legalen Waffennutzern (Sportschützen, Jägern, Waffensammlern), Herstellern und Händlern sowie die Beratung in waffen-, jagd- und sprengstoffrechtlichen Fragestellungen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Forum Waffenrecht e. V.",
+          "phoneNumber": "+4921025595740",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Forum Waffenrecht e. v.",
+            "street": "An der Pönt",
+            "streetNumber": "48",
+            "zipCode": "40885",
+            "city": "Ratingen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@fwr.de"
+          ],
+          "websites": [
+            "www.fwr.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Gotzen",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4921025595740",
+              "organizationMemberEmails": [
+                "info@fwr.de"
+              ]
+            },
+            {
+              "commonFirstName": "Friedrich",
+              "lastName": "Gepperth",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4921025595740",
+              "organizationMemberEmails": [
+                "info@fwr.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Frank",
+              "lastName": "Göpper"
+            }
+          ],
+          "members": 180,
+          "membersCountDate": "2022-01-02T23:00:00.000Z",
+          "membershipEntries": [
+            "World Forum on Shooting Activities - WFSA"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of agriculture and food"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in field of internal security"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_OTHER",
+            "de": "Sonstiges im Bereich „Sport, Freizeit und Tourismus“",
+            "en": "Other in the field of sport, leisure and tourism"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000259",
       "registerEntryDetail": {
@@ -4670,7 +4832,7 @@
     {
       "registerNumber": "R000236",
       "registerEntryDetail": {
-        "id": 1435,
+        "id": 1834,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -4699,9 +4861,89 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "commonFirstName": "Andreas",
-          "lastName": "Hattemer"
+          "identity": "ORGANIZATION",
+          "name": "ECOVIN Bundesverband ökologischer Weinbau e.V.",
+          "phoneNumber": "+4961331640",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Wormser Straße",
+            "streetNumber": "162",
+            "zipCode": "55276",
+            "city": "Oppenheim",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@ecovin.de"
+          ],
+          "websites": [
+            "www.ecovin.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Hattemer",
+              "function": "Bundesvorsitzender",
+              "phoneNumber": "+491716513571",
+              "organizationMemberEmails": [
+                "a.hattemer@ecovin.de"
+              ]
+            },
+            {
+              "commonFirstName": "Petra",
+              "lastName": "Neuber",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+4961331640",
+              "organizationMemberEmails": [
+                "p.neuber@ecovin.de"
+              ]
+            },
+            {
+              "commonFirstName": "Paulin",
+              "lastName": "Köpfer",
+              "function": "Beisitzer im Bundesvorstand",
+              "phoneNumber": "+491705452277",
+              "organizationMemberEmails": [
+                "info@ecovin-baden.de"
+              ]
+            },
+            {
+              "commonFirstName": "Barbara",
+              "lastName": "Hoffmann",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+4915774572462",
+              "organizationMemberEmails": [
+                "barbara_hoffmann@postzeo.de"
+              ]
+            },
+            {
+              "commonFirstName": "Georg",
+              "lastName": "Forster",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+491713345769",
+              "organizationMemberEmails": [
+                "mail@georgforster.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 227,
+          "membersCountDate": "2021-12-30T23:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Weinbauverband",
+            "BÖLW - Bund ökologische Lebensmittelwirtschaft",
+            "PIWI Deutschland",
+            "IFOAM EU-Group",
+            "AÖL - Arbeitsgruppe ökologischer Landbau Rheinland-Pfalz/Saarland e.V.",
+            "PAN Germany - Pestizid Aktions-Netzwerk e.V."
+          ]
         },
         "legislativeProjects": [],
         "donators": [],
@@ -4739,7 +4981,10 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": []
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
       }
     },
     {
