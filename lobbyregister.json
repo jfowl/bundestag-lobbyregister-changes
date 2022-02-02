@@ -9,8 +9,176 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 260,
+  "resultCount": 261,
   "results": [
+    {
+      "registerNumber": "R000264",
+      "registerEntryDetail": {
+        "id": 1592,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "Der Gesamtumsatz beträgt ca. 200.000,00 € p.a. Hiervon wird nur ein sehr geringer Teil für die Interessenvertretung verwendet. Aufwand und Nutzen der Veröffentlichung stehen in keinem Verhältnis . \r\n",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000264",
+          "firstPublicationDate": "2022-02-02T12:44:12.000Z"
+        },
+        "activityDescription": "Zweck der DeGIR ist es, die Forschung und Fortbildung auf dem Gebiet der Interventionellen Radiologie als Bestandteil der Radiologie zu fördern sowie die Rahmenbedingungen für die Ausbildung in der interventionellen Radiologie in der Ausbildung zum Radiologen ständig zu optimieren.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Gesellschaft für Interventionelle Radiologie und minimal-invasive Therapie",
+          "phoneNumber": "+493091607022",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Ernst-Reuter-Platz",
+            "streetNumber": "10",
+            "zipCode": "10587",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_NIA",
+            "code_de": "Nicht rechtsfähiger Verein",
+            "code_en": "Non-incorporated association",
+            "type": "OTHER_ASSOCIATION_OF_PERSONS"
+          },
+          "organizationEmails": [
+            "degir@drg.de"
+          ],
+          "websites": [
+            "www.degir.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Marcus",
+              "lastName": "Katoh",
+              "function": "Präsident",
+              "phoneNumber": "+493091607022",
+              "organizationMemberEmails": [
+                "degir@drg.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Andreas",
+              "lastName": "Mahnken",
+              "function": "Präsident-elect",
+              "phoneNumber": "+493091607022",
+              "organizationMemberEmails": [
+                "degir@drg.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Peter",
+              "lastName": "Reimer",
+              "function": "Past-Präsident",
+              "phoneNumber": "+493091607022",
+              "organizationMemberEmails": [
+                "degir@drg.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Stefan",
+              "lastName": "Lohwasser"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Martin",
+              "lastName": "Völker"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Hans-Georg",
+              "lastName": "Stavginski"
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Schaefers"
+            },
+            {
+              "commonFirstName": "Florian",
+              "lastName": "Schneider"
+            }
+          ],
+          "members": 1650,
+          "membersCountDate": "2022-01-27T23:00:00.000Z",
+          "membershipEntries": [
+            "CIRSE"
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "Gesetzesvorhaben im Bereich der Wissenschafts- und Gesundheitspolitik "
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000263",
       "registerEntryDetail": {
@@ -2803,18 +2971,22 @@
     {
       "registerNumber": "R000252",
       "registerEntryDetail": {
-        "id": 750,
+        "id": 1886,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
           "to": 10
         },
-        "refuseFinancialExpensesInformation": true,
-        "refuseFinancialExpensesInformationReason": "Abgrenzung schwierig (z.B. Branchenkongresse mit (teilweise) Anwesenheit von Politik und Behördenvertretern; Wie soll das berechnet werden? Zählt auch die Positionsfindung als Grundlage für Interessenvertretung der Branche dazu?",
-        "refusePublicAllowanceInformation": true,
-        "refusePublicAllowanceInformationReason": "Keine öffentlichen Zuschüsse erhalten;",
-        "refuseDonationInformation": true,
-        "refuseDonationInformationReason": "keine Schenkungen erhalten;",
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 770001,
+          "to": 780000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000252",
           "firstPublicationDate": "2022-02-02T06:33:41.000Z"
@@ -2952,10 +3124,19 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "08-BWO-JA-2020-final.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/e1/0c/2086/08-BWO-JA-2020-final.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": false,
-        "refuseAnnualFinanceStatement": true,
-        "refuseAnnualFinanceStatementReason": ""
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
       }
     },
     {
