@@ -9,8 +9,296 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 266,
+  "resultCount": 267,
   "results": [
+    {
+      "registerNumber": "R000270",
+      "registerEntryDetail": {
+        "id": 353,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 500001,
+          "to": 510000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000270",
+          "firstPublicationDate": "2022-02-02T15:17:38.000Z"
+        },
+        "activityDescription": "Im PHAGRO | Bundesverband des pharmazeutischen Großhandels e. V. sind alle neun vollversorgenden pharmazeutischen Großhandlungen in Deutschland zusammengeschlossen, die sämtliche öffentlichen Apotheken herstellerneutral mit allen von Patienten nachgefragten Arzneimitteln schnell, sicher und flächendeckend versorgen. Der satzungsgemäße Zweck des Bundesverbandes ist die Wahrung und Förderung der allgemeinen, ideellen und wirtschaftlichen Interessen des vollversorgenden pharmazeutischen Großhandels in seiner Aufgabenstellung zwischen den Lieferanten apothekenpflichtiger Arzneimittel und apothekenüblicher Sortimente, insbesondere den pharmazeutischen Unternehmern und den Apotheken. \r\n\r\nDer Bundesverband informiert und berät die Mitgliedsunternehmen in allen, den vollversorgenden pharmazeutischen Großhandel  berührenden, Angelegenheiten. Zudem vertritt der Bundesverband die gemeinsamen Interessen aller Mitglieder gegenüber Parlamenten, Regierungen, Behörden, Industrie und den Verbänden der Apothekerschaft sowie der weiteren relevanten Stakeholdern. Im Zuge der Interessenvertretung fördert der Bundesverband den gesellschaftlichen und politischen Dialog über branchenrelevante Themen.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "PHAGRO | Bundesverband des pharmazeutischen Großhandels e. V.",
+          "phoneNumber": "+493020188448",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Bundesverband PHAGRO e. V.",
+            "nationalAdditional2": "c/o Satellite Office",
+            "street": "Französische Straße ",
+            "streetNumber": "12",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "phagro@phagro.de"
+          ],
+          "websites": [
+            "www.phagro.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "André",
+              "lastName": "Blümel",
+              "function": "Vorsitzender",
+              "phoneNumber": "+493020188448",
+              "organizationMemberEmails": [
+                "phagro@phagro.de"
+              ]
+            },
+            {
+              "commonFirstName": "Marcus",
+              "lastName": "Freitag",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+493020188448",
+              "organizationMemberEmails": [
+                "phagro@phagro.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Porstner",
+              "academicDegreeAfter": "Rechtsanwalt"
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Dammann"
+            },
+            {
+              "commonFirstName": "Tabea",
+              "lastName": "Krause"
+            }
+          ],
+          "members": 9,
+          "membersCountDate": "2022-01-11T23:00:00.000Z",
+          "membershipEntries": [
+            "BGA | Bundesverband Großhandel, Außenhandel, Dienstleistungen e.V.",
+            "Lebensmittelverband Deutschland",
+            "GIRP | European Healthcare Distribution Association",
+            "Informationsstelle für Arzneispezialitäten - IFA GmbH",
+            "Wettbewerbszentrale"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_SERVICE",
+            "de": "Öffentlicher Dienst und öffentliche Verwaltung",
+            "en": "Public service"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "BGA-Compliance-Leitfaden.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/51/a3/2124/BGA-Compliance-Leitfaden.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "JA-2020-Bilanz-PHAGRO.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/c0/bf/2125/JA-2020-Bilanz-PHAGRO.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000269",
       "registerEntryDetail": {
