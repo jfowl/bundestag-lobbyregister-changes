@@ -17254,15 +17254,22 @@
     {
       "registerNumber": "R000171",
       "registerEntryDetail": {
-        "id": 1127,
+        "id": 1856,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
           "to": 10
         },
         "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
+        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000171",
           "firstPublicationDate": "2022-01-26T08:36:27.000Z"
@@ -17357,7 +17364,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "JA-2020-BVT.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/c4/fc/1402/JA-2020-BVT.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/44/7f/2018/JA-2020-BVT.pdf",
               "mimeType": "application/pdf"
             }
           }
