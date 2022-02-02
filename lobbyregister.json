@@ -9,8 +9,308 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 264,
+  "resultCount": 265,
   "results": [
+    {
+      "registerNumber": "R000268",
+      "registerEntryDetail": {
+        "id": 878,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 50001,
+          "to": 60000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000268",
+          "firstPublicationDate": "2022-02-02T14:21:49.000Z"
+        },
+        "activityDescription": "Der bdla vertritt die Interessen des Berufsstands auf nationaler und europäischer Ebene. Er unterhält enge Kontakte zu den Fraktionen des Deutschen Bundestages, einzelnen Abgeordneten und Vertretern der Bundesregierung. Ziel dieser Fach- und Lobbyarbeit ist es, die Kompetenz und die Belange der Landschaftsarchitekten in Politik und Verwaltung, insbesondere in laufende Gesetzgebungsverfahren, einzubringen. Hierzu werden diverse Kommunikationsformate gewählt, bspw. Parlamentarische Abende oder Fachveranstaltungen. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bund Deutscher Landschaftsarchitekten bdla ",
+          "phoneNumber": "+49302787150",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Wilhelmine-Gemberg-Weg",
+            "streetNumber": "6",
+            "zipCode": "10179",
+            "city": "Berlin ",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bdla.de"
+          ],
+          "websites": [
+            "www.bdla.de "
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Till",
+              "lastName": "Rehwaldt",
+              "function": "Präsident",
+              "phoneNumber": "+49302787150",
+              "organizationMemberEmails": [
+                "info@bdla.de"
+              ]
+            },
+            {
+              "commonFirstName": "Irene",
+              "lastName": "Burkhardt",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+49302787150",
+              "organizationMemberEmails": [
+                "info@bdla.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jens",
+              "lastName": "Henningsen",
+              "function": "Schatzmeister",
+              "phoneNumber": "+49302787150",
+              "organizationMemberEmails": [
+                "info@bdla.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Professor",
+              "commonFirstName": "Stephan",
+              "lastName": "Lenzen",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49302787150",
+              "organizationMemberEmails": [
+                "info@bdla.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Mario",
+              "lastName": "Kahl"
+            },
+            {
+              "commonFirstName": "Christopher",
+              "lastName": "Frank"
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Haas"
+            },
+            {
+              "commonFirstName": "Jörn",
+              "lastName": "Hagenloch"
+            },
+            {
+              "commonFirstName": "Petra",
+              "lastName": "Baum"
+            }
+          ],
+          "members": 1377,
+          "membersCountDate": "2022-01-23T23:00:00.000Z",
+          "membershipEntries": [
+            "Deutscherr Naturschutzring e.V., Ausschuss der Verbände und Kammern der Ingenieure und Architekten für die Honorarordnung e.V., Deutscher Verband für Wohnungswesen, Städtebau und Raumordnung e.V., Bundesverband der Freien Berufe e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of agriculture and food"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of work and employment"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "bdla-Gewinnermittlung-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/9f/1e/2111/bdla-Gewinnermittlung-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000267",
       "registerEntryDetail": {
