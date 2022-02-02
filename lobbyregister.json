@@ -9,8 +9,301 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 262,
+  "resultCount": 264,
   "results": [
+    {
+      "registerNumber": "R000267",
+      "registerEntryDetail": {
+        "id": 557,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000267",
+          "firstPublicationDate": "2022-02-02T13:42:43.000Z"
+        },
+        "activityDescription": "Wahrnehmung und Förderung der Interessen der Schloss- und Beschlagindustrie auf wirtschaftlichem und technischem Gebiet in der Bundesrepublik Deutschland",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Fachverband Schloss- und Beschlagindustrie e.V.",
+          "phoneNumber": "+49205195060",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Offerstraße",
+            "streetNumber": "12",
+            "zipCode": "42551",
+            "city": "Velbert",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@fvsb.de"
+          ],
+          "websites": [
+            "www.fvsb.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Stephan",
+              "lastName": "Schmidt",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+492051950615",
+              "organizationMemberEmails": [
+                "schneider@fvsb.de"
+              ]
+            },
+            {
+              "commonFirstName": "Karl Kristian",
+              "lastName": "Woelm",
+              "function": "Vorsitzender",
+              "phoneNumber": "+492051950615",
+              "organizationMemberEmails": [
+                "schneider@fvsb.de"
+              ]
+            },
+            {
+              "commonFirstName": "Wolf",
+              "lastName": "Hoppe",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+492051950615",
+              "organizationMemberEmails": [
+                "schneider@fvsb.de"
+              ]
+            },
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "Kohl",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+492051950615",
+              "organizationMemberEmails": [
+                "schneider@fvsb.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Nicole",
+              "lastName": "Geelhaar"
+            }
+          ],
+          "members": 69,
+          "membersCountDate": "2022-01-01T23:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Baustoffe - Steine und Erden e.V., Berlin",
+            "Wirtschaftsinitiative Smart Living e.V., Berlin"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "FVSB-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/de/af/2099/FVSB-Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000266",
+      "registerEntryDetail": {
+        "id": 1893,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000266",
+          "firstPublicationDate": "2022-02-02T13:32:48.000Z"
+        },
+        "activityDescription": "Der Verband Deutscher Schleifmittelwerke e.V. (VDS) vertritt die Schleifmittelindustrie in technischen, wirtschaftlichen sowie umwelt- und rechtspolitischen Fragen. Der VDS wurde 1917 in Berlin gegründet und ist heute in Europa die größte nationale Interessenvertretung für die Schleifmittelindustrie.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband Deutscher Schleifmittelwerke",
+          "phoneNumber": "+49228635587",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Oxfordstr. ",
+            "streetNumber": "8",
+            "zipCode": "53111",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@vds-bonn.de"
+          ],
+          "websites": [
+            "https://www.vds-bonn.de/de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Gunnar",
+              "lastName": "Grecksch",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49228635587",
+              "organizationMemberEmails": [
+                "grecksch@vds-bonn.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Steffen",
+              "lastName": "Neu",
+              "function": "Vorsitzender",
+              "phoneNumber": "+492773922190",
+              "organizationMemberEmails": [
+                "Steffen.Neu@klingspor.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 59,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "FEPA Federation of European Producers of Abrasives",
+            "BVKI Bundesverband Keramische Industrie"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of ​​the environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "BDO-VDS-2020-Anlage1.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/ef/aa/2101/BDO-VDS-2020-Anlage1.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000265",
       "registerEntryDetail": {
@@ -21246,7 +21539,7 @@
     {
       "registerNumber": "R000162",
       "registerEntryDetail": {
-        "id": 1731,
+        "id": 1897,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -21266,7 +21559,7 @@
           "registerNumber": "R000162",
           "firstPublicationDate": "2022-01-25T12:54:05.000Z"
         },
-        "activityDescription": "Die Spiele-Autoren-Zunft e.V. (SAZ) vertritt als Interessenverband die Rechte der Spieleautorinnen und Spieleautoren in der Öffentlichkeit sowie gegenüber Verlagen und anderen Werknutzern. Sie fördert angehende Spieleautorinnen und Spieleautoren und setzt sich für eine Stärkung des Kulturguts Spiel in der Gesellschaft ein (§ 2.1 der Satzung). \r\n\r\nWir streben eine umfassende Gleichstellung von analogen Spielen mit anderen Kulturgütern und Medien, wie z.B. Buch, Film, Theater, Musik und digitalen Spielen an. Diese Gleichstellung im Kulturbetrieb würde die Bedeutung der analogen Spiele für die Entwicklung von sozialen und kulturellen Kompetenzen, als Bildungsmedium sowie als Gemeinschaft stiftende Kraft in der Gesellschaft anerkennen und sollte zu einer besseren Unterstützung und Förderung des Kulturguts Spiel führen. \r\n\r\nAktuell setzen wir uns als Vertreter der Urheber tausender analoger Spiele dafür ein, dass diese Medienwerke in den Sammlungskatalog der Deutschen Nationalbibliothek (DNB) aufgenommen werden. Dieser Forderung haben sich auch der Spieleverlage e.V. sowie der Deutsche Kulturrat angeschlossen. Ziel ist die damit verbundene Anerkennung von analogen Spielen als Kulturgut sowie die Schaffung einer öffentlich anerkannten Datenbasis für die Ermittlung und Ausschüttung der Bibliothekstantieme durch die VG WORT. Diesen Rechtsanspruch laut § 27 UrhG gilt es gesetzlich zu realisieren, um die Benachteiligung der Urheber von analogen Spielen zu beenden. Fast alle öffentlichen Bibliotheken weisen einen zunehmenden Bestand an Spielen auf, die DNB lehnt jedoch der Aufnahme ab, wodurch die Urheber erhebliche finanzielle Einbußen erleiden. Dafür müssen die aktuellen Ausnahmeregelungen für Spiele in den Sammelrichtlinien der DNB (Punkt 2.1.1.9) sowie in der Pflichtabgabeverordnung (§ 4 Punkt 14) entsprechend geändert bzw. gestrichen werden. \r\n",
+        "activityDescription": "Die Spiele-Autoren-Zunft e.V. (SAZ) vertritt als Interessenverband die Rechte der Spieleautorinnen und Spieleautoren in der Öffentlichkeit sowie gegenüber Verlagen und anderen Werknutzern. Sie fördert angehende Spieleautorinnen und Spieleautoren und setzt sich für eine Stärkung des Kulturguts Spiel in der Gesellschaft ein (§ 2.1 der Satzung). \r\n\r\nWir streben eine umfassende Gleichstellung von analogen Spielen mit anderen Kulturgütern und Medien, wie z.B. Buch, Film, Theater, Musik und digitalen Spielen an. Diese Gleichstellung im Kulturbetrieb würde die Bedeutung der analogen Spiele für die Entwicklung von sozialen und kulturellen Kompetenzen, als Bildungsmedium sowie als Gemeinschaft stiftende Kraft in der Gesellschaft anerkennen und sollte zu einer besseren Unterstützung und Förderung des Kulturguts Spiel führen. \r\n\r\nAktuell setzen wir uns als Vertreter der Urheber tausender analoger Spiele dafür ein, dass diese Medienwerke in den Sammlungskatalog der Deutschen Nationalbibliothek (DNB) aufgenommen werden. Dieser Forderung haben sich auch der Spieleverlage e.V. sowie der Deutsche Kulturrat angeschlossen. Ziel ist die damit verbundene Anerkennung von analogen Spielen als Kulturgut sowie die Schaffung einer öffentlich anerkannten Datenbasis für die Ermittlung und Ausschüttung der Bibliothekstantieme durch die VG WORT. Diesen Rechtsanspruch laut § 27 UrhG gilt es gesetzlich zu realisieren, um die Benachteiligung der Urheber von analogen Spielen zu beenden. Fast alle öffentlichen Bibliotheken weisen einen zunehmenden Bestand an Spielen auf, die DNB lehnte jedoch bisher die Aufnahme ab, wodurch die Urheber erhebliche finanzielle Einbußen erleiden. Dafür müssen die aktuellen Ausnahmeregelungen für Spiele in den Sammelrichtlinien der DNB (Punkt 2.1.1.9) sowie in der Pflichtabgabeverordnung (§ 4 Punkt 14) entsprechend geändert bzw. gestrichen werden. \r\n",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_PROFESSION_ASSOC",
@@ -21388,7 +21681,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "SAZ-Finanzbericht-L-4-2020-bis-3-2021.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/46/11/1881/SAZ-Finanzbericht-L-4-2020-bis-3-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/8e/ad/2103/SAZ-Finanzbericht-L-4-2020-bis-3-2021.pdf",
               "mimeType": "application/pdf"
             }
           }
