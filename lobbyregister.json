@@ -9,8 +9,286 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 250,
+  "resultCount": 251,
   "results": [
+    {
+      "registerNumber": "R000254",
+      "registerEntryDetail": {
+        "id": 173,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "locationOfReportPublication": "Bundesanzeiger (Offenlegungsnummer: 211214103748)",
+        "account": {
+          "registerNumber": "R000254",
+          "firstPublicationDate": "2022-02-02T08:35:47.000Z"
+        },
+        "activityDescription": "Gegenstand des Unternehmens sind alle Arten von Dienstleistungen im Rahmen der Verarbeitung tierischer Nebenprodukte und wirtschaftliche Tätigkeiten für diese Industrie, insbesondere\r\n\r\n1. die Unterstützung von Einzelinteressen gegenüber Parlamenten, Behörden und Organisationen sowie der Öffentlichkeit und Vertragspartnern, die nicht zu den Verarbeitungsbetrieben für tierische Nebenprodukte gehören;\r\n2. der Austausch wirtschaftlicher, wissenschaftlicher und technischer Erkenntnisse und Erfahrungen im Rahmen der Verarbeitung tierischer Nebenprodukte (regelmäßige Informationen, Veranstaltungen von Tagungen usw.);\r\n3. die Beratung bei hygienischen, technologischen, wirtschaftlichen und rechtlichen Problemen sowie in Fragen des Umweltschutzes;\r\n4. das Eintreten für einen lauteren Wettbewerb innerhalb der Verarbeitung tierischer Nebenprodukte;\r\n5. Informationen über die Entwicklung der Märkte für die Erzeugnisse aus tierischen Nebenprodukten zu sammeln und zugänglich zu machen;\r\n6. Forschungsaufträge über die Herstellung und Verwendung der Erzeugnisse aus tierischen Nebenprodukten zu vergeben;\r\n7. den Kontakt zu den Verbrauchern der Erzeugnisse aus tierischen Nebenprodukten, zu den Trägern der Fütterungslehre, der Forschung und den Organisationen der Landwirtschaft zu pflegen;\r\n8. die Eingehung von Mitgliedschaften in Organisationen auf nationaler und internationaler Ebene\r\n\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "STN Servicegesellschaft Tierische Nebenprodukte mbH",
+          "phoneNumber": "+49228212175",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Adenauerallee",
+            "streetNumber": "87",
+            "zipCode": "53113",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "gf@stn-vvtn.de"
+          ],
+          "websites": [
+            "www.stn-vvtn.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Harald",
+              "lastName": "Niemann",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49228212175",
+              "organizationMemberEmails": [
+                "kontakt@stn-vvtn.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Rechtsanwalt",
+              "commonFirstName": "Jörg",
+              "lastName": "Beer"
+            }
+          ],
+          "membershipEntries": [
+            "EFPRA European Fat Processors and Renderers Association"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of agriculture and food"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of transportation"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Verband der Verarbeitungsbetriebe Tierischer Nebenprodukte e.V. (VVTN)",
+            "phoneNumber": "+49228212175",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Adenauerallee",
+              "streetNumber": "87",
+              "zipCode": "53113",
+              "city": "Bonn",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "kontakt@stn-vvtn.de"
+            ],
+            "websites": [
+              "www.stn-vvtn.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Bernhard",
+                "lastName": "Sroka",
+                "function": "Vorstand",
+                "phoneNumber": "+49228212175",
+                "organizationMemberEmails": [
+                  "kontakt@stn-vvtn.de"
+                ]
+              },
+              {
+                "commonFirstName": "Rolf",
+                "lastName": "Schaap",
+                "function": "Vorstand",
+                "phoneNumber": "+49228212175",
+                "organizationMemberEmails": [
+                  "kontakt@stn-vvtn.de"
+                ]
+              },
+              {
+                "commonFirstName": "Bernhard",
+                "lastName": "große Holthaus",
+                "function": "Vorstand",
+                "phoneNumber": "+49228212175",
+                "organizationMemberEmails": [
+                  "kontakt@stn-vvtn.de"
+                ]
+              },
+              {
+                "commonFirstName": "Andreas",
+                "lastName": "Bruns",
+                "function": "Vorstand",
+                "phoneNumber": "+49228212175",
+                "organizationMemberEmails": [
+                  "kontakt@stn-vvtn.de"
+                ]
+              },
+              {
+                "commonFirstName": "Andreas",
+                "lastName": "Loi-Brügger",
+                "function": "Vorstand",
+                "phoneNumber": "+49228212175",
+                "organizationMemberEmails": [
+                  "kontakt@stn-vvtn.de"
+                ]
+              },
+              {
+                "commonFirstName": "Steffen",
+                "lastName": "Nickel",
+                "function": "Vorstand",
+                "phoneNumber": "+49228212175",
+                "organizationMemberEmails": [
+                  "kontakt@stn-vvtn.de"
+                ]
+              },
+              {
+                "commonFirstName": "Erwin",
+                "lastName": "Werner",
+                "function": "Vorstand",
+                "phoneNumber": "+49228212175",
+                "organizationMemberEmails": [
+                  "kontakt@stn-vvtn.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000253",
       "registerEntryDetail": {
