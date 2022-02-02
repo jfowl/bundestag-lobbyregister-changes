@@ -9,8 +9,198 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 253,
+  "resultCount": 254,
   "results": [
+    {
+      "registerNumber": "R000257",
+      "registerEntryDetail": {
+        "id": 76,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 90001,
+          "to": 100000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000257",
+          "firstPublicationDate": "2022-02-02T09:31:54.000Z"
+        },
+        "activityDescription": "Der Bundesverband Digitale Wirtschaft (BVDW) e.V. ist die Interessenvertretung für Unternehmen, die digitale Geschäftsmodelle betreiben oder deren Wertschöpfung auf dem Einsatz digitaler Technologien beruht. Als Impulsgeber, Wegweiser und Beschleuniger digitaler Geschäftsmodelle vertritt der BVDW die Interessen der Digitalen Wirtschaft gegenüber Politik und Gesellschaft und setzt sich für die Schaffung von Markttransparenz und innovationsfreundlichen Rahmenbedingungen ein. Sein Netzwerk von Experten liefert mit Zahlen, Daten und Fakten Orientierung zu einem zentralen Zukunftsfeld. Neben der DMEXCO und dem Deutschen Digital Award richtet der BVDW eine Vielzahl von Fachveranstaltungen aus. Mit Mitgliedern aus verschiedensten Branchen ist der BVDW die Stimme der Digitalen Wirtschaft.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Digitale Wirtschaft (BVDW) e.V.",
+          "phoneNumber": "+493020621860",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Schumannstraße ",
+            "streetNumber": "2",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bvdw.org"
+          ],
+          "websites": [
+            "www.bvdw.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Sven",
+              "lastName": "Bornemann",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493020621860",
+              "organizationMemberEmails": [
+                "bornemann@bvdw.org",
+                "info@bvdw.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Katharina ",
+              "lastName": "Rieke",
+              "academicDegreeAfter": "LL.M"
+            }
+          ],
+          "members": 600,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "IAB Europe",
+            "ZAW",
+            "BVMW"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_ADVERTISEMENT",
+            "de": "Werbung",
+            "en": "Advertising"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "244358-10858-2020-JA.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/50/50/2015/244358-10858-2020-JA.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000256",
       "registerEntryDetail": {
