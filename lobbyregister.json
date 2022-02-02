@@ -9,8 +9,148 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 255,
+  "resultCount": 256,
   "results": [
+    {
+      "registerNumber": "R000259",
+      "registerEntryDetail": {
+        "id": 577,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000259",
+          "firstPublicationDate": "2022-02-02T10:31:14.000Z"
+        },
+        "activityDescription": "Der KSD Katholische Siedlungsdienst e.V. ist der Dachverband der katholischen und der katholischen Kirche nahestehenden Wohnungs- und Immobilienunternehmen in Deutschland. Als Bundesverband für Wohnungswesen und Städtebau vertritt der KSD e.V. die Interessen seiner Mitglieder gegenüber der Öffentlichkeit. In Kontaktaufnahme und Gespräch mit Vertretern von Bundesministerien, Mitgliedern des Bundestages und weiteren (politischen) Entscheidungsträgern vermittelt der KSD die Standpunkte des Verbandes und die Sichtweisen der Wohnungswirtschaft. Ziel ist es, der gemeinwohlorientierten katholischen Wohnungswirtschaft Gehör zu verschaffen, Wohnraum für breite Schichten der Bevölkerung, soziale und quartiersorientierte Stadtentwicklung sowie die Ermöglichung von selbstgenutztem Wohneigentum ins Zentrum zu stellen. Der KSD wendet sich daher gerne mit Anregungen und Anmerkungen zu Initiativen und Gesetzesvorhaben an die entsprechenden politischen Akteure. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "KSD Katholischer Siedlungsdienst e.V. ",
+          "phoneNumber": "+493028093650",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reinhardtstraße",
+            "streetNumber": "13",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@ksd-ev.de"
+          ],
+          "websites": [
+            "https://www.ksd-ev.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Müller",
+              "lastName": "Ulrich",
+              "function": "Geschäftsführender Vorstand",
+              "phoneNumber": "+493028093650",
+              "organizationMemberEmails": [
+                "ulrich.mueller@ksd-ev.de"
+              ]
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Hummelsbeck",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+493028093650",
+              "organizationMemberEmails": [
+                "info@ksd-ev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Julia",
+              "lastName": "Doborosky"
+            }
+          ],
+          "members": 63,
+          "membersCountDate": "2021-04-27T22:00:00.000Z",
+          "membershipEntries": [
+            "GdW Bundesverband deutscher Wohnungs- und Immobilienunternehmen e.V.",
+            "DESWOS e.V. ",
+            "Deutscher Erbbaurechtsverband e.V. ",
+            "DV Deutscher Verband e.V. ",
+            "VhW e.V. "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "KSD-JA-2020-klein.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/95/b3/2040/KSD-JA-2020-klein.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000258",
       "registerEntryDetail": {
