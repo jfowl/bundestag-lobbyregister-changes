@@ -9,8 +9,560 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 258,
+  "resultCount": 260,
   "results": [
+    {
+      "registerNumber": "R000263",
+      "registerEntryDetail": {
+        "id": 1523,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 21,
+          "to": 30
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000263",
+          "firstPublicationDate": "2022-02-02T12:28:49.000Z"
+        },
+        "activityDescription": "Zweck der DRG ist die Förderung von Wissenschaft und Forschung und der Fort- und Weiterbildung auf dem Gebiet der Medizinischen Radiologie mit dem Ziel einer qualifizierten Patientenversorgung.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Röntgengesellschaft Gesellschaft für medizinische Radiologie e.V.",
+          "phoneNumber": "+493091607020",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Ernst-Reuter-Platz",
+            "streetNumber": "10",
+            "zipCode": "10587",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "mirzanli@drg.de"
+          ],
+          "websites": [
+            "https://www.drg.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Jörg",
+              "lastName": "Barkhausen",
+              "function": "Präsident",
+              "phoneNumber": "+49309160700",
+              "organizationMemberEmails": [
+                "office@drg.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Gerald",
+              "lastName": "Antoch",
+              "function": "Stellvertretender Präsident",
+              "phoneNumber": "+49309160700",
+              "organizationMemberEmails": [
+                "office@drg.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Stefan",
+              "lastName": "Neumann",
+              "function": "Schriftführer",
+              "phoneNumber": "+49309160700",
+              "organizationMemberEmails": [
+                "office@drg.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. rer. nat.",
+              "commonFirstName": "Frank",
+              "lastName": "Anton",
+              "function": "Schatzmeister",
+              "phoneNumber": "+49309160700",
+              "organizationMemberEmails": [
+                "office@drg.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Stefan",
+              "lastName": "Lohwasser"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Hans-Georg",
+              "lastName": "Stavginski"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Martin",
+              "lastName": "Völker"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Erik",
+              "lastName": "Gührs"
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Schaefers"
+            },
+            {
+              "commonFirstName": "Florian",
+              "lastName": "Schneider"
+            }
+          ],
+          "members": 10580,
+          "membersCountDate": "2022-01-26T23:00:00.000Z",
+          "membershipEntries": [
+            "AWMF",
+            "ESR",
+            "DIN",
+            "IHE"
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "Gesetzesvorhaben im Bereich der Wissenschafts- und Gesundheitspolitik"
+          },
+          {
+            "name": "Strahlenschutzgesetz und Strahlenschutzverordnung"
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Strahlenschutz"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Der Gesamtumsatz beträgt ca. 3 Mio. € p.a. Hiervon wird nur ein sehr geringer Teil für die Interessenvertretung verwendet. Aufwand und Nutzen der Veröffentlichung stehen in keinem Verhältnis.  \r\n"
+      }
+    },
+    {
+      "registerNumber": "R000262",
+      "registerEntryDetail": {
+        "id": 488,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000262",
+          "firstPublicationDate": "2022-02-02T11:53:19.000Z"
+        },
+        "activityDescription": "Der Hamburger Sportbund e.V. (HSB) ist der freiwillige Zusammenschluss der Hamburger Sportvereine und -verbände in Hamburg und  mit rund 500.000 Mitgliedern in mehr als 800 Vereinen. Der HSB fungiert im System des organisierten Sports als Landessportbund. Er vertritt die Interessen des gemeinnützigen, organisierten Sports in Hamburg in den Bereichen Breiten- und Leistungssport, Kinder- und Jugendsport.\r\nWir streben danach, unsere Mitglieder optimal bei der Erreichung ihrer sportlichen und gesellschaftlichen Ziele zu unterstützen und gegenüber der Politik und anderen Akteuren in Staat, Wirtschaft und Gesellschaft zu vertreten. \r\nSport stiftet Gemeinschaft und gibt ein Wir-Gefühl, verbindet Menschen aus unterschiedlichen Kulturen, fördert die Gesundheit, stärkt das Selbstvertrauen und das Selbstwertgefühl, gibt dem Leben Sinn und Ziele und vermittelt schon im Kindesalter wichtige Werte wie Gemeinschaft, Zielstrebigkeit, Respekt und Fairness.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Hamburger Sportbund e.V. ",
+          "phoneNumber": "+494041908279",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Schäferkampsallee",
+            "streetNumber": "1",
+            "zipCode": "20357",
+            "city": "Hamburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "hsb@hamburger-sportbund.de"
+          ],
+          "websites": [
+            "https://www.hamburger-sportbund.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Daniel",
+              "lastName": "Knoblich",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+494041908265",
+              "organizationMemberEmails": [
+                "d.knoblich@hamburger-sportbund.de",
+                "hsb@hamburger-sportbund.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Poon",
+              "function": "stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+494041908257",
+              "organizationMemberEmails": [
+                "c.poon@hamburger-sportbund.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Maarten",
+              "lastName": "Malczak"
+            },
+            {
+              "commonFirstName": "-",
+              "lastName": "von Kodolitsch"
+            },
+            {
+              "commonFirstName": "-",
+              "lastName": "Kuhn"
+            },
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "-",
+              "lastName": "Gnauk "
+            },
+            {
+              "commonFirstName": "-",
+              "lastName": "Oetzel"
+            },
+            {
+              "commonFirstName": "-",
+              "lastName": "Marschner"
+            },
+            {
+              "commonFirstName": "-",
+              "lastName": "Pille-Steppat"
+            },
+            {
+              "commonFirstName": "-",
+              "lastName": "Kulawik"
+            }
+          ],
+          "members": 867,
+          "membersCountDate": "2020-09-30T22:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Olympischer Sportbund e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Freie und Hansestadt Hamburg",
+            "description": "FHH-Grundförderung gem. Sportfördervertrag",
+            "location": "Hamburg",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 9100001,
+              "to": 9110000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Freie und Hansestadt Hamburg",
+            "description": "FHH-Investitionsfonds 2020",
+            "location": "Hamburg",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 1490001,
+              "to": 1500000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "BAMF / DOSB",
+            "description": "Integration durch Sport für 2022:\r\nDavon 420.000€  vom BAMF/DOSB und 210.000€ von der FHH\r\n",
+            "location": "Hamburg, Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 620001,
+              "to": 630000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "BMFSFJ",
+            "description": "FSJ und BFD für 2022",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 340001,
+              "to": 350000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "BASFI",
+            "description": "Unterstützung Einkommensschwache für Mitgliedschaften in Sportvereinen in 2022",
+            "location": "Hamburg",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 350001,
+              "to": 360000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "BSB",
+            "description": "Kooperation Schule /Verein für 2022",
+            "location": "Hamburg",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 560001,
+              "to": 570000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_OTHER",
+            "de": "Sonstiges im Bereich „Sport, Freizeit und Tourismus“",
+            "en": "Other in the field of sport, leisure and tourism"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_MASS",
+            "de": "Massenmedien",
+            "en": "Mass media"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_INTEGRATION",
+            "de": "Integration",
+            "en": "Integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_CHILDREN",
+            "de": "Kinder- und Jugendpolitik",
+            "en": "Child and youth policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_OTHER",
+            "de": "Sonstiges im Bereich „Gesellschaftspolitik und soziale Gruppen“",
+            "en": "Other in field of social politics, social groups"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "HSB-Jahresbericht-2020-web-2.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/c5/f3/2069/HSB-Jahresbericht-2020-web-2.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Verhaltensrichtlinien-Ethikkodex-HSB.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/c7/33/2070/Verhaltensrichtlinien-Ethikkodex-HSB.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000261",
       "registerEntryDetail": {
