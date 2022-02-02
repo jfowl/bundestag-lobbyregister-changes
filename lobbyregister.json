@@ -9,8 +9,185 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 265,
+  "resultCount": 266,
   "results": [
+    {
+      "registerNumber": "R000269",
+      "registerEntryDetail": {
+        "id": 925,
+        "clientIdentity": "BOTH",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000269",
+          "firstPublicationDate": "2022-02-02T14:43:57.000Z"
+        },
+        "activityDescription": "virtus Consulting berät zu Themen der Energie-, Klima-, Umwelt- und Industriepolitik.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "virtus Consulting",
+          "phoneNumber": "+4933296988460",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mühlenstraße",
+            "streetNumber": "22",
+            "zipCode": "14532",
+            "city": "Stahnsdorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_UG_LIMITED",
+            "code_de": "Unternehmergesellschaft (haftungsbeschränkt); auch UG (haftungsbeschränkt)",
+            "code_en": "Entrepreneurial company (limited liability); also UG (limited liability)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@virtusconsult.de"
+          ],
+          "websites": [
+            "www.virtusconsult.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Schweda",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4933296988460",
+              "organizationMemberEmails": [
+                "info@virtusconsult.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Pascal",
+              "lastName": "Ziegler"
+            }
+          ],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NUCLEAR",
+            "de": "Atomenergie",
+            "en": "Nuclear power"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in field of energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "ULA e.V.",
+            "phoneNumber": "+49303069630",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Mohrenstraße",
+              "streetNumber": "33",
+              "zipCode": "10117",
+              "city": "Berlin",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@ula.de"
+            ],
+            "websites": [
+              "www.ula.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Roland",
+                "lastName": "Angst",
+                "function": "Präsident",
+                "phoneNumber": "+49303069630",
+                "organizationMemberEmails": [
+                  "info@ula.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [
+          {
+            "academicDegreeBefore": "Dr.",
+            "commonFirstName": "Christoph",
+            "lastName": "Löwer"
+          }
+        ],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
     {
       "registerNumber": "R000268",
       "registerEntryDetail": {
@@ -21839,7 +22016,7 @@
     {
       "registerNumber": "R000162",
       "registerEntryDetail": {
-        "id": 1897,
+        "id": 1906,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -21859,7 +22036,7 @@
           "registerNumber": "R000162",
           "firstPublicationDate": "2022-01-25T12:54:05.000Z"
         },
-        "activityDescription": "Die Spiele-Autoren-Zunft e.V. (SAZ) vertritt als Interessenverband die Rechte der Spieleautorinnen und Spieleautoren in der Öffentlichkeit sowie gegenüber Verlagen und anderen Werknutzern. Sie fördert angehende Spieleautorinnen und Spieleautoren und setzt sich für eine Stärkung des Kulturguts Spiel in der Gesellschaft ein (§ 2.1 der Satzung). \r\n\r\nWir streben eine umfassende Gleichstellung von analogen Spielen mit anderen Kulturgütern und Medien, wie z.B. Buch, Film, Theater, Musik und digitalen Spielen an. Diese Gleichstellung im Kulturbetrieb würde die Bedeutung der analogen Spiele für die Entwicklung von sozialen und kulturellen Kompetenzen, als Bildungsmedium sowie als Gemeinschaft stiftende Kraft in der Gesellschaft anerkennen und sollte zu einer besseren Unterstützung und Förderung des Kulturguts Spiel führen. \r\n\r\nAktuell setzen wir uns als Vertreter der Urheber tausender analoger Spiele dafür ein, dass diese Medienwerke in den Sammlungskatalog der Deutschen Nationalbibliothek (DNB) aufgenommen werden. Dieser Forderung haben sich auch der Spieleverlage e.V. sowie der Deutsche Kulturrat angeschlossen. Ziel ist die damit verbundene Anerkennung von analogen Spielen als Kulturgut sowie die Schaffung einer öffentlich anerkannten Datenbasis für die Ermittlung und Ausschüttung der Bibliothekstantieme durch die VG WORT. Diesen Rechtsanspruch laut § 27 UrhG gilt es gesetzlich zu realisieren, um die Benachteiligung der Urheber von analogen Spielen zu beenden. Fast alle öffentlichen Bibliotheken weisen einen zunehmenden Bestand an Spielen auf, die DNB lehnte jedoch bisher die Aufnahme ab, wodurch die Urheber erhebliche finanzielle Einbußen erleiden. Dafür müssen die aktuellen Ausnahmeregelungen für Spiele in den Sammelrichtlinien der DNB (Punkt 2.1.1.9) sowie in der Pflichtabgabeverordnung (§ 4 Punkt 14) entsprechend geändert bzw. gestrichen werden. \r\n",
+        "activityDescription": "Die Spiele-Autoren-Zunft e.V. (SAZ) vertritt als Interessenverband die Rechte der Spieleautorinnen und Spieleautoren in der Öffentlichkeit sowie gegenüber Verlagen und anderen Werknutzern. Sie fördert angehende Spieleautorinnen und Spieleautoren und setzt sich für eine Stärkung des Kulturguts Spiel in der Gesellschaft ein (§ 2.1 der Satzung). \r\n\r\nWir streben eine umfassende Gleichstellung von analogen Spielen mit anderen Kulturgütern und Medien, wie z.B. Buch, Film, Theater, Musik und digitalen Spielen an. Diese Gleichstellung im Kulturbetrieb würde die Bedeutung der analogen Spiele für die Entwicklung von sozialen und kulturellen Kompetenzen, als Bildungsmedium sowie als Gemeinschaft stiftende Kraft in der Gesellschaft anerkennen und sollte zu einer besseren Unterstützung und Förderung des Kulturguts Spiel führen. \r\n\r\nAktuell setzen wir uns als Vertreter der Urheber tausender analoger Spiele dafür ein, dass diese Medienwerke in den Sammlungskatalog der Deutschen Nationalbibliothek (DNB) aufgenommen werden. Dieser Forderung haben sich bereits 2015 auch der Spieleverlage e.V. sowie der Deutsche Kulturrat angeschlossen. Ziel ist die damit verbundene Anerkennung von analogen Spielen als Kulturgut sowie die Schaffung einer öffentlich anerkannten Datenbasis für die Ermittlung und Ausschüttung der Bibliothekstantieme durch die VG WORT. Diesen Rechtsanspruch auf Bibliothekstantieme laut § 27 UrhG gilt es gesetzlich zu realisieren, um die Benachteiligung der Urheber von analogen Spielen zu beenden. Fast alle öffentlichen Bibliotheken weisen einen zunehmenden Bestand an Spielen auf, die DNB lehnte jedoch bisher die Aufnahme ab, wodurch die Urheber erhebliche finanzielle Einbußen erleiden. Dafür müssen die aktuellen Ausnahmeregelungen für Spiele in den Sammelrichtlinien der DNB (Punkt 2.1.1.9) sowie in der Pflichtabgabeverordnung (§ 4 Punkt 14) entsprechend geändert bzw. gestrichen werden. \r\n",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_PROFESSION_ASSOC",
@@ -21981,7 +22158,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "SAZ-Finanzbericht-L-4-2020-bis-3-2021.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/8e/ad/2103/SAZ-Finanzbericht-L-4-2020-bis-3-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/e1/65/2118/SAZ-Finanzbericht-L-4-2020-bis-3-2021.pdf",
               "mimeType": "application/pdf"
             }
           }
