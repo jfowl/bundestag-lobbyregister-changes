@@ -9,8 +9,156 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 249,
+  "resultCount": 250,
   "results": [
+    {
+      "registerNumber": "R000253",
+      "registerEntryDetail": {
+        "id": 624,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 70001,
+          "to": 80000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000253",
+          "firstPublicationDate": "2022-02-02T07:29:55.000Z"
+        },
+        "activityDescription": "Der Verein fördert die Rahmenbedingungen für den Export von Lebensmitteln und\r\nProdukten der Agrarwirtschaft. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "German Export Association for Food and Agriproducts GEFA e.V.",
+          "phoneNumber": "+4930400047710",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "GEFA e.V.",
+            "street": "Gertraudenstrasse",
+            "streetNumber": "20",
+            "zipCode": "10178",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@germanexport.org"
+          ],
+          "websites": [
+            "www.germanexport.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Steffen",
+              "lastName": "Reiter",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4922897144981",
+              "organizationMemberEmails": [
+                "reiter@german-meat.org"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Carl-Stephan",
+              "lastName": "Schäfer",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+492289858111",
+              "organizationMemberEmails": [
+                "carl-stephan.schaefer@bdp-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hartmut",
+              "lastName": "Kretschmer",
+              "function": "Sprecher",
+              "phoneNumber": "+493024658250911",
+              "organizationMemberEmails": [
+                "hartmut.kretschmer@dmk.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jan-Bernd",
+              "lastName": "Stärk",
+              "function": "Stellvertretender Sprecher",
+              "phoneNumber": "+492514931295",
+              "organizationMemberEmails": [
+                "jan-bernd.staerk@westfleisch.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Holger",
+              "lastName": "Hübner"
+            }
+          ],
+          "members": 18,
+          "membersCountDate": "2021-09-27T22:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2020-GEFA-Jahresabschluss-Lobbyregister.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/01/1f/1997/2020-GEFA-Jahresabschluss-Lobbyregister.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000252",
       "registerEntryDetail": {
