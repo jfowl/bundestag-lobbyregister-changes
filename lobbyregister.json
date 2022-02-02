@@ -9,8 +9,540 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 251,
+  "resultCount": 253,
   "results": [
+    {
+      "registerNumber": "R000256",
+      "registerEntryDetail": {
+        "id": 668,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 220001,
+          "to": 230000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000256",
+          "firstPublicationDate": "2022-02-02T09:01:28.000Z"
+        },
+        "activityDescription": "Regelmäßige Interessenvertretung in Form von Gesprächen, Veranstaltungen und regelmäßige Teilnahme an Gesprächsformaten einzelner Fraktionen ebenso wie fraktionsübergreifender Parlamentarischer Gruppen zu verkehrspolitischen Themenbereichen, insbesondere Hafen-, Schifffahrts-, Schienen-, Gütverkehrs- und Verkehrsinfrastrukturanliegen bei Gesetzgebungsprozessen, Verordnungen und eigeninitiativ gegenüber Mitgliedern des Deutschen Bundestages, ihren MitarbeiterInnen sowie gegenüber den fachlich zuständigen Bundesministerien.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Öffentlicher Binnenhäfen",
+          "phoneNumber": "+493039881981",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Leipziger Platz",
+            "streetNumber": "8",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info-boeb@binnenhafen.de"
+          ],
+          "websites": [
+            "www.binnenhafen.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Joachim",
+              "lastName": "Zimmermann",
+              "function": "Präsident",
+              "phoneNumber": "+499417950411",
+              "organizationMemberEmails": [
+                "j.zimmermann@bayernhafen.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jens",
+              "lastName": "Hohls",
+              "function": "Präsidiumsmitglied",
+              "phoneNumber": "+495312103410",
+              "organizationMemberEmails": [
+                "hohls@braunschweig-hafen.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jan",
+              "lastName": "Eckel",
+              "function": "Präsidiumsmitglied",
+              "phoneNumber": "+4921315323106",
+              "organizationMemberEmails": [
+                "jan.eckel@rheincargo.com"
+              ]
+            },
+            {
+              "commonFirstName": "Franz",
+              "lastName": "Reindl",
+              "function": "Präsidiumsmitglied",
+              "phoneNumber": "+496215984115",
+              "organizationMemberEmails": [
+                "franz.reindl@haefen-rlp.de"
+              ]
+            },
+            {
+              "commonFirstName": "Carsten",
+              "lastName": "Strähle",
+              "function": "Präsidiumsmitglied",
+              "phoneNumber": "+4971191898010",
+              "organizationMemberEmails": [
+                "cstraehle@hafenstuttgart.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Marcel",
+              "lastName": "Lohbeck"
+            },
+            {
+              "commonFirstName": "Magnus",
+              "lastName": "Bünning"
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Seifert"
+            }
+          ],
+          "members": 81,
+          "membersCountDate": "2022-01-10T23:00:00.000Z",
+          "membershipEntries": [
+            "European Federation of Inland Ports"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "description": "Im Rahmen des Forschungsprojektes SINLOG wurde ein Lösungsansatz für digitale Frachtdokumente entwickelt. Ein digitaler Prozess ersetzt mit SINLOG die heute noch vorherrschende Papierform und zahlreiche Medienbrüche in der Logistik.\r\n\r\nIn einem umfangreichen Feldtest wurde die Praxistauglichkeit der digitalen Lösung mit der Binnenschifffahrt unter realen Bedingungen nachgewiesen. Die digitalen Frachtinformationen zu Massengut und Container Transport wurden mit SINLOG in einer intermodalen Logistikkette (Binnenschiff/Lkw) übermittelt. Zusätzlich wurde der Einsatz von Blockchain-Technologie untersucht und bewertet, um die Vertrauenswürdigkeit der Frachtinformationen weiter abzusichern.",
+            "location": "Berlin / Bonn",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Europäischer Fonds für regionale Entwicklung (EFRE), Europäischer Nachbarschaftsinstrument (ENI) und Norwegian national funding",
+            "description": "Das Binnenschifffahrtsprojekt EMMA, ein länderübergreifendes Projekt auf gemeinsamer Initiative von Hafen Hamburg Marketing und 20 Projektpartnern, leistet einen Beitrag zur Förderung, Weiterentwicklung und Aufwertung der Binnenschifffahrt in der Ostseeregion. In vielen Ostseeanrainerstaaten sind die Schienen- und Straßennetze dem steigenden Transportaufkommen nicht mehr gewachsen, während Flüsse, Kanäle und die Ostsee noch große Kapazitätsreserven aufweisen. Die EMMA-Projektpartner setzen sich mit der Frage auseinander, wie der Anteil der Binnenschifffahrt an der Gesamttransportleistung in der Ostseeregion nachhaltig gesteigert werden kann. Dabei liegt der Fokus auf Maßnahmen in Gebieten, wo Binnenschifffahrt in der Transportkette eine realistische Alternative bei moderaten Anpassungen der Infrastruktur darstellt. ",
+            "location": "Brüssel / Oslo",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Bilanz-GuV-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/c5/90/2008/Bilanz-GuV-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000255",
+      "registerEntryDetail": {
+        "id": 152,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 270001,
+          "to": 280000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000255",
+          "firstPublicationDate": "2022-02-02T08:55:05.000Z"
+        },
+        "activityDescription": "In Zeiten eines ständig steigenden Energiebedarfs und des globalen Klimawandels leistet die Steigerung der Energieeffizienz im Sinne von geringerem Energieverbrauch einen wesentlichen Beitrag zur signifikanten Senkung der globalen und nationalen CO2-Emissionen und damit zum Schutz des Klimas und natürlicher Ressourcen. Gleichzeitig schafft die Entwicklung, Verbreitung und der Einsatz energieeffizienter Technologien, Produkte und Dienstleistungen ein qualitatives Wirtschaftswachstum und zukunftsorientierte Arbeitsplätze. Um dies zu ermöglichen bedarf es einer politischen und gesellschaftlichen Anstrengung, wie sie derzeit noch nicht ausreichend umgesetzt wird. Die Deutsche Unternehmensinitiative Energieeffizienz formiert sich daher als Stimme derjenigen Unternehmen und Personen, die für ambitionierte Energieeffizienzregulierung einstehen und sich dafür stark machen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF)",
+          "phoneNumber": "+493036409701",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kirchstraße",
+            "streetNumber": "21",
+            "zipCode": "10557",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@deneff.org"
+          ],
+          "websites": [
+            "www.deneff.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Bornholdt",
+              "function": "Geschäftsführender Vorstand",
+              "phoneNumber": "+4936409701",
+              "organizationMemberEmails": [
+                "martin.bornholdt@deneff.org"
+              ]
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Noll",
+              "function": "Geschäftsführender Vorstand",
+              "phoneNumber": "+493036409701",
+              "organizationMemberEmails": [
+                "christian.noll@deneff.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Rüdiger",
+              "lastName": "Lohse"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Tatjana",
+              "lastName": "Ruhl"
+            },
+            {
+              "commonFirstName": "Henning",
+              "lastName": "Ellermann"
+            },
+            {
+              "commonFirstName": "Susann",
+              "lastName": "Bollmann"
+            }
+          ],
+          "members": 193,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "Deutsch-französisches Büro für die Energiewende/Office franco-allemand pour la transition energetique e.V.",
+            "Bündnis Effizienzwende",
+            "Gebäude-Allianz"
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "Gebäudeenergiegesetz"
+          },
+          {
+            "name": "EU-Energieeffizienzrichtlinie"
+          },
+          {
+            "name": "EU-Gebäudeenergieeffizienzrichtlinie"
+          },
+          {
+            "name": "Erneuerbare Energien Gesetz"
+          },
+          {
+            "name": "Kraft-Wärme-Kopplungsgesetz"
+          },
+          {
+            "name": "Stromsteuergesetz"
+          },
+          {
+            "name": "Energiesteuergesetz"
+          },
+          {
+            "name": "EU-Beihilferecht"
+          },
+          {
+            "name": "Brennstoffemissionshandelsgesetz"
+          },
+          {
+            "name": "Bürgerliches Gesetzbuch"
+          },
+          {
+            "name": "Energiewirtschaftsgesetz"
+          },
+          {
+            "name": "Wohnungseigentümergesetz"
+          },
+          {
+            "name": "Einkommenssteuergesetz"
+          },
+          {
+            "name": "Investitionssteuergesetz"
+          },
+          {
+            "name": "Bundesimmissionsschutzgesetz"
+          },
+          {
+            "name": "Klimaschutzgesetz"
+          }
+        ],
+        "donators": [
+          {
+            "name": "Projektträger Jülich (PTJ)",
+            "description": "Projekt im Bereich Contracting in Sozialeinrichtungen",
+            "location": "Forschungszentrum Jülich GmbH FZJ, Erneuerbare Wärme, Postfach 61 02 47, 10923 Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+            "description": "Projekt im Bereich Finanzierung von Energieeffizienzinvestitionen",
+            "location": "Referat 511 Bundesstelle für Energieeffizienz, Frankfurter Str. 29-35, 65760 Eschborn",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 80001,
+              "to": 90000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in field of energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of ​​the environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of ​​spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "DENEFF-ORG-Compliance-Richtlinie.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d1/1e/2003/DENEFF-ORG-Compliance-Richtlinie.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020-DENEFF-short.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/1e/ef/2004/Jahresabschluss-2020-DENEFF-short.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000254",
       "registerEntryDetail": {
