@@ -9,8 +9,166 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 248,
+  "resultCount": 249,
   "results": [
+    {
+      "registerNumber": "R000252",
+      "registerEntryDetail": {
+        "id": 750,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "Abgrenzung schwierig (z.B. Branchenkongresse mit (teilweise) Anwesenheit von Politik und Behördenvertretern; Wie soll das berechnet werden? Zählt auch die Positionsfindung als Grundlage für Interessenvertretung der Branche dazu?",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "Keine öffentlichen Zuschüsse erhalten;",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "keine Schenkungen erhalten;",
+        "account": {
+          "registerNumber": "R000252",
+          "firstPublicationDate": "2022-02-02T06:33:41.000Z"
+        },
+        "activityDescription": "Der Bundesverband der Windparkbetreiber Offshore e.V. (BWO) bündelt Erfahrungen und Kompetenzen seiner Mitglieder und leitet daraus politische Handlungsempfehlungen ab. Laut Satzung hat der Verein die Aufgabe, den Ausbau der Windenergie auf See in der Bundesrepublik Deutschland oder in anderen Ländern der Europäischen Union aktiv zu fördern. Der Verein soll darüber hinaus den industrieweiten Austausch zu technischen und rechtlichen Themen fördern mit dem Ziel, einen dauerhaften Beitrag zur kostengünstigen und nachhaltigen Energieversorgung aus Offshore Windenergieanlagen zu liefern. Dazu sollen die bisherigen Entwicklungen von Offshore-Windenergie ausgewertet und mögliche Folgen künftiger Rahmenbedingungen analysiert werden. Für das Gelingen der Energiewende setzt sich der Verband für einen Genehmigungs- und Infrastrukturrahmen ein, der einen volkswirtschaftlich kosteneffizienten Ausbau der Offshore-Windenergie ermöglicht.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "BWO - Bundesverband der Windparkbetreiber Offshore",
+          "phoneNumber": "+4917638872653",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Schiffbauerdamm",
+            "streetNumber": "19",
+            "zipCode": "10117",
+            "city": "Berlin - Mitte",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bwo-offshorewind.de"
+          ],
+          "websites": [
+            "https://bwo-offshorewind.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Sven",
+              "lastName": "Utermöhlen",
+              "function": "Vorsitzender des Vorstands",
+              "phoneNumber": "+493028444650",
+              "organizationMemberEmails": [
+                "info@bwo-offshorewind.de"
+              ]
+            },
+            {
+              "commonFirstName": "Catrin",
+              "lastName": "Jung",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+493028444650",
+              "organizationMemberEmails": [
+                "info@bwo-offshorewind.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Martin",
+              "lastName": "Skiba",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+493028444650",
+              "organizationMemberEmails": [
+                "info@bwo-offshorewind.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Klett",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+493028444650",
+              "organizationMemberEmails": [
+                "info@bwo-offshorewind.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Thimm",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4917638872653",
+              "organizationMemberEmails": [
+                "info@bwo-offshorewind.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Manuel",
+              "lastName": "Battaglia"
+            },
+            {
+              "commonFirstName": "Asma",
+              "lastName": "Rharmaoui-Claquin"
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Gevers"
+            }
+          ],
+          "members": 20,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "Windeurope"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in field of energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000251",
       "registerEntryDetail": {
