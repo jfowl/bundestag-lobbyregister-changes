@@ -9,8 +9,72 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 261,
+  "resultCount": 262,
   "results": [
+    {
+      "registerNumber": "R000265",
+      "registerEntryDetail": {
+        "id": 997,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "Die Höhe der finanziellen Aufwendungen ist abhängig von der Höhe der Mitgliedsbeiträge.",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000265",
+          "firstPublicationDate": "2022-02-02T13:13:05.000Z"
+        },
+        "activityDescription": "Der BVFI - Bundesverband ist eine Interessenvertretung der Immobilienmakler.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Helge",
+          "lastName": "Ziegler"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Immobilienwirtschaft"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000264",
       "registerEntryDetail": {
