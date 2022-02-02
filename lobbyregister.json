@@ -9,8 +9,189 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 254,
+  "resultCount": 255,
   "results": [
+    {
+      "registerNumber": "R000258",
+      "registerEntryDetail": {
+        "id": 551,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 300001,
+          "to": 310000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000258",
+          "firstPublicationDate": "2022-02-02T10:15:43.000Z"
+        },
+        "activityDescription": "Zweck der Gesellschaft ist die Förderung von Wissenschaft und Forschung, Bildung und öffentlichem Gesundheitswesen auf dem Gebiet der Ernährungsmedizin und Stoffwechselforschung.\r\nEr wird insbesondere durch die Veranstaltung von Kursen, Symposien und Kongressen und anderen wisschenschaftlichen, fort-und weiterbildenden Veranstaltungen, den Abschluss interdisziplinärer Vereinbarungen, die Erarbeitung von Empfehlungen und Leitlinien verwirklicht.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Gesellschaft für Ernährungsmedizin e.V.",
+          "phoneNumber": "+4930311719340",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Deutsche Gesellschaft für",
+            "nationalAdditional2": "Ernährungsmedizin e.V.",
+            "street": "Karl-Marx-Allee ",
+            "streetNumber": "77",
+            "zipCode": "10243",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "infostelle@dgem.de"
+          ],
+          "websites": [
+            "www.dgem.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr. med. Dr. oec.",
+              "commonFirstName": "Anja",
+              "lastName": "Bosy-Westphal",
+              "function": "Präsidentin ",
+              "phoneNumber": "+494318805674",
+              "organizationMemberEmails": [
+                "abosyw@nutrition.uni-kiel.de",
+                "infostelle@dgem.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "PD Dr.med.",
+              "commonFirstName": "Frank",
+              "lastName": "Jochum",
+              "function": "1. Vizepräsident",
+              "phoneNumber": "+493037021022",
+              "organizationMemberEmails": [
+                "frank.jochum@pgdiakonie.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Matthias",
+              "lastName": "Pirlich",
+              "function": "2. Vizepräsident",
+              "phoneNumber": "+49308595360",
+              "organizationMemberEmails": [
+                "matthias.pirlich@googlemail.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Diana",
+              "lastName": "Rubin",
+              "function": "Schatzmeisterin",
+              "phoneNumber": "+4915787173277",
+              "organizationMemberEmails": [
+                "diana.rubin@vivantes.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. rer. medic.",
+              "commonFirstName": "Kristina",
+              "lastName": "Norman",
+              "function": "Sekretärin",
+              "phoneNumber": "+4930450514139",
+              "organizationMemberEmails": [
+                "kristina.norman@charite.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christina",
+              "lastName": "Protz"
+            },
+            {
+              "commonFirstName": "Brigitte",
+              "lastName": "Herbst"
+            },
+            {
+              "commonFirstName": "Lena",
+              "lastName": "Wehle"
+            }
+          ],
+          "members": 3056,
+          "membersCountDate": "2022-01-09T23:00:00.000Z",
+          "membershipEntries": [
+            "AWMF",
+            "IDW",
+            "GMA",
+            "DANK"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of agriculture and food"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "EUR-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/5b/78/2031/EUR-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000257",
       "registerEntryDetail": {
@@ -3485,7 +3666,7 @@
     {
       "registerNumber": "R000242",
       "registerEntryDetail": {
-        "id": 61,
+        "id": 1864,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -3617,15 +3798,22 @@
             "type": "CODE_OF_CONDUCT",
             "media": {
               "fileName": "BBMV-Verhaltenskodex.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/87/38/1900/BBMV-Verhaltenskodex.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/88/4b/2032/BBMV-Verhaltenskodex.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "BBMV-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/b4/ed/2033/BBMV-Jahresabschluss-2020.pdf",
               "mimeType": "application/pdf"
             }
           }
         ],
         "disclosureRequirementsExist": false,
         "refuseAnnualFinanceStatement": false,
-        "annualReportExist": false,
-        "missingAnnualReportReason": "in Erstellung"
+        "annualReportExist": true
       }
     },
     {
