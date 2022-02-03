@@ -10907,7 +10907,7 @@
     {
       "registerNumber": "R000221",
       "registerEntryDetail": {
-        "id": 807,
+        "id": 1941,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -11145,10 +11145,18 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Kurzfassung-Bericht-uber-die-Prufung-des-Jahresabschlusses-der-IBC-SOL.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/04/93/2162/Kurzfassung-Bericht-uber-die-Prufung-des-Jahresabschlusses-der-IBC-SOL.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": true,
-        "annualReportExist": false,
-        "missingAnnualReportReason": "Jahresabschlusserstellung ist bei IBC SOLAR AG abgeschlossen bis 30.06. des Folgejahres und wird nach Testat durch Wirtschaftsprüfer umgehend nachgereicht."
+        "annualReportExist": true
       }
     },
     {
