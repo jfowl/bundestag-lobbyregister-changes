@@ -9,8 +9,647 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 270,
+  "resultCount": 275,
   "results": [
+    {
+      "registerNumber": "R000278",
+      "registerEntryDetail": {
+        "id": 237,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "",
+        "account": {
+          "registerNumber": "R000278",
+          "firstPublicationDate": "2022-02-03T10:22:25.000Z"
+        },
+        "activityDescription": "-",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_OTHER",
+          "text": "-"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Landes-Innungsverband für das bayerische Bäckerhandwerk",
+          "phoneNumber": "+49895442130",
+          "address": {
+            "type": "POSTBOX",
+            "zipCode": "80048",
+            "city": "München",
+            "poxBox": "151323",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "code_en": "Other juristic person",
+            "type": "JURISTIC_PERSON",
+            "legalFormText": "Juristische Person"
+          },
+          "organizationEmails": [
+            "liv@baecker-bayern.de"
+          ],
+          "websites": [
+            "www.baecker-bayern.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Kopp",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49895442130",
+              "organizationMemberEmails": [
+                "liv@baecker-bayern.de"
+              ]
+            },
+            {
+              "commonFirstName": "Heinrich",
+              "lastName": "Traublinger jun.",
+              "function": "Landesinnungsmeister",
+              "phoneNumber": "+49895442130",
+              "organizationMemberEmails": [
+                "liv@baecker-bayern.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 1500,
+          "membersCountDate": "2020-12-31T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "-"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000277",
+      "registerEntryDetail": {
+        "id": 560,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "",
+        "account": {
+          "registerNumber": "R000277",
+          "firstPublicationDate": "2022-02-03T10:14:05.000Z"
+        },
+        "activityDescription": "§ 2 der Satzung: Aufgaben\r\nDer Verband stellt sich die Aufgabe, sich der Alten-, Kinderkranken- und Krankenpflege, der öffentlichen Gesundheitspflege und der Hilfe Bedürftiger zu widmen.\r\n(1) Der Verband nimmt die allgemeinen aus der beruflichen Tätigkeit erwachsenden ideellen und wirtschaftlichen Interessen der Berufsangehörigen in der Alten-, Gesundheits- und Krankenpflege, Gesundheits- und Kinderkrankenpflege wahr. Die Tätigkeit des Verbandes richtet sich insbesondere auf:\r\n\r\nVertretung der Berufsangehörigen in der Öffentlichkeit in Bezug auf die Weiterentwicklung der Pflege und der Pflegeberufe.\r\nFörderung und Vertiefung des Verständnisses für die Berufsbelange der Pflegenden u.a. bei Ministerien, Behörden, Verbänden, Organisationen, Gerichten usw.\r\nKooperation mit sich der Pflege widmenden Verbänden oder sonstigen Vereinigungen, insbesondere dem Deutschen Paritätischen Wohlfahrtsverband.\r\nQualitätssicherung der Pflege z.B. durch Fort- und Weiterbildung.\r\nWeiterentwicklung von Pflegewissenschaft und Pflegeforschung.\r\nEntwicklung und Durchführung von Fort- und Weiterbildungsmaßnahmen für alle Berufsangehörigen.\r\nFörderung der Gesundheitserziehung und -beratung der Bevölkerung.\r\nBeratung der Berufsangehörigen in Fragen der Karriereplanung, des Arbeits-, Haftungs-, Straf- und Versicherungsrechts.\r\nFörderung der Einführung und Etablierung von pflegewissenschaftlichen Studiengängen im Hochschulbereich.\r\nHerausgabe einer Zeitschrift zur Unterrichtung der Berufsangehörigen und der interessierten Öffentlichkeit über Stand und Fortentwicklung der Alten-, Gesundheits- und Kinder-/Krankenpflege.\r\nVertretung der Interessen von (Einzel-)Selbständigen und Inhabern von Gesundheits- und Pflegeeinrichtungen in der Öffentlichkeit sowie gegenüber dem Gesetzgeber und in Verhandlungen mit den Kostenträgern auf Landes- und Bundesebene.\r\n(2) Der Verband kann auch Träger von Einrichtungen der Krankenversorgung und Altenhilfe im Sinne der Abgabenordnung sein. Er kann insbesondere selbst gemeinnützige Körperschaften gründen, erwerben oder sich daran beteiligen und so gemeinnützigen Zwecken im Sinne des Abschnittes \"Steuerbegünstigte Zwecke der Abgabenordnung vom 01.01.1977\" in der jeweils gültigen Fassung dienen.\r\n\r\n(3) Der DBfK gehört dem International Council of Nurses (ICN) an.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Berufsverband für Pflegeberufe (DBfK e. V.)",
+          "phoneNumber": "+49302191570",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Alt-Moabit",
+            "streetNumber": "91",
+            "zipCode": "10559",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "dbfk@dbfk.de"
+          ],
+          "websites": [
+            "www.dbfk.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Christel",
+              "lastName": "Bienstein",
+              "function": "Präsidentin",
+              "phoneNumber": "+49302191570",
+              "organizationMemberEmails": [
+                "bienstein@dbfk.de"
+              ]
+            },
+            {
+              "commonFirstName": "Katrin",
+              "lastName": "Havers",
+              "function": "geschäftsführender Vorstand",
+              "phoneNumber": "+49302191570",
+              "organizationMemberEmails": [
+                "havers@dbfk.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Werner",
+              "function": "geschäftsführender Vorstand",
+              "phoneNumber": "+49302191570",
+              "organizationMemberEmails": [
+                "werner@dbfk.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Bernadette",
+              "lastName": "Klapper",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+49302191570",
+              "organizationMemberEmails": [
+                "klapper@dbfk.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Susanne ",
+              "lastName": "Adjei"
+            },
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Tackenberg"
+            },
+            {
+              "commonFirstName": "Martina",
+              "lastName": "Buls"
+            },
+            {
+              "commonFirstName": "Jeannette",
+              "lastName": "Drews"
+            },
+            {
+              "commonFirstName": "Andrea",
+              "lastName": "Weskamm"
+            },
+            {
+              "commonFirstName": "Ingo",
+              "lastName": "Böing"
+            },
+            {
+              "commonFirstName": "Carola",
+              "lastName": "Stenzel-Maubach"
+            },
+            {
+              "commonFirstName": "Ivonne",
+              "lastName": "Köhler-Roth"
+            },
+            {
+              "commonFirstName": "Anja ",
+              "lastName": "Hild"
+            },
+            {
+              "commonFirstName": "Dagny",
+              "lastName": "Misera"
+            }
+          ],
+          "members": 25000,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "4"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "berufspolitische Intereressenvertretung"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "dv-2020-version-final-2021-03-15.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/e2/28/2172/dv-2020-version-final-2021-03-15.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000276",
+      "registerEntryDetail": {
+        "id": 602,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "Wir verweigern die Angaben nach § 3, Abs. 1, Nr. 7 LobbyRG gemäß § 3 Abs. 2 LobbyRG mit folgender Begründung:\r\naction medeor ist ein gemeinnütziger eingetragener Verein. Satzungsgemäß fördern wir die Entwicklungszusammenarbeit auf allen Gebieten der Gesundheitsfürsorge und mildtätige Zwecke. Als Teil von Aktion Deutschland Hilft, dem Bündnis renommierter deutscher Hilfsorganisationen, leisten wir auch im Katastrophenfall schnelle und effektive Hilfe.\r\nAls Mitglied des Deutschen Spendenrates sind wir zu Transparenz und Offenheit und zur Einhaltung hoher Qualitätsstandards verpflichtet. Dies gilt insbesondere für unsere Spendenwerbung und Mittelverwendung.\r\nUnsere Spender:innen vertrauen darauf, dass ihre Daten in sicheren Händen sind und diese nicht an Dritte weitergegeben werden. Dieses Vertrauen ist für uns ein hohes Gut. Zudem bestehen datenschutzrechtliche Bedenken. Wir können aus diesen  Gründen die Daten von Spender:innen nicht weitergeben und veröffentlichen. \r\nDurch den regelmäßigen und intensiven Austausch mit unseren Spender:innen wissen wir außerdem, dass die große Mehrheit einer Meldung ihrer Namen und Wohnorte nicht zustimmen würde und deshalb zukünftig auf eine Spende verzichten würde. Dies würde zu signifikanten Finanzierungslücken führen, die die verfassungsmäßig gewährleistete und gesellschaftlich angestrebte Tätigkeit der Zivilgesellschaft stark einschränken würde.\r\n",
+        "locationOfReportPublication": "Link zu den jeweils aktuellsten Rechenschaftsberichten:\r\nhttps://medeor.de/de/ueber-uns/transparenz-und-kontrolle/publikationen-und-jahresberichte.html\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+        "account": {
+          "registerNumber": "R000276",
+          "firstPublicationDate": "2022-02-03T10:07:07.000Z"
+        },
+        "activityDescription": "Der gemeinnützige Verein action medeor setzt sich als \"Notapotheke der Welt\" seit 1964 dafür ein, die Gesundheit von Menschen in den ärmsten Regionen der Welt nachhaltig zu verbessern. Gemeinsam mit lokalen Partnern versorgt action medeor Gesundheitseinrichtungen mit lebenswichtigem medizinischem Bedarf. Außerdem werden die Gesundheitsstrukturen vor Ort in nachhaltigen Projekten, zum Beispiel durch Aufklärungsarbeit oder die Ausbildung von medizinischem Personal, langfristig gestärkt.\r\nUm entsprechende Rahmenbedingungen zu schaffen, steht der gemeinnützige Verein selbst oder mittelbar über die Mitgliedschaft bei VENRO oder Aktion Deutschland Hilft im ständigen Austausch mit Bürgerinnen und Bürgern sowie den Vertreterinnen und Vertretern von Wissenschaft, Medien, Wirtschaft und Politik.\r\n",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsches Medikamenten-Hilfswerk „action medeor\" e.V.",
+          "phoneNumber": "+4921569788100",
+          "address": {
+            "type": "NATIONAL",
+            "street": "St. Töniser Straße",
+            "streetNumber": "21",
+            "zipCode": "47918",
+            "city": "Tönisvorst",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@medeor.de"
+          ],
+          "websites": [
+            "www.medeor.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Sid",
+              "lastName": "Peruvemba",
+              "function": "Vorstand (Vorstandssprecher)",
+              "phoneNumber": "+4921569788123",
+              "organizationMemberEmails": [
+                "Sid.Peruvemba@medeor.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Bonsmann",
+              "function": "Vorstand",
+              "phoneNumber": "+4921569788123",
+              "organizationMemberEmails": [
+                "Christoph.Bonsmann@medeor.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 103,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "Aktion Deutschland Hilft e.V. (Bündnis deutscher Hilfsorganisationen)",
+            "Verband Entwicklungspolitik und Humanitäre Hilfe deutscher Nichtregierungsorganisationen e.V. (VENRO)",
+            "Bundesverband Deutscher Stiftungen e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+            "description": "Das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) fördert Programme der humanitären Hilfe und Entwicklungszusammenarbeit in Afrika, Lateinamerika und Asien.",
+            "location": "Bonn",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 2170001,
+              "to": 2180000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Auswärtiges Amt (AA)",
+            "description": "Das Auswärtige Amt (AA) fördert Programme der humanitären Hilfe und Entwicklungszusammenarbeit in Afrika, Lateinamerika und Asien. \r\n",
+            "location": "Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 2610001,
+              "to": 2620000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Staatskanzlei des Landes Nordrhein-Westfalen",
+            "description": "Die Staatskanzlei NRW bezuschusst Programme der humanitären Hilfe in Vorderasien.",
+            "location": "Düsseldorf",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000275",
+      "registerEntryDetail": {
+        "id": 1431,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000275",
+          "firstPublicationDate": "2022-02-03T10:00:58.000Z"
+        },
+        "activityDescription": "Mit ihrer Petition an den Deutschen Bundestag möchte die Initiative eine bundesweite Einführung von zwei Stunden Reanimationsunterricht spätestens ab der 7. Klasse jährlich bis zum Ende der Schulzeit erreichen, so können pro Jahr tausende Menschenleben in Deutschland zusätzlich gerettet werden. Hierzu wird Kontakt mit Informationen zum Thema Wiederbelebung zu PolitikerInnen aufgenommen.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Initiative „Wir beleben Deutschland wieder“ ",
+          "phoneNumber": "+4922147882054",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Uniklinik Köln",
+            "nationalAdditional2": "Klinik für Anästhesiologie",
+            "street": "Kerpener Str.",
+            "streetNumber": "62",
+            "zipCode": "50937",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "ein Zusammenschluss aus vielen Organisationen und Verbänden, die sich für die Verbesserung der Laienreanimationsquote in Deutschland einsetzen"
+          },
+          "organizationEmails": [
+            "Direktor-Anaesthesiologie-Vorzimmer@uk-koeln.de",
+            "rott@grc-org.de"
+          ],
+          "websites": [
+            "https://ichrettedeinleben.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Bernd",
+              "lastName": "Böttiger",
+              "function": "Co-initiator",
+              "phoneNumber": "+4922147882054",
+              "organizationMemberEmails": [
+                "Direktor-Anaesthesiologie-Vorzimmer@uk-koeln.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Carola ",
+              "lastName": "Holzner ",
+              "function": "Co-Initiatorin",
+              "phoneNumber": "+4922147882054",
+              "organizationMemberEmails": [
+                "doc.caro.holzner@gmail.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000274",
+      "registerEntryDetail": {
+        "id": 520,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000274",
+          "firstPublicationDate": "2022-02-03T10:00:06.000Z"
+        },
+        "activityDescription": "Alle Psychologischen Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten im Land Bremen sind Mitglieder der Psychotherapeutenkammer Bremen. Diese Pflichtmitgliedschaft wurde im Heilberufsgesetz des Landes Bremen festgelegt.\r\nDie Bundesländer übertragen den Kammern Aufgaben in Selbstverwaltung, die ohne Kammern (als Körperschaften öffentlichen Rechts) dem Staat vorbehalten wären. \r\n\r\nSelbstverwaltung bedeutet, dass die Kammerversammlung, zu der alle Mitglieder der Kammer eingeladen sind, die ehrenamtlichen Vertreter und Vertreterinnen im Kammervorstand und in den Ausschüssen der Psychotherapeutenkammer Bremen sowie die Delegierten im deutschen Psychotherapeutentag wählt. Die Kammerversammlung kommt in der Regel zwei Mal jährlich zusammen. Eine Versammlung der Psychotherapeutenkammer als Vollversammlung aller Kammermitglieder ist deutschlandweit einmalig. Die Kammerversammlung stimmt über die Regeln der Bremer Kammer ab: die Satzung und Ordnungen. \r\n\r\nIm Bremischen Heilberufsgesetz wird als zentrale Aufgabe der Kammer die Vertretung der Belange ihrer Mitglieder im Einklang mit den Interessen der Allgemeinheit benannt.\r\n\r\nDas bedeutet bspw.\r\n\r\n-Aufsicht über die Berufspflichten der Kammerangehörigen\r\n-Förderung der beruflichen Fortbildung und die Gestaltung der Weiterbildung\r\n-Qualitätssicherung der Berufsausübung ihrer Mitglieder\r\n-Vermittlung bei Streitigkeiten zwischen Patient*innen und Behandler*innen\r\n-Vermittlung bei Streitigkeiten von Kammermitgliedern untereinander\r\n-Unterstützung des Öffentlichen Gesundheitsdienstes (Gesundheitsämter)\r\n-Abgabe von Stellungnahmen zu Gesetz- und Verordnungsentwürfen\r\n-Erstattung von Gutachten zu Angelegenheiten des psychotherapeutischen Berufes und Fachgebietes.\r\n\r\nDie Kammer geht Beschwerden über Kammermitglieder nach, die von Klienten oder Patienten an die Kammer herangetragen werden. Liegen Verstöße gegen die Berufspflichten vor, kann die Kammer Rügen mit Geldbußen verhängen oder - bei schwerwiegenden Verstößen -ein berufsgerichtliches Verfahren beantragen. Für die Behandlung dieser Probleme wurde der Beschwerde und Schlichtungsausschuss geschaffen.\r\n\r\nDie Kammerversammlung kann bspw. Gäste zum politischen Austausch in die Kammerversammlung einladen. Die Versammlung kann sich politisch durch Resolutionen zu gesellschaftlichen Entwicklungen äußern.\r\n\r\nDer Kammervorstand darf sich durch Stellungnahmen zu Gesetzesentwürfen einbringen und darüber die Interessen der Mitglieder vertreten. Wir können Gespräche mit verschiedenen Interessensvertreter*innen in der Gesundheitspolitik führen und über unsere Anliegen berichten.\r\n\r\nIn verschiedenen Gremien der Bundespsychotherapeutenkammer werden politische Entwicklungen diskutiert und gemeinsame Strategien entwickelt. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PUBLIC_LAW_ORGA",
+          "de": "Öffentlich-rechtliche Organisation (z. B. Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts)",
+          "en": "Public law organization (e.g. corporations, institutions and foundations under public law)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Psychotherapeutenkammer Bremen",
+          "phoneNumber": "+494212772000",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Hollerallee",
+            "streetNumber": "22",
+            "zipCode": "28209",
+            "city": "Bremen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_KDOER",
+            "code_de": "Körperschaft des öffentlichen Rechts",
+            "code_en": "Public corporation",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "lindenthal-schmidt@pk-hb.de",
+            "verwaltung@pk-hb.de"
+          ],
+          "websites": [
+            "https://www.pk-hb.de/aktuell/index.html"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Amelie",
+              "lastName": "Thobaben",
+              "function": "Präsidentin",
+              "phoneNumber": "+494212772000",
+              "organizationMemberEmails": [
+                "verwaltung@pk-hb.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Madalena",
+              "lastName": "Lindenthal-Schmidt",
+              "academicDegreeAfter": "LL.M."
+            }
+          ],
+          "members": 794,
+          "membersCountDate": "2022-01-09T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000273",
       "registerEntryDetail": {
