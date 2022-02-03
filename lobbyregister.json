@@ -9,8 +9,167 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 275,
+  "resultCount": 276,
   "results": [
+    {
+      "registerNumber": "R000279",
+      "registerEntryDetail": {
+        "id": 873,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000279",
+          "firstPublicationDate": "2022-02-03T11:03:31.000Z"
+        },
+        "activityDescription": "Der Verband vertritt in der Bundesrepublik Deutschland die Interessen des organisierten Betriebssports gegenüber den anderen Sportorganisationen und den staatlichen Stellen. Dabei bringt er insbesondere bei den Entscheidungsprozessen der anderen Organisationen die Bedeutung und Interessen des organisierten Betriebssports ein und wirkt auf deren Beachtung bei der Entscheidung hin.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Betriebssportverband e.V.",
+          "phoneNumber": "+492284337623",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Olympiapark Berlin",
+            "street": "Hanns-Braun-Strasse / Adlerplatz",
+            "streetNumber": "1",
+            "zipCode": "14053",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "tronnie@snafu.de",
+            "Uwe.Tronnier@Betriebssport.net"
+          ],
+          "websites": [
+            "www.Betriebssport.net"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Patrick",
+              "lastName": "Nessler",
+              "function": "Generalsekretär",
+              "phoneNumber": "+4968949969237",
+              "organizationMemberEmails": [
+                "patrick.nessler@betriebssport.net"
+              ]
+            },
+            {
+              "commonFirstName": "Uwe",
+              "lastName": "Tronnier",
+              "function": "Präsident",
+              "phoneNumber": "+492284337623",
+              "organizationMemberEmails": [
+                "tronnie@snafu.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gabriele",
+              "lastName": "Wrede",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+493320144127",
+              "organizationMemberEmails": [
+                "gabriele-wrede@web.de"
+              ]
+            },
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Römer",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4968214016020",
+              "organizationMemberEmails": [
+                "roemer@betriebssport-rp.de"
+              ]
+            },
+            {
+              "commonFirstName": "Meyer",
+              "lastName": "Bernd",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4941015882663",
+              "organizationMemberEmails": [
+                "willmey@t-online.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 31,
+          "membersCountDate": "2022-01-27T23:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Olympischer Sportbund e.V.",
+            "Deutsche Olympische Akademie Willy Daume e.V.",
+            "Deutsche Olympische Gesellschaft e.V.",
+            "Bundesverband Mittelständische Wirtschaft e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of work and employment"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Jahresabschluss 2021 ist noch nicht von allen dazu erforderlichen Gremien des Verbandes geprüft bzw. bestätigt worden."
+      }
+    },
     {
       "registerNumber": "R000278",
       "registerEntryDetail": {
