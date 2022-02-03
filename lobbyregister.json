@@ -9,8 +9,267 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 283,
+  "resultCount": 284,
   "results": [
+    {
+      "registerNumber": "R000287",
+      "registerEntryDetail": {
+        "id": 356,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000287",
+          "firstPublicationDate": "2022-02-03T17:48:44.000Z"
+        },
+        "activityDescription": "Zweck der DGAUM e.V. sind die Förderung von Wissenschaft und Forschung, insbesondere die Förderung der wissenschaftlichen und fachlichen Belange der Arbeitsmedizin und einer klinisch orientierten Umweltmedizin, die Förderung der Berufsbildung sowie die Förderung des öffentlichen Gesundheitswesens und der öffentlichen Gesundheitspflege, insbesondere die Mitwirkung an der bestmöglichen arbeitsmedizinischen und umweltmedizinischen Betreuung der Bevölkerung. Die Satzungszwecke werden verwirklicht insbesondere durch \r\na) die Förderung von Ausbildung, Weiterbildung und Fortbildung auf dem Gebiet der Arbeits- und klinischen Umweltmedizin,\r\nb) die enge Zusammenarbeit auf wissenschaftlicher Basis mit den Verband Deutscher Betriebs- und Werksärzte e.V. - Berufsverband deutscher Arbeitsmediziner -,\r\nc) die Pflege der Verbindung unter den an der Arbeitsmedizin und einer klinisch orientierten Umweltmedizin Interessierten und die internationale Zusammenarbeit auf diesem Gebiet.\r\nd) Veranstaltung einer wissenschaftlichen Tagung auf dem Gebiet der Arbeitsmedizin oder klinischen Umweltmedizin mindestens einmal im Jahr,\r\ne) die Unterstützung internationaler Tagungen auf dem Gebiet der Arbeitsmedizin oder klinischen Umweltmedizin,\r\nf) die Förderung der wissenschaflichen Arbeit auf dem Gebiet der Arbeitsmedizin oder klinischen Umweltmedizin durch Preise und Beihilfen,\r\ng) die ständige eigene Unterrichtung über die Versorgung der erwerbstätigen Bevölkerung Deutschlands durch Arbeitsmediziner und geeignete Institutionen,\r\nh) die Beratung der zuständigen Behörden, Gremien und Institutionen im In- und Ausland in allen Fragen der Ausbildung, Weiterbildung, Fortbildung und Berufsausübung in der Arbeitsmedizin oder klinischen Umweltmedizin.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Gesellschaft für Arbeitsmedizin u. Umweltmdizin (DGAUM) e.V.",
+          "phoneNumber": "+49893303960",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Geschäftsstelle ",
+            "street": "Schwanthalerstr. ",
+            "streetNumber": "73B",
+            "zipCode": "80336",
+            "city": "München",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "tnesseler@dgaum.de",
+            "gs@dgaum.de"
+          ],
+          "websites": [
+            "www.dgaum.de",
+            "www.gesund-arbeiten-in-thueringen.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr. phil.",
+              "commonFirstName": "Thomas",
+              "lastName": "Nesseler",
+              "academicDegreeAfter": "M.A.",
+              "function": "Hauptgeschäftsführer",
+              "phoneNumber": "+49893303960",
+              "organizationMemberEmails": [
+                "tnesseler@dgaum.de",
+                "gs@dgaum.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Thomas",
+              "lastName": "Kraus",
+              "function": "Präsident",
+              "phoneNumber": "+492418088880",
+              "organizationMemberEmails": [
+                "tkraus@ukaachen.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Volker",
+              "lastName": "Harth",
+              "academicDegreeAfter": "MPH",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4940428374301",
+              "organizationMemberEmails": [
+                "harth@uke.de",
+                "volker.harth@justiz.hamburg.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 1225,
+          "membersCountDate": "2022-01-30T23:00:00.000Z",
+          "membershipEntries": [
+            "AWMF e.V. Arbeitsgemeinschaft wiss. med. Fachgesellschaften",
+            "BVPG e.V. Bundesvereinigung Prävention und Gesundheitsförderung",
+            "Basi e.V. Bundesarbeitsgemeinschaft für Sicherheit und Gesundheit bei der Arbeit ",
+            "BAR e.V. Bundesarbeitsgemeinschaft Rehabilitation",
+            "WMAR e.V. Wissenschaftlich- Medizinischen Allianz für Rehabilitation ",
+            "ABNR e.V. Aktionsbündnis Nichtrauchen ",
+            "Aktionsbündnis Arbeitsmedizin e.V.",
+            "Aktionsbündnis Seelische Gesundheit e.V."
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "Digitalisierung im Gesundheitswesen: Anbindung Betriebsärzte an die Telematik-Infrastruktur"
+          },
+          {
+            "name": "Umsetzung Präventionsgesetz § 132e SGB V mit Schutzimpfungen durch Betriebsärzte am Arbeitsplatz zu Lasten der GKV"
+          },
+          {
+            "name": "Aktualisierungen Coronavirus-Impfverordnung"
+          },
+          {
+            "name": "Weiterentwicklung Arbeitsmedizinische Vorsorgeverordnung (ArbMedVV)"
+          }
+        ],
+        "donators": [
+          {
+            "name": "Deutsche Gesetzliche Unfallversicherung e.V.; Berlin",
+            "description": "Förderbeitrag enstsprechend der satzungsmäßigen Ziele der DGAUM e.V.",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "DGAUM-e-V-EUR-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/8a/c3/2268/DGAUM-e-V-EUR-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Ethikkodex-der-Arbeitsmedizin.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/5e/78/2269/Ethikkodex-der-Arbeitsmedizin.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000286",
       "registerEntryDetail": {
@@ -15811,7 +16070,7 @@
     {
       "registerNumber": "R000213",
       "registerEntryDetail": {
-        "id": 1166,
+        "id": 2031,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -15921,7 +16180,16 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": []
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "degepol-Verhaltenskodex.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/2c/cb/2264/degepol-Verhaltenskodex.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ]
       }
     },
     {
