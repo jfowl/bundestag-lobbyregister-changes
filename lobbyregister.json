@@ -9,8 +9,230 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 269,
+  "resultCount": 270,
   "results": [
+    {
+      "registerNumber": "R000273",
+      "registerEntryDetail": {
+        "id": 1469,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000273",
+          "firstPublicationDate": "2022-02-03T09:26:21.000Z"
+        },
+        "activityDescription": "Der DVTM - Deutscher Verband für Telekommunikation und Medien e.V. ist zentrale Schnittstelle und aufgrund seiner \"Konvergenz-Strategie\" ausgewiesener Experte für die an der Wertschöpfungskette Telekommunikation, Medien, Energie und \"Bettertainment\" beteiligten Unternehmen. Dazu gehören national und europaweit tätige Diensteanbieter, Medien- und Verlagshäuser, Netzwerk-, Service-, und Internetprovider, Reseller, technische Dienstleister, Paymentanbieter, Consulting- und Inkassounternehmen sowie Veranstalter und Vermittler von Glücksspielen wie Sportwetten, Automatenspielen, Poker, Lotto und E-Sport, die unter dem Begriff \"Bettertainment\" zusammengefasst sind.\r\n\r\nZiel des Verbandes ist es, im Einklang mit Verbrauchern, Politik und Wirtschaft einen zukunftsorientierten, innovativen und wettbewerbsorientierten Markt für Telekommunikation, Medien, Energie und \"Bettertainment\" zu schaffen. Der Verband setzt sich themenübergreifend für einen fairen Wettbewerb in regulierten, konvergenten Märkten im europäischen Binnenmarkt ein.\r\n\r\nDie Mitglieder des Verbandes agieren freiwillig im Rahmen des \"Kodex Deutschland für Telekommunikation und Medien\". Die von einem prominent besetzten Beirat begleitete \"Kodex-Kommission\" formuliert anerkannte Branchenstandards, befähigt dazu, den Markt aktiv mitzugestalten und stärkt damit das Prinzip der Selbstregulierung.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Verband für Telekommunikation und Medien (DVTM) e.V.",
+          "phoneNumber": "+492283040160",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Renatus Zilles",
+            "nationalAdditional2": "Vorstandsvorsitzender",
+            "street": "Lindenallee ",
+            "streetNumber": "11",
+            "zipCode": "53173",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "renatus.zilles@dvtm.net",
+            "office@dvtm.net"
+          ],
+          "websites": [
+            "www.dvtm.net"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Renatus",
+              "lastName": "Zilles",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+492283040160",
+              "organizationMemberEmails": [
+                "renatus.zilles@dvtm.net"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Andreas",
+              "lastName": "Blaue",
+              "function": "Vorstand",
+              "phoneNumber": "+492283040160",
+              "organizationMemberEmails": [
+                "andreas.blaue@dvtm.net"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Wulf",
+              "lastName": "Hambach",
+              "function": "Vorstand",
+              "phoneNumber": "+492283040160",
+              "organizationMemberEmails": [
+                "wulf.hambach@dvtm.net"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 31,
+          "membersCountDate": "2021-12-30T23:00:00.000Z",
+          "membershipEntries": [
+            "Wirtschaftsrat der CDU e.V.",
+            "Wirtschaftsforum der SPD Deutschland e.V.",
+            "ZAW, Zentralverband der deutschen Werbewirtschaft e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of Bundestag"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of economy"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in field of European politics and the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the area of ​​law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_ADVERTISEMENT",
+            "de": "Werbung",
+            "en": "Advertising"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_MASS",
+            "de": "Massenmedien",
+            "en": "Mass media"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_OTHER",
+            "de": "Sonstiges im Bereich „Medien, Kommunikation und  Informationstechnik“",
+            "en": "Other in the field of media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Da die finanziellen Aufwendungen unter 10.000 € liegen, besteht kein Anlass den aus Mitgliedsbeiträgen finanzierten Haushalt zu veröffentlichen."
+      }
+    },
     {
       "registerNumber": "R000272",
       "registerEntryDetail": {
