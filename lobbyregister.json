@@ -9,8 +9,132 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 284,
+  "resultCount": 285,
   "results": [
+    {
+      "registerNumber": "R000288",
+      "registerEntryDetail": {
+        "id": 1495,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "11/20",
+          "fiscalYearEnd": "11/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000288",
+          "firstPublicationDate": "2022-02-03T18:36:42.000Z"
+        },
+        "activityDescription": "Aus der Vereinssatzung:\r\nZweck des Vereins sind die Förderung der Völkerverständigung zwischen Palästina, Israel\r\nund Deutschland und die Förderung von Toleranz zwischen Völkern und Religionen. Der\r\nVerein setzt sich ein für einen gerechten Frieden und die Einhaltung von Menschenrechten\r\nin Palästina und Israel.\r\nDer Satzungszweck wird verwirklicht insbesondere durch die Durchführung öffentlicher\r\nVeranstaltungen (Diskussionen, Seminare, Filmvorführungen, Vorträge, Informationsstände,\r\nStudienreisen ohne Gewinnerzielungsabsicht etc.), Treffen mit relevanten Persönlichkeiten\r\ndes öffentlichen Lebens, Beiträge zur öffentlichen und politischen Meinungsbildung in Form\r\nvon Publikationen, Unterhalt einer Website sowie die ideelle Zusammenarbeit mit\r\ngemeinnützigen und öffentlichen Organisationen sowie Einzelpersonen mit ähnlicher\r\nZielsetzung im In- und Ausland.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Netzwerk Ökumenisches Begleitprogramm in Palästina und Israel in Deutschland e.V. ",
+          "phoneNumber": "+49337957671",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Ebereschenweg ",
+            "streetNumber": "63",
+            "zipCode": "15827",
+            "city": "Blankenfelde",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "kraatz00@yohoo.de"
+          ],
+          "websites": [
+            "http://www.eappi-netzwerk.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Reinhard",
+              "lastName": "Kober",
+              "function": "2. Vorsitzender ",
+              "phoneNumber": "+49406400102",
+              "organizationMemberEmails": [
+                "r-kober@web.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gottfried ",
+              "lastName": "Kraatz ",
+              "function": "1. Vorsitzender ",
+              "phoneNumber": "+49337957671",
+              "organizationMemberEmails": [
+                "kraatz00@yahoo.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 43,
+          "membersCountDate": "2021-11-12T23:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Koordinationskreis Palästina Israel (nicht eingetragener Verein)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2021-Tatigkeitsbericht-des-Vorstands.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/eb/00/2272/2021-Tatigkeitsbericht-des-Vorstands.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000287",
       "registerEntryDetail": {
