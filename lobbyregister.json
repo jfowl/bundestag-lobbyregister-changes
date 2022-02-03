@@ -9,8 +9,206 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 278,
+  "resultCount": 279,
   "results": [
+    {
+      "registerNumber": "R000282",
+      "registerEntryDetail": {
+        "id": 1200,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000282",
+          "firstPublicationDate": "2022-02-03T12:51:39.000Z"
+        },
+        "activityDescription": "Wir vertreten primär das Deutsche Netzwerk gegen Vernachlässigte Tropenkrankheiten (DNTDS). Das deutsche Netzwerk gegen vernachlässigte Tropenkrankheiten (NTDs) e. V. unterstützt die Weltgesundheitsorganisation (WHO) dabei, mindestens zehn der insgesamt 20 neglected tropical diseases bis zum Ende dieses Jahrzehnts unter Kontrolle zu bringen. Im deutschen Netzwerk engagieren sich Akteure der Zivilgesellschaft, Wissenschaft, Privatwirtschaft sowie der Politik. Oberstes Ziel ist, die Öffentlichkeit über das Thema zu informieren, zu sensibilisieren und größere Aufmerksamkeit für die vernachlässigten Tropenkrankheiten zu wecken. Wir als g+h communication unterstützen das DNTDs in ihrer advocacy Arbeit. Tätigkeitsfelder sind: Beratung, Konzeption, Organisation und Umsetzung von geeigneten Veranstaltungsformaten, Kontaktaufnahme zu MdBs und RegierungsvertreterInnen, Etablierung von geeigneten Plattformen zur Etablierung der Zusammenarbeit mit den VertreterInnen des Dt. Bundestags. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "g+h communication GbR",
+          "phoneNumber": "+493023624603",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "g+h communication GbR",
+            "street": "Leibnizstraße",
+            "streetNumber": "28",
+            "zipCode": "10625",
+            "city": "Berlin ",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GBR",
+            "code_de": "Gesellschaft des bürgerlichen Rechts (GbR; BGB-Gesellschaft)",
+            "code_en": "Civil law association (GbR; BGB-Gesellschaft)",
+            "type": "LEGAL_ASSOCIATION"
+          },
+          "organizationEmails": [
+            "info@gundh.com"
+          ],
+          "websites": [
+            "www.gundh.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Rhan ",
+              "lastName": "Gunderlach",
+              "function": "Founder and Managing Director",
+              "phoneNumber": "+493023624603",
+              "organizationMemberEmails": [
+                "info@gundh.com"
+              ]
+            },
+            {
+              "commonFirstName": "Annette",
+              "lastName": "Hornung-Pickert",
+              "function": "Founder and Managing Director",
+              "phoneNumber": "+493023624603",
+              "organizationMemberEmails": [
+                "info@gundh.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Deutsches Netzwerk gegen Vernachlässigte Tropenkrankheiten e.V. ",
+            "phoneNumber": "+493023624602",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Leibnizstraße",
+              "streetNumber": "28",
+              "zipCode": "10625",
+              "city": "Berlin ",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "ntd-net@gundh.com"
+            ],
+            "websites": [
+              "https://dntds.de/"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof.",
+                "commonFirstName": "Hörauf",
+                "lastName": "Achim",
+                "academicDegreeAfter": "Dr.",
+                "function": "Sprecher des Vorstands",
+                "phoneNumber": "+493023624602",
+                "organizationMemberEmails": [
+                  "ntd-net@gundh.com"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Köhler",
+                "lastName": "Carsten",
+                "academicDegreeAfter": "Dr.",
+                "function": "Mitglied im Vorstand",
+                "phoneNumber": "+493023624602",
+                "organizationMemberEmails": [
+                  "ntd-net@gundh.com"
+                ]
+              },
+              {
+                "commonFirstName": "Christian",
+                "lastName": "Griebenow",
+                "function": "Mitglied im Vorstand",
+                "phoneNumber": "+493023624602",
+                "organizationMemberEmails": [
+                  "net-net@gundh.com"
+                ]
+              },
+              {
+                "commonFirstName": "Johan",
+                "lastName": "Willems",
+                "function": "Mitglied im Vorstand",
+                "phoneNumber": "+493023624602",
+                "organizationMemberEmails": [
+                  "ntd-net@gundh.com"
+                ]
+              },
+              {
+                "commonFirstName": "Harald",
+                "lastName": "Zimmer",
+                "function": "Mitglied im Vorstand",
+                "phoneNumber": "+493023624602",
+                "organizationMemberEmails": [
+                  "ntd-net@gundh.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000281",
       "registerEntryDetail": {
