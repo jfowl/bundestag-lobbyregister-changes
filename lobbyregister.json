@@ -9,8 +9,266 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 276,
+  "resultCount": 278,
   "results": [
+    {
+      "registerNumber": "R000281",
+      "registerEntryDetail": {
+        "id": 1464,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000281",
+          "firstPublicationDate": "2022-02-03T12:31:30.000Z"
+        },
+        "activityDescription": "Der Bundesverband der Kreishandwerkerschaften, kurz BVKH, ist die 1989 gegründete Dachorganisation der Kreishandwerkerschaften in der Bundesrepublik Deutschland. Sie vertritt die gemeinsamen Interessen der Kreishandwerkerschaften und damit auch die Gesamtinteressen des selbständigen Handwerks, wie es die Handwerksordnung für die Kreishandwerkerschaften gesetzlich regelt. Die Kreishandwerkerschaften und ihre Landesverbände sind eingebettet in die Vielfalt der deutschen Handwerksorganisation.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Kreishandwerkerschaften e.V.",
+          "phoneNumber": "+49221207040",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Frankenwerft",
+            "streetNumber": "35",
+            "zipCode": "50667",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "kontakt@bagkhs.de"
+          ],
+          "websites": [
+            "www.bv-kh.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Rolf",
+              "lastName": "Meurer",
+              "function": "Präsident",
+              "phoneNumber": "+49221207040",
+              "organizationMemberEmails": [
+                "kontakt@bagkhs.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thomas",
+              "lastName": "Günther",
+              "academicDegreeAfter": "LL.M.",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49221207040",
+              "organizationMemberEmails": [
+                "kontakt@bagkhs.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 11,
+          "membersCountDate": "2022-01-26T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_SERVICE",
+            "de": "Öffentlicher Dienst und öffentliche Verwaltung",
+            "en": "Public service"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000280",
+      "registerEntryDetail": {
+        "id": 1628,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000280",
+          "firstPublicationDate": "2022-02-03T12:21:03.000Z"
+        },
+        "activityDescription": "Der VDARZ hat sich zum Ziel gesetzt, gemeinsam mit den Spitzenorganisationen der Apotheker und deren in den Bundesländern tätigen Mitgliedsorganisationen sowie den Apotheken - Warenwirtschaftssystemanbietern (ADAS) an zukunftsorientierten technologischen Lösungen für die Apotheke zu arbeiten.\r\nDie Intention einen gemeinsamen Verband der Apothekenrechenzentren zu gründen liegt insbesondere in der voranschreitenden Digitalisierung, die für Apotheken, ihre Warenwirtschaftssystemanbieter und ihre Apothekenrechenzentren gleichermaßen große Herausforderungen mit sich bringt\r\nDer Verband soll Einfluss auf den Willensbildungs- oder Entscheidungsprozess der politischen Entscheider nehmen indem er eine sachliche und kontinuierliche Information über die bestehenden Abläufe vermittelt\r\nDie Apotheken vor Ort müssen ihren Patienten zunehmend digitale Services und Mehrwerte anbieten. Aus diesem Grund ist es unabdingbar, gemeinsame Schnittstellen und technische Standards zwischen Warenwirtschaftssystemen und Apothekenrechenzentren zu schaffen, um - Insellösungen - zu vermeiden und hier ein größtmögliches Maß an Zusammenarbeit herzustellen\r\nOrdentliches Mitglied des Verbandes kann jedes Apothekenrechenzentrum werden, welches im Auftrag von deutschen Apotheken Rezepte abrechnet",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "VDARZ - Bundesverband Deutscher Apothekenrechenzentren e.V.",
+          "phoneNumber": "+49653196610",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Pappelallee ",
+            "streetNumber": "78/79",
+            "zipCode": "10437",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@vdarz.de"
+          ],
+          "websites": [
+            "www.vdarz.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Werner",
+              "lastName": "Dick",
+              "function": "Vorstand",
+              "phoneNumber": "+49653196610",
+              "organizationMemberEmails": [
+                "vorstand@vdarz.de"
+              ]
+            },
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Henkel",
+              "function": "Vorstand",
+              "phoneNumber": "+49653196610",
+              "organizationMemberEmails": [
+                "vorstand@vdarz.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Dörr",
+              "function": "Vorstand (Sonderbeauftragter)",
+              "phoneNumber": "+49653196610",
+              "organizationMemberEmails": [
+                "vorstand@vdarz.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 15,
+          "membersCountDate": "2022-01-27T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
     {
       "registerNumber": "R000279",
       "registerEntryDetail": {
@@ -6138,7 +6396,7 @@
     {
       "registerNumber": "R000252",
       "registerEntryDetail": {
-        "id": 1886,
+        "id": 1984,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -6295,8 +6553,8 @@
           {
             "type": "ANNUAL_REPORT",
             "media": {
-              "fileName": "08-BWO-JA-2020-final.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/e1/0c/2086/08-BWO-JA-2020-final.pdf",
+              "fileName": "08-BWO-JA-2020-final-ohne-konten.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/24/57/2198/08-BWO-JA-2020-final-ohne-konten.pdf",
               "mimeType": "application/pdf"
             }
           }
