@@ -9,8 +9,349 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 285,
+  "resultCount": 286,
   "results": [
+    {
+      "registerNumber": "R000289",
+      "registerEntryDetail": {
+        "id": 866,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000289",
+          "firstPublicationDate": "2022-02-03T19:10:14.000Z"
+        },
+        "activityDescription": "Der bundesweit aktive gemeinnützige Fahrgastverband PRO BAHN vertritt die Interessen der Fahrgäste des öffentlichen Verkehrs. Er ist Gründungsmitglied der Allianz pro Schiene und des Europäischen Fahrgastverbands sowie Mitglied des Verbraucherzentrale Bundesverband. Der Fahrgastverband PRO BAHN ist Träger des Bundespreises Verbraucherschutz. Der Verband ist in zahlreichen Gremien aktiv und wirkt sowohl auf Politiker und Behörden als auch auf Verkehrsunternehmen ein, um einen attraktiveren und besseren öffentlichen Personenverkehr zu erreichen. Der Fahrgastverband PRO BAHN arbeitet ehrenamtlich im Interesse aller Fahrgäste. Die Mitglieder \"erfahren\" tagtäglich den öffentlichen Verkehr (ÖV) auf Schiene und Straße. Aus diesen Erfahrungen heraus lobt und kritisiert der Verband Akteure und Unternehmen des öffentlichen Verkehrs, erstellt Konzepte, ist in offiziellen Landes-, Bundes- und Europa-Gremien aktiv, sensibilisiert und berät Politiker in Angelegenheiten des öffentlichen Verkehrs, beeinflusst die öffentliche Diskussion durch sachliche Aufklärung über Hintergründe, hält Vorträge und Seminare sowie Fahrgastsprechstunden und Automatenschulungen u.v.a.m.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Fahrgastverband PRO BAHN e.V.",
+          "phoneNumber": "+498920175143",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Agnes-Bernauer-Platz",
+            "streetNumber": "8",
+            "zipCode": "80687",
+            "city": "München",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@pro-bahn.de"
+          ],
+          "websites": [
+            "www.pro-bahn.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Lukas",
+              "lastName": "Iffländer",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+4917666822886",
+              "organizationMemberEmails": [
+                "lukas.ifflaender@pro-bahn.de"
+              ]
+            },
+            {
+              "commonFirstName": "Detlef",
+              "lastName": "Neuß",
+              "function": "Vorsitzender",
+              "phoneNumber": "+491705853246",
+              "organizationMemberEmails": [
+                "neuss@probahn-nrw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Anja",
+              "lastName": "Schmotz",
+              "function": "Stellvertretende Vorsitzende",
+              "phoneNumber": "+491748294721",
+              "organizationMemberEmails": [
+                "anja.schmotz@pro-bahn.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Andreas",
+              "lastName": "Schröder",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+491771984566",
+              "organizationMemberEmails": [
+                "andyschroeder1@gmx.net"
+              ]
+            },
+            {
+              "commonFirstName": "Simon",
+              "lastName": "Bredemeier",
+              "function": "Schatzmeister",
+              "phoneNumber": "+4917666167490",
+              "organizationMemberEmails": [
+                "simon.bredemeier@pro-bahn.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 3901,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "European Passenger Federation",
+            "Allianz pro Schiene",
+            "Verbraucherzentrale Bundesverband"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_GERMAN_UNITY",
+            "de": "Deutsche Einheit",
+            "en": "German unity"
+          },
+          {
+            "code": "FOI_GERMAN_UNITY|FOI_GU_LIVING_CONDITIONS",
+            "de": "Gewährleistung gleichwertiger Lebensverhältnisse",
+            "en": "Guarantee of equal living conditions"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_ORGANIZATION",
+            "de": "Staatsorganisation",
+            "en": "State organization"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DISABILITY",
+            "de": "Rechte von Menschen mit Behinderung",
+            "en": "Rights of people with disabilities"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AEROSPACE",
+            "de": "Luft- und Raumfahrt",
+            "en": "Aerospace"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d3/86/2273/2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000288",
       "registerEntryDetail": {
