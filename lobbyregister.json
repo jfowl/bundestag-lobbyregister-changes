@@ -9,8 +9,329 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 281,
+  "resultCount": 283,
   "results": [
+    {
+      "registerNumber": "R000286",
+      "registerEntryDetail": {
+        "id": 242,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000286",
+          "firstPublicationDate": "2022-02-03T15:13:49.000Z"
+        },
+        "activityDescription": "\r\nDer AKG  e.V. ist  eine Organisation der freiwilligen Selbstkontrolle im Bereich der pharmazeutischen Industrie. Für den AKG hat die Einhaltung kodifizierter Wettbewerbs- und Verhaltensregeln nach dem praxisorientierten Grundsatz 'Prävention vor Sanktion' oberste Priorität. Das Verfahren der internen Selbstkontrolle schließt insbesondere die Beratung , aber auch die Sanktion von vereinsinternen Verstößen gegen den AKG-Verhaltenskodex ein. Der AKG-Verhaltenskodex gilt für Mitgliedsunternehmen und diejenigen mit ihnen verbundenen Unternehmen, die den Kodex durch besondere schriftliche Erklärung als für sich verbindlich anerkannt haben\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Arzneimittel und Kooperation im Gesundheitswesen e.V ( AKG e.V.)",
+          "phoneNumber": "+4930300190930",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Friedrichstrasse",
+            "streetNumber": "147",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "bleicken@ak-gesundheitswesen.de",
+            "bleicken@akg.pharma.de"
+          ],
+          "websites": [
+            "www.akg-pharma.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Kai",
+              "lastName": "Bleicken",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4930300190930",
+              "organizationMemberEmails": [
+                "bleicken@ak-gesundheitswesen.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Harras-Wolff",
+              "function": "1.Vorsitzender",
+              "phoneNumber": "+4930300190930",
+              "organizationMemberEmails": [
+                "info@ak-gesundheitswesen.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.med.",
+              "commonFirstName": "Markus",
+              "lastName": "Harwart",
+              "function": "2. Vorsitzender",
+              "phoneNumber": "+4930300190930",
+              "organizationMemberEmails": [
+                "info@ak-gesundheitswesen.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 134,
+          "membersCountDate": "2022-01-04T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "AKG-Bilanz-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d3/42/2248/AKG-Bilanz-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000285",
+      "registerEntryDetail": {
+        "id": 33,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000285",
+          "firstPublicationDate": "2022-02-03T14:56:07.000Z"
+        },
+        "activityDescription": "Das Good Food Institute Europe ist eine internationale Nichtregierungsorganisation, die alternative Proteinquellen vorantreibt, um die globale Lebensmittelversorgung nachhaltiger, sicherer und gerechter zu machen. Die Arbeit des Good Food Institute Europe wird vollständig durch Spenden finanziert. \r\n\r\nDas Good Food Institute arbeitet mit Wissenschaft, Unternehmen und Politik daran, pflanzliche und kultivierte Fleisch-, Eier-, Milch- und Fischprodukte voranzubringen. Durch die Herstellung von Fleisch aus Pflanzen und die Kultivierung von Fleisch aus Zellen können wir die Klima- und Umweltauswirkungen unserer Lebensmittelversorgung verringern, die Risiken aus zoonotischen Krankheiten und multiresistenten Keimen für die öffentliche Gesundheit reduzieren und weltweit mehr Menschen mit weniger Ressourcen ernähren.\r\n\r\nIn diesem Sinne setzt sich das Good Food Institute für politische Rahmenbedingungen ein, die förderlich für die Proteinwende sind:  \r\n\r\n(1) Die deutsche Bundesregierung und die Landesregierungen in Deutschland sollten alternative Proteinquellen zu einem strategischen Pfeiler ihrer Innovations- und Nachhaltigkeitspolitik machen und mehr Mittel für die öffentliche Forschung im Bereich von pflanzlichen, kultivierten und fermentierten Fleisch-, Eier-, Milch-, Fisch- und Meeresfrüchteprodukten aufwenden. \r\n\r\n(2) Die deutsche Bundesregierung sollte auf europäischer Ebene die Zulassung von Produkten auf Pflanzenbasis sowie aus Kultivierung und Fermentierung begleiten und sich für einen klaren Pfad zur Marktreife mit einem zuverlässigen und evidenzbasierten Zulassungsverfahren einsetzen.\r\n\r\n(3) Die deutsche Politik sollte faire Wettbewerbsbedingungen für nachhaltige Proteinquellen schaffen. Hierzu gehören etwa der Abbau der steuerlichen Benachteiligung von Proteinquellen, die nicht aus der Tierhaltung stammen, sowie faire und für die Verbraucher*innen verständliche Produktbezeichnungen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "The Good Food Institute Europe ASBL",
+          "phoneNumber": "+4915140064530",
+          "address": {
+            "type": "FOREIGN",
+            "internationalAdditional1": "Dreve du Pressoir 38",
+            "internationalAdditional2": "1190",
+            "city": "Forest",
+            "country": {
+              "code": "BE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "code_en": "Other juristic person",
+            "type": "JURISTIC_PERSON",
+            "legalFormText": "Vereinigung ohne Gewinnerzielungsabsicht (VoG bzw. ASBL)  "
+          },
+          "organizationEmails": [
+            "europe@gfi.org"
+          ],
+          "websites": [
+            "https://gfieurope.org/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Richard",
+              "lastName": "Parr",
+              "function": "Managing Director",
+              "phoneNumber": "+4915140064530",
+              "organizationMemberEmails": [
+                "europe@gfi.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Ivo",
+              "lastName": "Rzegotta"
+            },
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Holst"
+            }
+          ],
+          "membershipEntries": [
+            "European Alliance of Plant-based Foods (EAPF), www.plantbasedfoodalliance.eu",
+            "Alliance to Save our Antibiotics, www.saveourantibiotics.org",
+            "Eating Better Alliance, www.eating-better.org",
+            "EIT Food, www.eitfood.eu"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "The Good Food Institute, Inc., 1380 Monroe St. NW #229, Washington DC 20010, USA",
+            "description": "Geldspende der Delaware Section 501(c)(3) Nichtregierungsorganisation The Good Food Institute, Inc., www.gfi.org",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 820001,
+              "to": 830000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Breakthrough Energy Foundation, Rond Point Schuman 2-4, 1040 Brüssel, Belgien ",
+            "description": "Geldspende der Breakthrough Energy Foundation, www.breakthroughenergy.org ",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 90001,
+              "to": 100000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_AQUACULTURE",
+            "de": "Fischerei/Aquakultur",
+            "en": "Fishery/aquaculture"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Alternative Proteinquellen"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2021-The-Good-Food-Institute-Europe.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/11/21/2241/Jahresabschluss-2021-The-Good-Food-Institute-Europe.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000284",
       "registerEntryDetail": {
