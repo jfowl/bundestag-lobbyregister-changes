@@ -9,8 +9,162 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 291,
+  "resultCount": 292,
   "results": [
+    {
+      "registerNumber": "R000295",
+      "registerEntryDetail": {
+        "id": 928,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 90001,
+          "to": 100000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000295",
+          "firstPublicationDate": "2022-02-04T10:51:10.000Z"
+        },
+        "activityDescription": "Zweck des Vereins ist die Bündelung der Interessen von Großkrankenhäusern in kommunaler Trägerschaft in der Bundesrepublik Deutschland, die gegenseitige Unterstützung seiner Mitglieder, insbesondere in Bezug auf die Patientenversorgung und die gemeinsame Nutzung von Kompetenzen. Darüber hinaus soll der Verein gemeinsame Interessen formulieren und entwickeln und diese mit kommunalen Institutionen - auch im Bereich der Gesundheitspolitik - abstimmen, sowie eine gemeinsame Öffentlichkeitsarbeit organisieren und gestalten.\r\n\r\nDie AKG-Kliniken sind ein Zusammenschluss von über 20 großen kommunalen Krankenhäusern aus ganz Deutschland. Mit ihrer herausragenden Rolle als Arbeitgeber und Versorger für ihre Region stehen sie für fast 10 Prozent der gesamten stationären Akutversorgung in Deutschland. Mit ihrem Zusammenschluss erheben die AKG-Kliniken neben dem täglichen kollegialen Austausch den Anspruch, als relevante Stimme in der Gesundheitspolitik wahrgenommen zu werden. \r\nAlle Mitglieder sind Maximalversorger in kommunaler Trägerschaft und decken damit das gesamte medizinische Spektrum ab. Als kommunale Krankenhäuser erbringen die Mitglieder der AKG-Kliniken eine wichtige Leistung für die Versorgung der gesamten Bevölkerung, von der Grund- bis zur Maximalversorgung. Damit leisten sie einen wichtigen gesundheitspolitischen Beitrag. Die Gewinne werden reinvestiert und nicht an Investoren abgeführt. So bleiben die Gelder den Regionen erhalten.\r\nDie Geschäftsstelle in Berlin sorgt dafür, dass die AKG-Kliniken im gesundheitspolitischen Diskurs gehört und eingebunden sind.\r\n\r\nIhr Ziel:  Ein gesamtgesellschaftlich getragener und politisch gesteuerter Strukturwandel in der Krankenhausversorgung sowie ein verantwortungsvoller und dem Versorgungsauftrag entsprechender Umgang mit den knappen Ressourcen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Allianz Kommunaler Großkrankenhäuser e. V.",
+          "phoneNumber": "+493080103005",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Aroser Allee",
+            "streetNumber": "70",
+            "zipCode": "13407",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@akg-kliniken.de"
+          ],
+          "websites": [
+            "www.akg-kliniken.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Matthias",
+              "lastName": "Bracht",
+              "function": "Vorsitzender des Vorstandes",
+              "phoneNumber": "+495119066100",
+              "organizationMemberEmails": [
+                "matthias.bracht@krh.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Eibo",
+              "lastName": "Krahmer",
+              "function": "1. Stellvertretender Vorsitzender des Vorstandes",
+              "phoneNumber": "+4930130114001",
+              "organizationMemberEmails": [
+                "gf-finanzmanagement@vivantes.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thomas",
+              "lastName": "Menzel",
+              "function": "2. Stellvertrender Vorsitzender des Vorstandes",
+              "phoneNumber": "+49661845010",
+              "organizationMemberEmails": [
+                "thomas.menzel@klinikum-fulda.de"
+              ]
+            },
+            {
+              "commonFirstName": "Nils",
+              "lastName": "Dehne",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493068051537",
+              "organizationMemberEmails": [
+                "nils.dehne@akg-kliniken.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Schulze"
+            }
+          ],
+          "members": 26,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "20210715-AKG-MV-Rechenschaftsbericht-JA-2020-Beschluss.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/96/8e/2312/20210715-AKG-MV-Rechenschaftsbericht-JA-2020-Beschluss.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000294",
       "registerEntryDetail": {
@@ -24012,7 +24166,7 @@
     {
       "registerNumber": "R000179",
       "registerEntryDetail": {
-        "id": 780,
+        "id": 2058,
         "clientIdentity": "",
         "employeeCount": {
           "from": 0,
@@ -24115,30 +24269,7 @@
               ]
             }
           ],
-          "namedEmployees": [
-            {
-              "commonFirstName": "Nazih",
-              "lastName": "Musharbash"
-            },
-            {
-              "academicDegreeBefore": "Dr.",
-              "commonFirstName": "Ribhi",
-              "lastName": "Yousef"
-            },
-            {
-              "commonFirstName": "Ursula",
-              "lastName": "Mindermann"
-            },
-            {
-              "academicDegreeBefore": "Dr.",
-              "commonFirstName": "Detlef",
-              "lastName": "Griesche"
-            },
-            {
-              "commonFirstName": "Gisela",
-              "lastName": "Siebourg"
-            }
-          ],
+          "namedEmployees": [],
           "members": 400,
           "membersCountDate": "2021-12-31T23:00:00.000Z",
           "membershipEntries": [
@@ -24185,9 +24316,19 @@
             "en": "Foreign policy of the federal republic of Germany"
           },
           {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
             "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
             "de": "Menschenrechte",
             "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
           },
           {
             "code": "FOI_FOREIGN_AFFAIRS",
@@ -24195,75 +24336,43 @@
             "en": "Foreign policy and international relations"
           },
           {
-            "code": "FOI_INTERNAL_SECURITY",
-            "de": "Innere Sicherheit",
-            "en": "Internal security"
-          },
-          {
-            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_EXTREMISM",
-            "de": "Extremismusbekämpfung",
-            "en": "Counter extremism"
-          },
-          {
-            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
-            "de": "Sonstiges im Bereich „Innere Sicherheit“",
-            "en": "Other in field of internal security"
-          },
-          {
-            "code": "FOI_LAW",
-            "de": "Recht",
-            "en": "Law"
-          },
-          {
-            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
-            "de": "Zivilrecht",
-            "en": "Civil rights"
-          },
-          {
-            "code": "FOI_LAW|FOI_LAW_OTHER",
-            "de": "Sonstiges im Bereich „Recht“",
-            "en": "Other in the area of ​​law"
-          },
-          {
-            "code": "FOI_MEDIA",
-            "de": "Medien, Kommunikation und Informationstechnik",
-            "en": "Media, communication and information technology"
-          },
-          {
-            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
-            "de": "Kommunikations- und Informationstechnik",
-            "en": "Communication and information technology"
-          },
-          {
-            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
-            "de": "Meinungs- und Pressefreiheit",
-            "en": "Freedom of speech and freedom of the press"
-          },
-          {
             "code": "FOI_REFUGEE_INTEGRATION_POLICY",
             "de": "Migration, Flüchtlingspolitik und Integration",
             "en": "Migration, refugee policy and integration"
           },
           {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_INTEGRATION",
+            "de": "Integration",
+            "en": "Integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_LAWS",
+            "de": "Ausländer- und Aufenthaltsrecht",
+            "en": "Foreign laws"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
             "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_OTHER",
             "de": "Sonstiges im Bereich „Migration, Flüchtlingspolitik und Integration“",
             "en": "Other in the field of ​​migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_REFUGEE",
+            "de": "Asyl und Flüchtlingsschutz",
+            "en": "Asylum and refugee protection"
           }
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [
-          {
-            "type": "ANNUAL_REPORT",
-            "media": {
-              "fileName": "Jahresdbilanz-DPG-e-V-2019-und-2020-und-2021.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/41/ba/1429/Jahresdbilanz-DPG-e-V-2019-und-2020-und-2021.pdf",
-              "mimeType": "application/pdf"
-            }
-          }
-        ],
-        "disclosureRequirementsExist": true,
-        "annualReportExist": true
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
       }
     },
     {
