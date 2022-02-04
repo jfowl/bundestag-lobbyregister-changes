@@ -9,8 +9,141 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 296,
+  "resultCount": 297,
   "results": [
+    {
+      "registerNumber": "R000300",
+      "registerEntryDetail": {
+        "id": 432,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 51,
+          "to": 60
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 80001,
+          "to": 90000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000300",
+          "firstPublicationDate": "2022-02-04T18:31:28.000Z"
+        },
+        "activityDescription": "Der Verein fördert die Verbraucherberatung und den Verbraucherschutz in folgenden Punkten: Der Verein sieht es als seine Aufgabe an, öffentlich darauf hinzuwirken, dass politische Entscheidungen zur privaten und betrieblichen Altersvorsorge auf den Prinzipien Gerechtigkeit, Rechtssicherheit und Vertrauensschutz beruhen. Dabei ist die Aufhebung der rückwirkend beschlossenen Beitragspflicht zur Kranken- und Pflegeversicherung von Kapitalzahlungen aus Direktversicherungen und anderen Formen der Deferred Compensation, die vor 2004 abgeschlossen wurden, ein wichtiges Ziel. Der Verein fördert den Austausch seiner Mitglieder im Allgemeinen und unterstützt sie in sozialpolitischen und sozialrechtlichen Angelegenheiten gegenüber staatlichen Stellen, Institutionen und Behörden. Der Verein hilft sozialversicherungspflichtigen Bürger/innen in Fragen der sozialen Absicherung im Alter.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Direktversicherungsgeschädigte e.V.",
+          "phoneNumber": "+49593791777",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Buchenweg",
+            "streetNumber": "6",
+            "zipCode": "59939",
+            "city": "Olsberg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "reiner.korth@dvg-ev.email"
+          ],
+          "websites": [
+            "www.dvg-ev.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Reiner",
+              "lastName": "Korth",
+              "function": "stellvertretender Bundesvorsitzender",
+              "phoneNumber": "+49593791777",
+              "organizationMemberEmails": [
+                "reiner.korth@dvg-ev.email",
+                "reiner@korth.email"
+              ]
+            },
+            {
+              "commonFirstName": "Günter",
+              "lastName": "Dehlen",
+              "function": "Schriftführer",
+              "phoneNumber": "+491729522982",
+              "organizationMemberEmails": [
+                "guenter.dehlen@dvg-ev.email"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 3803,
+          "membersCountDate": "2021-12-30T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [
+          {
+            "name": "Abschaffung der Doppelverbeitragung von Direktversicherungen und Abschaffung der Vollverbeitragung für Betriebsrenten."
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of social security"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "DVG-Kassenbericht-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/9a/d3/2373/DVG-Kassenbericht-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000299",
       "registerEntryDetail": {
