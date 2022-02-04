@@ -36759,7 +36759,7 @@
     {
       "registerNumber": "R000118",
       "registerEntryDetail": {
-        "id": 1177,
+        "id": 2107,
         "clientIdentity": "",
         "employeeCount": {
           "from": 11,
@@ -36832,7 +36832,13 @@
         },
         "legislativeProjects": [
           {
-            "name": "Bundesratsinitiative 125/20"
+            "name": "Bundesratsinitiative 125/20 \"Entschließung des Bundesrates zur wirksamen Minderung & Kontrolle von Motorradlärm\""
+          },
+          {
+            "name": "§ 4 StVG n.F. neue Fassung "
+          },
+          {
+            "name": "MVMot Merkblatt zur Verbesserung der Straßeninfrastruktur für Motorradfahrende"
           }
         ],
         "donators": [],
