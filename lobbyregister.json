@@ -9,8 +9,87 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 286,
+  "resultCount": 287,
   "results": [
+    {
+      "registerNumber": "R000290",
+      "registerEntryDetail": {
+        "id": 1642,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000290",
+          "firstPublicationDate": "2022-02-04T02:07:58.000Z"
+        },
+        "activityDescription": "Interessen Vertretung von Menschen die mit Parkinson leben und deren Angehörige",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_OTHER",
+          "text": "Selbsthilfegruppe für Parkinson und ME/CFS"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "academicDegreeBefore": "Berlin",
+          "commonFirstName": "Carsten",
+          "lastName": "Heisler",
+          "academicDegreeAfter": "Berlin"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in field of health"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DISABILITY",
+            "de": "Rechte von Menschen mit Behinderung",
+            "en": "Rights of people with disabilities"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000289",
       "registerEntryDetail": {
