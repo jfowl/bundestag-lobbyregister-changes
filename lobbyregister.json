@@ -36759,7 +36759,7 @@
     {
       "registerNumber": "R000118",
       "registerEntryDetail": {
-        "id": 901,
+        "id": 1177,
         "clientIdentity": "",
         "employeeCount": {
           "from": 11,
@@ -36788,9 +36788,47 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "commonFirstName": "Lars",
-          "lastName": "Böhler"
+          "identity": "ORGANIZATION",
+          "name": "Initiative Schräglagenfreiheit",
+          "phoneNumber": "+493062738810",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Loickstraße ",
+            "streetNumber": "7d",
+            "zipCode": "15749",
+            "city": "Mittenwalde",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "Nichtregierungsorganisation"
+          },
+          "organizationEmails": [
+            "post@schraeglagenfreiheit.de"
+          ],
+          "websites": [
+            "www.schraeglagenfreiheit.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Lars",
+              "lastName": "Böhler",
+              "function": "Repräsentant ",
+              "phoneNumber": "+493062738810",
+              "organizationMemberEmails": [
+                "post@schraeglagenfreiheit.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "Hochschalten! - Dialog statt Verbot"
+          ]
         },
         "legislativeProjects": [
           {
