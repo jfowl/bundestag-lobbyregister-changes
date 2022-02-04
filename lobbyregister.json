@@ -9,8 +9,151 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 294,
+  "resultCount": 295,
   "results": [
+    {
+      "registerNumber": "R000298",
+      "registerEntryDetail": {
+        "id": 1784,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000298",
+          "firstPublicationDate": "2022-02-04T12:31:43.000Z"
+        },
+        "activityDescription": "Die Gesellschaft für Biochemie und Molekularbiologie verfasst nicht nur auf Nachfrage sondern auch proaktiv Positionspapiere und Stellungnahmen zu Gesetzesvorhaben des Bundestages, die z.B. die medizinische und zahnmedizinische Ausbildung oder auch die Grundlagenforschung betreffen. Diese werden dann den entsprechenden Ministerien und ihren Mitarbeiter:innenn zur Kenntnis gegeben und teilweise auch um Rücksprache gebeten.\r\nDie GBM übt diese Funktion allein oder auch als Teil eines Dachverbandes, wie z.B. der AWMF, aus.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Gesellschaft für Biochemie und Molekularbiologie e.V.",
+          "phoneNumber": "+49696605670",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mörfelder Landstraße",
+            "streetNumber": "125",
+            "zipCode": "60598",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "lischeid@gbm-online.de",
+            "info@gbm-online.de"
+          ],
+          "websites": [
+            "www.gbm-online.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr. ",
+              "commonFirstName": "Blanche",
+              "lastName": "Schwappach-Pignataro",
+              "function": "Präsidentin",
+              "phoneNumber": "+4940741052003",
+              "organizationMemberEmails": [
+                "blanche.schwappach@med.uni-goettingen.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Albert",
+              "lastName": "Sickmann",
+              "function": "Schatzmeister",
+              "phoneNumber": "+492311392100",
+              "organizationMemberEmails": [
+                "sickmann@isas.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. ",
+              "commonFirstName": "Volker",
+              "lastName": "Haucke",
+              "function": "1. Vizepräsident",
+              "phoneNumber": "+493094793100",
+              "organizationMemberEmails": [
+                "haucke@fmp-berlin.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. ",
+              "commonFirstName": "Annette",
+              "lastName": "Beck-Sickinger",
+              "function": "2. Vizepräsidentin",
+              "phoneNumber": "+493419736900",
+              "organizationMemberEmails": [
+                "abeck-sickinger@uni-leipzig.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. ",
+              "commonFirstName": "Jürgen",
+              "lastName": "Alves",
+              "function": "Schriftführer",
+              "phoneNumber": "+49696605670",
+              "organizationMemberEmails": [
+                "schriftfuehrer@gbm-online.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 4520,
+          "membersCountDate": "2022-01-26T23:00:00.000Z",
+          "membershipEntries": [
+            "AWMF"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Gewinnermittlung-und-Vermogensubersicht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/2c/8d/2334/Gewinnermittlung-und-Vermogensubersicht-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000297",
       "registerEntryDetail": {
