@@ -9,8 +9,149 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 295,
+  "resultCount": 296,
   "results": [
+    {
+      "registerNumber": "R000299",
+      "registerEntryDetail": {
+        "id": 1532,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000299",
+          "firstPublicationDate": "2022-02-04T17:53:20.000Z"
+        },
+        "activityDescription": "Regelwerke, Fachtagungen und Zertifizierungen für die Grüne Branche. Die FLL ist ein 1975 gegründetes Wissenschaftsnetzwerk. Rund 500 Fachexperten erarbeiten in 65 Ausschüssen Regelwerke, Branchenempfehlungen und Fachberichte. Ihre 120 Publikationen sind Grundlage für die tägliche Arbeit von Landschaftsarchitekten, Produktions- und Ausführungsbetrieben des Garten-, Landschafts- und Sportplatzbaues, sowie von Baumpflegebetrieben, Planungsbüros und Sachverständigen. Regelmäßige Fachtagungen fördern den Austausch zwischen Wissenschaft und Praxis. Als Zertifizierungsstelle von Baumkontrolleuren und Spielplatzprüfern werden einheitliche Branchenstandards zur Qualitätssicherung in Deutschland gesetzt.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_RESEARCH_FACILITY",
+          "de": "Denkfabrik, Forschungseinrichtung oder Hochschule",
+          "en": "Think tank, research institution or university"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau e.V. (FLL)",
+          "phoneNumber": "+4922896501011",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Forschungsgesellschaft",
+            "nationalAdditional2": "Landschaftsentwicklung e.V.",
+            "street": "Friedensplatz",
+            "streetNumber": "4",
+            "zipCode": "53111",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "a.vonderosten@fll.de"
+          ],
+          "websites": [
+            "www.fll.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Ulrich",
+              "lastName": "Kias",
+              "function": "Präsident",
+              "phoneNumber": "+492289650100",
+              "organizationMemberEmails": [
+                "u.kias@fll.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof.",
+              "commonFirstName": "Martin",
+              "lastName": "Thieme-Hack",
+              "function": "1. Vizepräsident",
+              "phoneNumber": "+492289650100",
+              "organizationMemberEmails": [
+                "m.thieme-hack@hs-osnabrueck.de"
+              ]
+            },
+            {
+              "commonFirstName": "Dieter",
+              "lastName": "Fuchs",
+              "function": "2. Vizepräsident",
+              "phoneNumber": "+492289650100",
+              "organizationMemberEmails": [
+                "dieter.fuchs@bonn.de"
+              ]
+            },
+            {
+              "commonFirstName": "Adalbert",
+              "lastName": "von der Osten",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+492289650100",
+              "organizationMemberEmails": [
+                "a.vonderosten@fll.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 550,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of agriculture and food"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_OTHER",
+            "de": "Sonstiges im Bereich „Sport, Freizeit und Tourismus“",
+            "en": "Other in the field of sport, leisure and tourism"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000298",
       "registerEntryDetail": {
