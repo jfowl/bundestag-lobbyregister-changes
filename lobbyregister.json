@@ -9,8 +9,287 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 288,
+  "resultCount": 289,
   "results": [
+    {
+      "registerNumber": "R000292",
+      "registerEntryDetail": {
+        "id": 676,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 100001,
+          "to": 110000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000292",
+          "firstPublicationDate": "2022-02-04T08:13:13.000Z"
+        },
+        "activityDescription": "Der EVVC ist der Verband der Veranstaltungslocations und ihrer Zulieferer in Deutschland und dem angrenzenden europäischen Ausland. Seinen Mitgliedern und Partnern bietet er die Plattform für vertrauensvolle und offene Kommunikation, wichtige Informationen und Hilfestellungen für die tägliche Arbeit sowie Impulse für branchenrelevante Themen der Gegenwart und Zukunft. Grundprämisse ist die Verpflichtung zu nachhaltigem Handeln. Der EVVC ist im Austausch mit Branchenvertretern, Medien, Wissenschaft, Wirtschaft und Politik in Bund, Ländern und auf kommunaler Ebene, um gute Rahmenbedingungen für den Betrieb von Versammlungsstätten und die Veranstaltungswirtschaft insgesamt zu schaffen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "EVVC e.V. - Europäischer Verband der Veranstaltungs-Centren e.V.",
+          "phoneNumber": "+4969915096980",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Niddastraße",
+            "streetNumber": "74",
+            "zipCode": "60329",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@evvc.org"
+          ],
+          "websites": [
+            "https://www.evvc.org/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Ilona",
+              "lastName": "Jarabek",
+              "function": "Präsidentin",
+              "phoneNumber": "+494517904444",
+              "organizationMemberEmails": [
+                "jarabek@muk.de"
+              ]
+            },
+            {
+              "commonFirstName": "Marion",
+              "lastName": "Schöne",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+498930672000",
+              "organizationMemberEmails": [
+                "schoene@olympiapark.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Lemke",
+              "function": "Finanzen",
+              "phoneNumber": "+495317077100",
+              "organizationMemberEmails": [
+                "lemke@stadthalle-braunschweig.de"
+              ]
+            },
+            {
+              "commonFirstName": "Carsten",
+              "lastName": "Müller",
+              "function": "Kommunikation und Digitalisierung",
+              "phoneNumber": "+493641498000",
+              "organizationMemberEmails": [
+                "carsten.mueller@jena.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Markus ",
+              "lastName": "Große Ophoff",
+              "function": "CSR (Aus- und Weiterbildung/ Nachhaltigkeit)",
+              "phoneNumber": "+495419633901",
+              "organizationMemberEmails": [
+                "m.grosse-ophoff@dbu.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Stefan",
+              "lastName": "Holzporz",
+              "function": "Arbeitsgruppe I",
+              "phoneNumber": "+4922719868525",
+              "organizationMemberEmails": [
+                "holzporz@bm-cultura.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Kipp",
+              "function": "Arbeitsgruppe II",
+              "phoneNumber": "+495219636105",
+              "organizationMemberEmails": [
+                "kipp@stadthalle-bielefeld.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jürgen",
+              "lastName": "Fottner",
+              "function": "Arbeitsgruppe III",
+              "phoneNumber": "+4991198897211",
+              "organizationMemberEmails": [
+                "j.fottner@arena-nuernberg.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Müller",
+              "function": "Arbeitsgruppe IV (Technik)",
+              "phoneNumber": "+498994923100",
+              "organizationMemberEmails": [
+                "christian.mueller@messe-muenchen.de"
+              ]
+            },
+            {
+              "commonFirstName": "Philip",
+              "lastName": "Belz",
+              "function": "Arbeitsgruppe Partner",
+              "phoneNumber": "+49711185679320",
+              "organizationMemberEmails": [
+                "philip.belz@neumannmueller.com"
+              ]
+            },
+            {
+              "commonFirstName": "Timo",
+              "lastName": "Feuerbach",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4969915096981",
+              "organizationMemberEmails": [
+                "timo.feuerbach@evvc.org"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 318,
+          "membersCountDate": "2022-01-11T23:00:00.000Z",
+          "membershipEntries": [
+            "BVMV - Bundesvereinigung der Musikveranstalter e.V., Berlin",
+            "BTW - Bundesverband der deutschen Tourismuswirtschaft e.V., Berlin",
+            "DGVM - Deutsche Gesellschaft für Verbandsmanagement e.V., Bonn",
+            "APWPT - Association of Professional Wireless Production Technologies e.V., Berlin",
+            "IGVW - Interessengemeinschaft Veranstaltungswirtschaft e.V., Langenhagen",
+            "DIN e.V. und DIN-Normenausschuss Veranstaltungstechnik, Bild und Film (NVBF), Berlin",
+            "Forum Veranstaltungswirtschaft ",
+            "JMIC - Joint Meeting Industry Council"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of economy"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_PROFESSIONAL_SPORT",
+            "de": "Profisport",
+            "en": "Professional sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Veranstaltungswirtschaft"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Rechenschaftsbericht-EVVC-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7c/6a/2283/Rechenschaftsbericht-EVVC-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000291",
       "registerEntryDetail": {
