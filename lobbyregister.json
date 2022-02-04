@@ -9,8 +9,259 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 289,
+  "resultCount": 290,
   "results": [
+    {
+      "registerNumber": "R000293",
+      "registerEntryDetail": {
+        "id": 1587,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000293",
+          "firstPublicationDate": "2022-02-04T09:58:11.000Z"
+        },
+        "activityDescription": "Beratung",
+        "activityOperationType": "MANDATE_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE",
+          "de": "Privatperson",
+          "en": "Private citizen"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "academicDegreeBefore": "Dr.",
+          "commonFirstName": "Dieter-Lebrecht",
+          "lastName": "Koch"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_LEGAL",
+            "de": "Rechtsstellung der Abgeordneten",
+            "en": "Legal status of member of parliament"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of social security"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AEROSPACE",
+            "de": "Luft- und Raumfahrt",
+            "en": "Aerospace"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "EUTOP Europe GmbH",
+            "phoneNumber": "+49893237000",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Denninger Straße",
+              "streetNumber": "15",
+              "zipCode": "81679",
+              "city": "München",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "eutop@eutop.eu"
+            ],
+            "websites": [
+              "www.eutop.eu"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Walter",
+                "lastName": "Tombrock",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+49893237000",
+                "organizationMemberEmails": [
+                  "wt@eutop.eu"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "FSD Fahrzeugsystemdaten GmbH",
+            "phoneNumber": "+493516528880",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Wintergartenstraße ",
+              "streetNumber": "4",
+              "zipCode": "01307",
+              "city": "Dresden",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "sekretariat@fsd-web.de"
+            ],
+            "websites": [
+              "https://fsd-web.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Jürgen",
+                "lastName": "Bönninger",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+493516528880",
+                "organizationMemberEmails": [
+                  "sekretariat@fsd-web.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000292",
       "registerEntryDetail": {
