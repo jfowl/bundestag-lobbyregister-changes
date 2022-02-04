@@ -9,8 +9,139 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 287,
+  "resultCount": 288,
   "results": [
+    {
+      "registerNumber": "R000291",
+      "registerEntryDetail": {
+        "id": 1667,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000291",
+          "firstPublicationDate": "2022-02-04T07:28:27.000Z"
+        },
+        "activityDescription": "Der pro-K vertritt seine hauptsächlich mittelständisch geprägten Mitgliedsunternehmen in sämtlichen Bereichen, die die Kunststoffverarbeitung aus den Bereichen der Mehrwegsysteme, der Konsumprodukte aus Kunststoff und der Halbzeuge für Industrie- und Bauanwendungen tangieren. Dies kann sowohl industriepolitische Themenkreise wie auch umweltpolitische Themenkreise betreffen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "pro-K Industrieverband Halbzeuge und Konsumprodukte aus Kunststoff e.V.",
+          "phoneNumber": "+49692710531",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Städelstraße ",
+            "streetNumber": "10",
+            "zipCode": "60596",
+            "city": "Frankfurt",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@pro-kunststoff.de"
+          ],
+          "websites": [
+            "www.pro-kunststoff.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Ralf",
+              "lastName": "Olsen",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49692710530",
+              "organizationMemberEmails": [
+                "ralf.olsen@pro-kunststoff.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Katja",
+              "lastName": "Kramer"
+            }
+          ],
+          "members": 120,
+          "membersCountDate": "2022-01-02T23:00:00.000Z",
+          "membershipEntries": [
+            "DIN"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of economy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of ​​the environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-pro-K-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/29/fb/2279/Jahresabschluss-pro-K-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000290",
       "registerEntryDetail": {
