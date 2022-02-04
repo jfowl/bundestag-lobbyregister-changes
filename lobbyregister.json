@@ -9,8 +9,183 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 290,
+  "resultCount": 291,
   "results": [
+    {
+      "registerNumber": "R000294",
+      "registerEntryDetail": {
+        "id": 1093,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000294",
+          "firstPublicationDate": "2022-02-04T10:27:05.000Z"
+        },
+        "activityDescription": "Der Bundesverband Transportbeton (BTB) vertritt die überregionalen gemeinsamen gewerblichen Interessen der Hersteller und Förderer von Transportbeton gegenüber Organen und Behörden der Bundesrepublik Deutschland und der Europäischen Union sowie zentralen Einrichtungen der Wirtschaft und sonstigen Stellen. Zugleich fördert der BTB den brancheninternen Austausch wirtschaftlicher, technischer und rechtlicher Erkenntnisse und Erfahrungen. Der BTB versteht sich dabei als Vermittler zwischen den Transportbetonunternehmen und Politik, Wirtschaft und Öffentlichkeit. Zur Ausübung seiner Tätigkeit veranstaltet der BTB Fachkongresse, Diskussionsrunden und ähnliche dem Austausch dienende Formate. Hierzu sucht der BTB den Austausch mit den Ministerien und weiteren Organen der Bundesregierung sowie weiteren Vertreter:innen von Wissenschaft, Medien, Wirtschaft und Politik.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Deutschen Transportbetonindustrie e. V.",
+          "phoneNumber": "+493025922920",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kochstraße",
+            "streetNumber": "6-7",
+            "zipCode": "10969",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@transportbeton.org"
+          ],
+          "websites": [
+            "www.transportbeton.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Erwin",
+              "lastName": "Kern",
+              "function": "Präsident",
+              "phoneNumber": "+493025922920",
+              "organizationMemberEmails": [
+                "info@transportbeton.org"
+              ]
+            },
+            {
+              "commonFirstName": "Karl",
+              "lastName": "Hofmeister",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493025922920",
+              "organizationMemberEmails": [
+                "info@transportbeton.org"
+              ]
+            },
+            {
+              "commonFirstName": "Ralf",
+              "lastName": "Linden",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493025922920",
+              "organizationMemberEmails": [
+                "info@transportbeton.org"
+              ]
+            },
+            {
+              "commonFirstName": "Felix",
+              "lastName": "Manzke",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493025922920",
+              "organizationMemberEmails": [
+                "info@transportbeton.org"
+              ]
+            },
+            {
+              "commonFirstName": "Ottmar",
+              "lastName": "Walter",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493025922920",
+              "organizationMemberEmails": [
+                "info@transportbeton.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Olaf",
+              "lastName": "Aßbrock"
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Hoffmann",
+              "academicDegreeAfter": "M. Sc."
+            }
+          ],
+          "members": 6,
+          "membersCountDate": "2022-01-19T23:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Baustoffe - Steine und Erden e. V. (bbs)",
+            "European Ready Mixed Concrete Organization (ERMCO)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "BTB-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7a/4a/2308/BTB-Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000293",
       "registerEntryDetail": {
