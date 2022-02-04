@@ -9,8 +9,192 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 292,
+  "resultCount": 293,
   "results": [
+    {
+      "registerNumber": "R000296",
+      "registerEntryDetail": {
+        "id": 1557,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000296",
+          "firstPublicationDate": "2022-02-04T11:16:18.000Z"
+        },
+        "activityDescription": "Das Netzwerk Public Affairs vertritt die berufsständischen Interessen von Public Affairs Professionals.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Netzwerk Public Affairs e.V.",
+          "phoneNumber": "+4915901016429",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reinhardtstraße",
+            "streetNumber": "12",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "schweda@netzwerk-public-affairs.de"
+          ],
+          "websites": [
+            "www.netzwerk-public-affairs.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Kathrin",
+              "lastName": "Zabel",
+              "function": "Vorsitzende",
+              "phoneNumber": "+491772366352",
+              "organizationMemberEmails": [
+                "zabel@netzwerk-public-affairs.de"
+              ]
+            },
+            {
+              "commonFirstName": "Wolfgang",
+              "lastName": "Hainer",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+491727133350",
+              "organizationMemberEmails": [
+                "hainer@t-online.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christoph",
+              "lastName": "Löwer",
+              "function": "Schatzmeister",
+              "phoneNumber": "+491605366774",
+              "organizationMemberEmails": [
+                "loewer@loewer-consulting.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 40,
+          "membersCountDate": "2022-01-26T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_LEGAL",
+            "de": "Rechtsstellung der Abgeordneten",
+            "en": "Legal status of member of parliament"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_VOTE",
+            "de": "Wahlrecht",
+            "en": "Suffrage"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Lobbyregulierung"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_OTHER",
+            "de": "Sonstiges im Bereich „Staat und Verwaltung“",
+            "en": "Other in the field of government and administration"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Jahresabschluss für das Geschäftsjahr 2021 wurde noch nicht erstellt und wird nachgereicht."
+      }
+    },
     {
       "registerNumber": "R000295",
       "registerEntryDetail": {
@@ -343,7 +527,7 @@
     {
       "registerNumber": "R000293",
       "registerEntryDetail": {
-        "id": 1587,
+        "id": 2071,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 1,
@@ -363,12 +547,12 @@
           "registerNumber": "R000293",
           "firstPublicationDate": "2022-02-04T09:58:11.000Z"
         },
-        "activityDescription": "Beratung",
+        "activityDescription": "Beratung und Kontaktaufnahme zu Bundestag und Bundesregierung",
         "activityOperationType": "MANDATE_OPERATED",
         "activity": {
-          "code": "ACT_PRIVATE",
-          "de": "Privatperson",
-          "en": "Private citizen"
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
         },
         "codexViolation": false,
         "lobbyistIdentity": {
@@ -544,7 +728,17 @@
                 "function": "Geschäftsführer",
                 "phoneNumber": "+49893237000",
                 "organizationMemberEmails": [
+                  "eutop@eutop.eu",
                   "wt@eutop.eu"
+                ]
+              },
+              {
+                "commonFirstName": "Christian",
+                "lastName": "Schaufler",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+49893237000",
+                "organizationMemberEmails": [
+                  "eutop@eutop.eu"
                 ]
               }
             ]
