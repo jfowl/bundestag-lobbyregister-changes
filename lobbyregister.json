@@ -9,8 +9,128 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 297,
+  "resultCount": 298,
   "results": [
+    {
+      "registerNumber": "R000301",
+      "registerEntryDetail": {
+        "id": 507,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000301",
+          "firstPublicationDate": "2022-02-04T19:24:06.000Z"
+        },
+        "activityDescription": "Vertretung der Interessen aller motorisierten Zweiradfahrer(innen)",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Biker Union e.V.",
+          "phoneNumber": "+496173608370",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Fuchstanzweg",
+            "streetNumber": "19",
+            "zipCode": "65760",
+            "city": "Eschborn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "hauptverwaltung@bikerunion.de"
+          ],
+          "websites": [
+            "https://www.bikerunion.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl. Phys.",
+              "commonFirstName": "Rolf",
+              "lastName": "Frieling",
+              "function": "Vorsitzender",
+              "phoneNumber": "+496173608370",
+              "organizationMemberEmails": [
+                "hauptverwaltung@bikerunion.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 3425,
+          "membersCountDate": "2021-12-17T23:00:00.000Z",
+          "membershipEntries": [
+            "Federation of European Motorcyclists’ Associations",
+            "Deutscher Verkehrssicherheitsrat e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
     {
       "registerNumber": "R000300",
       "registerEntryDetail": {
