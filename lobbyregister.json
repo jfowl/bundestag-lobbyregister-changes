@@ -25446,7 +25446,7 @@
     {
       "registerNumber": "R000169",
       "registerEntryDetail": {
-        "id": 1397,
+        "id": 2045,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -25567,7 +25567,8 @@
           "membershipEntries": [
             "Deutsche Gesellschaft für Verbandsmanagement",
             "European Pet Organization ",
-            "Zoologische Gesellschaft Frankfurt"
+            "Zoologische Gesellschaft Frankfurt",
+            "Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main"
           ]
         },
         "legislativeProjects": [],
@@ -25616,7 +25617,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "ZZF-Jahresabschluss-2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/b7/ae/1392/ZZF-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/9b/09/2286/ZZF-Jahresabschluss-2020.pdf",
               "mimeType": "application/pdf"
             }
           }
