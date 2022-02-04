@@ -9,8 +9,221 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 293,
+  "resultCount": 294,
   "results": [
+    {
+      "registerNumber": "R000297",
+      "registerEntryDetail": {
+        "id": 252,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000297",
+          "firstPublicationDate": "2022-02-04T12:00:25.000Z"
+        },
+        "activityDescription": "Der Bundesverband der Personalmanager (BPM) ist die führende berufsständische Vereinigung für Personalmanager und Personalverantwortlichen aus Unternehmen, Verbänden und anderen Organisationen. Die Mitglieder sind in den verschiedensten Branchen, in allen Personalfunktionen\r\nund Führungsebenen tätig, unabhängig von der Größe der Organisation. \r\n\r\nDer BPM entwickelt mit seinen Mitgliedern ein Leitbild des Berufsstandes und leistet einen Beitrag zu dessen Professionalisierung, Qualifizierung und Internationalisierung. Der Verband setzt sich für anerkannte Ausbildungsstandards ein und trägt dazu bei, den Austausch innerhalb des Berufsstandes zu fördern - über nationale Grenzen hinaus. Der BPM sucht den Kontakt zu anderen Verbänden und tauscht sich mit diesen zu aktuellen Themen des Berufsstandes aus. Der BPM schärft zugleich das Bild des Personalmanagers in der Öffentlichkeit, den Unternehmen und Institutionen. \r\n\r\nDer Verband zeigt \"Mut zur Meinung\" und bringt sich auch in aktuelle gesellschaftliche und politische Debatten ein. Der BPM bündelt die Interessen seiner Mitglieder und vertritt diese gegenüber Politik, Wirtschaft und Medien. Der BPM versteht sich als überparteilicher Verband, der die Interessen von Personalverantwortlichen gegenüber Wirtschaft, Politik und Gesellschaft vertritt. Er entwickelt und verdichtet Meinungsbildung innerhalb des Berufsstandes und gibt den Verantwortlichen eine Stimme. Bei all seinen Aktivitäten steht stets die Weiterentwicklung der Profession im Vordergrund, die über Vernetzung und Wissensaustausch zwischen den Mitgliedern aktiv gefördert wird.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Personalmanager e.V.",
+          "phoneNumber": "+493084859300",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Oberwallstraße",
+            "streetNumber": "24",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bpm.de"
+          ],
+          "websites": [
+            "www.bpm.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Inga",
+              "lastName": "Dransfeld-Haase",
+              "function": "Präsidentin",
+              "phoneNumber": "+493084859300",
+              "organizationMemberEmails": [
+                "inga.dransfeld-haase@bpm.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Katharina",
+              "lastName": "Herrmann",
+              "function": "Geschäftsführende Vizepräsidentin",
+              "phoneNumber": "+493084859300",
+              "organizationMemberEmails": [
+                "info@bpm.de"
+              ]
+            },
+            {
+              "commonFirstName": "Malte",
+              "lastName": "Hansen",
+              "function": "Schatzmeister",
+              "phoneNumber": "+493084859300",
+              "organizationMemberEmails": [
+                "info@bpm.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Dennis",
+              "lastName": "Bachmann"
+            }
+          ],
+          "members": 4103,
+          "membersCountDate": "2022-01-02T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DIVERSITY",
+            "de": "Diversitätspolitik",
+            "en": "Diversity policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_FAMILY",
+            "de": "Familienpolitik",
+            "en": "Family policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_GENDER",
+            "de": "Geschlechterpolitik",
+            "en": "Gender politics"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_UNEMPLOYMENT",
+            "de": "Arbeitslosenversicherung",
+            "en": "Unemployment insurance"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Rechenschaftsbericht-Schatzmeister-BPM.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/6b/01/2326/Rechenschaftsbericht-Schatzmeister-BPM.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000296",
       "registerEntryDetail": {
