@@ -33986,7 +33986,7 @@
     {
       "registerNumber": "R000138",
       "registerEntryDetail": {
-        "id": 433,
+        "id": 1929,
         "clientIdentity": "",
         "employeeCount": {
           "from": 41,
@@ -34055,9 +34055,9 @@
               "commonFirstName": "Johannes",
               "lastName": "Rundfeldt",
               "function": "Sprecher",
-              "phoneNumber": "+4915233857952",
+              "phoneNumber": "+493081300179",
               "organizationMemberEmails": [
-                "jrundfeldt@ag.kritis.info"
+                "ijon@ag.kritis.info"
               ]
             }
           ],
