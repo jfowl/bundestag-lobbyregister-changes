@@ -9,8 +9,162 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 299,
+  "resultCount": 300,
   "results": [
+    {
+      "registerNumber": "R000303",
+      "registerEntryDetail": {
+        "id": 1333,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000303",
+          "firstPublicationDate": "2022-02-05T12:25:17.000Z"
+        },
+        "activityDescription": "Das NAFOR vertritt seine Mitglieder auf nationaler und internationaler Ebene in allen Belangen seiner Satzung. Zweck des NAFOR ist es laut Satzung, in der Bundesrepublik Deutschland auf wissenschaftlicher Basis den Natur- und Umweltschutz, die angewandte Ökologie, Landschaftspflege, die Umweltbildung und umweltfreundliche Technologien zu fördern und zu koordinieren. Zu den länderübergreifenden Aufgaben des NAFOR gehören insbesondere: - die Mitwirkung bei der deutschen Natur- und Umweltschutz-Gesetzgebung und bei einschlägigen Richtlinien und Projekten der Europäischen Union, - die Stellungnahme zu Sachverständigengutachten im Zuge der Vorbereitung von Verordnungen und anderen Rechtsvorschriften etc.\r\nAnwendungsbereich Lobbyregistergesetz: Interessenvertretung gegenüber den Organen, Mitgliedern, Fraktionen oder Gruppen des Deutschen Bundestages und für die Interessenvertretung gegenüber der Bundesregierung.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Naturschutzforum Deutschland e.V.",
+          "phoneNumber": "+4944077169834",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Gartenweg",
+            "streetNumber": "5",
+            "zipCode": "26203",
+            "city": "Wardenburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@nafor.de",
+            "verwaltung@nafor.de"
+          ],
+          "websites": [
+            "www.nafor.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Remmer",
+              "lastName": "Akkermann",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4944077169834",
+              "organizationMemberEmails": [
+                "info@nafor.de",
+                "verwaltung@nafor.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Helmut",
+              "lastName": "Schmidt",
+              "function": "Präsident",
+              "phoneNumber": "+4944077169834",
+              "organizationMemberEmails": [
+                "info@nafor.de",
+                "verwaltung@nafor.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kerstin",
+              "lastName": "Elbing",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+4944077169834",
+              "organizationMemberEmails": [
+                "info@nafor.de",
+                "verwaltung@nafor.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 13,
+          "membersCountDate": "2022-01-23T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of ​​the environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Kassenbericht-NaFor-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/3f/96/2383/Kassenbericht-NaFor-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000302",
       "registerEntryDetail": {
