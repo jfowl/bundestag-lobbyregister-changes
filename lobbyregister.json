@@ -9,8 +9,106 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 300,
+  "resultCount": 301,
   "results": [
+    {
+      "registerNumber": "R000304",
+      "registerEntryDetail": {
+        "id": 1635,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000304",
+          "firstPublicationDate": "2022-02-05T12:55:15.000Z"
+        },
+        "activityDescription": "Aikido ist eine Synthese wesentlicher Prinzipien und Inhalte des traditionellen japanischen Budo.\r\nAikido wurde von dem japanischen Meister Morihei Ueshiba (1883-1969) geschaffen und ist eine Sportart, die sich in Form reiner Verteidigungstechniken an die geistig-seelischen, sittlichen und körperlichen Fähigkeiten der Ausübenden wendet. In der Tradition des Budo und in Abgrenzung zum Wettkampfsport wird Aikido auch als Kampfkunst bezeichnet. Über die körperliche Übung lehrt Aikido alle Menschen, Gedanken und Handlungen in Harmonie zu vereinen. Durch die Aufhebung von Gegensätzen soll die freundschaftliche Einigung vieler Menschen zum gegenseitigen Nutzen erfolgen.\r\n\r\nDer DAB fördert seine angeschlossenen Vereine und Landesverbände durch\r\n- Organisation und Durchführung von Lehrgängen und Veranstaltungen;\r\n- Aus- und Fortbildung sowie Lizenzierung der Lehr- und Prüfungskräfte für Aikido;\r\n- Entwicklung und Verbreitung von Lehrmodellen und Arbeitshilfen für Aikido sowie\r\n- Koordination und Unterstützung der Mitglieder.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Aikido-Bund e.V. (DAB)",
+          "phoneNumber": "+4971819946010",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kantstr.",
+            "streetNumber": "7",
+            "zipCode": "73655",
+            "city": "Plüderhausen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "geschaeftsstelle@aikido-bund.de"
+          ],
+          "websites": [
+            "http://www.aikido-bund.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Barbara",
+              "lastName": "Oettinger",
+              "function": "Präsidentin",
+              "phoneNumber": "+4971819946010",
+              "organizationMemberEmails": [
+                "geschaeftsstelle@aikido-bund.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 170,
+          "membersCountDate": "2021-12-31T23:00:00.000Z",
+          "membershipEntries": [
+            "DOSB"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000303",
       "registerEntryDetail": {
