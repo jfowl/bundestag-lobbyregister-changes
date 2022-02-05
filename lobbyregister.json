@@ -2818,7 +2818,7 @@
     {
       "registerNumber": "R000288",
       "registerEntryDetail": {
-        "id": 1495,
+        "id": 2130,
         "clientIdentity": "",
         "employeeCount": {
           "from": 0,
@@ -2852,7 +2852,7 @@
           "phoneNumber": "+49337957671",
           "address": {
             "type": "NATIONAL",
-            "street": "Ebereschenweg ",
+            "street": "Ebereschenring ",
             "streetNumber": "63",
             "zipCode": "15827",
             "city": "Blankenfelde",
@@ -2930,7 +2930,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "2021-Tatigkeitsbericht-des-Vorstands.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/eb/00/2272/2021-Tatigkeitsbericht-des-Vorstands.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/cd/79/2379/2021-Tatigkeitsbericht-des-Vorstands.pdf",
               "mimeType": "application/pdf"
             }
           }
