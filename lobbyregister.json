@@ -9,8 +9,133 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 303,
+  "resultCount": 304,
   "results": [
+    {
+      "registerNumber": "R000307",
+      "registerEntryDetail": {
+        "id": 239,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "locationOfReportPublication": "www.dcig.de",
+        "account": {
+          "registerNumber": "R000307",
+          "firstPublicationDate": "2022-02-07T08:36:35.000Z"
+        },
+        "activityDescription": "Interessensvertretung von und für Menschen mit einer Hörbehinderung. Sensibilisierung für die Bedarfe hörgeschädigter Menschen in Deutschland. Vorantreiben von Barrierefreiheit für hörgeschädigte Menschen. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Cochlea Implantat Gesellschaft e. V.",
+          "phoneNumber": "+4973079257474",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Hauptstraße",
+            "streetNumber": "43",
+            "zipCode": "89250",
+            "city": "Senden",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@dcig.de"
+          ],
+          "websites": [
+            "www.dcig.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Roland",
+              "lastName": "Zeh",
+              "function": "Präsident",
+              "phoneNumber": "+4973079257474",
+              "organizationMemberEmails": [
+                "info@dcig.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Annalea",
+              "lastName": "Schröder"
+            },
+            {
+              "commonFirstName": "Ulrike",
+              "lastName": "Berger"
+            }
+          ],
+          "members": 2465,
+          "membersCountDate": "2021-12-30T23:00:00.000Z",
+          "membershipEntries": [
+            "Deutsche Gesellschaft der Hörbehinderten -Selbsthilfe und Fachverbände e. V.",
+            "Deutsche Gesellschaft Audiologie e.V.",
+            "EURO-CIU",
+            "BAG Selbsthilfe"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DISABILITY",
+            "de": "Rechte von Menschen mit Behinderung",
+            "en": "Rights of people with disabilities"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000306",
       "registerEntryDetail": {
