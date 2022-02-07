@@ -9,8 +9,140 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 305,
+  "resultCount": 306,
   "results": [
+    {
+      "registerNumber": "R000309",
+      "registerEntryDetail": {
+        "id": 1760,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000309",
+          "firstPublicationDate": "2022-02-07T09:33:23.000Z"
+        },
+        "activityDescription": "Der VDW vertritt als Wirtschaftsverband die Interessen der Werkzeugmaschinenindustrie in Deutschland und unterstützt die Unternehmen der Branche mit Dienstleistungen im Bereich Markt und Statistik, Forschung und Normung sowie Rechtsfragen und Messen.\r\nDazu veranstaltet der VDW Informationsveranstaltungen, Schulungen und Workshops. Die Branche ist exportorientiert und mittelständig geprägt. Es ist das Ziel die Herausforderungen und Bedarfe der Branche in den Bereichen Handelsbeziehungen, Forschungsförderung, Nachhaltigkeit in der Produktion, Ausbildung und EU-Richtlinien zu beschreiben und in den Dialog von Gesetzgebung und anderen politischen Entscheidungen einzubringen. Um entsprechende Rahmenbedingungen zu schaffen, steht der Verband im Austausch mit Vertreterinnen und Vertretern von Wissenschaft, Medien, Wirtschaft und Politik.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verein Deutscher Werkzeugmaschinenfabriken",
+          "phoneNumber": "+496975608136",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "VDW",
+            "street": "Lyoner Straße",
+            "streetNumber": "18",
+            "zipCode": "60528",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "dr.schaefer@vdw.de",
+            "kp.kuhnmuench@vdw.de"
+          ],
+          "websites": [
+            "vdw.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.-Ing.",
+              "commonFirstName": "Wilfried",
+              "lastName": "Schäfer",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+496975608135",
+              "organizationMemberEmails": [
+                "dr.schaefer@vdw.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.-Ing.",
+              "commonFirstName": "Alexander",
+              "lastName": "Broos"
+            },
+            {
+              "academicDegreeBefore": "RA",
+              "commonFirstName": "Klaus-Peter",
+              "lastName": "Kuhnmünch"
+            }
+          ],
+          "members": 104,
+          "membersCountDate": "2022-01-01T23:00:00.000Z",
+          "membershipEntries": [
+            "CECIMO",
+            "WorldSkills Germany e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Als Verein sind wir nicht veröffentlichpflichtig.\r\n"
+      }
+    },
     {
       "registerNumber": "R000308",
       "registerEntryDetail": {
