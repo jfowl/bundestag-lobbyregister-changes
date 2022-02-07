@@ -9,8 +9,296 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 325,
+  "resultCount": 327,
   "results": [
+    {
+      "registerNumber": "R000330",
+      "registerEntryDetail": {
+        "id": 1706,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000330",
+          "firstPublicationDate": "2022-02-07T17:14:29.000Z"
+        },
+        "activityDescription": "Zweck des Vereins ist die Positionierung des Wissenschaftsstandorts Kaiserslautern und seiner Innovationspotenziale regional, national und international sowie die Koordination gemeinsamer Kompetenzen der Mitgliedsorganisationen nach außen und innen. Der Fokus der SIAK liegt aktuell auf den Themen Mathematik, Informatik, Natur- und Ingenieurwissenschaften sowie deren Nutzung in allen Anwendungsbereichen für die digitale und nachhaltige Transformation, zum Beispiel Produktion, Landwirtschaft, Mobilität, Bauen, Energie, Stoffkreisläufe. Hierbei beschleunigen wir den Transfer von Innovationen zu den oben genannten Themen aus der Wissenschaft an die SIAK-Mitglieder aus der überwiegend KMU-basierten regionalen Wirtschaft durch intensiven Wissensaustausch und -transfer sowie gemeinsame interdisziplinäre öffentlich geförderte Innovationsprojekte, entwickeln wir gemeinsame Kommunikations- und Marketingstrategien zur Erhöhung der nationalen und weltweiten Sichtbarkeit und gesellschaftlichen Akzeptanz der technologiebasierten Innovationen und innovativen Produkte unserer Mitglieder und optimieren wir die Fachkräftegewinnung und -bindung in den MINT-Bereichen für die SIAK-Mitglieder. In diesem Kontext zielt die SIAK darauf ab, als zentraler Ansprechpartner und Interessenvertreter der Wissenschafts- und Innovationsregion Kaiserslautern bei Presse, Politik, Verbänden und Gesellschaft zu fungieren.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Science and Innovation Alliance Kaiserslautern e. V.",
+          "phoneNumber": "+4963156001750",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "SIAK",
+            "street": "Luxemburger Str.",
+            "streetNumber": "3",
+            "zipCode": "67657",
+            "city": "Kaiserslautern",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@siak-kl.com"
+          ],
+          "websites": [
+            "https://www.siak-kl.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr. Dr. h.c. ",
+              "commonFirstName": "Dieter",
+              "lastName": "Rombach",
+              "function": "Vorstandsvorsitzender ",
+              "phoneNumber": "+4963156001750",
+              "organizationMemberEmails": [
+                "Dieter.Rombach@iese.fraunhofer.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Valentin",
+              "lastName": "Petzsche"
+            }
+          ],
+          "members": 50,
+          "membersCountDate": "2022-01-31T00:00:00.000Z",
+          "membershipEntries": [
+            "ZukunftsRegion Westpfalz e.V.",
+            "Gauß-Allianz e.V. "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Digitales und Verkehr",
+            "description": "Ziel der Zuwendung war die Förderung des Forschungsprojekts Infra-Bau 4.0. Das Projekt Infra-Bau 4.0 zielt auf die Entwicklung einer gemeinsamen digitalen Plattform ab. Auf dieser Plattform können sich alle teilnehmenden Partner verbinden, die an einem Bauvorhaben beteiligt sind. Ihre unterschiedlichen Ressourcen und Prozesse werden in einem einzigen digitalen Ökosystem miteinander verbunden. Dies ermöglicht eine effektive und effiziente Planung und Umplanung des Baus, auch bei komplexen Projekten in einem von Natur aus volatilen Kontext.",
+            "location": "Invalidenstraße 44, 10115 Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Ministerium für Wissenschaft und Gesundheit Rheinland-Pfalz",
+            "description": "Ziel der Förderung war die Erstellung einer strukturierten Darstellung der Standortkompetenzen in Kaiserslautern im Bereich Fahrzeugtechnologie der Zukunft. ",
+            "location": "Mittlere Bleiche 61, 55116 Mainz",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "",
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000329",
+      "registerEntryDetail": {
+        "id": 1111,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000329",
+          "firstPublicationDate": "2022-02-07T16:58:40.000Z"
+        },
+        "activityDescription": "Am 18. Januar 1986 wurde unsere Organisation erstmalig unter dem Namen Arbeitsgemeinschaft deutsch-polnische Verständigung gegründet. Der Kreis der unter dem Dach des Verbandes vereinten engagierten Bürger und Gesellschaften wurde schnell zu einem Brückenbauer und Wegbereiter der deutsch-polnischen Versöhnung sowie zum wichtigen Ideengeber für die Politik.\r\n\r\nDie Deutsch-Polnische Gesellschaft Bundesverband hat sich seitdem zu einer bedeutenden Organisation in der deutsch-polnischen Zusammenarbeit entwickelt. Seit der Gründung des Bundesverbandes sind bereits über 100 Ausgaben des zweisprachigen Magazins DIALOG erschienen und wurden über 30 Buchtitel zu deutsch-polnischen Themen herausgegeben. Des Weiteren finden seit 1992 Kongresse und Tagungen der Deutsch-Polnischen und Polnisch-Deutschen Gesellschaften in Deutschland und Polen statt. Auch zahlreiche Veranstaltungen, u. a. Lesungen, aktuelle Diskussionsforen und Symposien, Ausstellungen sowie Konzerte, die der Verband gemeinsam mit deutschen und polnischen Institutionen und mit der Deutsch-Polnischen Gesellschaft Berlin durchführte, fanden ein stetig wachsendes Publikum.\r\n\r\nSeit 2005 verleiht die Deutsch-Polnische Gesellschaft Bundesverband jährlich den DIALOG-Preis. Der Bundesverband würdigt mit dieser Auszeichnung Personen, Institutionen, Initiativen, Medienprojekte oder Redaktionen, die sich in vorbildlicher Art und Weise für den Dialog der Völker und Kulturen in Europa sowie die Vertiefung der deutsch-polnischen Beziehungen engagieren.\r\n\r\nUnsere Organisation hat sich zum Ziel gesetzt, die vielen Akteure der deutsch-polnischen Beziehungen in Politik, Medien, Kultur, Wirtschaft und Wissenschaft zusammenzufassen, die oft fehlende Kommunikation zwischen ihnen zu verbessern und durch Bündelung und Vernetzung eine starke gesellschaftliche Lobby für die Kooperation beider Länder und ihrer Bürger zu bilden. Die ca. 50 Deutsch-Polnischen Gesellschaften mit rund 3000 Mitgliedern und zahlreichen Kooperationspartnern bilden ein einzigartiges Netzwerk und wirken mit ihrer Arbeit positiv in die Städte, Gemeinden und Regionen hinein.\r\n\r\n\r\nZiele der Organisation\r\n\r\n1.Stärkung der gesellschaftlichen Akteure in den deutsch-polnischen Beziehungen\r\nDer Bundesverband ist eine erfahrene und effektive Lobbyorganisation, die auf dem politischen Parkett die Interessen nichtstaatlicher Akteure (auch von Nichtmitgliedern) vertritt. Unterstützt wird der Verband dabei von Parlamentariern des Bundestages, die auch Mitglieder des Verbandes sind.\r\n\r\n2.Generierung einer breiten Öffentlichkeit\r\nMit Hilfe von öffentlichen Veranstaltungen, Publikationen sowie vor allem des Magazins DIALOG versucht der Verband, eine breite Öffentlichkeit über die Entwicklung des bilateralen Verhältnisses sachlich zu informieren. Das hohe Renommee der Projekte des Bundesverbandes sowie die Fachkompetenz machen die Organisation zu einem wichtigen Ansprechpartner für Bürger, Medien und Organisationen, die sich über das jeweilige Nachbarland informieren wollen.\r\n\r\n3.Vernetzung von Eliten\r\nNeben der Vermittlung von Informationen und Analysen in der Öffentlichkeit liegt ein weiterer Schwerpunkt der Arbeit des Verbandes in der Vernetzung von Eliten. In den letzten Jahren hat der Verband zahlreiche Veranstaltungen und Kongresse organisiert.\r\n\r\n \r\n\r\n\r\n(siehe dazu ebenfalls \"Über uns\" unter der hinterlegten Webseite des DPGB)",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsch-Polnische Gesellschaft Bundesverband e.V.",
+          "phoneNumber": "+493026551630",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Schillerstraße",
+            "streetNumber": "59",
+            "zipCode": "10627",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "kontakt@dialogmagazin.eu"
+          ],
+          "websites": [
+            "https://www.dpg-bundesverband.de/",
+            "https://www.dialogmagazin.eu/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Schröter",
+              "function": "Stellv. Bundesvorsitzender (geschäftsführend)",
+              "phoneNumber": "+49304329192",
+              "organizationMemberEmails": [
+                "kontakt@dialogmagazin.eu"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 3000,
+          "membersCountDate": "2021-12-15T00:00:00.000Z",
+          "membershipEntries": [
+            "Haus der Deutsch-Polnischen Zusammenarbeit in Gleiwitz/Gliwice (e.V.)",
+            "Akademie im Ostseeraum e.V"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Auswärtiges Amt der Bundesrepublik Deutschland",
+            "description": "Das Geld verteilt sich auf drei Projekte: \r\n\r\n1. DIALOG: Deutsch-Polnisches Magazin\r\n2. Internetportal DIALOG-Forum\r\n3. Der alljährliche Kongress des DPGB \r\n\r\nEs geht um Fehlbedarfsfinanzierung.",
+            "location": "Werderscher Markt 1, 10117 Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 370001,
+              "to": 380000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Deutsch-Polnische Beziehungen, Verständigung; Bi- und Trinationale Beziehungen (Weimarer Dreieck)"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Jahresabschluss liegt zur Zeit noch nicht vor. Wird entsprechend vorbereitet und nach Erhalt hochgeladen!"
+      }
+    },
     {
       "registerNumber": "R000328",
       "registerEntryDetail": {
