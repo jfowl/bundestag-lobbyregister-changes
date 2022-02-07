@@ -9,8 +9,130 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 304,
+  "resultCount": 305,
   "results": [
+    {
+      "registerNumber": "R000308",
+      "registerEntryDetail": {
+        "id": 238,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "Es werden keine finanzielle Mittel für die Interessenvertretung eingesetzt",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "Keine Schenkungen/Spenden erhalten ",
+        "account": {
+          "registerNumber": "R000308",
+          "firstPublicationDate": "2022-02-07T09:06:48.000Z"
+        },
+        "activityDescription": "Vertretung der Interessen von Verbänden und Unternehmen sowie internationalen Organisationen ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "academicDegreeBefore": "Berlin",
+          "commonFirstName": "Isabella",
+          "lastName": "Pfaff",
+          "academicDegreeAfter": "Berlin"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_ORGANIZATION",
+            "de": "Staatsorganisation",
+            "en": "State organization"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000307",
       "registerEntryDetail": {
