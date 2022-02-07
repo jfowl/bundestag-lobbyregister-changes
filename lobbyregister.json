@@ -12339,17 +12339,15 @@
     {
       "registerNumber": "R000269",
       "registerEntryDetail": {
-        "id": 925,
+        "id": 2254,
         "clientIdentity": "BOTH",
         "employeeCount": {
           "from": 1,
           "to": 10
         },
-        "refuseFinancialExpensesInformation": true,
-        "refuseFinancialExpensesInformationReason": "",
+        "refuseFinancialExpensesInformation": false,
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
-        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000269",
           "firstPublicationDate": "2022-02-02T15:43:57.000Z"
