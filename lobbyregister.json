@@ -9,8 +9,196 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 310,
+  "resultCount": 311,
   "results": [
+    {
+      "registerNumber": "R000314",
+      "registerEntryDetail": {
+        "id": 867,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000314",
+          "firstPublicationDate": "2022-02-07T12:17:25.000Z"
+        },
+        "activityDescription": "FUSS e.V. will Einfluss auf Gesetzgebung und Regierungshandeln nehmen, die den Fußverkehr betreffen. Wir sind Fachverband und führend in Deutschland mit planerischer, rechtlicher und technischer Expertise zum Fußverkehr. Wir verfolgen als oberste Ziele die Mobilität und die Sicherheit aller Menschen zu Fuß. Sie sollen als gleichberechtigte und oft besonders schutzbedürftige Gruppe im Verkehr anerkannt und wegen ihrer positiven Wirkung auf individuelle Mobilität. Städte, Umwelt, Sozialleben und Gesundheit gefördert werden. Fußverkehrsfreundliche Politik ist ganz besonders im Interesse von Kindern, Älteren und Menschen mit Behinderungen geboten, die besonders viele Wege zu Fuß zurücklegen, für die das Gehen Basismobilität und Voraussetzung für gesellschaftliche Teilhabe ist. Wir sind als gemeinnützig anerkannt und verfolgen die genannten Ziele ohne wirtschaftliche Absichten.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "FUSS e.V. Fachverband Fußverkehr Deutschland",
+          "phoneNumber": "+494927473",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Exerzierstr.",
+            "streetNumber": "20",
+            "zipCode": "13357",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@fuss-ev.de"
+          ],
+          "websites": [
+            "www.fuss-ev.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Geogr.",
+              "commonFirstName": "Paul",
+              "lastName": "Bickelbacher",
+              "function": "Vorstand",
+              "phoneNumber": "+49897213553",
+              "organizationMemberEmails": [
+                "paul.bickelbacher@fuss-ev.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Soz.",
+              "commonFirstName": "Ruth",
+              "lastName": "Hammerbacher",
+              "function": "Vorstand",
+              "phoneNumber": "+491711902901",
+              "organizationMemberEmails": [
+                "rh@hammerbacher.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl. Verwaltungswirt",
+              "commonFirstName": "Wolfgang",
+              "lastName": "Packmohr",
+              "function": "Vorstand",
+              "phoneNumber": "+491776053679",
+              "organizationMemberEmails": [
+                "packmohr-essen@t-online.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Katalin",
+              "lastName": "Saary",
+              "function": "Vorstand",
+              "phoneNumber": "+4915141457111",
+              "organizationMemberEmails": [
+                "katalin.saary@fuss-ev.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Roland",
+              "lastName": "Stimpel",
+              "function": "Vorstand",
+              "phoneNumber": "+491631833508",
+              "organizationMemberEmails": [
+                "roland.stimpel@fuss-ev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Lieb"
+            }
+          ],
+          "members": 837,
+          "membersCountDate": "2022-01-18T00:00:00.000Z",
+          "membershipEntries": [
+            "DVR",
+            "BBU",
+            "VCD",
+            "IFP"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Umweltbundesamt",
+            "description": "Zuwendung für ein Projekt mit Modellstädten zur Förderung des Fußverkehrs",
+            "location": "Dessau",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "FUSS-Jahresabschluss2021-Giro-paypal.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/68/ef/2456/FUSS-Jahresabschluss2021-Giro-paypal.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000313",
       "registerEntryDetail": {
