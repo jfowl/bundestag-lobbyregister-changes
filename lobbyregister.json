@@ -9,8 +9,441 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 311,
+  "resultCount": 313,
   "results": [
+    {
+      "registerNumber": "R000316",
+      "registerEntryDetail": {
+        "id": 1817,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000316",
+          "firstPublicationDate": "2022-02-07T12:37:35.000Z"
+        },
+        "activityDescription": "Der Weinbauverband Württemberg e.V. ist die berufsständische und wirtschaftspolitische Vertretung der Weinerzeuger Württembergs. Er hat außerdem die Einhaltung und Förderung des einheimischen Weinbaus zu gewährleisten, unter anderem auch durch die Führung des Lastenheftes zur Produktspezifikation der geschützten Ursprungsbezeichnung \"g.U. Württemberg\". Der Verband hat ca. 11.200 Mitglieder im Tätigkeitsbereich des bestimmten Anbaugebietes Württemberg und repräsentiert über 95% der Erzeuger sowie der erzeugten Weinmenge.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Weinbauverband Württemberg e.V.",
+          "phoneNumber": "+497134527970",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Hirschbergstr.",
+            "streetNumber": "2",
+            "zipCode": "74189",
+            "city": "Weinsberg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@weinbauverband-wuerttemberg.de"
+          ],
+          "websites": [
+            "www.weinbauverband-wuerttemberg.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Hermann",
+              "lastName": "Hohl",
+              "function": "Präsident",
+              "phoneNumber": "+497134527970",
+              "organizationMemberEmails": [
+                "info@weinbauverband-wuerttemberg.de"
+              ]
+            },
+            {
+              "commonFirstName": "Bernhard",
+              "lastName": "Idler",
+              "function": "Vizepräsident",
+              "phoneNumber": "+497134527970",
+              "organizationMemberEmails": [
+                "info@weinbauverband-wuerttemberg.de"
+              ]
+            },
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Albrecht",
+              "function": "Vizepräsident",
+              "phoneNumber": "+497134527970",
+              "organizationMemberEmails": [
+                "info@weinbauverband-wuerttemberg.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Hermann",
+              "lastName": "Morast"
+            }
+          ],
+          "members": 11243,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Weinbauverband"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Weinbauverband-JA-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/27/6c/2461/Weinbauverband-JA-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000315",
+      "registerEntryDetail": {
+        "id": 1255,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "locationOfReportPublication": "Bundesanzeiger",
+        "account": {
+          "registerNumber": "R000315",
+          "firstPublicationDate": "2022-02-07T12:24:29.000Z"
+        },
+        "activityDescription": "Die Rosenbauer Consulting GmbH (RCG) befasst sich mit der kontinuierlichen Analyse der allgemeinen politischen und wirtschaftlichen Situation sowie interessierender Gesetzesvorhaben und Verwaltungsakte. Diese Analyse bildet die Grundlage für die Beratungstätigkeit gegenüber den auftraggebenden Unternehmen. Im Regelfalle wird eine Kontaktaufnahme zu den verantwortlichen MDP's und ausführenden Ministerien/Behörden zwecks fundiertem Dialog empfohlen. \r\nJe nach Auftrag hilft RCG bei der Kontaktanbahnung und/oder nimmt den Kontakt in der Funktion der Vertretung des auftraggebenden Unternehmens auf.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Rosenbauer Consulting GmbH",
+          "phoneNumber": "+49453221222",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Ulmenweg",
+            "streetNumber": "26",
+            "zipCode": "22941",
+            "city": "Bargteheide",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "wubrosen@aol.com"
+          ],
+          "websites": [
+            "Webseite nicht vorhanden"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Wolfgang",
+              "lastName": "Rosenbauer",
+              "function": "CEO",
+              "phoneNumber": "+49453221222",
+              "organizationMemberEmails": [
+                "wubrosen@aol.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "Wirtschaftsrat"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Qualcomm Europe, Inc., Belgium Branch Office",
+            "phoneNumber": "+3228011376",
+            "address": {
+              "type": "FOREIGN",
+              "internationalAdditional1": "Qualcomm Europe, Inc., ",
+              "internationalAdditional2": "56 Avenue des Arts",
+              "city": "Brussels, 1000",
+              "country": {
+                "code": "BE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_AG",
+              "code_de": "Aktiengesellschaft (AG)",
+              "code_en": "Stock company (AG)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "rmajor@qti.qualcomm.com"
+            ],
+            "websites": [
+              "https://sp.qualcomm.com"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Wassim",
+                "lastName": "Choubaji",
+                "function": "SVP EMEA",
+                "phoneNumber": "+3227917640",
+                "organizationMemberEmails": [
+                  "wchourba@qti.qualcomm.com"
+                ]
+              },
+              {
+                "commonFirstName": "Juliana",
+                "lastName": "Koza",
+                "function": "Senior Manager",
+                "phoneNumber": "+4915142103386",
+                "organizationMemberEmails": [
+                  "jkoza@qti.qualcomm.com"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Qualcomm Europe, Inc., Belgium Branch Office",
+            "phoneNumber": "+3228011376",
+            "address": {
+              "type": "FOREIGN",
+              "internationalAdditional1": "Qualcomm Europe, Inc., ",
+              "internationalAdditional2": "56 Avenue des Arts",
+              "city": "Brussels, 1000",
+              "country": {
+                "code": "BE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_AG",
+              "code_de": "Aktiengesellschaft (AG)",
+              "code_en": "Stock company (AG)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "rmajor@qti.qualcomm.com"
+            ],
+            "websites": [
+              "https://sp.qualcomm.com"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Wassim",
+                "lastName": "Chourbaji",
+                "function": "SVP EMEA",
+                "phoneNumber": "+3227917640",
+                "organizationMemberEmails": [
+                  "wchourba@qti.qualcomm.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000314",
       "registerEntryDetail": {
