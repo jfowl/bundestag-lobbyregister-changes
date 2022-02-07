@@ -9,8 +9,143 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 327,
+  "resultCount": 328,
   "results": [
+    {
+      "registerNumber": "R000331",
+      "registerEntryDetail": {
+        "id": 616,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000331",
+          "firstPublicationDate": "2022-02-07T18:50:57.000Z"
+        },
+        "activityDescription": "Stripe ist eine Technologieplattform, die große wie kleine Unternehmen für den Auf- und Ausbau ihres Online-Geschäfts nutzen. Millionen Unternehmen, von Start-ups bis zu Fortune-500-Unternehmen, verlassen sich auf Stripes Softwarewerkzeuge, um Zahlungen zu akzeptieren, international zu expandieren und neue Geschäftsfelder zu erschließen. Seit seiner Gründung 2010 treibt Stripe aktiv die Entwicklung der Online-Wirtschaft voran, ermöglicht neuartige Geschäftsmodelle und wickelt Zahlungen für viele der innovativsten Unternehmen der Welt ab.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Stripe Deutschland GmbH",
+          "phoneNumber": "+491727184955",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o Rüter und Partner",
+            "street": "Prielmayerstr.",
+            "streetNumber": "3",
+            "zipCode": "80335",
+            "city": "München",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "jkowalski@stripe.com"
+          ],
+          "websites": [
+            "www.stripe.com/de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Julia",
+              "lastName": "Kowalski",
+              "function": "Public Policy Manager, Germany",
+              "phoneNumber": "+491785170797",
+              "organizationMemberEmails": [
+                "jkowalski@stripe.com"
+              ]
+            },
+            {
+              "commonFirstName": "Sandro",
+              "lastName": "Gianella",
+              "function": "Head of EMEA Public Policy",
+              "phoneNumber": "+491727184955",
+              "organizationMemberEmails": [
+                "sandro@stripe.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "Bitkom e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Jahresabschluss der Stripe Deutschland GmbH kann unter www.bundesanzeiger.de eingesehen werden. "
+      }
+    },
     {
       "registerNumber": "R000330",
       "registerEntryDetail": {
@@ -302,7 +437,7 @@
     {
       "registerNumber": "R000328",
       "registerEntryDetail": {
-        "id": 133,
+        "id": 2256,
         "clientIdentity": "",
         "employeeCount": {
           "from": 11,
@@ -439,6 +574,7 @@
               "lastName": "Heisterhagen"
             },
             {
+              "academicDegreeBefore": "Dr.",
               "commonFirstName": "Patrick",
               "lastName": "Kaczmarczyk"
             },
@@ -1210,7 +1346,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "Rechenschaftbericht-Jahresabschluss-2020-Jahresberichte-2019-20-21.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/e9/1e/2557/Rechenschaftbericht-Jahresabschluss-2020-Jahresberichte-2019-20-21.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/60/70/2579/Rechenschaftbericht-Jahresabschluss-2020-Jahresberichte-2019-20-21.pdf",
               "mimeType": "application/pdf"
             }
           }
