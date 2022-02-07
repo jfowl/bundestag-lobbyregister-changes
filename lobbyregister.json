@@ -9,8 +9,170 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 319,
+  "resultCount": 320,
   "results": [
+    {
+      "registerNumber": "R000323",
+      "registerEntryDetail": {
+        "id": 1026,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 60001,
+          "to": 70000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000323",
+          "firstPublicationDate": "2022-02-07T14:35:36.000Z"
+        },
+        "activityDescription": "Interessenwahrnehmung für die Mitglieder in allen Umweltbereichen sowie Beratung der Mitglieder, Unterstützung des europ. Verbandes Eurits",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "BDSAV Bundesverband Deutscher Sonderabfall-verbrennungsanlagen e.V.",
+          "phoneNumber": "+4951176088461",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Feuersteinweg",
+            "streetNumber": "3",
+            "zipCode": "30455",
+            "city": "Hannover",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "joerg.ruediger@bdsav.com"
+          ],
+          "websites": [
+            "www.bdsav.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jörg",
+              "lastName": "Rüdiger",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+491717472988",
+              "organizationMemberEmails": [
+                "joerg.ruediger@bdsav.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Ellerkmann"
+            }
+          ],
+          "members": 12,
+          "membersCountDate": "2022-01-19T00:00:00.000Z",
+          "membershipEntries": [
+            "Eurits"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "BDSAV Bundesverband Deutscher Sonderabfall-verbrennungsanlagen e.V.",
+            "phoneNumber": "+491717472088",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Feuersteinweg",
+              "streetNumber": "3",
+              "zipCode": "30455",
+              "city": "Hannover",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@bdsav.com",
+              "joerg.ruediger@bdsav.com"
+            ],
+            "websites": [
+              "www.bdsav.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Jörg",
+                "lastName": "Ruediger",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+491717472988",
+                "organizationMemberEmails": [
+                  "joerg.ruediger@bdsav.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "noch kein Abschluss, der bestätigt ist"
+      }
+    },
     {
       "registerNumber": "R000322",
       "registerEntryDetail": {
