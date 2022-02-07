@@ -9,8 +9,338 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 314,
+  "resultCount": 316,
   "results": [
+    {
+      "registerNumber": "R000319",
+      "registerEntryDetail": {
+        "id": 1102,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 250001,
+          "to": 260000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000319",
+          "firstPublicationDate": "2022-02-07T13:21:29.000Z"
+        },
+        "activityDescription": "Vertretung und Förderung der gemeinsamen Interessen der Mitglieder gegenüber Behörden und Ministerien im Hinblick auf fachliche und berufsständische Angelegenheiten, allgemeine wirtschaftliche, wirtschaftspolitische, rechtliche und technische Fragen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Kulinaria Deutschland e.V.",
+          "phoneNumber": "+49228212017",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reuterstr.",
+            "streetNumber": "151",
+            "zipCode": "53113",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@kulinaria.org"
+          ],
+          "websites": [
+            "http://www.kulinaria.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Durach",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4989611020",
+              "organizationMemberEmails": [
+                "sd@develey.de"
+              ]
+            },
+            {
+              "commonFirstName": "Bernhard",
+              "lastName": "Kurze",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+4954311850",
+              "organizationMemberEmails": [
+                "BKurze@ruf.eu"
+              ]
+            },
+            {
+              "commonFirstName": "Antonius",
+              "lastName": "Borgmeier",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+49524440090",
+              "organizationMemberEmails": [
+                "Antonius.Borgmeier@kuehlmann.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Markus",
+              "lastName": "Weck",
+              "function": "Hauptgeschäftsführer",
+              "phoneNumber": "+49228212017",
+              "organizationMemberEmails": [
+                "m.weck@verbaendebuero.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Laura",
+              "lastName": "Winter-Gierlich"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Martin",
+              "lastName": "Einig"
+            },
+            {
+              "commonFirstName": "Catherina",
+              "lastName": "Lüke"
+            }
+          ],
+          "members": 120,
+          "membersCountDate": "2022-01-26T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesvereinigung der deutschen Ernährungsindustrie e.V.",
+            "Förderkreis des Markenverbandes",
+            "Lebensmittelverband Deutschland e.V.",
+            "Forschungskreis der Ernährungsindustrie e.V.",
+            "Zentrale zur Bekämpfugng unlauteren Wettberwerbs e.V.",
+            "Deutsche Landwirtschafts-Gesellschaft e.V.",
+            "Food made in Germany e.V.",
+            "Deutscher Sojaförderring e.V.",
+            "CULINARIA EUROPE e.V.",
+            "European Chilled Food Federation "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Kulinaria-Deutschland-EA-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d3/de/2469/Kulinaria-Deutschland-EA-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000318",
+      "registerEntryDetail": {
+        "id": 1430,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000318",
+          "firstPublicationDate": "2022-02-07T12:56:24.000Z"
+        },
+        "activityDescription": "Interessenvertretung gegenüber Landes- und Bundespolitik sowie Behörden im Sinne der Krankenhäuser. Wirtschaftliche Sicherung der Krankenhäuser und ihrer Arbeitsplätze. Sicherstellung der Versorgung.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Hamburgische Krankenhausgesellschaft e.V.",
+          "phoneNumber": "+494025173611",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Burchardstr.",
+            "streetNumber": "19",
+            "zipCode": "20095",
+            "city": "Hamburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "hkgev@hkgev.de",
+            "brase@hkgev.de"
+          ],
+          "websites": [
+            "www.hkgev.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jörn",
+              "lastName": "Wessel",
+              "function": "2. Vorsitzender",
+              "phoneNumber": "+494025173611",
+              "organizationMemberEmails": [
+                "hkgev@hkgev.de"
+              ]
+            },
+            {
+              "commonFirstName": "Joachim",
+              "lastName": "Gemmel",
+              "function": "1. Vorsitzender",
+              "phoneNumber": "+494025173611",
+              "organizationMemberEmails": [
+                "hkgev@hkgev.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.med.",
+              "commonFirstName": "Claudia",
+              "lastName": "Brase",
+              "academicDegreeAfter": "Dipl. Kauffrau (FH)",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+494025173611",
+              "organizationMemberEmails": [
+                "brase@hkgev.de"
+              ]
+            },
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "Waldmann",
+              "function": "Mitglied des engeren Vorstands § 26 BGB",
+              "phoneNumber": "+494025173611",
+              "organizationMemberEmails": [
+                "hkgev@hkgev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 34,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutsche Krankenhausgesellschaft e.V.",
+            "Aktionsbündnis Patientensicherheit e.V.",
+            "Gesundheitswirtschaft Hamburg GmbH"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020-HKG.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/25/83/2464/Jahresabschluss-2020-HKG.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000317",
       "registerEntryDetail": {
