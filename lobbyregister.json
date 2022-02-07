@@ -9,8 +9,158 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 323,
+  "resultCount": 324,
   "results": [
+    {
+      "registerNumber": "R000327",
+      "registerEntryDetail": {
+        "id": 1329,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "Keine Zuwendungen oder Zuschüsse erhalten",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "Keine Schenkungen oder sonstige Zuwendungen erhalten",
+        "account": {
+          "registerNumber": "R000327",
+          "firstPublicationDate": "2022-02-07T16:05:41.000Z"
+        },
+        "activityDescription": "- Vermittlung von (teils ausländischen) Investoren an Investitionstargets unter Einbindung legislativ und/ oder exekutiv tätiger Personen.\r\n\r\n- Suche nach (teils ausländischen) Investoren unter Einbindung legislativ und/ oder exekutiv tätiger Personen für Investitionen in der BRD.\r\n\r\n- Kontaktmanagement für legislativ tätige Personen.   ",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "H+P Haube + Partner GmbH",
+          "phoneNumber": "+491732530505",
+          "address": {
+            "type": "POSTBOX",
+            "zipCode": "82142",
+            "city": "Planegg",
+            "poxBox": "1322",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@haube-partner.de"
+          ],
+          "websites": [
+            "www.haube-partner.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl. sc. pol. Univ.",
+              "commonFirstName": "Simon",
+              "lastName": "Pütz",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+491732530505",
+              "organizationMemberEmails": [
+                "puetz@haube-partner.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Betr. (FH)",
+              "commonFirstName": "Wolf-Rüdiger",
+              "lastName": "Bretzler",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+498989464084",
+              "organizationMemberEmails": [
+                "bretzler@haube-partner.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "BVMW e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "ist in Arbeit"
+      }
+    },
     {
       "registerNumber": "R000326",
       "registerEntryDetail": {
