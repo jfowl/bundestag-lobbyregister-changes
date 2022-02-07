@@ -9,8 +9,133 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 322,
+  "resultCount": 323,
   "results": [
+    {
+      "registerNumber": "R000326",
+      "registerEntryDetail": {
+        "id": 742,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000326",
+          "firstPublicationDate": "2022-02-07T15:53:50.000Z"
+        },
+        "activityDescription": "Der Verein ist der Zusammenschluss deutscher Hochschulen und Berufsakademien, die Präsenz-Studiengänge Physician Assistant, Arztassistenz oder gleichartige anbieten oder planen sowie von Angehörigen der Hochschulen und Berufsakademien. Er verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts Steuerbegünstigte Zwecke der Abgabenordnung.\r\nDer Zweck des Vereins ist die Förderung der Berufsbildung i.S.v. Paragraph 52 Abs. 2 Nr. 7 Abgabenordnung. Der Satzungszweck wird insbesondere verwirklicht durch den fachlichen Austausch der Hochschulen und seiner Angehörigen über die Ausgestaltung und die Inhalte der Studiengänge sowie die Förderung des Berufsbildes, insbesondere durch Information und Beratung u. a. von staatlichen Organen, Verbänden und der Öffentlichkeit.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_RESEARCH_FACILITY",
+          "de": "Denkfabrik, Forschungseinrichtung oder Hochschule",
+          "en": "Think tank, research institution or university"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Hochschulverband Physician Assistant (DHPA) e.V.",
+          "phoneNumber": "+492217720958",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Clever Str.",
+            "streetNumber": "16",
+            "zipCode": "50668",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "kontakt@hochschulverband-pa.de"
+          ],
+          "websites": [
+            "www.hochschulverband-pa.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr. med. habil.",
+              "commonFirstName": "Peter",
+              "lastName": "Heistermann",
+              "function": "Vorsitzender",
+              "phoneNumber": "+492217720958",
+              "organizationMemberEmails": [
+                "kontakt@hochschulverband-pa.de",
+                "heistermann@hochschulverband-pa.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med.",
+              "commonFirstName": "Claudia",
+              "lastName": "Heilmann",
+              "function": "Vorstand",
+              "phoneNumber": "+4937415709131",
+              "organizationMemberEmails": [
+                "claudia.heilmann@ba-sachsen.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med. habil.",
+              "commonFirstName": "Stefan",
+              "lastName": "Sesselmann",
+              "function": "Vorstand",
+              "phoneNumber": "+499613821624",
+              "organizationMemberEmails": [
+                "s.sesselmann@oth-aw.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 37,
+          "membersCountDate": "2022-01-12T00:00:00.000Z",
+          "membershipEntries": [
+            "Aktionsbündnis Patientensicherheit (APS)",
+            "Deutsche Gesellschaft für Physician Assistants (DGPA)",
+            "Hochschulverband Gesundheitsfachberufe (HVG)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
     {
       "registerNumber": "R000325",
       "registerEntryDetail": {
