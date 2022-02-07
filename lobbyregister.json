@@ -9,8 +9,445 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 301,
+  "resultCount": 303,
   "results": [
+    {
+      "registerNumber": "R000306",
+      "registerEntryDetail": {
+        "id": 471,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000306",
+          "firstPublicationDate": "2022-02-07T08:22:09.000Z"
+        },
+        "activityDescription": "Die Bundesarbeitsgemeinschaft Inklusionsfirmen (bag if) ist die Interessenvertretung der Inklusionsunternehmen in Deutschland. Gemeinsam mit ihren Landesarbeitsgemeinschaften (lag if) bildet sie ein bundesweites Netzwerk von inklusiven Unternehmen und setzt sich für die Belange von Menschen mit schweren Behinderungen im allgemeinen Arbeitsmarkt ein.\r\nDie bag if vertritt die Interessen von ca. 1.000 Inklusionsunternehmen und 30.000 Beschäftigten auf nationaler und internationaler Ebene. Sie leistet Lobbyarbeit im politischen Raum, verhandelt mit Kostenträgern und Entscheidungsinstanzen und wirkt an Gesetzgebungsverfahren mit. Sie berät Unternehmen, Behörden und Leistungsträger in allen relevanten Fragen der Beschäftigung von Menschen mit schweren Behinderungen. Sie informiert, unterstützt und vernetzt Inklusionsunternehmen mit dem Ziel, die inklusive Teilhabe in Deutschland nachhaltig zu prägen.\r\nDie bag if arbeitet eng zusammen mit den Integrationsämtern und deren Bundesarbeitsgemeinschaft, den Agenturen für Arbeit, den Sozialhilfeträgern sowie sozial engagierten Stiftungen. \r\nDie bag if unterstützt, stärkt und fördert ein soziales Unternehmertum, in dem wirtschaftliches Handeln durch soziales Verantwortungsbewusstsein geleitet wird.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesarbeitsgemeinschaft Inklusionsfirmen e.V.",
+          "phoneNumber": "+49302512082",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kommandantenstraße ",
+            "streetNumber": "80",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bag-if.de"
+          ],
+          "websites": [
+            "www.bag-if.de",
+            "www.mehrwert-inklusive.de",
+            "www.mehrzuverdienst.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Ulrich",
+              "lastName": "Adlhoch",
+              "function": "1. Vorsitzender",
+              "phoneNumber": "+49302512082",
+              "organizationMemberEmails": [
+                "ulrich.adlhoch@bag-if.de"
+              ]
+            },
+            {
+              "commonFirstName": "Bertram",
+              "lastName": "Sellner",
+              "function": "2. Vorsitzender",
+              "phoneNumber": "+4983419667414",
+              "organizationMemberEmails": [
+                "sellner@irseer-kreis.de"
+              ]
+            },
+            {
+              "commonFirstName": "Claudia",
+              "lastName": "Rustige",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+4952198632868",
+              "organizationMemberEmails": [
+                "claudia.rustige@bag-if.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 382,
+          "membersCountDate": "2021-12-30T23:00:00.000Z",
+          "membershipEntries": [
+            "Social Firms Europe - CEFEC",
+            "European Confederation of Inclusive Enterprises employing people with disabilities - EuCIE"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in field of European politics and the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DISABILITY",
+            "de": "Rechte von Menschen mit Behinderung",
+            "en": "Rights of people with disabilities"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "20539-BAG-Inklusionsfirmen-Testat-2020-signed.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/cc/37/2410/20539-BAG-Inklusionsfirmen-Testat-2020-signed.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000305",
+      "registerEntryDetail": {
+        "id": 1539,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000305",
+          "firstPublicationDate": "2022-02-07T08:16:04.000Z"
+        },
+        "activityDescription": "Wirksame Maßstäbe für Ethik und Transparenz in der Pharmaindustrie: Hierzu haben sich über 50 Pharmaunternehmen im Verein Freiwillige Selbstkontrolle für die Arzneimittelindustrie e.V. (FSA) zusammengeschlossen. Der Verein wurde am 16. Februar 2004 gegründet. Der FSA überwacht die korrekte Zusammenarbeit von Pharmaunternehmen mit Ärzten, Apothekern sowie weiteren Angehörigen der medizinischen Fachkreise und den Organisationen der Patientenselbsthilfe. Hierzu hat der FSA Verhaltensgrundregeln entwickelt, die eine unlautere Beeinflussung von Ärzten und Patientenorganisationen ausschließen. Zur wirksamen Durchsetzung wird jede Missachtung sanktioniert öffentlich und gemacht. Hierdurch wird den Verhaltenskodizes Nachdruck verliehen. Verstöße kann jeder melden, auch anonym. Die FSA-Mitgliedsunternehmen haben sich bislang drei Kodizes unterworfen: Die Kodizes für Fachkreise und für die Zusammenarbeit mit Patientenorganisationen sowie der Transparenzkodex definieren die Verhaltensgrundregeln der Mitglieder und werden regelmäßig angepasst. Ergänzt werden die FSA-Regeln durch die Empfehlungen für die Zusammenarbeit mit Partnern im Gesundheitswesen. § 2 der FSA-Satzung: \"Zweck des Vereins ist es, die \"Corporate Responsibility\" der Arzneimittelindustrie, verstanden als nachhaltige Unternehmensverantwortung gegenüber allen Stakeholdern, zu stärken. (...).\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Freiwillige Selbstkontrolle für die Arzneimittelindustrie e.V. (FSA)",
+          "phoneNumber": "+4930887281700",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Grolmanstrasse",
+            "streetNumber": "44 - 45",
+            "zipCode": "10623",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@fsa-pharma.de"
+          ],
+          "websites": [
+            "www.fsa-pharma.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Ingo",
+              "lastName": "Beuttenmüller",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Oliver",
+              "lastName": "Blattner",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Holger",
+              "lastName": "Diener",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "commonFirstName": "Andra",
+              "lastName": "Iannace",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "commonFirstName": "Kathrin",
+              "lastName": "Klär-Arlt",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Andreas",
+              "lastName": "Lenk",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Hannes",
+              "lastName": "Oswald-Brügel",
+              "function": "Vorstand, Vorsitzender",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "W. Dieter",
+              "lastName": "Paar",
+              "function": "Vorstand, Stellvertretender Vorsitzender",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "commonFirstName": "Astrid",
+              "lastName": "Richter",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "commonFirstName": "Fabian",
+              "lastName": "Schmidt",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Paula",
+              "lastName": "Scholz",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Manuel",
+              "lastName": "Steinhilber",
+              "function": "Vorstand",
+              "phoneNumber": "+4930887281700",
+              "organizationMemberEmails": [
+                "info@fsa-pharma.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Uwe",
+              "lastName": "Broch"
+            }
+          ],
+          "members": 55,
+          "membersCountDate": "2022-01-31T23:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of economy"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "FSA-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/86/fa/2408/FSA-Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "FSA-Empfehlungen-Partner-im-Gesundheitswesen.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/0a/76/2409/FSA-Empfehlungen-Partner-im-Gesundheitswesen.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000304",
       "registerEntryDetail": {
