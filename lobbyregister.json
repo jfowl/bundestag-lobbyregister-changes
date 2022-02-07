@@ -9,8 +9,134 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 313,
+  "resultCount": 314,
   "results": [
+    {
+      "registerNumber": "R000317",
+      "registerEntryDetail": {
+        "id": 1693,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000317",
+          "firstPublicationDate": "2022-02-07T12:50:20.000Z"
+        },
+        "activityDescription": "Pro Jahr erkranken etwa 16.500 junge Menschen zwischen 18 und 39 Jahren an Krebs. Junge Erwachsene mit Krebs benötigen nicht nur eine spezielle medizinische Behandlung und psychosoziale Versorgung. Die Diagnose bedeutet für sie häufig auch einen gravierenden Einschnitt in die gesamte Lebens- und Zukunftsplanung. Plötzlich sehen sie sich mit besonderen Problemen und Entscheidungen konfrontiert: Kinderwunsch und Familienplanung, eine mögliche Unterbrechung des Ausbildungsweges oder wirtschaftliche und soziale Notlagen. Themen, die neben der bestmöglichen Krebstherapie eine zentrale Rolle spielen.\r\nDie Deutsche Stiftung für junge Erwachsene mit Krebs setzt hier an und möchte durch die Förderung von Wissenschaft und Forschung sowie des öffentlichen Gesundheitswesens junge Menschen mit Krebs unterstützen und begleiten. Die Stiftung initiiert in enger Zusammenarbeit mit den Betroffenen verschiedene Projekte, um die Versorgungssituation der jungen Erwachsenen zu verbessern.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PUBLIC_LAW_ORGA",
+          "de": "Öffentlich-rechtliche Organisation (z. B. Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts)",
+          "en": "Public law organization (e.g. corporations, institutions and foundations under public law)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Stiftung für junge Erwachsene mit Krebs",
+          "phoneNumber": "+4930280930560",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Alexanderplatz",
+            "streetNumber": "1",
+            "zipCode": "10178",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_RSBR",
+            "code_de": "Rechtsfähige Stiftung bürgerlichen Rechts",
+            "code_en": "Legal foundation under civil law",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@junge-erwachsene-mit-krebs.de"
+          ],
+          "websites": [
+            "https://junge-erwachsene-mit-krebs.de/",
+            "https://www.junges-krebsportal.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Diana",
+              "lastName": "Lüftner",
+              "function": "Vorstand",
+              "phoneNumber": "+4930280930560",
+              "organizationMemberEmails": [
+                "d.lueftner@junge-erwachsene-mit-krebs.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "Bundesverband Deutscher Stiftungen e. V.",
+            "Deutsche Paritätische Wohlfahrtsverband Gesamtverband e. V.",
+            "Deutsche Arbeitsgemeinschaft Selbsthilfegruppen e. V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Olympus Europa SE & Co. KG",
+            "description": "Spende",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Vorstandsbericht erfolgt für das vergangene Geschäftsjahr bis August des Folgejahres."
+      }
+    },
     {
       "registerNumber": "R000316",
       "registerEntryDetail": {
