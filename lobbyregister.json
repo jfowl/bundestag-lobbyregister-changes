@@ -9,8 +9,245 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 320,
+  "resultCount": 322,
   "results": [
+    {
+      "registerNumber": "R000325",
+      "registerEntryDetail": {
+        "id": 1632,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000325",
+          "firstPublicationDate": "2022-02-07T15:12:32.000Z"
+        },
+        "activityDescription": "Die KEB Deutschland vertritt die gemeinsamen Interessen der katholischen Träger von Erwachsenenbildung gegenüber der Bundesregierung und der Deutschen Bischofskonferenz. Sie repräsentiert die katholische Erwachsenenbildung gegenüber Bundesstellen und anderen Bildungsträgern, in der Europäischen Föderation für katholische Erwachsenenbildung (FEECA) sowie gegenüber der EU. Zusammen mit anderen Trägern betreibt sie ein Europabüro in Brüssel.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_RESEARCH_FACILITY",
+          "de": "Denkfabrik, Forschungseinrichtung oder Hochschule",
+          "en": "Think tank, research institution or university"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Katholische Erwachsenenbildung Deutschland - Bundesarbeitsgemeinschaft e.V.",
+          "phoneNumber": "+49228902470",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Rheinweg ",
+            "streetNumber": "34",
+            "zipCode": "53113",
+            "city": "Bonn ",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "keb@keb-deutschland.de"
+          ],
+          "websites": [
+            "www.keb-deutschland.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Andrea",
+              "lastName": "Heim",
+              "function": "Bundesgeschäftsführerin",
+              "phoneNumber": "+492289024710",
+              "organizationMemberEmails": [
+                "heim@keb-deutschland.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 56,
+          "membersCountDate": "2019-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Forum Hoschule und Kirche",
+            "Bundesausschuss politische Bildung",
+            "Zentralkommittee der deutschen Katholiken",
+            "Föderation für Katholische Erwachsenenbildung (FEECA)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Koordinierungsstelle Alphadekade ",
+            "description": "Projektförderung",
+            "location": "Bonn",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 290001,
+              "to": 300000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "KEB-Jahresbericht-2021-Web.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f5/c0/2516/KEB-Jahresbericht-2021-Web.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000324",
+      "registerEntryDetail": {
+        "id": 1286,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000324",
+          "firstPublicationDate": "2022-02-07T15:01:05.000Z"
+        },
+        "activityDescription": "Die Tätigkeit beschränkt sich auf Stellungnahmen zu gesetzgeberischen Aktivitäten im Bereich Steuern, öffentliche Abgaben und zum Berufsrecht der Angehörigen der steuerberatenden Berufe. Dazu werden Abgeordnete des Deutschen Bundestags kontaktiert.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Steuerberaterverband Thüringen e.V.",
+          "phoneNumber": "+49361558330",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kartäuserstraße",
+            "streetNumber": "27a",
+            "zipCode": "99084",
+            "city": "Erfurt",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "martin.wiederhold@stbverband-thueringen.de"
+          ],
+          "websites": [
+            "www.stbverband-thueringen.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Andrea",
+              "lastName": "Recknagel",
+              "function": "Präsidentin",
+              "phoneNumber": "+49361558330",
+              "organizationMemberEmails": [
+                "a.recknagel@steuerberaterinnen.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Wiederhold"
+            }
+          ],
+          "members": 822,
+          "membersCountDate": "2022-01-24T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Steuerberaterverband e. V.",
+            "Steuerakademie - Fortbildungswerk des Steuerberaterverbandes Thüringen e. V.",
+            "Verband der Wirtschaft Thüringen e. V.",
+            "Landesverband der Freien Berufe Thüringen e. V.",
+            "Deutsche Gesellschaft für Verbandsmanagement e. V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Compliance-StBVThueringen.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/61/a9/2508/Compliance-StBVThueringen.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
     {
       "registerNumber": "R000323",
       "registerEntryDetail": {
