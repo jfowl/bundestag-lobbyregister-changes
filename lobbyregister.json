@@ -9,8 +9,585 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 316,
+  "resultCount": 319,
   "results": [
+    {
+      "registerNumber": "R000322",
+      "registerEntryDetail": {
+        "id": 786,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "02/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000322",
+          "firstPublicationDate": "2022-02-07T14:01:39.000Z"
+        },
+        "activityDescription": "ProPaketBox e.V. setzt sich für die Etablierung anbieterneutraler Paketboxen und Paketfachanlagen direkt am Wohn- oder Arbeitsort der Empfänger ein. Somit können alle Pakete stets erfolgreich beim 1. Versuch zugestellt werden, was Zeit spart und nachhaltig zur Reduzierung von Schadstoffemissionen beiträgt. Der Verkehr wird flüssiger und der Sekundärverkehr durch Abholfahrten der Empfänger zum PaketShop oder einer Paketstation entfällt.\r\nProPaketBox e.V. setzt sich dafür ein, dass alle Verbraucherinnen und Verbraucher so komfortabel und sicher Pakete zu Hause empfangen können, wie es heute bei Briefen der Fall ist: in einer Paketbox von allen Paketdiensten.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "ProPaketBox e.V.",
+          "phoneNumber": "+491772366352",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Düsseldorfer Straße",
+            "streetNumber": "8",
+            "zipCode": "10719",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@propaketbox.de",
+            "Kathrin.Zabel@propaketbox.de"
+          ],
+          "websites": [
+            "www.propaketbox.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jesper",
+              "lastName": "Okkels",
+              "function": "Präsident",
+              "phoneNumber": "+491733864327",
+              "organizationMemberEmails": [
+                "jesper.okkels@sesam-global.com"
+              ]
+            },
+            {
+              "commonFirstName": "Jürgen",
+              "lastName": "Rögele",
+              "function": "Vize-Präsident",
+              "phoneNumber": "+49985770922",
+              "organizationMemberEmails": [
+                "roegele@heibi-metall.de"
+              ]
+            },
+            {
+              "commonFirstName": "Raschid",
+              "lastName": "Sinayokho",
+              "function": "Vize-Präsident",
+              "phoneNumber": "+49307577400",
+              "organizationMemberEmails": [
+                "info@lippert.berlin"
+              ]
+            },
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Mayer",
+              "function": "Schatzmeister",
+              "phoneNumber": "+4971443010",
+              "organizationMemberEmails": [
+                "stephan.mayer@renzgroup.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Kathrin",
+              "lastName": "Zabel"
+            }
+          ],
+          "members": 7,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Logistik"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of “Spatial planning, construction and housing”"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "ProPaketBox e.V. wurde erst im Februar 2021 gegründet."
+      }
+    },
+    {
+      "registerNumber": "R000321",
+      "registerEntryDetail": {
+        "id": 313,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000321",
+          "firstPublicationDate": "2022-02-07T13:59:14.000Z"
+        },
+        "activityDescription": "Der Welttierschutzgesellschaft e.V. (WTG) ist ein gemeinnütziger Verein mit Sitz in Berlin. Unsere Vision ist eine Welt, in der Tiere von den Menschen wahrgenommen sowie respektvoll und tiergerecht behandelt werden. Im Fokus unserer Tierschutzarbeit stehen Entwicklungs- und Schwellenländer, in denen es kaum Maßnahmen zum Schutz von Tieren gibt. \r\nGemeinsam mit Partnerorganisationen sorgen wir unter anderem in Wildtierschutzzentren, mit mobilen Tierkliniken sowie durch Kastrationskampagnen für nachhaltige Verbesserungen im Leben von Streuner-, Nutz- und Wildtieren. Durch Tierschutzbildung stärken wir gleichzeitig das Bewusstsein für die Bedürfnisse der Tiere in der Bevölkerung. \r\nIn außergewöhnlichen Situationen wie Naturkatastrophen und globalen Krisen wie der Corona-Pandemie, die eine akute Bedrohungssituation für Tiere oder den Tierschutz darstellen, leisten wir Soforthilfe.\r\nIm Rahmen des Programms TIERÄRZTE WELTWEIT engagieren wir uns zudem für eine verbesserte Vermittlung von fundierten Theorie- und Praxiskenntnissen in der Aus- und Weiterbildung zahlreicher Berufsgruppen aus dem Bereich Tiergesundheit. Ziel ist die feste Verankerung des Tierschutzgedankens in der tiergesundheitlichen Arbeit sowie eine fachgerechte tiergesundheitliche Versorgung. Außerdem setzen wir uns für die Stärkung des Tierschutzes in Projekten der Entwicklungszusammenarbeit ein.\r\nWeltweiter Tierschutz beginnt für uns ebenso vor der eigenen Haustür und macht auch nicht vor dem digitalen Raum Halt. Deshalb setzen wir uns ebenfalls im Rahmen von öffentlichkeitswirksamen und politischen Tierschutzkampagnen sowie im Zusammenschluss mit weiteren gemeinnützigen Organisationen in Bündnissen und Arbeitsgruppen ein, um weitere, grundlegende (Tierschutz-)Themen in Deutschland und auf der EU-Ebene voranzubringen.\r\nWeitere Informationen unter: www.welttierschutz.org. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Welttierschutzgesellschaft e.V.",
+          "phoneNumber": "+493092372260",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reinhardtstraße",
+            "streetNumber": "10",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@welttierschutz.org"
+          ],
+          "websites": [
+            "www.welttierschutz.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Katharina",
+              "lastName": "Kohn",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+493092372260",
+              "organizationMemberEmails": [
+                "kk@welttierschutz.org"
+              ]
+            },
+            {
+              "commonFirstName": "Bettina",
+              "lastName": "Praetorius",
+              "function": "Vorstandsvorsitzende",
+              "phoneNumber": "+493092372260",
+              "organizationMemberEmails": [
+                "bp@welttierschutz.org"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Wolfgang",
+              "lastName": "Kohn",
+              "function": "Vorstand",
+              "phoneNumber": "+493092372260",
+              "organizationMemberEmails": [
+                "info@welttierschutz.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Wiebke",
+              "lastName": "Plasse"
+            },
+            {
+              "commonFirstName": "Daniela",
+              "lastName": "Schrudde"
+            }
+          ],
+          "members": 6,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Tierschutznetzwerk Kräfte bündeln",
+            "Qualzucht-Evidenz-Netzwerk (QUEN)",
+            "Animal Issue Thematic Cluster (AITC)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_AQUACULTURE",
+            "de": "Fischerei/Aquakultur",
+            "en": "Fishery/aquaculture"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "WTG-Bericht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/6b/98/2478/WTG-Bericht-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000320",
+      "registerEntryDetail": {
+        "id": 948,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000320",
+          "firstPublicationDate": "2022-02-07T13:49:47.000Z"
+        },
+        "activityDescription": "Der Verband der Arzneimittelimporteure Deutschlands e.V. verfolgt den Zweck, die allgemeinen und wirtschaftlichen und beruflichen Interessen von Unternehmen, die im Bereich Arzneimittelimport und Vertrieb dieser Arzneimittel tätig sind, zu fördern und Dritten gegenüber zu vertreten und zur Kostenreduktion im Gesundheitswesen beizutragen sowie unlauteren Wettbewerb zu bekämpfen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband der Arzneimittelimporteure Deutschlands e.V. (VAD)",
+          "phoneNumber": "+4968679201301",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Im Holzhau",
+            "streetNumber": "8",
+            "zipCode": "66663",
+            "city": "Merzig",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "adilorenzo@vad-news.de"
+          ],
+          "websites": [
+            "www.vad-news.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Alessandro",
+              "lastName": "Di Lorenzo",
+              "function": "Schriftführer",
+              "phoneNumber": "+4968679201301",
+              "organizationMemberEmails": [
+                "kontakt@vad-news.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof.",
+              "commonFirstName": "Edwin",
+              "lastName": "Kohl",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4968679201301",
+              "organizationMemberEmails": [
+                "kontakt@vad-news.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jörg",
+              "lastName": "Geller",
+              "function": "Schatzmeister",
+              "phoneNumber": "+4968679201301",
+              "organizationMemberEmails": [
+                "kontakt@vad-news.de"
+              ]
+            },
+            {
+              "commonFirstName": "Dirk",
+              "lastName": "Oltersdorf",
+              "function": "Stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+4968679201301",
+              "organizationMemberEmails": [
+                "kontakt@vad-news.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 7,
+          "membersCountDate": "2022-01-17T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Da keine handelsrechtliche Offenlegungspflichten bestehen."
+      }
+    },
     {
       "registerNumber": "R000319",
       "registerEntryDetail": {
