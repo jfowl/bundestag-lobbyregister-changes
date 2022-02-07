@@ -9,8 +9,109 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 329,
+  "resultCount": 330,
   "results": [
+    {
+      "registerNumber": "R000333",
+      "registerEntryDetail": {
+        "id": 902,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000333",
+          "firstPublicationDate": "2022-02-07T20:01:36.000Z"
+        },
+        "activityDescription": "Zweck des Vereins ist die Wahrnehmung und Förderung der Interessen von Soldaten und Veteranen sowie deren Angehöriger im Geiste liberaler europäischer Traditionen, deren Verbreitung in Wort und Schrift, die verstärkte Behauptung des hohen gesellschaftlichen Stellenwertes von Soldaten und Veteranen durch Mitwirkung an Entscheidungsprozessen in der Politik sowie deren Verankerung in der Gesellschaft",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Liberale Soldaten und Veteranen e.V.",
+          "phoneNumber": "+491749447482",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Arnold-Knoblauch-Ring",
+            "streetNumber": "31",
+            "zipCode": "14109",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "vorsitzender@liberale-soldaten.de",
+            "christian.weber@liberale-soldaten.de"
+          ],
+          "websites": [
+            "https://liberale-soldaten.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christian",
+              "lastName": "Weber",
+              "function": "Vorsitzender",
+              "phoneNumber": "+491749447482",
+              "organizationMemberEmails": [
+                "christian.weber@liberale-soldaten.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 52,
+          "membersCountDate": "2022-01-28T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_AFFAIRS",
+            "de": "Bundeswehrangelegenheiten",
+            "en": "Bundeswehr affairs"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_OTHER",
+            "de": "Sonstiges im Bereich „Verteidigung“",
+            "en": "Other in the field of “Defense”"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Es ist noch kein Vereinskonto aufgrund der erst kürzlich erfolgten Gründung vorhanden"
+      }
+    },
     {
       "registerNumber": "R000332",
       "registerEntryDetail": {
