@@ -9,8 +9,197 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 337,
+  "resultCount": 339,
   "results": [
+    {
+      "registerNumber": "R000342",
+      "registerEntryDetail": {
+        "id": 1462,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000342",
+          "firstPublicationDate": "2022-02-08T10:37:05.000Z"
+        },
+        "activityDescription": "Gespräche mit Politikern und Vertretern der Selbstverwaltung, Schriftwechsel.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "academicDegreeBefore": "Dr.",
+          "commonFirstName": "Silke",
+          "lastName": "Zinke"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Berufsverband Deutscher Rheumatologen e.V.",
+            "phoneNumber": "+4989904141413",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Dr.-Max-Str.",
+              "streetNumber": "21",
+              "zipCode": "82031",
+              "city": "Grünwald",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "kontakt@bdrh.de"
+            ],
+            "websites": [
+              "www.bdrh.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Sonja",
+                "lastName": "Froschauer-Häfele",
+                "function": "Geschäftsführerin",
+                "phoneNumber": "+491771760755",
+                "organizationMemberEmails": [
+                  "sonja.froschauer@bdrh-service.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000341",
+      "registerEntryDetail": {
+        "id": 1755,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "",
+        "account": {
+          "registerNumber": "R000341",
+          "firstPublicationDate": "2022-02-08T10:30:34.000Z"
+        },
+        "activityDescription": "Der Deutsche Fährverband ist ein Unternehmensverband, der 1946 gegründet wurde.\r\n\r\nDie Aufgaben des Verbandes unterteilen sich in zwei Bereiche:\r\n1. Interessensvertretung: Die Interessen der Fährgesellschaften gegenüber Politik, Verwaltung und Institutionen vertreten und Information an die Unternehmen weiterreichen.\r\n2. Kommunikation: Die Kommunikation zwischen den den Mitgliedern zu ermöglichen und fördern.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Fährverband.e.V.",
+          "phoneNumber": "+496131326916",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Heidesheimer Str. ",
+            "streetNumber": "46",
+            "zipCode": "55124",
+            "city": "Mainz",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "plicht@faehrverband.de"
+          ],
+          "websites": [
+            "http://www.faehrverband.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Maria",
+              "lastName": "Plicht",
+              "function": "Geschäftsstellenleitung",
+              "phoneNumber": "+496131326916",
+              "organizationMemberEmails": [
+                "plicht@faehrverband.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 70,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "BDS-Binnenschiffahrt e.V.",
+            "Bundesverband der Deutschen Binnenschifffahrt e.V. (BDB)",
+            "Mittelständische Personenschiffahrt e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000340",
       "registerEntryDetail": {
