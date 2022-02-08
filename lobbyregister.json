@@ -9,8 +9,219 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 344,
+  "resultCount": 345,
   "results": [
+    {
+      "registerNumber": "R000348",
+      "registerEntryDetail": {
+        "id": 326,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 70001,
+          "to": 80000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000348",
+          "firstPublicationDate": "2022-02-08T14:16:37.000Z"
+        },
+        "activityDescription": "Der Deutsche Chorverband ist die erste Adresse für die vokale Musik in Deutschland und setzt sich dafür ein, dem Chorgesang sowohl in der breiten Öffentlichkeit als auch bei Entscheidern aus Kultur, Politik und Gesellschaft eine starke Stimme zu geben. Der DCV initiiert, gestaltet und organisiert dabei Projekte, Programme und Veranstaltungen für alle Altersstufen und unterstützt mit seinen Beratungs- und Serviceleistungen die haupt- und ehrenamtlich Engagierten im Chorbereich.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Chorverband e.V.",
+          "phoneNumber": "+493084710890",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Karl-Marx-Straße",
+            "streetNumber": "145",
+            "zipCode": "12043",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@deutscher-chorverband.de"
+          ],
+          "websites": [
+            "www.deutscher-chorverband.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Wulff",
+              "academicDegreeAfter": "Bundespräsident a.D.",
+              "function": "Präsident",
+              "phoneNumber": "+493022792300",
+              "organizationMemberEmails": [
+                "buero.wulff@bundestag.de"
+              ]
+            },
+            {
+              "commonFirstName": "Reiner",
+              "lastName": "Schomburg",
+              "function": "Vizepräsident Finanzen",
+              "phoneNumber": "+493084710890",
+              "organizationMemberEmails": [
+                "info@deutscher-chorverband.de"
+              ]
+            },
+            {
+              "commonFirstName": "Claus-Peter",
+              "lastName": "Blaschke",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49308471089",
+              "organizationMemberEmails": [
+                "info@deutscher-chorverband.de"
+              ]
+            },
+            {
+              "commonFirstName": "Petra",
+              "lastName": "Merkel",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+493084710890",
+              "organizationMemberEmails": [
+                "info@deutscher-chorverband.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jörg",
+              "lastName": "Schmidt",
+              "academicDegreeAfter": "Oberbürgermeister a.D.",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493084710890",
+              "organizationMemberEmails": [
+                "info@deutscher-chorverband.de"
+              ]
+            },
+            {
+              "commonFirstName": "Veronika",
+              "lastName": "Petzold",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+493084710890",
+              "organizationMemberEmails": [
+                "veronika.petzold@dcvg.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 20,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesmusikverband Chor & Orchester (www.bundesmusikverband.de)",
+            "Deutscher Musikrat (www.musikrat.de)",
+            "European Choral Association (www.europeanchoralassociation.org)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Senatsverwaltung für Bildung, Jugend und Familie in Berlin",
+            "description": "Förderung einer einjährigen, berufsbegleitenden Fortbildung für Grundschullehrkräfte in Berlin. Die Fortbildung richtet sich an Grundschullehrkräfte, die im Land Berlin Musik unterrichten, jedoch über kein Lehramtsstudium in diesem Fach verfügen. Ziele der Fortbildung sind das Training der stimmlichen und musikalischen Fertigkeiten der Teilnehmenden und deren Übertragung auf die Planung und Durchführung ihres Musikunterrichts. Neben den fünf Fortbildungstagen fördern wöchentliches gemeinsames Chorsingen und eine einmalige professionelle Stimmberatung das Selbstbewusstsein im Umgang mit der eigenen Stimme.",
+            "location": "Bernhard-Weiß-Straße 6, 10178 Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 100001,
+              "to": 110000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Stadt Leipzig",
+            "description": "Förderung des Deutschen Chorfests 2020 in Leipzig (pandemiebedingt abgesagt und verschoben auf 2022). Im Vier-Jahres-Rhythmus lädt der DCV zum Deutschen Chorfest ein, das Vokalensembles aller Genres und Besetzungen eine Bühne bietet - vom Kinderchor bis zum Männergesangverein, von der Kantorei bis zur Vocal Band. Die teilnehmenden Ensembles erhalten Auftrittsmöglichkeiten in renommierten Konzertsälen und Kirchen der jeweiligen Austragungsstadt und können zudem am Chorwettbewerb teilnehmen oder in sozialen Einrichtungen und Gottesdiensten singen.",
+            "location": "Dezernat IV, 04092 Leipzig",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 340001,
+              "to": 350000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Sächsische Staatskanzlei",
+            "description": "Förderung des Deutschen Chorfests 2020 in Leipzig (pandemiebedingt abgesagt und verschoben auf 2022). Im Vier-Jahres-Rhythmus lädt der DCV zum Deutschen Chorfest ein, das Vokalensembles aller Genres und Besetzungen eine Bühne bietet - vom Kinderchor bis zum Männergesangverein, von der Kantorei bis zur Vocal Band. Die teilnehmenden Ensembles erhalten Auftrittsmöglichkeiten in renommierten Konzertsälen und Kirchen der jeweiligen Austragungsstadt und können zudem am Chorwettbewerb teilnehmen oder in sozialen Einrichtungen und Gottesdiensten singen.",
+            "location": "01095 Dresden",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 190001,
+              "to": 200000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Die Beauftragte der Bundesregierung für Kultur und Medien",
+            "description": "Förderung des Deutschen Chorfests 2020 in Leipzig (pandemiebedingt abgesagt und verschoben auf 2022). Im Vier-Jahres-Rhythmus lädt der DCV zum Deutschen Chorfest ein, das Vokalensembles aller Genres und Besetzungen eine Bühne bietet - vom Kinderchor bis zum Männergesangverein, von der Kantorei bis zur Vocal Band. Die teilnehmenden Ensembles erhalten Auftrittsmöglichkeiten in renommierten Konzertsälen und Kirchen der jeweiligen Austragungsstadt und können zudem am Chorwettbewerb teilnehmen oder in sozialen Einrichtungen und Gottesdiensten singen.",
+            "location": "Graurheindorfer Str. 198, 53117 Bonn",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 80001,
+              "to": 90000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Stiftung",
+            "description": "Zweckgebundene Unterstützung",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 60001,
+              "to": 70000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Rechenschaftsbericht-DCV-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/98/e4/2709/Rechenschaftsbericht-DCV-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000347",
       "registerEntryDetail": {
