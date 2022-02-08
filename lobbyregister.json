@@ -40807,11 +40807,11 @@
     {
       "registerNumber": "R000160",
       "registerEntryDetail": {
-        "id": 1560,
+        "id": 1561,
         "clientIdentity": "",
         "employeeCount": {
-          "from": 11,
-          "to": 20
+          "from": 1,
+          "to": 10
         },
         "refuseFinancialExpensesInformation": false,
         "financialExpensesEuro": {
@@ -40827,7 +40827,7 @@
           "registerNumber": "R000160",
           "firstPublicationDate": "2022-01-25T12:36:05.000Z"
         },
-        "activityDescription": "Gegeben falls Kontaktaufnahme mit Mitgliedern des Bundestages im Rahmen von gesundheitspolitischen Fragestellungen. \r\n\r\nTeilnahme an Anhörungen \r\n\r\nVerfassen von Stellungnahmen insbesondere zu Gesetzesentwürfen",
+        "activityDescription": "Kontaktaufnahme mit Mitgliedern des Bundestages im Rahmen von gesundheitspolitischen Fragestellungen. \r\n\r\nTeilnahme an Anhörungen \r\n\r\nVerfassen von Stellungnahmen insbesondere zu Gesetzesentwürfen",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_PROFESSION_ASSOC",
@@ -40893,10 +40893,19 @@
               ]
             }
           ],
-          "namedEmployees": [],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Friederike",
+              "lastName": "Burgdorf",
+              "academicDegreeAfter": "M. Sc. "
+            }
+          ],
           "members": 17282,
           "membersCountDate": "2021-11-01T00:00:00.000Z",
-          "membershipEntries": []
+          "membershipEntries": [
+            "Gemeinschaft Fachärztlicher Berufsverbände"
+          ]
         },
         "legislativeProjects": [],
         "donators": [],
@@ -40933,8 +40942,8 @@
           {
             "type": "ANNUAL_REPORT",
             "media": {
-              "fileName": "210629-Bericht-JA-BDCeV-1-0.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/dd/c2/1637/210629-Bericht-JA-BDCeV-1-0.pdf",
+              "fileName": "2020-JA-BDCeV-LR-1-0.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/b5/95/2790/2020-JA-BDCeV-LR-1-0.pdf",
               "mimeType": "application/pdf"
             }
           }
