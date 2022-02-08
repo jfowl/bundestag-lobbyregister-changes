@@ -9,8 +9,313 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 351,
+  "resultCount": 352,
   "results": [
+    {
+      "registerNumber": "R000355",
+      "registerEntryDetail": {
+        "id": 1023,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000355",
+          "firstPublicationDate": "2022-02-08T17:45:54.000Z"
+        },
+        "activityDescription": "Ontario Teachers’ is an investor in German businesses. Ontario Teachers’ has an interest in proposals and policies concerning the German economy, Germany’s European Union policies, and the transition to net zero. Specific sectors of interest include financial services, healthcare, industrial goods, consumer goods, energy, infrastructure, digital and services and technology. Ontario Teachers’ may need meetings with Federal Government and Federal Parliament officials and representatives on occasion in order to understand these policies and associated regulations.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Ontario Teachers' Pension Plan Board",
+          "phoneNumber": "+14162285900",
+          "address": {
+            "type": "FOREIGN",
+            "internationalAdditional1": "5650 Yonge Street",
+            "internationalAdditional2": "Toronto, Ontario",
+            "city": "M2M4H5",
+            "country": {
+              "code": "CA"
+            }
+          },
+          "legalForm": {
+            "code": "LF_KDOER",
+            "code_de": "Körperschaft des öffentlichen Rechts",
+            "code_en": "Public corporation",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "Lobbying@otpp.com"
+          ],
+          "websites": [
+            "https://www.otpp.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Marc",
+              "lastName": "Dupont",
+              "function": "Managing Director, Government & Public Affairs",
+              "phoneNumber": "+14162285900",
+              "organizationMemberEmails": [
+                "marc_dupont@otpp.com"
+              ]
+            },
+            {
+              "commonFirstName": "Jo",
+              "lastName": "Taylor",
+              "function": "President & Chief Executive Officer",
+              "phoneNumber": "+14162285900",
+              "organizationMemberEmails": [
+                "Lobbying@otpp.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Kevin",
+              "lastName": "McGurgan"
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Coe"
+            },
+            {
+              "commonFirstName": "Trinnie",
+              "lastName": "So"
+            }
+          ],
+          "membershipEntries": [
+            "Global Infrastructure Investor Association"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INSURANCE",
+            "de": "Versicherungswesen",
+            "en": "Insurance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NUCLEAR",
+            "de": "Atomenergie",
+            "en": "Nuclear power"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_COOPERATION",
+            "de": "Polizeiliche und justizielle Zusammenarbeit in der EU",
+            "en": "Police and judicial cooperation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_POLITICS",
+            "de": "Institutionelle Fragen der EU",
+            "en": "Institutional questions of European politics"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_SAFETY_POLICY",
+            "de": "Gemeinsame Außen- und Sicherheitspolitik der EU",
+            "en": "Common foreign and security policy of the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2020-Annual-Report.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/4d/f4/2774/2020-Annual-Report.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000354",
       "registerEntryDetail": {
