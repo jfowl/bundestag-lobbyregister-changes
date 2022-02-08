@@ -9,8 +9,264 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 349,
+  "resultCount": 350,
   "results": [
+    {
+      "registerNumber": "R000353",
+      "registerEntryDetail": {
+        "id": 1913,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000353",
+          "firstPublicationDate": "2022-02-08T16:29:30.000Z"
+        },
+        "activityDescription": "PowerShift e.V. befasst sich mit energie-, klima-, rohstoff-, handels- und wirtschaftspolitischen Fragen. Durch Advocacyarbeit zu unseren Themengebieten möchten wir zu einer globalen Energie- und Rohstoffwende sowie gerechteren weltwirtschaftlichen Beziehungen beitragen.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "PowerShift e.V.",
+          "phoneNumber": "+493027875736",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "PowerShift e.V.",
+            "street": "Greifswalder Str.",
+            "streetNumber": "4",
+            "zipCode": "10405",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@power-shift.de",
+            "tine.laufer@power-shift.de"
+          ],
+          "websites": [
+            "power-shift.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Fuchs",
+              "function": "geschäftsführender Vorstand",
+              "phoneNumber": "+491776334900",
+              "organizationMemberEmails": [
+                "peter.fuchs@power-shift.de"
+              ]
+            },
+            {
+              "commonFirstName": "Bernd",
+              "lastName": "Brouns",
+              "function": "Vorstand",
+              "phoneNumber": "+493027875736",
+              "organizationMemberEmails": [
+                "bernd.brouns@power-shift.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Alessa",
+              "lastName": "Hartmann"
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Reckordt"
+            },
+            {
+              "commonFirstName": "Fabian",
+              "lastName": "Flues"
+            },
+            {
+              "commonFirstName": "Jeremy",
+              "lastName": "Oestreich"
+            },
+            {
+              "commonFirstName": "Hannah",
+              "lastName": "Pilgrim"
+            },
+            {
+              "commonFirstName": "Bettina",
+              "lastName": "Müller"
+            },
+            {
+              "commonFirstName": "Anne",
+              "lastName": "Bundschuh"
+            }
+          ],
+          "members": 31,
+          "membersCountDate": "2022-02-02T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Stiftung Nord Süd Brücken",
+            "description": "Projektförderung für drei Projekte im Bereich Handels- Rohstoff- und Klimapolitik",
+            "location": "Greifswalder Straße 33a, 10405 Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 120001,
+              "to": 130000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Engagement Global gGmbH",
+            "description": "Projektförderung für zwei Projekte im Bereich handels- und rohstoffpolitische Bildung",
+            "location": "Friedrich-Ebert-Allee 40, 53113 Bonn",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 110001,
+              "to": 120000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "forum für internationale entwicklung und planung",
+            "description": "Projektgelder für ein Projekt im Themenbereich Politische Aktion für Postwachstum und Suffizienz",
+            "location": "Marienstraße 19 bis 20, 10117 Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Bilanz-GuV-PowerShift-2020-ohne-Namen-Rucklagenerlauterung.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/08/30/2753/Bilanz-GuV-PowerShift-2020-ohne-Namen-Rucklagenerlauterung.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000352",
       "registerEntryDetail": {
