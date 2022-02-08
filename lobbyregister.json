@@ -9,8 +9,455 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 342,
+  "resultCount": 344,
   "results": [
+    {
+      "registerNumber": "R000347",
+      "registerEntryDetail": {
+        "id": 1942,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000347",
+          "firstPublicationDate": "2022-02-08T13:27:08.000Z"
+        },
+        "activityDescription": "1) Zwecke des Verbandes sind: \r\na) Die Verbraucherberatung: Der Verband berät den Fahrgast als Verbraucher von Dienstleistungen öffentlicher Verkehrsmittel über die sinnvolle Benutzung der öffentlichen Verkehrsmittel und informiert ihn über seine Rechte. Der Verband beteiligt sich durch Veröffentlichungen, Stellungnahmen und eigene Veranstaltungen, auch im Zusammenwirken mit Verkehrsbetrieben und anderen geeigneten Stellen, an der fachlichen und öffentlichen Diskussion zu diesem Themenbereich. Der Verband wirkt mit beider Einrichtung von verbraucherbezogenen Gremien bei den Verkehrsbetrieben (zum Beispiel Fahrgastbeiräten) und unterstützt deren Arbeit. \r\nb) Die Förderung der Volksbildung: Der Verband gibt durch Vortrags- und Lehrveranstaltungen, Diskussionen, Veröffentlichungen und ähnlichen Aktivitäten jedermann die Gelegenheit, sich im Themenbereich des öffentlichen Personennah- und -fernverkehrs (vor allem auf der Schiene, aber auch auf der Straße) und damit verwandten Themenkreisen über allgemein interessierende Zusammenhänge zu informieren. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Fahrgastverband PRO BAHN Landesverband Berlin/Brandenburg e.V.",
+          "phoneNumber": "+493036995326",
+          "address": {
+            "type": "POSTBOX",
+            "zipCode": "10501",
+            "city": "Berlin",
+            "poxBox": "210146",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@pro-bahn-berlin.de"
+          ],
+          "websites": [
+            "https://www.pro-bahn-berlin-brandenburg.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Cornelius",
+              "function": "Vorsitz",
+              "phoneNumber": "+493036995326",
+              "organizationMemberEmails": [
+                "peter.cornelius@pro-bahn-berlin-brandenburg.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Florian",
+              "lastName": "Bruns",
+              "function": "Stellv. Vorsitz",
+              "phoneNumber": "+493036995326",
+              "organizationMemberEmails": [
+                "florian.bruns@pro-bahn-berlin-brandenburg.de"
+              ]
+            },
+            {
+              "commonFirstName": "Max",
+              "lastName": "Metzger",
+              "function": "Schatzmeister",
+              "phoneNumber": "+493036995326",
+              "organizationMemberEmails": [
+                "max.metzger@pro-bahn-berlin-brandenburg.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 150,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Fahrgastverband PRO BAHN e.V.",
+            "Verbraucherzentrale Berlin e. V.",
+            "PRO S-BAHN STAHNSDORF e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Wird erst bei der Mitgliederversammlung (Juli 2022) veröffentlicht."
+      }
+    },
+    {
+      "registerNumber": "R000346",
+      "registerEntryDetail": {
+        "id": 373,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 80001,
+          "to": 90000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000346",
+          "firstPublicationDate": "2022-02-08T13:09:55.000Z"
+        },
+        "activityDescription": "Der Deutsche Säge- und Holzindustrie Bundesverband e. V. (DeSH) vertritt die Interessen der deutschen Säge- und Holzindustrie auf nationaler, europäischer und internationaler Ebene. Dabei steht der Verband seinen Mitgliedsunternehmen aus ganz Deutschland, in wirtschafts- und branchenpolitischen Angelegenheiten zur Seite und unterstützt die kontinuierliche Verbesserung der wirtschaftlichen und politischen Rahmenbedingungen für die Verwendung des Rohstoffs Holz. Der Verband tritt in Dialog mit Vertretern aus Medien, Wirtschaft, Politik und Forschung. Bei der Umsetzung ihrer Ziele steht die Deutsche Säge- und Holzindustrie für eine umweltverträgliche und wertschöpfende Nutzung des Werkstoffs und Bioenergieträgers Holz. Eine klimafreundliche und nachhaltige Wirtschaft, die weiterhin Arbeit und Auskommen für die Menschen sichert und die natürlichen Lebensgrundlagen erhält und fördert, ist ebenso unerlässlich, wie eine Energie- und Materialwende hin zu klimafreundlichen und bezahlbaren Produkten und Prozessen. Der nachwachsende Rohstoff Holz als einziger natürlicher Kohlendioxidspeicher kann zu diesen Zielen einen entscheidenden Beitrag leisten. Holz als Baustoff schafft nachhaltigen Wohn- und Arbeitsraum, ist erneuerbare Energiequelle und klimafreundliches Verpackungsmaterial. Eine nachhaltige Wald- und Holzwirtschaft sichert Klimaschutz und Artenvielfalt im Wald und schafft Arbeitsplätze für mehr als 1,3 Millionen Beschäftigte im Land. Der Deutsche Säge- und Holzindustrie Bundesverband setzt sich dafür ein, den Beitrag von Holz für eine klimafreundliche und nachhaltige Gesellschaft und Wirtschaft zu stärken. Klimaschonendes und bezahlbares Bauen und Wohnen zusammen mit erneuerbarer Wärme voranbringen. Der Gebäudebereich steht in der Verantwortung in den nächsten Jahren einen entscheidenden Beitrag für nachhaltiges und bezahlbares Wohnen und Arbeiten in Bund, Ländern und Kommunen zu leisten. Im Neubau und der Sanierung wird neben dem Umstieg auf erneuerbare Wärme auch der Einsatz klimafreundlicher und nachwachsender Baustoffe eine zentrale Rolle einnehmen. Holz als Baustoff speichert CO2 über den gesamten Lebenszyklus, lässt sich vielfältig wiederverwenden und kann Emissionen im Bauwesen erheblich reduzieren. Holz schafft schnell bezahlbaren Wohnraum ohne weitere Flächen zu beanspruchen und kann in Ballungsgebieten den Wohnraumbedarf nachhaltig und klimaschonend decken. Material- und Energiewende für die Bioökonomie stärken. Eine nachhaltige und klimafreundliche Wirtschaft basiert auf den Prinzipien effizienter Nutzung von Ressourcen, Kreislaufwirtschaft und dem Ausbau erneuerbarer Energien. Die Europäische Union hat mit dem Green Deal den Rahmen gesetzt. Auch in Deutschland muss in den kommenden Jahren Ziel sein, den Einsatz ökologischer und wieder verwendbarer Produkte voranzubringen, Recyclingmöglichkeiten zu verbessern und dem Ausbau der erneuerbaren Energien zu beschleunigen. Waldwirtschaft, Klimaschutz und Artenvielfalt verbinden. Wälder erbringen vielfältige Leistungen für die Gesellschaft. Sie sorgen für saubere Luft, sauberes Wasser, sind Orte der Artenvielfalt, der Naherholung und Ursprung des nachwachsenden Rohstoffs Holz. Wald und Holz leisten einen entscheidenden Beitrag zum Klimaschutz, denn sie reduzieren die Kohlendioxidemissionen Deutschlands jedes Jahr um 14 Prozent. Als Bau- und Werkstoff oder Energiequelle bindet Holz Kohlendioxid und ersetzt klimaschädliche Materialien auf dem Weg hin zu einer nachhaltigen Wirtschaft und Gesellschaft. Lebenswerte Städte und ländliche Regionen der Zukunft schaffen. In den nächsten Jahren stehen Stadt und Land vor unterschiedlichen Herausforderungen. Die Ballungsgebiete gilt es durch nachhaltigen und bezahlbaren Wohn- und Arbeitsraum zukunftsfest zu machen. In den ländlichen Regionen gilt es, den Ausbau der Digitalisierung, der Infrastruktur und die Gewinnung von Fachkräften voranzubringen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_OTHER",
+          "text": "Die Deutsche Säge- und Holzindustrie Bundesverband e.V. ist die Interessenvertretung der Säge- und Holzindustrie auf Bundesebene und in den europäischen und internationalen Organisationen und Angelegenheiten. Der Verband hat die Aufgabe seine Mitglieder in wirtschafts- und branchenpolitischen sowie fachlichen Fragen national und international zu vertreten und in ihren wirtschaftlichen Zielen zu unterstützen. "
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Säge- und Holzindustrie Bundesverband e. V.",
+          "phoneNumber": "+4930206139900",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Chausseestraße",
+            "streetNumber": "99",
+            "zipCode": "10115",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@saegeindustrie.de"
+          ],
+          "websites": [
+            "www.saegeindustrie.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jörn",
+              "lastName": "Kimmich",
+              "function": "Präsident",
+              "phoneNumber": "+4930206139900",
+              "organizationMemberEmails": [
+                "info@saegeindustrie.de"
+              ]
+            },
+            {
+              "commonFirstName": "Lutz",
+              "lastName": "Schmelter",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4930206139900",
+              "organizationMemberEmails": [
+                "info@saegeindustrie.de"
+              ]
+            },
+            {
+              "commonFirstName": "Steffen",
+              "lastName": "Rathke",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4930206139900",
+              "organizationMemberEmails": [
+                "info@saegeindustrie.de"
+              ]
+            },
+            {
+              "commonFirstName": "Manuel",
+              "lastName": "Echtle",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49611723980",
+              "organizationMemberEmails": [
+                "info@saegeindustrie.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Lars",
+              "lastName": "Schmidt"
+            },
+            {
+              "commonFirstName": "Julia",
+              "lastName": "Möbus"
+            },
+            {
+              "commonFirstName": "Paul",
+              "lastName": "Westermann"
+            },
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Hofmann"
+            }
+          ],
+          "members": 370,
+          "membersCountDate": "2022-01-06T00:00:00.000Z",
+          "membershipEntries": [
+            "European Organisation of the Sawmill Industry, Deutscher Holzwirtschaftsrat, Arbeitsgemeinschaft Rohholz,Bundesverband BioEnergie, Holzbau Cluster Hessen, Internationaler Verein für Technische Holzfragen, Landesbeirat Holz Bayern, Landesbeirat Holz Berlin/Brandenburg, Landesbeirat Holz Hessen, Landesbeirat Holz Niedersachsen, Landesbeirat Holz Nordrhein-Westfalen, Landesbeirat Holz Rheinland-Pfalz, Landesbeirat Holz Wald und Holz Thüringen, VFNHM Verein zur Förderung der Normung im Bereich Holzwirtschaft und Möbel, "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "JA-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/26/f9/2678/JA-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000345",
       "registerEntryDetail": {
@@ -59259,7 +59706,7 @@
     {
       "registerNumber": "R000054",
       "registerEntryDetail": {
-        "id": 510,
+        "id": 2325,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -59267,8 +59714,8 @@
         },
         "refuseFinancialExpensesInformation": false,
         "financialExpensesEuro": {
-          "from": 10001,
-          "to": 20000,
+          "from": 40001,
+          "to": 50000,
           "fiscalYearStart": "01/20",
           "fiscalYearEnd": "12/20"
         },
@@ -59412,7 +59859,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "GuV2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/57/04/681/GuV2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/71/78/2694/GuV2020.pdf",
               "mimeType": "application/pdf"
             }
           }
