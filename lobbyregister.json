@@ -9,8 +9,328 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 345,
+  "resultCount": 347,
   "results": [
+    {
+      "registerNumber": "R000350",
+      "registerEntryDetail": {
+        "id": 1633,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 890001,
+          "to": 900000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "Die Spenderinnen und Spender haben ausdrücklich darum gebeten, keine Informationen über die Höhe der Zuwendungen zu veröffentlichen. Diesem Wunsch wird entsprochen und Angaben werden für das Lobbyregister nicht getätigt. Da die Stiftung für Mensch und Umwelt aber vom Finanzamt für Körperschaften I als gemeinnützig anerkannt wurde darf und kann davon ausgegangen werden, dass alle zur Verfügung stehenden Finanzmittel zeitnah und satzungsgemäß ausgegeben werden.",
+        "account": {
+          "registerNumber": "R000350",
+          "firstPublicationDate": "2022-02-08T14:36:13.000Z"
+        },
+        "activityDescription": "Über den Stiftungszweck erschließen sich die Tätigkeitsbereiche der Interessenvertretung. Für die Stiftung steht der Mensch in seiner Umwelt im Mittelpunkt der Bemühungen. Der Stiftung geht es darum, die Lebensgrundlagen des Menschen und aller anderen Lebewesen zu erhalten. Dabei ist der Schutz von Ökosystemen mit ihrer biologischen Vielfalt und ihren natürlichen Ressourcen wichtig.\r\nDiese Arbeiten realisieren die Mitarbeiterinen und Mitarbeiter der Stiftung konkret durch:\r\n- Umweltbildungsprojekte zum Thema Bildung zur Nachhaltigen Entwicklung, zu nachhaltigen umweltverträglichen Lebensstilen und Strategien zur Suffizienz und Effizienz im Umgang mit Konsum- und Verbrauchsgütern\r\n- eine offene und lösungsorientierte Kommunikation im Rahmen von innovativen Methoden zur besseren Vermittlung von Wissen und Strategien vom Wollen zum Tun\r\n- eigene praktische Arbeiten: So schaffen, erhalten und sichern wir Lebensräume durch das Planen, Anlegen und Pflegen von Gärten, Grünstreifen und Schutzgebieten\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Stiftung für Mensch und Umwelt",
+          "phoneNumber": "+4930394064314",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Hermannstraße",
+            "streetNumber": "29",
+            "zipCode": "14163",
+            "city": "Berlin-Zehlendorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_NATIONAL",
+            "code_de": "Andere Rechtsform nach deutschem Recht",
+            "code_en": "Other legal form according to German law",
+            "type": "OTHER_ASSOCIATION_OF_PERSONS",
+            "legalFormText": "Nicht rechtsfähige Stiftung (Stiftung in Treuhänderschaft eines eingetragenen Vereins)"
+          },
+          "organizationEmails": [
+            "hemmer@stiftung-mensch-umwelt.de",
+            "hoelzer@stiftung-mensch-umwelt.de"
+          ],
+          "websites": [
+            "https://www.stiftung-mensch-umwelt.de",
+            "https://www.ufaz.de",
+            "https://www.deutschland-summt.de",
+            "https://www.wir-tun-was-fuer-bienen.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Corinna",
+              "lastName": "Hölzer",
+              "function": "Leiterin der Stiftung",
+              "phoneNumber": "+4930394064304",
+              "organizationMemberEmails": [
+                "hoelzer@stiftung-mensch-umwelt.de"
+              ]
+            },
+            {
+              "commonFirstName": "Cornelis",
+              "lastName": "Hemmer",
+              "function": "Leiter der Stiftung",
+              "phoneNumber": "+4930394064314",
+              "organizationMemberEmails": [
+                "hemmer@stiftung-mensch-umwelt.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "die Stiftung wird treuhänderisch geführt vom Umweltforum für Aktion und Zusammenarbeit e.V., eingetragener Verein, VR 27417",
+            "Bundesverband Deutscher Stiftungen e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz, III B 31, Strategie Biologische Vielfalt",
+            "description": "Es wurde im Herbst 2020 bis Sommer 2021 eine Grünanlage mit Staudenbeeten, Wiesen, Wegeführung und Sitzbänken angelegt. Dieser PikoPark, befindet sich in der Wohnanlage Schollenhof in Berlin-Reinickendorf. \r\nSinn und Zweck war es, der Mieterinnenschaft und der Eigentümerinnen ...\r\n1. Alternativen zur monotonen, naturfernen Art der Außenanlagen-Gestaltung aufzuzeigen\r\n2. ein wertvolles Kleinbiotop für heimische Pflanzen und Tiere zu schaffen\r\n3. mit Infoschildern und einigen Veranstaltungen die heimischen Stauden und Gehölze, das verbaute Totholz, die Natursteine und Nisthilfen inklusive Sandarium für Wildbienen nahe zu bringen\r\n4. den Wohlfühl- und Erlebnisfaktor zu steigern und\r\n5. den Modellpark für Presse- und Öffentlichkeitsarbeit zu nutzen, um fortan im Berliner Wohnungsbau und auf kommunalen Flächen solch ökologisch wertvollen Blühflächen zu etablieren und den Menschen vor ihrer Haustür die Möglichkeit zu eröffnen, heimische Flora und Fauna zu erleben und wertzuschätzen.",
+            "location": "Am Köllnischen Park 3, 10179 Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Bundesamt für Naturschutz (BfN), Behörde des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+            "description": "Das Projekt Treffpunkt Vielfalt wird in Kooperation mit dem Wissenschaftsladen Bonn e.V. im Zeitraum Sep. 2017 bis Aug. 2023 durchgeführt. Die Ziele dieses Vorhabens sind, Grün- und Freiflächen von Wohnungsunternehmen naturnah zu gestalten. Damit wird die biologische Vielfalt gefördert und die Aufenthaltsqualität der Bürgerinnen und Bürger verbessert. Aus sterilen, artenarmen Rasenflächen werden attraktive, farbenfrohe und artenreiche Blumeninseln. Parallel dazu werden Bewohnerinnen und Bewohnern zur Akzeptanz der baulichen Veränderungen befragt. Ferner werden Erfassungen zur Schmetterlings- und Wildbienenfauna durchgeführt. Über Bestandsveränderungen der Arten lassen sich Aussagen über den Erfolg der gartenbaulichen Veränderungen tätigen.\r\nDas Projekt wird aus den Mitteln des Bundesprogrammes Biologische Vielfalt durch das Bundesamt für Naturschutz (BfN), Behörde des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), gefördert.",
+            "location": "Konstantinstraße 110, 53179 Bonn",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 1590001,
+              "to": 1600000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "smu-freistellungsbescheid-2019.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/89/a2/2717/smu-freistellungsbescheid-2019.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "registerNumber": "R000349",
+      "registerEntryDetail": {
+        "id": 528,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 150001,
+          "to": 160000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000349",
+          "firstPublicationDate": "2022-02-08T14:35:23.000Z"
+        },
+        "activityDescription": "Politische Interessenvertretung im Bereich Mobilitäts- und Digitalpolitik; Fokusthemen Personenbeförderung, Autonomes Fahren, (Mobilitäts-)Daten; Netzwerk- und Stakeholderpflege zu Fachpolitikern und relevanten Ministerienvertretern ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "MOIA GmbH",
+          "phoneNumber": "+491721776682",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "MOIA GmbH",
+            "street": "Alexanderufer",
+            "streetNumber": "5",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "politik@moia.io",
+            "press@moia.io"
+          ],
+          "websites": [
+            "www.moia.io"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Robert",
+              "lastName": "Henrich",
+              "function": "CEO",
+              "phoneNumber": "+491721776682",
+              "organizationMemberEmails": [
+                "politik@moia.io"
+              ]
+            },
+            {
+              "commonFirstName": "Torben",
+              "lastName": "Menke",
+              "function": "CFO",
+              "phoneNumber": "+491721776682",
+              "organizationMemberEmails": [
+                "politik@moia.io"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Carolin",
+              "lastName": "Maug"
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Ziegenmeyer"
+            },
+            {
+              "commonFirstName": "Jonas",
+              "lastName": "Wigger Genannt Lütke Lembeck "
+            }
+          ],
+          "membershipEntries": [
+            "Bitkom e.V.  ",
+            "Deutsches Verkehrsforum e.V.  ",
+            "MaaS Alliance  ",
+            "New Mobility Forum c/o VDV e.V.  ",
+            "Plattform Urbane Mobilität c/o VDA e.V. ",
+            "Bündnis für Mobilität NRW"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Y-2020-d.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/2c/10/2715/Y-2020-d.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000348",
       "registerEntryDetail": {
