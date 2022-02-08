@@ -9,8 +9,451 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 339,
+  "resultCount": 341,
   "results": [
+    {
+      "registerNumber": "R000344",
+      "registerEntryDetail": {
+        "id": 859,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 570001,
+          "to": 580000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000344",
+          "firstPublicationDate": "2022-02-08T11:12:58.000Z"
+        },
+        "activityDescription": "Die Deutsche Afrika Stiftung (DAS) ist eine überparteiliche Stiftung, die sich für die erfolgreiche Umsetzung der afrikapolitischen Leitlinien der deutschen Bundesregierung einsetzt. Als Vermittlerin bieten wir eine Plattform für den partnerschaftlichen Austausch zwischen deutschen und afrikanischen Akteurinnen und Akteuren und stärken so die Zusammenarbeit mit den Staaten und Institutionen unseres Nachbarkontinents. Hierbei konzentrieren wir uns insbesondere auf die Arbeit im parlamentarischen Raum. Im Rahmen von Fachgesprächen, parlamentarischen Frühstücken und Podiumsdiskussionen bringen wir Mitglieder des Deutschen Bundestags, Fachministerien und sonstige politische Entscheidungsträgerinnen und Entscheidungsträger aus Deutschland und Afrika zusammen. Gleichzeitig setzen wir uns für die stärkere Einbindung der Vertreterinnen und Vertreter afrikanischer Botschaften sowie der afrikanischen Diaspora im deutschen politischen Raum ein.\r\n\r\nEine unserer Kernaufgaben ist zudem die Vermittlung eines differenzierten Afrikabildes im politischen Raum und der deutschen Öffentlichkeit. Seit 1993 verleihen wir jährlich den Deutschen Afrika-Preis, mit dem wir herausragende Persönlichkeiten des Nachbarkontinents auszeichnen, die sich in besondere Weise um Demokratie, Frieden, Menschenrechte, Rechenschaftspflicht, Kunst und Kultur, soziale Marktwirtschaft und gesellschaftliche Belange verdient gemacht haben. So rücken wir neue Entwicklungen in Afrika ins Bewusstsein der deutschen Öffentlichkeit und fördern eine differenzierte Wahrnehmung unseres Nachbarkontinents.\r\n\r\nIn unserem wöchentlichen Pressespiegel geben wir einen Überblick über aktuelle politische Entwicklungen in Afrika und stellen eine Sammlung der Online-Berichterstattung deutschsprachiger sowie ausgewählter englisch- und französischsprachiger Medien zum Thema Afrika zur Verfügung. Mit dem Afrika-Infoportal bieten wir einen Überblick über afrikarelevante Institutionen, Länderinformationen sowie ausgewählte Fachartikel und sind so die erste Anlaufstelle und Dienstleister für Afrikainteressierte.\r\n\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Afrika Stiftung e.V.",
+          "phoneNumber": "+493028094727",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Ziegelstr.",
+            "streetNumber": "30",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@deutsche-afrika-stiftung.de"
+          ],
+          "websites": [
+            "www.deutsche-afrika-stiftung.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Uschi",
+              "lastName": "Eid",
+              "function": "Präsidentin",
+              "phoneNumber": "+493028094727",
+              "organizationMemberEmails": [
+                "info@deutsche-afrika-stiftung.de"
+              ]
+            },
+            {
+              "commonFirstName": "Sabine",
+              "lastName": "Odhiambo",
+              "function": "Generalsekretärin",
+              "phoneNumber": "+493028094727",
+              "organizationMemberEmails": [
+                "odhiambo@deutsche-afrika-stiftung.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Svenja",
+              "lastName": "Schindelwig"
+            },
+            {
+              "commonFirstName": "Larissa Valentina",
+              "lastName": "Plüger"
+            },
+            {
+              "commonFirstName": "Silke",
+              "lastName": "Degen"
+            }
+          ],
+          "members": 127,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Auswärtiges Amt",
+            "description": "Finanzielle Zuwendung zu folgendem Zweck:\r\nDie Deutsche Afrika Stiftung leistet einen Beitrag zur Festigung und Förderung der Beziehungen zwischen dem afrikanischen Kontinent und Deutschland bzw. Europa im Sinne der friedlichen Zusammenarbeit. Hierzu steht die DAS als Dialogpartner und Dienstleister für deutsche und afrikanische Personen aus Politik, Wirtschaft, Medien und Zivilgesellschaft zur Verfügung. Darüber hinaus möchte sie durch Informationen und politische Initiativen auch zur Meinungsbildung und zur Ausgestaltung der afrikapolitischen Debatte unter politischen Entscheidungsträgerinnen und --trägern in Deutschland und Europa beitragen. Ein besonderer Schwerpunkt der Stiftungsarbeit liegt auf der Vermittlung von afrikapolitischen Themen in den Deutschen Bundestag, insbesondere in den afrikapolitisch relevanten Ausschüssen und den Gruppen für parlamentarische Beziehungen zu afrikanischen Staaten.",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 540001,
+              "to": 550000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000343",
+      "registerEntryDetail": {
+        "id": 1872,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000343",
+          "firstPublicationDate": "2022-02-08T11:03:30.000Z"
+        },
+        "activityDescription": "Die Vertretung der Interessen der Mandanten gegenüber Bundestag und Bundesregierung. Dies umfasst sowohl die Informationsgewinnung über anstehende gesetzliche, wie auch verwaltungstechnische Regelungen oder Maßnahmen, als auch die Übermittlung inhaltlicher Positionen der Mandanten hierzu. Der Aufbau bzw. Ausbau der politischen Netzwerke bilden einen weiteren Tätigkeitsschwerpunkt.  ",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Stefan",
+          "lastName": "von der Heiden"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_LAWS",
+            "de": "Ausländer- und Aufenthaltsrecht",
+            "en": "Foreign laws"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Philip Morris GmbH",
+            "phoneNumber": "+498972470",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Am Haag ",
+              "streetNumber": "14",
+              "zipCode": "82166",
+              "city": "Gräfelfing",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "lobbyregister.PMG@pmi.com"
+            ],
+            "websites": [
+              "www.pmi.com"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Claudia",
+                "lastName": "Oeking",
+                "function": "Geschäftsführerin",
+                "phoneNumber": "+498972470",
+                "organizationMemberEmails": [
+                  "lobbyregister.PMG@pmi.com"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Autobahn Tank & Rast Gruppe GmbH & Co. KG",
+            "phoneNumber": "+492289220",
+            "address": {
+              "type": "POSTBOX",
+              "zipCode": "53141",
+              "city": "Bonn",
+              "poxBox": "201152",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "kundenservice@tank.rast.de"
+            ],
+            "websites": [
+              "www.tank.rast.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Peter ",
+                "lastName": "Löw",
+                "function": "Vorsitzender der Geschäftsführung",
+                "phoneNumber": "+492289220",
+                "organizationMemberEmails": [
+                  "kundenservice@tank.rast.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Higgins Cooperation Management GmbH",
+            "phoneNumber": "+493031808758",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Walter-Benjamin-Platz ",
+              "streetNumber": "4",
+              "zipCode": "10629",
+              "city": "Berlin",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "mail@higgins.de"
+            ],
+            "websites": [
+              "www.higgins.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Daniel",
+                "lastName": "Walther",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+493031808758",
+                "organizationMemberEmails": [
+                  "mail@higgins.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000342",
       "registerEntryDetail": {
@@ -2335,7 +2778,7 @@
     {
       "registerNumber": "R000334",
       "registerEntryDetail": {
-        "id": 1106,
+        "id": 2295,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -2398,6 +2841,24 @@
               "organizationMemberEmails": [
                 "mehrhoff@parkinson-mail.de"
               ]
+            },
+            {
+              "commonFirstName": "Magdalene",
+              "lastName": "Kaminski",
+              "function": "1. Vorsitzende",
+              "phoneNumber": "+492131740270",
+              "organizationMemberEmails": [
+                "bundesverband@parkinson-mail.de"
+              ]
+            },
+            {
+              "commonFirstName": "Beate",
+              "lastName": "Kahlau",
+              "function": "2. Voritzende",
+              "phoneNumber": "+492131740270",
+              "organizationMemberEmails": [
+                "bundesverband@parkinson-mail.de"
+              ]
             }
           ],
           "namedEmployees": [],
@@ -2438,7 +2899,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "Deutsche-Parkinson-Vereinigung-Bundesverband-e-V-Rechnungsabschluss-2020-Auszug.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/7f/6b/2597/Deutsche-Parkinson-Vereinigung-Bundesverband-e-V-Rechnungsabschluss-2020-Auszug.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/07/d4/2649/Deutsche-Parkinson-Vereinigung-Bundesverband-e-V-Rechnungsabschluss-2020-Auszug.pdf",
               "mimeType": "application/pdf"
             }
           }
