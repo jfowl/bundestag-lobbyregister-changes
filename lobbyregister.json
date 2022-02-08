@@ -9,8 +9,1558 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 332,
+  "resultCount": 335,
   "results": [
+    {
+      "registerNumber": "R000338",
+      "registerEntryDetail": {
+        "id": 954,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000338",
+          "firstPublicationDate": "2022-02-08T09:27:31.000Z"
+        },
+        "activityDescription": "Die Johannes-Rau-Forschungsgemeinschaft (JRF) ist die Forschungsgemeinschaft des Landes Nordrhein-Westfalen (NRW). Der gemeinnützige Verein ist eine Dachorganisation für derzeit 16 landesgeförderte, rechtlich selbstständige, außeruniversitäre und gemeinnützige Forschungsinstitute mit insgesamt über 1.500 MitarbeiterInnen. Neben den wissenschaftlichen Mitgliedern ist das Land NRW ein Gründungsmitglied, vertreten durch das Wissenschaftsministerium.\r\n\r\nZu den gemeinsamen Aufgaben gehören die Forschungskooperation, die wissenschaftliche Nachwuchsförderung, die Interessenvertretung, die Öffentlichkeitsarbeit und eine regelmäßige Evaluation der Mitgliedsinstitute.\r\n\r\nDie JRF steht für interdisziplinäre, an der Gesellschaft und dem \"menschlichen Maß\" orientierte Forschung in Nordrhein-Westfalen. Die Expertise der 16 Institute reicht von der Produktions-, Energie- und Umwelttechnik bis zur Entwicklungs-, Friedens-, sozial- und kulturwissenschaftlichen Forschung. Dies ermöglicht eine ganzheitliche Betrachtung der technischen, ökologischen, ökonomischen und gesellschaftlichen Herausforderungen unserer Zeit.\r\n\r\nDas Ziel der Gemeinschaft ist es, Forschungsergebnisse nicht nur in die Kreise der Wissenschaft, sondern vor allem auch in Gesellschaft, Politik und Wirtschaft einzubringen und damit zu einer nachhaltigen Entwicklung beizutragen. Dazu werden zu den Leitthemen \"Städte & Infrastruktur\", \"Industrie & Umwelt\", \"Gesellschaft & Digitalisierung\" und \"Globalisierung & Integration\" öffentiche Veranstaltungen durchgeführt, Publikationen veröffentlicht und der Dialog zu VertreterInnen aus Wissenschaft, Medien, Wirtschaft und Politik gesucht.",
+        "activityOperationType": "MANDATE_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Johannes-Rau-Forschungsgemeinschaft e.V.",
+          "phoneNumber": "+4921199436347",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Im \"Haus der Wissenschaft\"",
+            "nationalAdditional2": "Rechter Eingang",
+            "street": "Palmenstr.",
+            "streetNumber": "16",
+            "zipCode": "40217",
+            "city": "Düsseldorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@jrf.nrw"
+          ],
+          "websites": [
+            "www.jrf.nrw"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Dieter",
+              "lastName": "Bathen",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4921199436347",
+              "organizationMemberEmails": [
+                "vorstand@jrf.nrw",
+                "bathen@iuta.de"
+              ]
+            },
+            {
+              "commonFirstName": "Ramona",
+              "lastName": "Fels",
+              "function": "Stellvertretende Vorstandsvorsitzende",
+              "phoneNumber": "+4921199436347",
+              "organizationMemberEmails": [
+                "fels@jrf.nrw"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Manfred",
+              "lastName": "Fischedick",
+              "function": "Wissenschaftlicher Vorstand",
+              "phoneNumber": "+4921199436347",
+              "organizationMemberEmails": [
+                "vorstand@jrf.nrw"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Stefan",
+              "lastName": "Siedentop",
+              "function": "Wissenschaftlicher Vorstand",
+              "phoneNumber": "+4921199436347",
+              "organizationMemberEmails": [
+                "vorstand@jrf.nrw"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 17,
+          "membersCountDate": "2022-01-17T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [
+          {
+            "name": "DATI - Deutsche Agentur für Transfer und Innovation"
+          }
+        ],
+        "donators": [
+          {
+            "name": "Ministerium für Kultur und Wissenschaft des Landes Nordthein-Westfalen",
+            "description": "Zuwendung (Projektförderung) zum Zweck des Betriebs einer Geschäftsstelle für die Johannes-Rau-Forschungsgemeinschaft (JRF). Zuwendungsziele: Jeweils anteilmäßige Mitfinanzierung der Evaluierung, der Öffentlichkeitsarbeit und der Personalkosten.",
+            "location": "Völklinger Str. 49, 40221 Düsseldorf",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 60001,
+              "to": 70000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_EXTREMISM",
+            "de": "Extremismusbekämpfung",
+            "en": "Counter extremism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of “Spatial planning, construction and housing”"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_INTEGRATION",
+            "de": "Integration",
+            "en": "Integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_OTHER",
+            "de": "Sonstiges im Bereich „Migration, Flüchtlingspolitik und Integration“",
+            "en": "Other in the field of “Migration, refugee policy and integration”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_OTHER",
+            "de": "Sonstiges im Bereich „Gesellschaftspolitik und soziale Gruppen“",
+            "en": "Other in the field of “Social politics and social groups”"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_RELIGION",
+            "de": "Religion/Weltanschauung",
+            "en": "Religion/Belief"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "AMO - Gesellschaft für Angewandte Mikro- und Optoelektronik gGmbH",
+            "phoneNumber": "+492418867200",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Otto-Blumenthal-Straße",
+              "streetNumber": "25",
+              "zipCode": "52074",
+              "city": "Aachen",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "amo@amo.de"
+            ],
+            "websites": [
+              "www.amo.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Max Christian",
+                "lastName": "Lemme",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+492418867201",
+                "organizationMemberEmails": [
+                  "lemme@amo.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Michael",
+                "lastName": "Hornung",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+492418867204",
+                "organizationMemberEmails": [
+                  "hornung@amo.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "BICC - Bonn International Centre for Conflict Studies gGmbH",
+            "phoneNumber": "+49228911960",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Pfarrer-Byns-Straße",
+              "streetNumber": "1",
+              "zipCode": "53121",
+              "city": "Bonn",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "bicc@bicc.de"
+            ],
+            "websites": [
+              "www.bicc.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof. Dr. ",
+                "commonFirstName": "Conrad",
+                "lastName": "Schetter",
+                "function": "Wissenschaftlicher Direktor",
+                "phoneNumber": "+492289119631",
+                "organizationMemberEmails": [
+                  "schetter@bicc.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "DIE - Deutsches Institut für Entwicklungspolitik gGmbH",
+            "phoneNumber": "+49228949270",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Tulpenfeld ",
+              "streetNumber": "6",
+              "zipCode": "53113",
+              "city": "Bonn",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "die@die-gdi.de"
+            ],
+            "websites": [
+              "www.die-gdi.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Anna-Katharina",
+                "lastName": "Hornidge",
+                "function": "Direktorin",
+                "phoneNumber": "+4922894927110",
+                "organizationMemberEmails": [
+                  "anna-katharina.hornidge@die-gdi.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Imme",
+                "lastName": "Scholz",
+                "function": "stellvertretende Direktorin",
+                "phoneNumber": "+4922894927112",
+                "organizationMemberEmails": [
+                  "imme.scholz@die-gdi.de"
+                ]
+              },
+              {
+                "commonFirstName": "Margret",
+                "lastName": "Heyen",
+                "function": "Prokuristin",
+                "phoneNumber": "+4922894927120",
+                "organizationMemberEmails": [
+                  "margret.heyen@die-gdi.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "DST - Entwicklungszentrum für Schiffstechnik und Transprotsysteme e.V.",
+            "phoneNumber": "+49203993690",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Oststraße",
+              "streetNumber": "77",
+              "zipCode": "47057",
+              "city": "Duisburg",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "dst@dst-org.de"
+            ],
+            "websites": [
+              "www.dst-org.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Rupert",
+                "lastName": "Henn",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+492039936933",
+                "organizationMemberEmails": [
+                  "henn@dst-org.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Bettar",
+                "lastName": "Ould el-Moctar",
+                "function": "Direktor und Vorstandsvorsitzender",
+                "phoneNumber": "+492033792539",
+                "organizationMemberEmails": [
+                  "ould.el-moctar@uni-due.de"
+                ]
+              },
+              {
+                "commonFirstName": "Joachim",
+                "lastName": "Zöllner",
+                "function": "Vorstand",
+                "phoneNumber": "+492039936940",
+                "organizationMemberEmails": [
+                  "zoellner@dst-org.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "FIR - Forschungsinstitut für Rationalisierung an der RWTH Aachen e.V.",
+            "phoneNumber": "+49241477050",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Campus-Boulevard ",
+              "streetNumber": "55",
+              "zipCode": "52074",
+              "city": "Aachen",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@fir.rwth-aachen.de"
+            ],
+            "websites": [
+              "www.rwth-aachen.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Volker",
+                "lastName": "Stich",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4924147705102",
+                "organizationMemberEmails": [
+                  "volker.stich@fir.rwth-aachen.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "FiW - Forschungsinstitut für Wasser- und Abfallwirtschaft an der RWTH Aachen e.V.",
+            "phoneNumber": "+492418026825",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Kackertstraße",
+              "streetNumber": "15-17",
+              "zipCode": "52072",
+              "city": "Aachen",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "fiw@fiw.rwth-aachen.de"
+            ],
+            "websites": [
+              "www.fiw.rwth-aachen.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Frank-Andreas",
+                "lastName": "Weber",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+492418023950",
+                "organizationMemberEmails": [
+                  "weber@fiw.rwth-aachen.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Emanuel",
+                "lastName": "Grün",
+                "function": "Vorsitz Vereinsvorstand",
+                "phoneNumber": "+492011040",
+                "organizationMemberEmails": [
+                  "info@eglv.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Univ.-Prof. Dr. ",
+                "commonFirstName": "Johannes",
+                "lastName": "Pinnekamp",
+                "function": "Geschäftsführender Vorstand",
+                "phoneNumber": "+492418025207",
+                "organizationMemberEmails": [
+                  "sekretariat@isa.rwth-aachen.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Dirk",
+                "lastName": "Waider",
+                "function": "Vorstandsmitglied",
+                "phoneNumber": "+492097080",
+                "organizationMemberEmails": [
+                  "blog@gelsenwasser.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Thomas",
+                "lastName": "Wintgens",
+                "function": "Vorstandsmitglied",
+                "phoneNumber": "+492418025207",
+                "organizationMemberEmails": [
+                  "wintgens@isa.rwth-aachen.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "IKT - Institut für Unterirdische Infrastruktur gGmbH",
+            "phoneNumber": "+49209178060",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Exterbruch ",
+              "streetNumber": "1",
+              "zipCode": "45886",
+              "city": "Gelsenkirchen",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@ikt.de"
+            ],
+            "websites": [
+              "www.ikt.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Bert",
+                "lastName": "Bosseler",
+                "function": "Wissenschaftlicher Leiter",
+                "phoneNumber": "+492091780614",
+                "organizationMemberEmails": [
+                  "bosseler@ikt.de"
+                ]
+              },
+              {
+                "commonFirstName": "Roland",
+                "lastName": "Waniek",
+                "function": "Kaufmännischer Geschäftsführer",
+                "phoneNumber": "+492091780610",
+                "organizationMemberEmails": [
+                  "waniek@ikt.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "ILS - Institut für Landes- und Stadtentwicklungsforschung gGmbH",
+            "phoneNumber": "+4923190510",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Brüderweg",
+              "streetNumber": "22-24",
+              "zipCode": "44135",
+              "city": "Dortmund",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "poststelle@ils-forschung.de"
+            ],
+            "websites": [
+              "www.ils-forschung.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Stefan",
+                "lastName": "Siedentop",
+                "function": "Wissenschaftlicher Direktor",
+                "phoneNumber": "+492319051100",
+                "organizationMemberEmails": [
+                  "stefan.siedentop@ils-forschung.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "IUTA - Institut für Energie- und Umwelttechnik e.V.",
+            "phoneNumber": "+4920654180",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Bliersheimer Str. ",
+              "streetNumber": "58-60",
+              "zipCode": "47229",
+              "city": "Duisburg",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@iuta.de"
+            ],
+            "websites": [
+              "www.iuta.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Dieter",
+                "lastName": "Bathen",
+                "function": "Wissenschaftlicher Leiter",
+                "phoneNumber": "+492065418207",
+                "organizationMemberEmails": [
+                  "bathen@iuta.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Stefan",
+                "lastName": "Haep",
+                "function": "Vorstandsvorsitzender und Geschäftsführer",
+                "phoneNumber": "+492065418204",
+                "organizationMemberEmails": [
+                  "haep@iuta.de"
+                ]
+              },
+              {
+                "commonFirstName": "Jochen",
+                "lastName": "Schiemann",
+                "function": "Stellvertretender Vorstandsvorsitzender und Geschäftsführer",
+                "phoneNumber": "+492065418259",
+                "organizationMemberEmails": [
+                  "j.schiemann@iuta.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "IWW - Rheinische-Westfälisches Institut für Wasserforschung gGmbH",
+            "phoneNumber": "+49208403030",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Moritzstraße ",
+              "streetNumber": "26",
+              "zipCode": "45476",
+              "city": "Mülheim an der Ruhr",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@iww-online.de"
+            ],
+            "websites": [
+              "www.iww-online.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Lothar",
+                "lastName": "Schüller",
+                "function": "Kaufmännischer Geschäftsführer",
+                "phoneNumber": "+4920840303500",
+                "organizationMemberEmails": [
+                  "l.schueller@iww-online.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Davic",
+                "lastName": "Schwesig",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4920840303215",
+                "organizationMemberEmails": [
+                  "d.schwesig@iww-online.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "RIF - Institut für Forschung und Transfer e.V.",
+            "phoneNumber": "+492319700101",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Joseph-von-Fraunhofer-Straße",
+              "streetNumber": "20",
+              "zipCode": "44227",
+              "city": "Dortmund",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "sekretariat@rif-ev.de"
+            ],
+            "websites": [
+              "www.rif-ev.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Svenja",
+                "lastName": "Rebsch",
+                "function": "Geschäftsführerin",
+                "phoneNumber": "+492319700115",
+                "organizationMemberEmails": [
+                  "svenja.rebsch@rif-ev.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Jürgen",
+                "lastName": "Roßmann",
+                "function": "Vertretungsberechtigter Vorstand",
+                "phoneNumber": "+492319700101",
+                "organizationMemberEmails": [
+                  "juergen.roßmann@rif-ev.de"
+                ]
+              },
+              {
+                "commonFirstName": "Michael",
+                "lastName": "Saal",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+492319700101",
+                "organizationMemberEmails": [
+                  "michael.saal@rif-ev.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Wolfgang",
+                "lastName": "Tillmann",
+                "function": "Vertretungsberechtigter Vorstand",
+                "phoneNumber": "+492319700101",
+                "organizationMemberEmails": [
+                  "wolfgang.tillmann@rif-ev.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "STI - Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte e.V.",
+            "phoneNumber": "+4920120164434",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Edmund-Körner-Platz",
+              "streetNumber": "2",
+              "zipCode": "45127",
+              "city": "Essen",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "www.steinheim@steinheim-institut.org"
+            ],
+            "websites": [
+              "www.steinheim-institut.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Cordula",
+                "lastName": "Lissner",
+                "function": "Geschäftsführerin",
+                "phoneNumber": "+4920120164436",
+                "organizationMemberEmails": [
+                  "lissner@steinheim-institut.org"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Lucia",
+                "lastName": "Raspe",
+                "function": "Wissenschaftliche Leiterin",
+                "phoneNumber": "+4920120164436",
+                "organizationMemberEmails": [
+                  "raspe@steinheim-institut.org"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "WI - Wuppertal Institut für Klima, Umwelt, Energie gGmbH",
+            "phoneNumber": "+4920224920",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Döppersberg ",
+              "streetNumber": "19",
+              "zipCode": "42103",
+              "city": "Wuppertal",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@wupperinst.org"
+            ],
+            "websites": [
+              "www.wupperinst.org"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Manfred",
+                "lastName": "Fischedick",
+                "function": "Wissenschaftlicher Geschäftsführer",
+                "phoneNumber": "+492022492121",
+                "organizationMemberEmails": [
+                  "manfred.fischedick@wupperinst.org"
+                ]
+              },
+              {
+                "commonFirstName": "Michael",
+                "lastName": "Dedek",
+                "function": "Kaufmännischer Geschäftsführer",
+                "phoneNumber": "+492022492332",
+                "organizationMemberEmails": [
+                  "michael.dedek@wupperinst.org"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "ZBT - Zentrum für BrennstoffzellenTechnik gGmbH",
+            "phoneNumber": "+4920375980",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Carl-Benz-Straße",
+              "streetNumber": "201",
+              "zipCode": "47057",
+              "city": "Duisburg",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@zbt.de"
+            ],
+            "websites": [
+              "www.zbt.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Prof. Dr. ",
+                "commonFirstName": "Peter",
+                "lastName": "Beckhaus",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4920375983020",
+                "organizationMemberEmails": [
+                  "p.beckhaus@zbt.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Harry",
+                "lastName": "Hoster",
+                "function": "wissenschaftlicher Leiter",
+                "phoneNumber": "+4920375983020",
+                "organizationMemberEmails": [
+                  "h.hoster@zbt.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "ZfTI - Stiftung Zentrum für Türkeistudien und Integrationsforschung",
+            "phoneNumber": "+4920131980",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Altendorfer Straße",
+              "streetNumber": "3",
+              "zipCode": "45127",
+              "city": "Essen",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_RSBR",
+              "code_de": "Rechtsfähige Stiftung bürgerlichen Rechts",
+              "code_en": "Legal foundation under civil law",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "zfti@zfti.de"
+            ],
+            "websites": [
+              "www.zfti.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "apl. Prof. Dr.",
+                "commonFirstName": "Dirk",
+                "lastName": "Halm",
+                "function": "Hauptamtlicher Vorstand",
+                "phoneNumber": "+492013198302",
+                "organizationMemberEmails": [
+                  "halm@zfti.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Prof. Dr.",
+                "commonFirstName": "Haci Halil",
+                "lastName": "Uslucan",
+                "function": "Wissenschaftlicher Leiter",
+                "phoneNumber": "+492013198351",
+                "organizationMemberEmails": [
+                  "uslucan@zfti.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "EWI - Energiewirtschaftliches Institut an der Universität zu Köln gGmbH",
+            "phoneNumber": "+4922127729100",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Vogelsanger Straße ",
+              "streetNumber": "321A",
+              "zipCode": "50827",
+              "city": "Köln",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@ewi-koeln.de"
+            ],
+            "websites": [
+              "www.ewi.uni-koeln.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Annette",
+                "lastName": "Becker",
+                "function": "Geschäftsführerin",
+                "phoneNumber": "+4922127729221",
+                "organizationMemberEmails": [
+                  "annette.becker@ewi.uni-koeln.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Prof. Dr. ",
+                "commonFirstName": "Marc Oliver",
+                "lastName": "Bettzüge",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4922127729108",
+                "organizationMemberEmails": [
+                  "bettzuege.marc@uni-koeln.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "MKW - Ministerium für Kultur und Wissenschaft des Landes NRW",
+            "phoneNumber": "+4921189604",
+            "address": {
+              "type": "NATIONAL",
+              "nationalAdditional1": "Abteilung 3",
+              "nationalAdditional2": "Referat 311",
+              "street": "Völklinger Straße ",
+              "streetNumber": "49",
+              "zipCode": "40221",
+              "city": "Düsseldorf",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_KDOER",
+              "code_de": "Körperschaft des öffentlichen Rechts",
+              "code_en": "Public corporation",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "poststelle@mkw.nrw.de"
+            ],
+            "websites": [
+              "www.mkw.nrw"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Beate",
+                "lastName": "Wieland",
+                "function": "Leitung Abteilung 3",
+                "phoneNumber": "+492118964520",
+                "organizationMemberEmails": [
+                  "beate.wieland@mkw.nrw.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Christiane",
+                "lastName": "Fricke",
+                "function": "Referats- und Gruppenleiterin",
+                "phoneNumber": "+492118964342",
+                "organizationMemberEmails": [
+                  "christiane.fricke@mkw.nrw.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Jahesabschluss und die Entlastung des Vorstands erfolgen in der Regel bei der Mitgliederversammlung im April. Der Jahresabschluss liegt zum Zeitpunkt der Eintragung in das Lobbyregister (Januar) daher noch nicht vor und wir nachträglich eingetragen."
+      }
+    },
+    {
+      "registerNumber": "R000337",
+      "registerEntryDetail": {
+        "id": 635,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 210001,
+          "to": 220000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000337",
+          "firstPublicationDate": "2022-02-08T09:22:10.000Z"
+        },
+        "activityDescription": "Zweck des Verbandes ist die Förderung der Interessen seiner Mitglieder im Hinblick auf den gemeinsamen Vertriebsweg.  Dieser gemeinsame Vertriebsweg ist der Direktvertrieb, wie er u.a. in der sog. EU-Verbraucherrechterichtlinie näher definiert ist (Richtlinie 2011/83/EU vom 25. Oktober 2011). Danach liegt ein Direktvertrieb im Wesentlichen immer dann vor, wenn zwischen Unternehmern und Verbrauchern Kauf- oder Dienstleistungsverträge außerhalb von Geschäftsräumen angebahnt oder abgeschlossen werden, und dies bei gleichzeitiger persönlicher Anwesenheit der Beteiligten geschieht. Hauptbeispiele sind die Geschäftsanbahnung oder der Verkauf in der Wohnung des Kunden, im Rahmen eines persönlichen Beratungsgesprächs.Der Verband fördert die Interessen des gemeinsamen Vertriebsweges dadurch, dass er u.a. über dessen Erscheinungsformen, Verbreitung, volkswirtschaftliche Bedeutung und seine Vorteile für den Verbraucher in der Öffentlichkeit aufklärt.\r\n\r\nDesweiteren vertritt der Verband die wohlverstandenen gemeinsamen Interessen seiner Mitglieder gegenüber Gesetzgebung, Verwaltung, Rechtsprechung und anderen Institutionen, z.B. Rundfunk, Fernsehen, Presse, Wirtschaft, Politik, Verbraucherschutz. \r\n\r\nDer Verband fördert ebenfalls den systematischen Erfahrungsaustausch über direktvertriebsspezifische Fragen unter den Mitgliedern.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Direktvertrieb Deutschland (BDD) e.V.",
+          "phoneNumber": "+493023635680",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Bundesallee",
+            "streetNumber": "221",
+            "zipCode": "10719",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@direktvertrieb.de"
+          ],
+          "websites": [
+            "https://www.direktvertrieb.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jochen",
+              "lastName": "Acker",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+496721408140",
+              "organizationMemberEmails": [
+                "info@pieroth.de"
+              ]
+            },
+            {
+              "commonFirstName": "Elke",
+              "lastName": "Kopp",
+              "function": "Stellvertretende Vorstandsvorsitzende",
+              "phoneNumber": "+49898009000",
+              "organizationMemberEmails": [
+                "info-de@mkcorp.com"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Hummel",
+              "function": "Stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+49672118001",
+              "organizationMemberEmails": [
+                "de@amc.info"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Jochen",
+              "lastName": "Clausnitzer"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Silke",
+              "lastName": "Bittner"
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Gebhardt"
+            }
+          ],
+          "members": 54,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Direct Selling Europe",
+            "World Federation of Direct Selling Association"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Rechenschaftsbericht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/aa/82/2608/Rechenschaftsbericht-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000336",
+      "registerEntryDetail": {
+        "id": 1137,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000336",
+          "firstPublicationDate": "2022-02-08T08:55:10.000Z"
+        },
+        "activityDescription": "Beteiligung an offenen Briefen an Bundestag und Bundesregierung.\r\nKontakte mit MdBs und Regierungsvertretern im Bereich Verbraucherschutz Energie. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bund der Energieverbraucher gemeinnütziger e.V.",
+          "phoneNumber": "+4922241231230",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Frankfurter Str.",
+            "streetNumber": "1",
+            "zipCode": "53572",
+            "city": "Unkel",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@energieverbraucher.de"
+          ],
+          "websites": [
+            "www.energieverbraucher.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Leonora",
+              "lastName": "Holling",
+              "function": "Vorsitzende des Vorstandes",
+              "phoneNumber": "+4922241231237",
+              "organizationMemberEmails": [
+                "holling@energieverbraucher.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Aribert",
+              "lastName": "Peters",
+              "function": "Stellvertretender Vorsitzender des Vorstandes",
+              "phoneNumber": "+4922241231230",
+              "organizationMemberEmails": [
+                "peters@energieverbraucher.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 9700,
+          "membersCountDate": "2022-01-21T00:00:00.000Z",
+          "membershipEntries": [
+            "Verbraucherzentrale Bundesverband e.V.",
+            "Solarenergie Förderverein e.V.",
+            "EnergieVerein Forum für Energierecht, Ene",
+            "DGS Deutsche Gesellschaft für Sonnenenergie",
+            "Eurosolar",
+            "Energieagentur Oberfranken e.V.",
+            "Klima-Allianz Deutschland",
+            "Schlichtungsstelle Energie e.V.",
+            "TG Verkehrsverein Unkel",
+            "Deutsche Umwelthilfe",
+            "Bündnis Bürgerenergie e.V.",
+            "Schweizerische Energiestiftung",
+            "Forum Ökologisch-Soziale Marktwirtschaft",
+            "Mehr Demokratie"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresrechnung-des-Vereins.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/60/3c/2602/Jahresrechnung-des-Vereins.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000335",
       "registerEntryDetail": {
@@ -10513,7 +12063,7 @@
     {
       "registerNumber": "R000283",
       "registerEntryDetail": {
-        "id": 1069,
+        "id": 2269,
         "clientIdentity": "",
         "employeeCount": {
           "from": 11,
@@ -10807,18 +12357,11 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [
-          {
-            "type": "ANNUAL_REPORT",
-            "media": {
-              "fileName": "BVE-2020-Bilanz-und-GuV.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/50/1d/2218/BVE-2020-Bilanz-und-GuV.pdf",
-              "mimeType": "application/pdf"
-            }
-          }
-        ],
-        "disclosureRequirementsExist": true,
-        "annualReportExist": true
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "in Prüfung"
       }
     },
     {
