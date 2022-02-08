@@ -9,12 +9,83 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 348,
+  "resultCount": 349,
   "results": [
+    {
+      "registerNumber": "R000352",
+      "registerEntryDetail": {
+        "id": 2029,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000352",
+          "firstPublicationDate": "2022-02-08T15:43:03.000Z"
+        },
+        "activityDescription": "Interessenvertretung im Bereich der Schul und Kindergartenfotografie.\r\nWeiterbildung und Beratung von Kindergaerten und Schulen zum Thema Fotografie und Interessenvertretung unserer Mitglieder.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_OTHER",
+          "text": "Schwerpunkt ist die Schul- und Kindergartenfotografie.Weiterbildung und Beratung von Kindergaerten und Schulen zum Thema Fotografie und Interessenvertretung unserer Mitglieder."
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Jan-Timo",
+          "lastName": "Schaube"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_OTHER",
+            "de": "Sonstiges im Bereich „Medien, Kommunikation und  Informationstechnik“",
+            "en": "Other in the field of “Media, communication and information technology”"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Verhaltenskodex-fur-den-ISK.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/97/b7/2740/Verhaltenskodex-fur-den-ISK.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ]
+      }
+    },
     {
       "registerNumber": "R000351",
       "registerEntryDetail": {
-        "id": 1766,
+        "id": 2355,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 1,
@@ -22,8 +93,8 @@
         },
         "refuseFinancialExpensesInformation": false,
         "financialExpensesEuro": {
-          "from": 690001,
-          "to": 700000,
+          "from": 30001,
+          "to": 40000,
           "fiscalYearStart": "01/20",
           "fiscalYearEnd": "12/20"
         },
@@ -271,11 +342,19 @@
           }
         ],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "DIA-PrB2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/2d/2f/2746/DIA-PrB2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": false,
         "refuseAnnualFinanceStatement": false,
-        "annualReportExist": false,
-        "missingAnnualReportReason": "Keine Offenlegungspflicht"
+        "annualReportExist": true
       }
     },
     {
