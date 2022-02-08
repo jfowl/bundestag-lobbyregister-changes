@@ -9,8 +9,382 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 335,
+  "resultCount": 337,
   "results": [
+    {
+      "registerNumber": "R000340",
+      "registerEntryDetail": {
+        "id": 1257,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 61,
+          "to": 70
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "",
+        "account": {
+          "registerNumber": "R000340",
+          "firstPublicationDate": "2022-02-08T09:50:58.000Z"
+        },
+        "activityDescription": "Unterhalt des Kulturdenkmals Kloster Eberbach",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PUBLIC_LAW_ORGA",
+          "de": "Öffentlich-rechtliche Organisation (z. B. Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts)",
+          "en": "Public law organization (e.g. corporations, institutions and foundations under public law)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Stiftung Kloster Eberbach",
+          "phoneNumber": "+4967239178221",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Stiftung Kloster Eberbach",
+            "street": "Kloster Eberbach",
+            "streetNumber": "0",
+            "zipCode": "65346",
+            "city": "Eltville",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_SOER",
+            "code_de": "Stiftung öffentlichen Rechts",
+            "code_en": "Foundation under public law",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "marcel.bremser@kloster-eberbach.de"
+          ],
+          "websites": [
+            "www.kloster-eberbach.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Blach",
+              "function": "Vorsitzender des Vorstandes",
+              "phoneNumber": "+4967239178114",
+              "organizationMemberEmails": [
+                "martin.blach@kloster-eberbach.de"
+              ]
+            },
+            {
+              "commonFirstName": "Timo",
+              "lastName": "Georgi",
+              "function": "Stiftung Kloster Eberbach",
+              "phoneNumber": "+4967239178119",
+              "organizationMemberEmails": [
+                "timo.georgi@kloster-eberbach.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000339",
+      "registerEntryDetail": {
+        "id": 1574,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 180001,
+          "to": 190000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000339",
+          "firstPublicationDate": "2022-02-08T09:44:41.000Z"
+        },
+        "activityDescription": "Der WSM hat die Aufgabe, die gemeinsamen Belange der in ihr zusammengeschlossenen Industriezweige zu wahren und zu fördern. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "WSM Wirtschaftsverband Stahl- und Metallverarbeitung e.V.",
+          "phoneNumber": "+4921195786822",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Uerdinger Straße",
+            "streetNumber": "58-62",
+            "zipCode": "40474",
+            "city": "Düsseldorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "cvietmeyer@wsm-net.de",
+            "cschmidt@wsm-net.de"
+          ],
+          "websites": [
+            "www.wsm-net.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Hubert",
+              "lastName": "Schmidt ",
+              "function": "Präsident",
+              "phoneNumber": "+4921195786822",
+              "organizationMemberEmails": [
+                "dr.schmidt@wsm-net.de"
+              ]
+            },
+            {
+              "commonFirstName": "Ulrich",
+              "lastName": "Flatken",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4921195786822",
+              "organizationMemberEmails": [
+                "info@wsm-net.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Vietmeyer"
+            },
+            {
+              "commonFirstName": "Holger",
+              "lastName": "Ade"
+            },
+            {
+              "commonFirstName": "Volker",
+              "lastName": "Bockskopf"
+            }
+          ],
+          "members": 18,
+          "membersCountDate": "2022-01-28T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband der Deutschen Industrie e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NUCLEAR",
+            "de": "Atomenergie",
+            "en": "Nuclear power"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "WSM-Jahresabschluss-2020-Lobbyregister.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/33/b6/2613/WSM-Jahresabschluss-2020-Lobbyregister.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000338",
       "registerEntryDetail": {
