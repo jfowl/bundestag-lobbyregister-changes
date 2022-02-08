@@ -9,8 +9,275 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 347,
+  "resultCount": 348,
   "results": [
+    {
+      "registerNumber": "R000351",
+      "registerEntryDetail": {
+        "id": 1766,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 690001,
+          "to": 700000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000351",
+          "firstPublicationDate": "2022-02-08T15:34:35.000Z"
+        },
+        "activityDescription": "Gestaltung des Meinungsbildungsprozesses zum Thema Altersvorsorge in der Öffentlichkeit und die Funktion als wichtiger Ansprechpartner zu Altersvorsorgethemen in der Politik",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_RESEARCH_FACILITY",
+          "de": "Denkfabrik, Forschungseinrichtung oder Hochschule",
+          "en": "Think tank, research institution or university"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsches Institut für Altersvorsorge GmbH",
+          "phoneNumber": "+491624062885",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Französische Str.",
+            "streetNumber": "12",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "wrnrjnzn@googlemail.com",
+            "iradj.memar-khasse@db.com"
+          ],
+          "websites": [
+            "https://www.dia-vorsorge.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Werner",
+              "lastName": "Janzen",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+491624062885",
+              "organizationMemberEmails": [
+                "wrnrjnzn@googlemail.com"
+              ]
+            },
+            {
+              "commonFirstName": "Iradj",
+              "lastName": "Memar-Khasse",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+491723700807",
+              "organizationMemberEmails": [
+                "iradj.memar-khasse@db.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Morgenstern"
+            },
+            {
+              "commonFirstName": "Fabian",
+              "lastName": "Dittrich"
+            }
+          ],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Deutsche Bank AG",
+            "phoneNumber": "+4922892090020",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Theodor-Heuss-Allee ",
+              "streetNumber": "72",
+              "zipCode": "60486",
+              "city": "Frankfurt",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_AG",
+              "code_de": "Aktiengesellschaft (AG)",
+              "code_en": "Stock company (AG)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "karsten.rusch@db.com"
+            ],
+            "websites": [
+              "www.deutsche-bank.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Karsten",
+                "lastName": "Karsten",
+                "function": "Managing Director",
+                "phoneNumber": "+4922892090020",
+                "organizationMemberEmails": [
+                  "karsten.rusch@db.com"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "DWS Beteiligungs GmbH",
+            "phoneNumber": "+496991014360",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Mainzer Landstr.",
+              "streetNumber": "11-17",
+              "zipCode": "60329",
+              "city": "Frankfurt",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "frank.breiting@db.com"
+            ],
+            "websites": [
+              "www.dws.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Breiting",
+                "lastName": "Breiting",
+                "function": "Head of Coverage Segment Wholesale",
+                "phoneNumber": "+496991014360",
+                "organizationMemberEmails": [
+                  "frank.breiting@db.com"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Deutscher Herold AG",
+            "phoneNumber": "+491624062885",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Poppelsdorfer Allee",
+              "streetNumber": "25-33",
+              "zipCode": "53115",
+              "city": "Bonn",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_AG",
+              "code_de": "Aktiengesellschaft (AG)",
+              "code_en": "Stock company (AG)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "ulrich.christmann@zurich.de"
+            ],
+            "websites": [
+              "www.zurich.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Ulrich",
+                "lastName": "Christmann",
+                "function": "Vorstand",
+                "phoneNumber": "+491624062885",
+                "organizationMemberEmails": [
+                  "ulrich.christmann@zurich.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "BHW Bausparkasse AG",
+            "phoneNumber": "+496991050600",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Lubahnstr.",
+              "streetNumber": "2",
+              "zipCode": "31789",
+              "city": "Hameln",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_AG",
+              "code_de": "Aktiengesellschaft (AG)",
+              "code_en": "Stock company (AG)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "michael.ost@db.com"
+            ],
+            "websites": [
+              "www.bhw.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Michael",
+                "lastName": "Ost",
+                "function": "stv. Vorstandsvorsitzender",
+                "phoneNumber": "+496991050600",
+                "organizationMemberEmails": [
+                  "Michael.ost@bhw.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Keine Offenlegungspflicht"
+      }
+    },
     {
       "registerNumber": "R000350",
       "registerEntryDetail": {
