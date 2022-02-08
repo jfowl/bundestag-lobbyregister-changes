@@ -9,8 +9,124 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 330,
+  "resultCount": 331,
   "results": [
+    {
+      "registerNumber": "R000334",
+      "registerEntryDetail": {
+        "id": 1106,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 60001,
+          "to": 70000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000334",
+          "firstPublicationDate": "2022-02-08T08:13:28.000Z"
+        },
+        "activityDescription": "Die dPV berät und betreut Parkinson-Patienten und Angehörige. Dieser Personenkreis ist besonders auf das staatliche Gesundheitswesen angewiesen. Im Bezug auf Pflege, Beratung, Betreuung und Medikamentöse Versorgung. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Parkinson Vereinigung e.V.",
+          "phoneNumber": "+492131740270",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Moselstraße",
+            "streetNumber": "31",
+            "zipCode": "41464",
+            "city": "Neuss",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "bundesverband@parkinson-mail.de"
+          ],
+          "websites": [
+            "www.parkinson-vereinigung.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Friedrich-Wilhelm",
+              "lastName": "Mehrhoff",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+492131740270",
+              "organizationMemberEmails": [
+                "mehrhoff@parkinson-mail.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 16758,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutsche paritätischen Landesverbände"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Deutsche-Parkinson-Vereinigung-Bundesverband-e-V-Rechnungsabschluss-2020-Auszug.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7f/6b/2597/Deutsche-Parkinson-Vereinigung-Bundesverband-e-V-Rechnungsabschluss-2020-Auszug.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000333",
       "registerEntryDetail": {
