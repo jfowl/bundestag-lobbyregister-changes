@@ -9,8 +9,290 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 350,
+  "resultCount": 351,
   "results": [
+    {
+      "registerNumber": "R000354",
+      "registerEntryDetail": {
+        "id": 955,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 21,
+          "to": 30
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000354",
+          "firstPublicationDate": "2022-02-08T16:50:43.000Z"
+        },
+        "activityDescription": "Im Rahmen ihrer Zwecke der Bildung und Erziehung von Kindern und Jugendlichen fördert die Stiftung das Verständnis von Eltern und Erziehern für die Bedeutung des Kinder- und Jugendbuchs und stellt für Personen und Institutionen, die an der Verbreitung und Vermittlung von Kinder- und Jugendliteratur (KJL) beteiligt sind, Informationen bereit. Sie trägt zur Fortbildung von Fachkräften bei und berät Autoren, Illustratorinnen, Verlegern, Übersetzerinnen, Publizisten und Wissenschaftlerinnen. Sie arbeitet mit entsprechenden Einrichtungen im In- und Ausland zusammen.\r\nDie Stiftung verwirklicht diesen Zweck insbesondere mit dem Betrieb der Internationalen Jugendbibliothek in München als zentrale Spezialbibliothek der internationalen KJL und als internationales Zentrum der KJL.\r\nAufgabe der Stiftung Internationale Jugendbibliothek ist es insbesondere, durch Sammlung, Erschließung und Vermittlung in- und ausländischer KJL zu deren Verbreitung und Verwendung als Mittel der kulturellen Jugendbildung und interkulturellen Verständigung beizutragen.\r\nIm Rahmen ihrer wissenschaftlichen Zwecke fördert die Stiftung Internationale Jugendbibliothek die Forschung auf dem Gebiet der internationalen KJL.\r\nDie Stiftung erfüllt ihre Zwecke auch durch die Einwerbung von Geld- und Sachleistungen zugunsten ihrer Zwecke.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Stiftung Internationale Jugendbibliothek",
+          "phoneNumber": "+49898912110",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Schloss Blutenburg",
+            "street": "Seldweg",
+            "streetNumber": "15",
+            "zipCode": "81247",
+            "city": "München",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_RSBR",
+            "code_de": "Rechtsfähige Stiftung bürgerlichen Rechts",
+            "code_en": "Legal foundation under civil law",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "direktion@ijb.de"
+          ],
+          "websites": [
+            "https://www.ijb.de/home"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christiane",
+              "lastName": "Raabe",
+              "function": "Geschäftsführendes Vorstandsmitglied",
+              "phoneNumber": "+498989121142",
+              "organizationMemberEmails": [
+                "direktion@ijb.de"
+              ]
+            },
+            {
+              "commonFirstName": "Clara",
+              "lastName": "Fernández López",
+              "function": "Vorstandsvorsitzende",
+              "phoneNumber": "+498987130007",
+              "organizationMemberEmails": [
+                "clara@publishing-consulting.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "Deutscher Bibliotheksverband",
+            "Bundesverband Deutscher Stiftungen",
+            "AK Jugendliteratur",
+            "Verein Deutscher Bibliothekare",
+            "LV Kulturelle Bildung"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "description": "Institutionelle Förderung der Kinder- und Jugendhilfe durch den Kinder- und Jugendplan des Bundes.",
+            "location": "Glinkastraße 24, 10117 Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 1020001,
+              "to": 1030000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Bayerisches Staatsministerium für Wissenschaft und Kunst",
+            "description": "Institutionelle Zuwendung zur teilweisen Deckung der Kosten des laufenden Betriebes der Stiftung Internationale Jugendbibliothek.",
+            "location": "80327 München",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 540001,
+              "to": 550000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Landeshauptstadt München, Kulturreferat",
+            "description": "Institutionelle Zuwendung für den Betrieb der Stiftung sowie zur Erfüllung der satzungsmäßigen Aufgaben (kulturelle Jugendarbeit und interkulturelle Verständigung durch Sammlung und Forschung auf dem Gebiet der internationalen Jugendliteratur).",
+            "location": "Burgstr. 4, 80331 München",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 490001,
+              "to": 500000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "phoneNumber": "+4918885552021",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Referat",
+              "streetNumber": "502",
+              "zipCode": "53107",
+              "city": "Bonn",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_OTHER_JP_INTERNATIONAL",
+              "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+              "code_en": "Other juristic person",
+              "type": "JURISTIC_PERSON",
+              "legalFormText": "Bundesministerium"
+            },
+            "organizationEmails": [
+              "uta-christina.biskup@bmfsfj.bund.de"
+            ],
+            "websites": [
+              "https://www.bmfsfj.de/bmfsfj"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Oberamtsrätin",
+                "commonFirstName": "Uta-Christina",
+                "lastName": "Biskup",
+                "function": "Referat 502, Außerschulische Kinder- und Jugendbildung",
+                "phoneNumber": "+4918885552021",
+                "organizationMemberEmails": [
+                  "uta-christina.biskup@bmfsfj.bund.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Bayerisches Staatsministerium für Wissenschaft und Kunst",
+            "phoneNumber": "+498921862465",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Salvatorstraße",
+              "streetNumber": "2",
+              "zipCode": "80327",
+              "city": "München",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_OTHER_JP_INTERNATIONAL",
+              "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+              "code_en": "Other juristic person",
+              "type": "JURISTIC_PERSON",
+              "legalFormText": "Staatsministerium"
+            },
+            "organizationEmails": [
+              "Elisabeth.Donoughue@stmwk.bayern.de"
+            ],
+            "websites": [
+              "https://www.stmwk.bayern.de/index.html"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Elisabeth",
+                "lastName": "Donoughue",
+                "function": "Regierungsdirektorin",
+                "phoneNumber": "+498921862465",
+                "organizationMemberEmails": [
+                  "Elisabeth.Donoughue@stmwk.bayern.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Landeshauptstadt München, Kulturreferat",
+            "phoneNumber": "+498923325908",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Burgstraße",
+              "streetNumber": "4",
+              "zipCode": "80331",
+              "city": "München",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_OTHER_JP_INTERNATIONAL",
+              "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+              "code_en": "Other juristic person",
+              "type": "JURISTIC_PERSON",
+              "legalFormText": "Rathaus München, Kulturreferat"
+            },
+            "organizationEmails": [
+              "Anton.Biebl@muenchen.de"
+            ],
+            "websites": [
+              "https://www.muenchen.de/"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Anton",
+                "lastName": "Biebl",
+                "function": "Kulturreferent",
+                "phoneNumber": "+498923325908",
+                "organizationMemberEmails": [
+                  "Anton.Biebl@muenchen.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresbericht2020-klein.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/71/10/2760/Jahresbericht2020-klein.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000353",
       "registerEntryDetail": {
