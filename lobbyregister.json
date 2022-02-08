@@ -9,8 +9,216 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 331,
+  "resultCount": 332,
   "results": [
+    {
+      "registerNumber": "R000335",
+      "registerEntryDetail": {
+        "id": 376,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1270001,
+          "to": 1280000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000335",
+          "firstPublicationDate": "2022-02-08T08:49:58.000Z"
+        },
+        "activityDescription": "Die AGDW-Die Waldeigentümer vertritt die Interessen des Privat-, Kommunal- und Körperschaftswaldes gegenüber dem Deutschen Bundestag und dem Bundesrat, den Ministerien, der Wirtschaft, der Öffentlichkeit, der Wissenschaft und in Gremien anderer Verbände. Die Interessenvertretung findet überwiegend auf nationaler, aber auch auf europäischer und internationaler Ebene statt. Der Verband ist darüber hinaus in zahlreichen Institutionen aktiv. Die europäische und internationale Forstpolitik gestalten die Waldeigentümer vor allem als Mitglied im Zentralverband des Europäischen Waldbesitzerverbandes CEPF und in der Internationalen Allianz für Familienforstwirtschaft IFFA.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Arbeitsgemeinschaft Deutscher Waldbesitzerverbände (AGDW) e.V.",
+          "phoneNumber": "+4930311667620",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reinhardtstraße",
+            "streetNumber": "18a",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@waldeigentuemer.de"
+          ],
+          "websites": [
+            "https://www.waldeigentuemer.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Josef",
+              "lastName": "Ziegler",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4930311667620",
+              "organizationMemberEmails": [
+                "info@waldeigentuemer.de"
+              ]
+            },
+            {
+              "commonFirstName": "Roland",
+              "lastName": "Burger",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4930311667620",
+              "organizationMemberEmails": [
+                "info@waldeigentuemer.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Irene",
+              "lastName": "Seling"
+            },
+            {
+              "commonFirstName": "Larissa",
+              "lastName": "Schulz-Trieglaff"
+            },
+            {
+              "commonFirstName": "Kurt",
+              "lastName": "Hauschild"
+            },
+            {
+              "commonFirstName": "Bastian",
+              "lastName": "Niemöller"
+            },
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "Völker"
+            },
+            {
+              "commonFirstName": "Leon",
+              "lastName": "Nau"
+            },
+            {
+              "commonFirstName": "Johanna",
+              "lastName": "Eßer"
+            }
+          ],
+          "members": 13,
+          "membersCountDate": "2022-01-28T00:00:00.000Z",
+          "membershipEntries": [
+            "DFWR - Deutscher Forstwirtschaftsrat",
+            "CEPF - Confederation of European Forest Owners",
+            "DBV - Deutscher Bauernverband",
+            "AFN - Aktionsbündnis Forum Natur",
+            "BBE - Bundesverband BioEnergie",
+            "IFFA - International Family Forest Alliance",
+            "SFW - Schutzgemeinschaft Deutscher Wald"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "FNR - Fachagentur Nachwachsende Rohstoffe",
+            "description": "Förderprojekte: \r\n- WIKI-Web2.0 für das Kompetenz-Netzwerk Klimawandel, Krisenmanagement und Transformation in Waldökosystemen; Teilvorhaben 1 - Akronym: WIKI4KoNeKKTiW\r\n- Überwindung von Adaptionshemmnissen bei der Weiterentwicklung von Waldökosystemen durch Netzwerkbildung, soziales Lernen und Risikomanagement - Kompetenz-Netzwerk Klimawandel, Krisenmanagement und Transformation von Waldökosystemen; Teilvorhaben 2 - Akronym: KoNeKKTiW\r\n- Benchmarking Forstwirtschaftlicher Zusammenschlüsse; Teilvorhaben 2: Testphase und Rollout\r\n- Neue Wege der Forstlichen Beratung und Betreuung - Trifft das Angebot die Nachfrage(r)?; Teilvorhaben 1: Analysen der forstlichen Beratungs- und Betreuungsleistungen - Akronym: N-ForB",
+            "location": "Gülzow",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 310001,
+              "to": 320000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "AGDW-JA-2020-EB.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/9e/0a/2600/AGDW-JA-2020-EB.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000334",
       "registerEntryDetail": {
