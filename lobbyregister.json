@@ -9,8 +9,223 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 341,
+  "resultCount": 342,
   "results": [
+    {
+      "registerNumber": "R000345",
+      "registerEntryDetail": {
+        "id": 605,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 130001,
+          "to": 140000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000345",
+          "firstPublicationDate": "2022-02-08T11:35:12.000Z"
+        },
+        "activityDescription": "RENK ist ein weltweiter Marktführer mit 149 Jahren deutscher Maschinenbautradition. Die Basis dafür sind unsere wegweisenden Lösungen zur Beherrschung extremer Kräfte im gesamten Antriebsstrang. Unser Unternehmen besteht aus den Geschäftsbereichen Fahrzeuggetriebe, Marine & Industrie, Gleitlager und Testsysteme. In Deutschland beschäftigt RENK über 2.100 Menschen in den Standorten Augsburg, Hannover, Rheine und Starnberg. \r\n\r\nIn der politischen Kommunikation pflegt RENK Kontakte mit Mitgliedern des Deutschen Bundestages (SPD, CDU/CSU, Grüne, FDP), Mitarbeitern der genannten Fraktionen/MdB sowie Angehörigen der Bundesregierung (mit Schwerpunkt auf Auswärtiges Amt, Bundesministerium für Wirtschaft und Klimaschutz, Bundesministerium der Verteidigung; weitere Ministerien im Einzelfall). \r\n\r\nSeit 01. Oktober 2021 unterhält RENK ein eigenes Hauptstadtbüro mit einem Büroleiter. Zum 01. Januar 2022 wurde zusätzliche Referentenstelle geschaffen. Das Hauptstadtbüro verantwortet die politische Interessenvertretung des Unternehmens in den Bereichen Regulierung, Beschaffung, Fördermittel und Exporte. Außerdem wird von dort die politische Verbands- und Vereinsarbeit koordiniert. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "RENK GmbH",
+          "phoneNumber": "+4982157000",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "RENK GmbH",
+            "street": "Gögginger Str.",
+            "streetNumber": "73",
+            "zipCode": "86159",
+            "city": "Augsburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "felix.seidler@renk-group.com",
+            "anne-kathrin.schweiger@renk-group.com"
+          ],
+          "websites": [
+            "https://www.renk-group.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Susanne",
+              "lastName": "Wiegand",
+              "function": "Vorsitzende der Geschäftsführung",
+              "phoneNumber": "+4982157000",
+              "organizationMemberEmails": [
+                "info@renk-group.com"
+              ]
+            },
+            {
+              "commonFirstName": "Niklas",
+              "lastName": "Beyes",
+              "function": "Mitglied der Geschäftsführung",
+              "phoneNumber": "+4982157000",
+              "organizationMemberEmails": [
+                "info@renk-group.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Felix",
+              "lastName": "Seidler"
+            },
+            {
+              "commonFirstName": "Anne-Kathrin",
+              "lastName": "Schweiger"
+            }
+          ],
+          "membershipEntries": [
+            "Bundesverband der Deutschen Sicherheits- und Verteidigungsindustrie e.V. (BDSV)",
+            "Verband Deutscher Maschinen- und Anlagenbau e. V. (VDMA)",
+            "Förderkreis Deutsches Heer e.V. (FKH)",
+            "Deutsche Gesellschaft für Wehrtechnik e.V. (DWT)",
+            "Wirtschaftsbeirat der Union e.V. (WBU München)",
+            "VDMA Bayern",
+            "Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of “Bundestag”"
+          },
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_AFFAIRS",
+            "de": "Bundeswehrangelegenheiten",
+            "en": "Bundeswehr affairs"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_OTHER",
+            "de": "Sonstiges im Bereich „Verteidigung“",
+            "en": "Other in the field of “Defense”"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_POLICY",
+            "de": "Verteidigungspolitik",
+            "en": "Defense policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_SAFETY_POLICY",
+            "de": "Gemeinsame Außen- und Sicherheitspolitik der EU",
+            "en": "Common foreign and security policy of the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "RENK-Holding-GmbH-Konzernabschluss-31-12-2020-DE.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/52/fe/2657/RENK-Holding-GmbH-Konzernabschluss-31-12-2020-DE.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000344",
       "registerEntryDetail": {
