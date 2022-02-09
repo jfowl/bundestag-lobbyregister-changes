@@ -9,8 +9,117 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 366,
+  "resultCount": 367,
   "results": [
+    {
+      "registerNumber": "R000370",
+      "registerEntryDetail": {
+        "id": 1011,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "Jahresrechenschaftsbericht kann angefordert werden",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000370",
+          "firstPublicationDate": "2022-02-09T11:58:08.000Z"
+        },
+        "activityDescription": "Der Zweck des Vereins ist es, die beruflichen, wirtschaftlichen und berufsständischen Interessen seiner Mitglieder, insbesondere in den Bundesländern Hessen, Rheinland-Pfalz und Saarland zu fördern und zu vertreten.\r\n\r\nEr ist sowohl konfessionell als auch parteipolitisch nicht gebunden und nicht auf einen wirtschaftlichen Geschäftsbetrieb ausgerichtet. \r\n\r\nZu den Aufgaben des Landesverbandes gehört insbesondere: \r\nBeratung der Mitglieder in berufsrechtlichen, arbeitsrechtlichen, sozialrechtlichen und tariflichen Fragen\r\nBeratung und Vertretung der Mitglieder in Fragen der freien Niederlassung und des Krankenhauswesens sowie während der Ausbildung und des Studiums\r\nUnterstützung bei der Zulassung zu den Krankenkassen\r\nBeratung betreffend tarifliche Forderungen der angestellten Mitglieder gegenüber den Tarifpartnern\r\nWahrnehmung der Interessen des gesamten Berufsstandes auf Regionalebene    \r\nFörderung bei der Aus-, Fort- und Weiterbildung\r\n",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "PHYSIO-DEUTSCHLAND  Landesverband Rheinland-Pfalz/Saarland",
+          "phoneNumber": "+496351126850",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Hauptstr",
+            "streetNumber": "67",
+            "zipCode": "67305",
+            "city": "Ramsen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "kontakt@rps.physio-deutschland.de",
+            "dagmar.schlaubitz@rps.physio-deutschland.de"
+          ],
+          "websites": [
+            "www.rps.physio-deutschland.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Dagmar",
+              "lastName": "Schlaubitz-Raab",
+              "function": "Vorstand",
+              "phoneNumber": "+491704834949",
+              "organizationMemberEmails": [
+                "dagmar.schlaubitz@rps.physio-deutschland.de"
+              ]
+            },
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Reiland",
+              "function": "Vorstand",
+              "phoneNumber": "+491759391002",
+              "organizationMemberEmails": [
+                "peter.reiland@rps.physio-deutschland.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Alles",
+              "function": "Vorstand",
+              "phoneNumber": "+491753636533",
+              "organizationMemberEmails": [
+                "michael.alles@rps.physio-deutschland.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 3300,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Jahresabschluss kann jederzeit angefordert werden"
+      }
+    },
     {
       "registerNumber": "R000369",
       "registerEntryDetail": {
@@ -5682,7 +5791,7 @@
     {
       "registerNumber": "R000342",
       "registerEntryDetail": {
-        "id": 1462,
+        "id": 2414,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 0,
@@ -5711,10 +5820,47 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "academicDegreeBefore": "Dr.",
-          "commonFirstName": "Silke",
-          "lastName": "Zinke"
+          "identity": "ORGANIZATION",
+          "name": "Berufsverband Deutscher Rheumatologen e.V.",
+          "phoneNumber": "+4989904141413",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Dr.-Max-Str.",
+            "streetNumber": "21",
+            "zipCode": "82031",
+            "city": "Grünwald",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "kontakt@bdrh.de"
+          ],
+          "websites": [
+            "www.bdrh.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Silke",
+              "lastName": "Zinke",
+              "function": "Vorsitzende des Vorstands",
+              "phoneNumber": "+493098317454",
+              "organizationMemberEmails": [
+                "zinke@bdrh.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 521,
+          "membersCountDate": "2022-02-09T00:00:00.000Z",
+          "membershipEntries": []
         },
         "legislativeProjects": [],
         "donators": [],
@@ -5770,7 +5916,19 @@
           }
         ],
         "clientPersons": [],
-        "registerEntryMedia": []
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "295125-Gewinnermittlung-2020-31-08-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/b5/0a/2896/295125-Gewinnermittlung-2020-31-08-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
       }
     },
     {
@@ -16647,7 +16805,7 @@
     {
       "registerNumber": "R000290",
       "registerEntryDetail": {
-        "id": 2418,
+        "id": 2419,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -16667,7 +16825,7 @@
           "registerNumber": "R000290",
           "firstPublicationDate": "2022-02-04T03:07:58.000Z"
         },
-        "activityDescription": "Interessen Vertretung von Menschen die mit Parkinson leben und deren Angehörige",
+        "activityDescription": "Interessenvertretung von Menschen die mit Parkinson leben und deren Angehörige, ICD-10 G20\r\nInteressenvertretung für ME/CFS-Erkrankte, ICD-10 G93.3.\r\nInteressenvertretung für Menschen die an Parkinson und ME/CFS-Erkrankt sind",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_OTHER",
