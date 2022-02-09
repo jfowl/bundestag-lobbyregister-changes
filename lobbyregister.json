@@ -9,8 +9,234 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 374,
+  "resultCount": 375,
   "results": [
+    {
+      "registerNumber": "R000378",
+      "registerEntryDetail": {
+        "id": 613,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000378",
+          "firstPublicationDate": "2022-02-09T16:59:10.000Z"
+        },
+        "activityDescription": "Die Tätigkeiten des BABdW sollen den Menschen dienen, die aufgrund  ihrer schweren Beeinträchtigung auf umfassende Unterstützung gemäß Artikel 12 der UN BRK angewiesen sind. Der BABdW ist ein Verband zur Selbsthilfe für Menschen mit Beeinträchtigung, die selbst keine solche Organisation gründen, leiten und vertreten können.\r\nEr berät und unterstützt Menschen, sowie Vertretungen von Angehörigen und Betreuern, Bewohnervertretungen und Werkstatträte auf deren Wunsch.\r\nEs ist Aufgabe des BABdW, vorhandene oder drohende Benachteiligungen und Misstände aufzudecken, zu benennen und Vorstellungen zu entwickeln,deren Ziel es ist, in Zusammenarbeit mit den relevanten gesellschaftlichen Kräften und Gruppen, Benachteiligunen und Misstände zu beseitigen   bzw. zu verhindern.\r\nDer BABdW soll durch eigene Information sowie durch Erfahrungs- und Informationsaustausch zur Selbsthilfe der Menschen mit Beeinträchtigungen, ihrer Angehörigen und rechtlicher Betreuer tätig werden.\r\nDiese Aufgaben und Ziele sollen realisiert werden durch\r\n- Zusammenarbeit mit den Trägern von Wohneinrichtungen, Föderbereichen und Werkstätten;\r\n- Kontaktpflege und Zusammenarbeit mit allen Personen und Institutionen, die sich mit Fragen befassen, die Menschen mit Beeinträchtigung betreffen;\r\n- Änderung der rechtlichen Grundlagen zugunsten der Menschen mit Beeinträchtigung und ihren Angehörigen;\r\n- Verbesserung der wirtschaftlichen, sozialen und persönlichen Situation der Menschen mit Beeinträchtigung und ihren Angehörigen;\r\n- Rechtliche Verankerung und Ausgestaltung der Mitwirkung von Betreuern und Angehörigen in Wohneinrichtungen, Förderbereichen und Werkstätten;\r\n- Information, Motivierung und Weiterbildung von Angehörigenvertretern, Bewohnervertretern und Werkstatträten.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband von Angehörigen- und Betreuervertretungen in diakonischen oder anderen christlichen Wohneinrichtungen und Werkstätten für Menschen mit Beeinträchtigungen e. V. (BABdW)",
+          "phoneNumber": "+49911831134",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o",
+            "nationalAdditional2": "Reinhard Frank",
+            "street": "Am Maderersbrunnen",
+            "streetNumber": "6",
+            "zipCode": "90475",
+            "city": "Nürnberg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "reinhard.frank@babdw.de",
+            "info@babdw.de"
+          ],
+          "websites": [
+            "babdw.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Reinhard",
+              "lastName": "Frank",
+              "function": "Vorsitzender",
+              "phoneNumber": "+49911831134",
+              "organizationMemberEmails": [
+                "reinhard.frank@babdw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Petzold",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+4942639837215",
+              "organizationMemberEmails": [
+                "martin.petzold@babdw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Achim",
+              "lastName": "Wenz",
+              "function": "Schatzmeister",
+              "phoneNumber": "+491707122780",
+              "organizationMemberEmails": [
+                "achim.wenz@babdw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Siegfried",
+              "lastName": "Albert",
+              "function": "Beisitzer",
+              "phoneNumber": "+49893109169",
+              "organizationMemberEmails": [
+                "siegfried.albert@babdw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Ursula",
+              "lastName": "Cassel",
+              "function": "Beisitzerin",
+              "phoneNumber": "+49511211686",
+              "organizationMemberEmails": [
+                "ursula.cassel@babdw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Karl",
+              "lastName": "Eichler",
+              "function": "Beisitzer",
+              "phoneNumber": "+49753175280",
+              "organizationMemberEmails": [
+                "karl.eichler@babdw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michaela",
+              "lastName": "Niemuth",
+              "function": "Beisitzerin",
+              "phoneNumber": "+491781028998",
+              "organizationMemberEmails": [
+                "michaela.niemuth@babdw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Volker",
+              "lastName": "Papenhagen",
+              "function": "Beisitzer",
+              "phoneNumber": "+495662400454",
+              "organizationMemberEmails": [
+                "volker.papenhagen@babdw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Waltraud",
+              "lastName": "Radzuweit",
+              "function": "Beisitzerin",
+              "phoneNumber": "+4950662839",
+              "organizationMemberEmails": [
+                "waltraud.radzuweit@babdw.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 14,
+          "membersCountDate": "2022-01-22T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DISABILITY",
+            "de": "Rechte von Menschen mit Behinderung",
+            "en": "Rights of people with disabilities"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_BASIC",
+            "de": "Grundsicherung",
+            "en": "Basic security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of “Social security”"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Jahresabschluß ist für unseren Verein nicht erforderlich.\r\nDer Rechenschaftsbericht wird jährlich bei der Mitgliederversammlung vom vorsitzenden Vorstand für des vorangegangene Jahr mündlich vorgetragen. Der Schatzmeister berichtet die finanziellen Verhältnisse des Vereins des letzten Geschäftsjahres.. Die beiden Kassenprüfer tragen das Ergebnis der Kassenprüfung vor.\r\nDer Rechenschaftsbericht des Vorstandes, der Bericht des Schatzmeisters und der Bericht der Kassenrprüfung ist im jeweiligen Protokoll der Mitgliederversammlung niedergelegt."
+      }
+    },
     {
       "registerNumber": "R000377",
       "registerEntryDetail": {
