@@ -9,8 +9,862 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 359,
+  "resultCount": 364,
   "results": [
+    {
+      "registerNumber": "R000367",
+      "registerEntryDetail": {
+        "id": 1827,
+        "clientIdentity": "BOTH",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000367",
+          "firstPublicationDate": "2022-02-09T11:22:17.000Z"
+        },
+        "activityDescription": "Evangelische Werte vertreten wir in der Wohnungs- und Stadtentwicklungspolitik und sind Kompetenzpartner für Kirche, Politik und Wirtschaft bei allen Immobilienfragen. Wir schaffen Bewusstsein für ein werteorientiertes Planen und Bauen und geben jenen Unterstützung, die sich im Immobilienmanagement professionalisieren wollen. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "eid Evangelischer Immobilienverband Deutschland",
+          "phoneNumber": "+49304711250",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Littenstraße",
+            "streetNumber": "10",
+            "zipCode": "10179",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@der-eid.de"
+          ],
+          "websites": [
+            "www.der-eid.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Hans-Christian",
+              "lastName": "Biallas",
+              "function": "Präsident",
+              "phoneNumber": "+49304711250",
+              "organizationMemberEmails": [
+                "info@der-eid.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. ",
+              "commonFirstName": "Martin",
+              "lastName": "Häublein",
+              "function": "stellvertretender Präsident",
+              "phoneNumber": "+49304711250",
+              "organizationMemberEmails": [
+                "info@der-eid.de"
+              ]
+            },
+            {
+              "commonFirstName": "Dennis",
+              "lastName": "Beyer",
+              "function": "geschäftsführender Vorstand",
+              "phoneNumber": "+49304711250",
+              "organizationMemberEmails": [
+                "info@der-eid.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 32,
+          "membersCountDate": "2022-02-01T00:00:00.000Z",
+          "membershipEntries": [
+            "GdW e.V., Deutscher Verband für Wohnungswesen und Raumordnung e.v., Deutscher Erbbaurechtsverband e.V., vhw e.V., DESWOS e.V., Deutsches Ständiges Schiedsgericht für Wohnungseigentum e.V., Arbeitskreis evangelischer Unternehmer e.V., CDU Wirtschaftsrat e.V., "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of “Spatial planning, construction and housing”"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Evangelisches Siedlungswerk in Bayern GmbH",
+            "phoneNumber": "+4991120080",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Hans-Sachs-Platz",
+              "streetNumber": "10",
+              "zipCode": "90403",
+              "city": "Nürnberg",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@esw.de"
+            ],
+            "websites": [
+              "https://www.esw.de/"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Erhardt",
+                "lastName": "Hannes Bernhardt",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4991120080",
+                "organizationMemberEmails": [
+                  "info@esw.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [
+          {
+            "academicDegreeBefore": "Prof. Dr.",
+            "commonFirstName": "Martin",
+            "lastName": "Häublein"
+          }
+        ],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/ec/16/2867/Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000366",
+      "registerEntryDetail": {
+        "id": 46,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000366",
+          "firstPublicationDate": "2022-02-09T11:19:46.000Z"
+        },
+        "activityDescription": "Als selbständig tätiger Rechtsanwalt und Hauptstadtrepräsentant der Deutschen Gesellschaft für Mund-, Kiefer- und Gesichtschirurgie sowie des Berufsverbandes Deutscher Oralchirurgen, berate ich meine Mandanten zu laufenden Gesetzgebungsvorhaben, formuliere hierzu Stellungnahmen und nehme für meine Mandanten an Verbände- oder Sachverständigenanhörungen teil. Hierneben trete ich in Kontakt mit Bundestagsabgeordneten, Mitgliedern der Regierung sowie Ministerialbeamten, um auf besondere Anliegen der meinerseits vertretenen Mandanten hinzuweisen. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_LAWYER",
+          "de": "Anwaltskanzlei, Einzelanwältin oder Einzelanwalt",
+          "en": "Law firm, individual attorney"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Sascha",
+          "lastName": "Milkereit"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Deutsche Gesellschaft für Mund-, Kiefer- und Gesichtschirurgie",
+            "phoneNumber": "+496192206303",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Schoppastrasse",
+              "streetNumber": "4",
+              "zipCode": "65719",
+              "city": "Hofheim",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@dgmkg.de"
+            ],
+            "websites": [
+              "www.dgmkg.com"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Univ. Prof. Dr. Dr.",
+                "commonFirstName": "Jürgen",
+                "lastName": "Hoffmann",
+                "function": "Präsident",
+                "phoneNumber": "+496221567301",
+                "organizationMemberEmails": [
+                  "juergen.hoffmann@med.uni-heidelberg.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Jörg-Ulf",
+                "lastName": "Wiegner",
+                "function": "Vize-Präsident",
+                "phoneNumber": "+493671460933",
+                "organizationMemberEmails": [
+                  "wiegner@saalepraxis.de"
+                ]
+              },
+              {
+                "commonFirstName": "Florian",
+                "lastName": "Kubitzek",
+                "function": "Schatzmeister",
+                "phoneNumber": "+49893810038",
+                "organizationMemberEmails": [
+                  "florian.kubitzek@mkg-chirurgie.de",
+                  "mkgkubitzek@gmx.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Berufsverband Deutscher Oralchirurgen",
+            "phoneNumber": "+496562968215",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Bahnhofstraße",
+              "streetNumber": "54",
+              "zipCode": "54662",
+              "city": "Speicher",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "sekretariat@izi-gmbh.de"
+            ],
+            "websites": [
+              "www.oralchirurgie.org"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dr. Dr.",
+                "commonFirstName": "Wolfgang",
+                "lastName": "Jakobs",
+                "function": "1. Vorsitzender",
+                "phoneNumber": "+496562968215",
+                "organizationMemberEmails": [
+                  "sekretariat@izi-gmbh.de",
+                  "drjakobs@me.com"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Martin",
+                "lastName": "Ullner",
+                "function": "2. Vorsitzender",
+                "phoneNumber": "+496146601120",
+                "organizationMemberEmails": [
+                  "martin.ullner@praxis-ullner.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Markus",
+                "lastName": "Blume",
+                "function": "Beisitzer",
+                "phoneNumber": "+492232943486",
+                "organizationMemberEmails": [
+                  "zamblume@aol.com"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Mathias",
+                "lastName": "Sommer",
+                "function": "Schriftführer",
+                "phoneNumber": "+492212584966",
+                "organizationMemberEmails": [
+                  "praxis@docsommer.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000365",
+      "registerEntryDetail": {
+        "id": 1108,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000365",
+          "firstPublicationDate": "2022-02-09T11:13:17.000Z"
+        },
+        "activityDescription": "Interessenvertretung der Rentenberater/innen im Bereich Berufsrecht, Berufspolitik, Sozialpolitik",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Rentenberater",
+          "phoneNumber": "+493062725502",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kaiserdamm",
+            "streetNumber": "97",
+            "zipCode": "14057",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@rentenberater.de"
+          ],
+          "websites": [
+            "www.rentenberater.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Neumann",
+              "function": "Präsident",
+              "phoneNumber": "+493062725502",
+              "organizationMemberEmails": [
+                "info@rentenberater.de"
+              ]
+            },
+            {
+              "commonFirstName": "Rudi F.",
+              "lastName": "Werling",
+              "function": "erster Stellvertreter",
+              "phoneNumber": "+493062725502",
+              "organizationMemberEmails": [
+                "info@rentenberater.de"
+              ]
+            },
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Irion",
+              "function": "zweiter Stellvertreter",
+              "phoneNumber": "+493062725502",
+              "organizationMemberEmails": [
+                "info@rentenberater.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 319,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband der Freien Berufe e.V.",
+            "Arbeitsgemeinschaft für betriebliche Altersversorgung e.V.",
+            "Deutschen Sozialrechtsverband e.V.",
+            "Deutschen Sozialgerichtstag e.V.",
+            "Verein zur Förderung des Deutschen Sozialgerichtstages e.V.",
+            "Verband der Gründer und Selbständigen Deutschland e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Interessenvertretung der Rentenberater/innen im Bereich Berufsrecht, Berufspolitik, Sozialpolitik"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "JA-Geschaftsjahr-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/01/93/2862/JA-Geschaftsjahr-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000364",
+      "registerEntryDetail": {
+        "id": 713,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 170001,
+          "to": 180000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000364",
+          "firstPublicationDate": "2022-02-09T11:09:53.000Z"
+        },
+        "activityDescription": "Der Berufsverband Deutscher Laborärzte e.V. versteht sich als berufsständische, unabhängige,\r\nparteien- und organisationsübergreifende Vereinigung von Fachärzt(inn)en für Laboratoriumsmedizin, Mikrobiologie, Virologie und Infektionsepidemiologie oder Transfusionsmedizin, von Fachwissenschaftlern der Medizin sowie sich im Fach Laboratoriumsmedizin weiterbildenden Ärzt(inn)en sowohl im Krankenhaus als auch im niedergelassenen, vertragsärztlichen Bereich.\r\nDer Berufsverband vertritt die berufsspezifischen Interessen seiner Mitglieder in Bezug auf fachliche, standesrechtliche, wirtschaftliche, arbeits- und versicherungsrechtliche Fragen.\r\nDer Berufsverband aktualisiert laborspezifische Handlungsziele und Lösungsansätze in Grundsätzen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Berufsverband Deutscher Laborärzte e.V. (BDL)",
+          "phoneNumber": "+4923937443",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Platz vor dem Neuen Tor",
+            "streetNumber": "2",
+            "zipCode": "10115",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "buero-berlin@bdlev.de"
+          ],
+          "websites": [
+            "www.bdlev.de",
+            "www.meinBDL.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr. rer. nat. Dipl. Chem.",
+              "commonFirstName": "Andreas",
+              "lastName": "Bobrowski",
+              "function": "1. Vorstandsvorsitzender",
+              "phoneNumber": "+4923937443",
+              "organizationMemberEmails": [
+                "buero-berlin@bdlev.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. rer. nat.",
+              "commonFirstName": "Theo",
+              "lastName": "Stein",
+              "function": "Stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+4923937443",
+              "organizationMemberEmails": [
+                "buero-berlin@bdlev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Romina",
+              "lastName": "May"
+            },
+            {
+              "commonFirstName": "Karin",
+              "lastName": "Schneider"
+            },
+            {
+              "commonFirstName": "Antje",
+              "lastName": "Reichelt"
+            },
+            {
+              "commonFirstName": "Jens",
+              "lastName": "Michalke"
+            }
+          ],
+          "members": 320,
+          "membersCountDate": "2022-01-12T00:00:00.000Z",
+          "membershipEntries": [
+            "Dachverband Ärztlicher Diagnostikfächer (DVÄD)",
+            "World Association of Societies of Pathology and Laboratory Medicine (WASPaLM)",
+            "Gemeinschaft Fachärztlicher Berufsverbände (GFB)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "2018-07-06-Stellungnahme-AQL-Verhaltenskodex.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/1c/8c/2858/2018-07-06-Stellungnahme-AQL-Verhaltenskodex.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2022-01-25-Rechenschaftsbericht-BDL-aktuellster.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/2e/f1/2859/2022-01-25-Rechenschaftsbericht-BDL-aktuellster.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000363",
+      "registerEntryDetail": {
+        "id": 594,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000363",
+          "firstPublicationDate": "2022-02-09T11:08:23.000Z"
+        },
+        "activityDescription": "Die ojcos-stiftung ist als Fürsprecher für religiöse Minderheiten im Irak in der deutschen Politik, Kirche und Medien aktiv. Es ist uns ein Anliegen, dass diese Menschen eine Perspektive auf ein versöhntes Leben in Würde und Sicherheit haben. Um dieses Ziel zu erreichen, bringen wir verschiedene Akteure aus Politik, Religionsgemeinschaften und Zivilgesellschaft zusammen. Wir investieren in Beziehungen, damit Hoffnung und Frieden wächst!",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "ojcos-stiftung",
+          "phoneNumber": "+4961649308319",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Helene-Göttmann-Straße",
+            "streetNumber": "22",
+            "zipCode": "64385",
+            "city": "Reichelsheim",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_RSBR",
+            "code_de": "Rechtsfähige Stiftung bürgerlichen Rechts",
+            "code_en": "Legal foundation under civil law",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@ojcos-stiftung.de"
+          ],
+          "websites": [
+            "https://www.ojcos-stiftung.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Konstantin",
+              "lastName": "Mascher",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4961649308319",
+              "organizationMemberEmails": [
+                "mascher@ojcos-stiftung.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Wolf",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+4961649308319",
+              "organizationMemberEmails": [
+                "wolf@ojcos-stiftung.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "David",
+              "lastName": "Müller"
+            }
+          ],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Natürliche Person",
+            "description": "Spende für Projektarbeit",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Juristische Person",
+            "description": "Spende für Projektarbeit",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/e8/c5/2854/2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000362",
       "registerEntryDetail": {
@@ -15551,7 +16405,7 @@
     {
       "registerNumber": "R000290",
       "registerEntryDetail": {
-        "id": 2404,
+        "id": 2406,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -15572,9 +16426,47 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "commonFirstName": "Carsten",
-          "lastName": "Heisler"
+          "identity": "ORGANIZATION",
+          "name": "parkinsonberlin.de",
+          "phoneNumber": "+491725372761",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mönchsheimerstr.",
+            "streetNumber": "31",
+            "zipCode": "12589",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "Selbsthilfegruppe"
+          },
+          "organizationEmails": [
+            "carsten.heisler@berlin.de"
+          ],
+          "websites": [
+            "https://parkinsonberlin.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Carsten",
+              "lastName": "Heisler",
+              "function": "Gruppenleiter",
+              "phoneNumber": "+491725372761",
+              "organizationMemberEmails": [
+                "carsten.heisler@berlin.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 25,
+          "membersCountDate": "2022-02-09T00:00:00.000Z",
+          "membershipEntries": []
         },
         "legislativeProjects": [],
         "donators": [],
