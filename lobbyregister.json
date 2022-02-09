@@ -9,8 +9,219 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 368,
+  "resultCount": 369,
   "results": [
+    {
+      "registerNumber": "R000372",
+      "registerEntryDetail": {
+        "id": 1070,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000372",
+          "firstPublicationDate": "2022-02-09T14:28:33.000Z"
+        },
+        "activityDescription": "Die Hirschfeld-Eddy-Stiftung wurde im Juni 2007 in Berlin gegründet. Sie hat sich zum Ziel gesetzt, die Achtung der Menschenrechte von LSBTI voranzubringen, international Menschenrechtsarbeit zu unterstützen, Menschenrechtsverteidiger*innen aktiv zu helfen sowie Aufklärung und den Abbau von Vorurteilen zu fördern. Benannt ist die Stiftung nach dem deutschen Arzt, Sexualwissenschaftler, Sexualreformer und Bürgerrechtsaktivisten Dr. Magnus Hirschfeld (1868-1935), der von den Nazis ins Exil getrieben worden war, und nach der prominenten lesbischen Menschenrechtsaktivistin Fannyann Eddy (1974-2004) aus Sierra Leone, die dort 2004 einem Mordanschlag zum Opfer fiel.\r\n\r\nDie Idee der Stiftungsgründung entstand im Lesben- und Schwulenverband in Deutschland (LSVD), der das Projekt auch organisatorisch unterstützt. Der LSVD hat sich in den letzten Jahren verstärkt in der internationalen Menschenrechtsarbeit engagiert. 2006 hat der Verband offiziell Beraterstatus bei den Vereinten Nationen erhalten. Daran knüpft die Hirschfeld-Eddy-Stiftung an. \r\n\r\nWir wollen nachhaltige Veränderungen erreichen. So organisieren wir internationale Konferenzen, damit sich Zivilgesellschaft, Medien und demokratische politische Kräfte für LSBTI-Menschenrechtsthemen öffnen. Auch die Kirchen nehmen wir in die Verantwortung. Zusammen mit dem Auswärtigen Amt laden wir immer wieder Aktivist*innen aus der globalen LSBTI-Bewegung nach Deutschland ein. Wir sorgen für Begegnungen mit Politiker*innen, Menschenrechtsaktivist*innen, Stiftungen, Organisationen der Entwicklungszusammenarbeit oder Vertreter*innen der Religionen.\r\n\r\nIm Inland sensibilisieren wir die Menschenrechtspolitik und Entwicklungszusammenarbeit (EZ) sowie die Nord-Süd-Medien für das Thema LSBTI und Menschenrechte. Im Auswärtigen Amt, anderen Stiftungen oder EZ-Organisationen sind wir gefragte Gesprächspartner*innen. Mit unserer Schriftenreihe, vielen Beiträgen für entwicklungs- oder menschenrechtspolitische Medien und mit Veranstaltungen informieren wir und klären auf. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Hirschfeld-Eddy-Stiftung",
+          "phoneNumber": "+492219259610",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o LSVD",
+            "street": "Rheingasse",
+            "streetNumber": "6",
+            "zipCode": "50676",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "code_en": "Other juristic person",
+            "type": "JURISTIC_PERSON",
+            "legalFormText": "nicht rechtsfähige Stiftung"
+          },
+          "organizationEmails": [
+            "info@hirschfeld-eddy-stiftung.de"
+          ],
+          "websites": [
+            "http://hirschfeld-eddy-stiftung.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Uta",
+              "lastName": "Kehr",
+              "function": "Vorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "uta.kehr@hirschfeld-eddy-stiftung.de"
+              ]
+            },
+            {
+              "commonFirstName": "Axel",
+              "lastName": "Hochrein",
+              "function": "Vorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "axel.hochrein@hirschfeld-eddy-stiftung.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Jetz"
+            }
+          ],
+          "membershipEntries": [
+            "Bundesverband Deutscher Stiftungen"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Auswärtiges Amt",
+            "description": "Projekt Queer Play Tunesien. Konzipierung, Produktion und Aufführung eines Theaterstücks mit queerer Thematik in Tunis, Tunesien",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Auswärtiges Amt",
+            "description": "Projekt Support for Queer Refugees in Tunisia. Bildung von Kooperationen und Unterstützung von queeren Geflüchteten in Tunesien",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Auswärtiges Amt",
+            "description": "Projekt Queer Film Festival Tunisia. Planung und Durchführung eines Filmfestivals in Tunis, musste pandemiebedingt abgesagt werden",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 1,
+              "to": 10000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Auswärtiges Amt",
+            "description": "Projekt Stärkung von nachhaltiger regionaler Zusammenarbeit zu LGBTIQ+ Rechten im Westbalkan und der Türkei",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 60001,
+              "to": 70000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "description": "Projekt Menschenrechte von Lesben, Schwulen, Bisexuellen, trans- und intersexuellen Menschen. Aufklärung, Inklusion und intersektionale Praxis",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 180001,
+              "to": 190000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "HES-Jahresabschluss-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/9c/8a/2935/HES-Jahresabschluss-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000371",
       "registerEntryDetail": {
@@ -11000,7 +11211,7 @@
     {
       "registerNumber": "R000325",
       "registerEntryDetail": {
-        "id": 1632,
+        "id": 2445,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -11113,13 +11324,14 @@
           {
             "type": "ANNUAL_REPORT",
             "media": {
-              "fileName": "KEB-Jahresbericht-2021-Web.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/f5/c0/2516/KEB-Jahresbericht-2021-Web.pdf",
+              "fileName": "210604-Testat-WP-fur-2020-oU.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/2b/38/2931/210604-Testat-WP-fur-2020-oU.pdf",
               "mimeType": "application/pdf"
             }
           }
         ],
-        "disclosureRequirementsExist": true,
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
         "annualReportExist": true
       }
     },
