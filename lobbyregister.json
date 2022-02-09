@@ -3553,7 +3553,7 @@
     {
       "registerNumber": "R000353",
       "registerEntryDetail": {
-        "id": 1913,
+        "id": 2434,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -3568,7 +3568,7 @@
         },
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
-        "donationInformationRequired": false,
+        "donationInformationRequired": true,
         "account": {
           "registerNumber": "R000353",
           "firstPublicationDate": "2022-02-08T16:29:30.000Z"
@@ -3700,6 +3700,28 @@
               "to": 30000
             },
             "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Olin gGmbH",
+            "description": "Unterstützung der Arbeit im Bereich Handels - und Rohstoffpolitik",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Postcode Lotterie DT gGmbH, Düsseldorf",
+            "description": "Unterstützung der Arbeit im Bereich Klima",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
           }
         ],
         "fieldsOfInterest": [
@@ -3796,7 +3818,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "Bilanz-GuV-PowerShift-2020-ohne-Namen-Rucklagenerlauterung.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/08/30/2753/Bilanz-GuV-PowerShift-2020-ohne-Namen-Rucklagenerlauterung.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/62/1b/2912/Bilanz-GuV-PowerShift-2020-ohne-Namen-Rucklagenerlauterung.pdf",
               "mimeType": "application/pdf"
             }
           }
