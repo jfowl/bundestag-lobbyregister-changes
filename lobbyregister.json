@@ -9,8 +9,250 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 364,
+  "resultCount": 366,
   "results": [
+    {
+      "registerNumber": "R000369",
+      "registerEntryDetail": {
+        "id": 100,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000369",
+          "firstPublicationDate": "2022-02-09T11:38:57.000Z"
+        },
+        "activityDescription": "Der Verband ist ein freiwilliger Zusammenschluß von Unternehmen des\r\nVerkehrsgewerbes (Straßengüterverkehr, Spedition, Lagerei, Logistik und\r\nMöbelspedition). Der Zweck des Verbandes ist es, die überbetrieblichen,\r\nallgemeinwirtschaftlichen, verkehrswirtschaftlichen und sozialpolitischen Interessen\r\nseiner Mitglieder zu fördern und zu wahren.\r\n\r\nZur Verwirklichung seines Zweckes verfolgt der Verband die nachstehenden\r\nGegenstände:\r\na) Die einheitliche Vertretung der Interessen seiner Mitglieder gegenüber der\r\nLegislative und Exekutive, Behörden und sonstigen Institutionen des öffentlichen\r\nRechts, gegenüber Wirtschaftsvereinigungen und anderen Stellen sowie in der\r\nÖffentlichkeit;\r\nb) Die fachliche Beratung der Mitglieder und die Unterstützung aller Maßnahmen zur\r\nZusammenarbeit der Mitglieder untereinander;\r\nc) Die Förderung des kollegialen Verhaltens unter den Mitgliedern sowie eines\r\nfairen Wettbewerbes;\r\nd) Den Austausch von Kenntnissen und Erfahrungen auf wirtschaftlichen und\r\ntechnologischen Gebieten innerhalb des Kreises der Mitglieder;\r\ne) Die Mitwirkung bei der Erarbeitung und Anwendung von Bedingungen, Verfahren,\r\nOrdnungsvorschriften und Empfehlungen, die die im Verband vertretenen\r\nGewerbemitglieder angehen;\r\nf) Die Förderung der internationalen Zusammenarbeit des Gewerbes;\r\ng) Die Aus- und Weiterbildung seiner Mitglieder und deren Mitarbeiter.\r\n(3) Der Verband ist ein Berufsverband. Er ist zugleich ein Arbeitgeberverband und als\r\nsolcher berechtigt, mit den zuständigen Gewerkschaften Tarifverträge abzuschließen.\r\n(4) Die Tätigkeit des Verbandes dient ausschließlich den Interessen seiner Mitglieder, sie ist\r\nnicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet.\r\n(5) Der Verband ist parteipolitisch, religiös und weltanschaulich neutral.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_EMPLOYER_ASSOC",
+          "de": "Arbeitgeberverband",
+          "en": "Employers association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Landesverband des Berliner und Brandenburger Verkehrsgewerbes e.V.",
+          "phoneNumber": "+493020240924",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Französische Straße",
+            "streetNumber": "14",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "service@lbbv.de"
+          ],
+          "websites": [
+            "www.lbbv.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Eberhard",
+              "lastName": "Tief",
+              "function": "geschäftsführendes Vorstandsmitglied",
+              "phoneNumber": "+493020240924",
+              "organizationMemberEmails": [
+                "service@lbbv.de"
+              ]
+            },
+            {
+              "commonFirstName": "Ramona",
+              "lastName": "Sabelus",
+              "function": "Präsidentin",
+              "phoneNumber": "+493020240924",
+              "organizationMemberEmails": [
+                "service@lbbv.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 176,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "BGL e.V",
+            "AMÖ e.V.",
+            "DSLV e.V.",
+            "Wirtschaftsrat Deutschland e.V.",
+            "Landesverkehrswacht Berlin e.V.",
+            "Landesverkehrswacht Brandenburg e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Kartellrechtliche-Verhaltensmastabe-fur-Verbandssitzungen.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/1b/53/2874/Kartellrechtliche-Verhaltensmastabe-fur-Verbandssitzungen.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000368",
+      "registerEntryDetail": {
+        "id": 1405,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000368",
+          "firstPublicationDate": "2022-02-09T11:36:33.000Z"
+        },
+        "activityDescription": "Als Leiter der Fachabteilung habe ich die besonderen fachlichen Interessen der Hersteller von Verkehrszeichen und Verkehrseinrichtungen im IVSt gegenüber Dritten zu vertreten und die Hersteller in allen fachbezogenen Fragen zu beraten und zu unterstützen.\r\n\r\nEs werden folgende Hersteller vertreten:\r\n\r\n- ADCO Schilderfabrik GmbH\r\n- Ausbau Mügeln GmbH\r\n- Bremicker Verkehrstechnik GmbH\r\n- Swarco Dambach GmbH\r\n- Max Jacob Schilderfabrik GmbH\r\n- Landwehr Schilderfabrik GmbH\r\n- Fritz Lange GmbH\r\n- Müller Verkehrstechnik GmbH\r\n- oka Verkehrs- und Werbetechnik GmbH\r\n- Ortner GmbH Verkehrs- und Werbetechnik\r\n- Kurt Ries GmbH\r\n- Schilderwerk Beutha GmbH\r\n- Seitz GmbH\r\n- Signature Hiller GmbH\r\n- 3M Deutschland GmbH\r\n- Nippon Carbide Industries (Europe) GmbH\r\n- Orafol Europe GmbH",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "IVSt FA VZ",
+          "phoneNumber": "+4923313779593",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Fleyer Straße",
+            "streetNumber": "204",
+            "zipCode": "58097",
+            "city": "Hagen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "verkehrszeichen@ivst.de"
+          ],
+          "websites": [
+            "www.ivst.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Gregor",
+              "lastName": "Becker",
+              "function": "Fachabteilungsleiter",
+              "phoneNumber": "+4917661609110",
+              "organizationMemberEmails": [
+                "g.becker@ivst.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 17,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "IVSt e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschlu-2020-FA-VZ.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/bf/cb/2872/Jahresabschlu-2020-FA-VZ.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000367",
       "registerEntryDetail": {
@@ -16405,15 +16647,22 @@
     {
       "registerNumber": "R000290",
       "registerEntryDetail": {
-        "id": 2406,
+        "id": 2418,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
           "to": 10
         },
         "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
+        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000290",
           "firstPublicationDate": "2022-02-04T03:07:58.000Z"
@@ -16428,7 +16677,7 @@
         "lobbyistIdentity": {
           "identity": "ORGANIZATION",
           "name": "parkinsonberlin.de",
-          "phoneNumber": "+491725372761",
+          "phoneNumber": "+493055577977",
           "address": {
             "type": "NATIONAL",
             "street": "Mönchsheimerstr.",
@@ -16447,7 +16696,7 @@
             "legalFormText": "Selbsthilfegruppe"
           },
           "organizationEmails": [
-            "carsten.heisler@berlin.de"
+            "parkinsonberlin@gmx.de"
           ],
           "websites": [
             "https://parkinsonberlin.de"
