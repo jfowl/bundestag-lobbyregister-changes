@@ -9,8 +9,103 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 356,
+  "resultCount": 357,
   "results": [
+    {
+      "registerNumber": "R000360",
+      "registerEntryDetail": {
+        "id": 756,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 30001,
+          "to": 40000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000360",
+          "firstPublicationDate": "2022-02-09T09:51:20.000Z"
+        },
+        "activityDescription": "Die Deutsche Menschenrechtskoordination Mexiko (DMRKM) ist ein Netzwerk von 18 Hilfswerken, Nichtregierungsorganisationen und Initiativen, die in Deutschland zur Menschenrechtssituation in Mexiko arbeiten.\r\n\r\nWir unterstützen mexikanische Menschenrechtsorganisationen, die sich für Demokratie, Gerechtigkeit sowie die Bekämpfung von Straflosigkeit und Menschenrechtsverletzungen einsetzen. Zu den mexikanischen Partnerorganisationen zählen zum Beispiel Menschenrechtsorganisationen, Migrant*innenherbergen, Angehörige von Opfern und Basisgemeinden. Wir veranstalten Konferenzen, Fachveranstaltungen, Rundreisen und Briefings sowie Öffentlichkeitsarbeit in Deutschland und Europa, um auf die Menschenrechtslage in Mexiko aufmerksam und das Thema im Dialog mit Gesellschaft und Politik auf die Agenda zu setzen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Menschenrechtskoordination Mexiko",
+          "phoneNumber": "+493047382710",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Am Sudhaus",
+            "streetNumber": "2",
+            "zipCode": "12053",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "Netzwerk"
+          },
+          "organizationEmails": [
+            "info@mexiko-koordination.de"
+          ],
+          "websites": [
+            "https://www.mexiko-koordination.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Francoise",
+              "lastName": "Greve",
+              "function": "Koordinatorin",
+              "phoneNumber": "+493047382710",
+              "organizationMemberEmails": [
+                "info@mexiko-koordination.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 18,
+          "membersCountDate": "2022-01-12T00:00:00.000Z",
+          "membershipEntries": [
+            "International Advocacy Netzwerke (IAN)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000359",
       "registerEntryDetail": {
@@ -5960,7 +6055,7 @@
     {
       "registerNumber": "R000337",
       "registerEntryDetail": {
-        "id": 635,
+        "id": 2394,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -6084,16 +6179,6 @@
             "en": "Consumer protection"
           },
           {
-            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
-            "de": "EU-Gesetzgebung",
-            "en": "EU legislation"
-          },
-          {
-            "code": "FOI_EUROPEAN_UNION",
-            "de": "Europapolitik und Europäische Union",
-            "en": "European politics and the EU"
-          },
-          {
             "code": "FOI_LAW",
             "de": "Recht",
             "en": "Law"
@@ -6102,6 +6187,10 @@
             "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
             "de": "Zivilrecht",
             "en": "Civil rights"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Status der Selbständigen"
           },
           {
             "code": "FOI_SOCIAL_SECURITY",
@@ -6121,7 +6210,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "Rechenschaftsbericht-2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/aa/82/2608/Rechenschaftsbericht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/8d/b0/2820/Rechenschaftsbericht-2020.pdf",
               "mimeType": "application/pdf"
             }
           }
