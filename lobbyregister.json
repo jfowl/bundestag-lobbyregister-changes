@@ -9,8 +9,245 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 375,
+  "resultCount": 377,
   "results": [
+    {
+      "registerNumber": "R000380",
+      "registerEntryDetail": {
+        "id": 1727,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000380",
+          "firstPublicationDate": "2022-02-09T17:24:17.000Z"
+        },
+        "activityDescription": "Qualitätssicherung in Ausbildung und Weiterbildung",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "EuroQV e.V.",
+          "phoneNumber": "+498999020444",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Bürgermeister-Wild-Str.",
+            "streetNumber": "2",
+            "zipCode": "85521",
+            "city": "Ottobrunn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@euroqv.de"
+          ],
+          "websites": [
+            "www.euroqv.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Dieter A.",
+              "lastName": "Sonnenholzer",
+              "function": "Vorstand",
+              "phoneNumber": "+49899902044",
+              "organizationMemberEmails": [
+                "info@euroqv.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 58,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Vereinsrecht"
+      }
+    },
+    {
+      "registerNumber": "R000379",
+      "registerEntryDetail": {
+        "id": 757,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000379",
+          "firstPublicationDate": "2022-02-09T17:16:18.000Z"
+        },
+        "activityDescription": "Die Träger von katholischen Einrichtungen, Diensten und Ausbildungsstätten der Altenhilfe sowie von Sozialstationen und ambulanten Diensten für pflegebedürftige und alte Menschen haben sich innerhalb des Deutschen Caritasverbandes zu einem Fachverband \r\nzusammengeschlossen.\r\nDer Verband will in partnerschaftlicher Zusammenarbeit mit den Trägern und auf der Grundlage des christlichen Menschenbildes seine Einrichtungen, Dienste und Ausbildungsstätten in ihrer Aufgabe unterstützen, älteren Menschen ein Leben in Selbstbestimmung zu ermöglichen.\r\nDer Verband vertritt die Interessen seiner Mitglieder. Gemeinsam mit anderen Gruppen und Institutionen sieht der Verband es als seine Aufgabe, die Anliegen der älteren Generation zusammen mit älteren Menschen in Gesellschaft, Kirche und Staat zu vertreten.\r\nDazu sprechen wir die Pflegepolitischen Sprecher/innen, die Pflegebeauftragte und die zuständigen Ministerien an. Wir organisieren einen Austausch in digitalen, hybriden oder Präsenz-Veranstaltungen. Von Fachforen über Fachtagen und Gesprächsrunden verschiedener Größen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Andreas",
+          "lastName": "Wedeking"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Verband katholischer Altenhilfe in Deutschland e. V. ",
+            "phoneNumber": "+4930284447852",
+            "address": {
+              "type": "NATIONAL",
+              "nationalAdditional1": "VKAD",
+              "street": "Reinhardtstraße",
+              "streetNumber": "13",
+              "zipCode": "10117",
+              "city": "Berlin",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "vkad@caritas.de"
+            ],
+            "websites": [
+              "www.vkad.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Eva-Maria",
+                "lastName": "Güthoff",
+                "function": "Vorsitzende",
+                "phoneNumber": "+495121938165",
+                "organizationMemberEmails": [
+                  "eva-maria.guethoff@caritas-dicvhildesheim.de"
+                ]
+              },
+              {
+                "commonFirstName": "Helene",
+                "lastName": "Maqua",
+                "function": "stellvertretende Vorsitzende",
+                "phoneNumber": "+492212010110",
+                "organizationMemberEmails": [
+                  "helene.maqua@caritasnet.de"
+                ]
+              },
+              {
+                "commonFirstName": "Andreas",
+                "lastName": "Wedeking",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4930284447852",
+                "organizationMemberEmails": [
+                  "andreas.wedeking@caritas.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000378",
       "registerEntryDetail": {
