@@ -9,8 +9,344 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 357,
+  "resultCount": 359,
   "results": [
+    {
+      "registerNumber": "R000362",
+      "registerEntryDetail": {
+        "id": 446,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "Der Verband erhält keine Schenkungen Dritter oder Zuwendungen der öffentlichen Hand.",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000362",
+          "firstPublicationDate": "2022-02-09T10:27:18.000Z"
+        },
+        "activityDescription": "Als Berufsverband vertritt der Verband Deutsche Nierenzentren (DN) e.V. die beruflichen und gesundheitspolitischen Interessen der niedergelassenen Nephrologen gegenüber der Politik, der Kassenärztlichen Bundesvereinigung, den Krankenkassen und anderen Berufsverbänden. Der DN e.V. steht für die freie ärztliche Berufsausübung als eine der leistungsfähigsten sowie unabhängigen und flächendeckenden Versorgungsstrukturen ein.\r\nSeine Mitglieder berät und unterstützt der DN e.V. in rechtlichen, fachlichen und organisatorischen Fragen. In 40 Jahren Verbandsgeschichte ist um den DN e.V. ein erfolgreiches und praxisgerechtes Dienstleistungsnetzwerk für ambulante, freiberufliche Nephrologen entstanden.\r\n\r\nDer DN e.V. kooperiert mit den Patientenverbänden und unterstützt diese in ihrem Einsatz für die Interessen nierenkranker Menschen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband Deutsche Nierenzentren (DN) e.V.",
+          "phoneNumber": "+492111795790",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Steinstraße",
+            "streetNumber": "27",
+            "zipCode": "40210",
+            "city": "Düsseldorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@dnev.de"
+          ],
+          "websites": [
+            "www.dnev.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Med.",
+              "commonFirstName": "Heike",
+              "lastName": "Martin",
+              "function": "Vorständin Öffentlichkeitsarbeit",
+              "phoneNumber": "+492111795790",
+              "organizationMemberEmails": [
+                "info@dnev.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Michael",
+              "lastName": "Daschner",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+492111795790",
+              "organizationMemberEmails": [
+                "info@dnev.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thomas",
+              "lastName": "Weinreich",
+              "function": "stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+492111795790",
+              "organizationMemberEmails": [
+                "info@dnev.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Günter",
+              "lastName": "Giebing",
+              "function": "Vorstand Finanzen",
+              "phoneNumber": "+492111795790",
+              "organizationMemberEmails": [
+                "info@dnev.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Stefan",
+              "lastName": "Zimmer",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+492111795790",
+              "organizationMemberEmails": [
+                "info@dnev.de"
+              ]
+            },
+            {
+              "commonFirstName": "Dagmar",
+              "lastName": "Altena",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+492111795790",
+              "organizationMemberEmails": [
+                "info@dnev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 802,
+          "membersCountDate": "2022-01-07T00:00:00.000Z",
+          "membershipEntries": [
+            "DGVM e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Der Verband erhält keine Schenkungen Dritter oder Zuwendungen der öffentlichen Hand."
+      }
+    },
+    {
+      "registerNumber": "R000361",
+      "registerEntryDetail": {
+        "id": 993,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000361",
+          "firstPublicationDate": "2022-02-09T10:11:21.000Z"
+        },
+        "activityDescription": "Der Bundesmarktverband hat die Aufgabe, die ideellen und wirtschaftlichen Interessen der deutschen Fischwirtschaft untereinander abzustimmen, zu wahren und zu fördern. Er berät den Bundesminister für Ernährung und Landwirtschaft sowie die Behörden der EU. Weitere Aufgaben sind die Förderung der Qualität von Fischen und Fischwaren und des lauteren Wettbewerbs innerhalb der Fischwirtschaft, Marktbeobachtung, Marktberichterstattung, Exportförderung und Statistik.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesmarktverband der Fischwirtschaft e.V.",
+          "phoneNumber": "+4940385931",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Bundesmarktverband",
+            "nationalAdditional2": "der Fischwirtschaft e.V.",
+            "street": "Große Elbstraße",
+            "streetNumber": "133",
+            "zipCode": "22767",
+            "city": "Hamburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "bvfisch@t-online.de"
+          ],
+          "websites": [
+            "www.bundesmarktverband-fisch.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Kai Arne",
+              "lastName": "Schmidt",
+              "function": "Präsident",
+              "phoneNumber": "+49472170760",
+              "organizationMemberEmails": [
+                "schmidt@erzeugergemeinschaft-nordsee.de"
+              ]
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Lauenroth",
+              "function": "Vizepräsident",
+              "phoneNumber": "+494038606212",
+              "organizationMemberEmails": [
+                "thomas.lauenroth@fischfeinkost-lauenroth.de"
+              ]
+            },
+            {
+              "commonFirstName": "Arnd",
+              "lastName": "Diederichsen",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4916096638616",
+              "organizationMemberEmails": [
+                "diederichsen@flamingo-gv.de"
+              ]
+            },
+            {
+              "commonFirstName": "Patrick",
+              "lastName": "Schälte",
+              "function": "Vizepräsident",
+              "phoneNumber": "+491702435556",
+              "organizationMemberEmails": [
+                "pschaelte@googlemail.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Matthias",
+              "lastName": "Keller"
+            }
+          ],
+          "members": 9,
+          "membersCountDate": "2022-01-18T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_AQUACULTURE",
+            "de": "Fischerei/Aquakultur",
+            "en": "Fishery/aquaculture"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "BMV-Jahresabschluss-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/ad/9e/2831/BMV-Jahresabschluss-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000360",
       "registerEntryDetail": {
