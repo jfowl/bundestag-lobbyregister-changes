@@ -9,8 +9,120 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 377,
+  "resultCount": 378,
   "results": [
+    {
+      "registerNumber": "R000381",
+      "registerEntryDetail": {
+        "id": 2157,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000381",
+          "firstPublicationDate": "2022-02-09T19:23:55.000Z"
+        },
+        "activityDescription": "Der Handelsverband vertritt die wirtschaftspolitischen Interessen von rund 1500 Händlern des Getränkefachgroßhandels, Getränkeeinzelhandels und der Abholmärkte gegenüber Politik, Behörden, Gesellschaft, Verbraucheroganisationen und den Medien. Der Verband setzt sich ein für die optimalen Rahmenbedingungen des Handels mit Mineral- und Heilwasser auf nationaler und europäischer Ebene. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Handelsverband für Heil- und Mineralwasser e.V.",
+          "phoneNumber": "+493031176852",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mozartstraße",
+            "streetNumber": "3",
+            "zipCode": "53111",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "ra_phahn@web.de"
+          ],
+          "websites": [
+            "peter.hahn@handelsverbandmineralwasser.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Hahn",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493031176852",
+              "organizationMemberEmails": [
+                "ra_phahn@web.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 45,
+          "membersCountDate": "2022-02-07T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "210128-Etat-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/14/fd/3017/210128-Etat-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Verhaltenskodex-1.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/55/ec/3018/Verhaltenskodex-1.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000380",
       "registerEntryDetail": {
