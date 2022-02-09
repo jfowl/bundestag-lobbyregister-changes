@@ -15551,7 +15551,7 @@
     {
       "registerNumber": "R000290",
       "registerEntryDetail": {
-        "id": 1642,
+        "id": 2404,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -15573,10 +15573,8 @@
         "codexViolation": false,
         "lobbyistIdentity": {
           "identity": "NATURAL",
-          "academicDegreeBefore": "Berlin",
           "commonFirstName": "Carsten",
-          "lastName": "Heisler",
-          "academicDegreeAfter": "Berlin"
+          "lastName": "Heisler"
         },
         "legislativeProjects": [],
         "donators": [],
