@@ -9,8 +9,258 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 371,
+  "resultCount": 373,
   "results": [
+    {
+      "registerNumber": "R000376",
+      "registerEntryDetail": {
+        "id": 731,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000376",
+          "firstPublicationDate": "2022-02-09T15:31:36.000Z"
+        },
+        "activityDescription": "Aufgabe des Bundesverband Taxi und Mietwagen e.V. ist es, die Gesamtinteressen der Personenverkehrsunternehmer mit PKW gegenüber Ministerien und anderen Behörden, Organisationen und der Öffentlichkeit zu vertreten. Der Bundesverband und seine Landesverbände sowie die ihm angeschlossenen örtlichen Organisationen des Taxi- und Mietwagengewerbes auf Bundesebene leisten ganze Arbeit für diese durch die Betreuung und Förderung gemeinsamer Interessen der Verbandsmitglieder.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Taxi und Mietwagen e.V.",
+          "phoneNumber": "+4930212223555",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Dorotheenstraße",
+            "streetNumber": "37",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bundesverband.taxi"
+          ],
+          "websites": [
+            "https://bundesverband.taxi/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Oppermann",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4930212223555",
+              "organizationMemberEmails": [
+                "michael.oppermann@bundesverband.taxi"
+              ]
+            },
+            {
+              "commonFirstName": "Herwig",
+              "lastName": "Kollar",
+              "function": "Präsident",
+              "phoneNumber": "+4930212223535",
+              "organizationMemberEmails": [
+                "herwig.kollar@bundesverband.taxi"
+              ]
+            },
+            {
+              "commonFirstName": "Hermann",
+              "lastName": "Waldner",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4930212223535",
+              "organizationMemberEmails": [
+                "hermann.waldner@bundesverband.taxi"
+              ]
+            },
+            {
+              "commonFirstName": "Wolfgang",
+              "lastName": "Oertel",
+              "function": "Vizepräsident",
+              "phoneNumber": "+491743402798",
+              "organizationMemberEmails": [
+                "oertelwolfgang@icloud.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Dominik ",
+              "lastName": "Eggers"
+            }
+          ],
+          "members": 55,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "International Road Transport Union (IRU)",
+            "Mittelstandsallianz",
+            "Taxi4SmartMobility"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000375",
+      "registerEntryDetail": {
+        "id": 1877,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000375",
+          "firstPublicationDate": "2022-02-09T15:27:54.000Z"
+        },
+        "activityDescription": "Interessenvertretung des Friseurhandwerks.\r\nUnterstützung der angeschlossenen Innungen in der Erfüllung ihrer gesetzlichen und satzungsgemäßen Aufgaben.\r\nUnterbreiten von Anregungen und Vorschlägen an Behörden.\r\nFörderung der Berufsbildung.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_EMPLOYER_ASSOC",
+          "de": "Arbeitgeberverband",
+          "en": "Employers association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "LIV d. nds. Friseurhandwerks",
+          "phoneNumber": "+49511427231",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "LIV d. nds. Friseurhandwerks",
+            "street": "Ricklinger Stadtweg ",
+            "streetNumber": "92",
+            "zipCode": "30459",
+            "city": "Hannover",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_NATIONAL",
+            "code_de": "Andere Rechtsform nach deutschem Recht",
+            "code_en": "Other legal form according to German law",
+            "type": "OTHER_ASSOCIATION_OF_PERSONS",
+            "legalFormText": "Juristische Person des Privaten Rechts"
+          },
+          "organizationEmails": [
+            "info@friseure-nds.de"
+          ],
+          "websites": [
+            "http://www.friseure-nds.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Manuela",
+              "lastName": "Härtelt-Dören",
+              "function": "Landesinnungsmeisterin",
+              "phoneNumber": "+4955175923",
+              "organizationMemberEmails": [
+                "info@friseur-haertelt.de"
+              ]
+            },
+            {
+              "commonFirstName": "Marc",
+              "lastName": "Ringel",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49511427231",
+              "organizationMemberEmails": [
+                "info@friseure-nds.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 1400,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Zentralverband des Deutschen Friseurhandwerks",
+            "Unternehmensverbände Handwerk Niedersachsen e. V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000374",
       "registerEntryDetail": {
