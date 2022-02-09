@@ -9,8 +9,573 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 369,
+  "resultCount": 371,
   "results": [
+    {
+      "registerNumber": "R000374",
+      "registerEntryDetail": {
+        "id": 456,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000374",
+          "firstPublicationDate": "2022-02-09T14:46:20.000Z"
+        },
+        "activityDescription": "Der Lesben- und Schwulenverband in Deutschland (LSVD) ist ein Bürgerrechtsverband, er vertritt die Interessen und Belange von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen Menschen (LSBTI). \r\nMenschenrechte, Vielfalt und Respekt: Wir wollen, dass LSBTI als selbstverständlicher Teil gesellschaftlicher Normalität akzeptiert und anerkannt werden. Eine demokratische Gesellschaft muss für alle das Recht durchsetzen, jederzeit und an jedem Ort ohne Angst anders sein zu können. Voraussetzung für ein selbstbestimmtes und angstfreies Leben ist die volle rechtliche Gleichstellung. Wir treten ein für eine Gesellschaft, die Selbstbestimmung und eine Vielfalt an Lebensweisen als Bereicherung erkennt und wertschätzt. \r\nKonkrete Ziele sind u.a. die Ergänzung von Art. 3 Grundgesetz um das Merkmal der sexuellen Orientierung und Geschlechtsidentität, ein umfassender rechtlicher Diskriminierungsschutz, Aktionspläne für Akzeptanz und Vielfalt auf nationaler und auf Länderebene, die rechtliche und gesellschaftliche Anerkennung von Regenbogenfamilien, die Durchsetzung des Rechts auf geschlechtliche Selbstbestimmung, LSBTI-inklusive Bildungspläne, eine Flüchtlingspolitik, die verfolgten LSBTI Schutz und Perspektiven bietet sowie eine Außen- und Entwicklungspolitik, die die Achtung der Menschenrechte von LSBTI auf EU-Ebene und weltweit voranbringt.\r\nMit unserer Arbeit verschaffen wir LSBTI eine Stimme in der Gesellschaft, in Politik und Institutionen. Wir widersprechen homosexuellenfeindlichen und transphoben Parolen, arbeiten für einen wirksamen Schutz vor diskriminierenden Handlungen und Gewalt, informieren Politik und Öffentlichkeit und werden gehört, wenn es um die Belange von LSBTI geht: im Bundestag, vom Bundesverfassungsgericht, in den Medien, in der Öffentlichkeit, in Ministerien, bei Parteien, Gewerkschaften und Verbänden. Mit Kampagnen, Aktionen, Veranstaltungen und Stellungnahmen leisten wir Überzeugungsarbeit, um parlamentarische und gesellschaftliche Mehrheiten für Menschenrechte, Vielfalt und Respekt zu gewinnen.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Lesben- und Schwulenverband in Deutschland LSVD",
+          "phoneNumber": "+492219259610",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Rheingasse",
+            "streetNumber": "6",
+            "zipCode": "50676",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "lsvd@lsvd.de"
+          ],
+          "websites": [
+            "http://lsvd.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Henny",
+              "lastName": "Engels",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "henny.engels@lsvd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Günter",
+              "lastName": "Dworek",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "guenter.dworek@lsvd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Philipp",
+              "lastName": "Braun ",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "philippb@t-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Patrick",
+              "lastName": "Dörr",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "patrick.doerr@lsvd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Andre",
+              "lastName": "Lehmann",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "andre.lehmann@lsvd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gabriela",
+              "lastName": "Lünsmann",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "gabriela.luensmann@lsvd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Helmut",
+              "lastName": "Metzner",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "helmut.metzner@lsvd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Alfonso",
+              "lastName": "Pantisano",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "alfonso.pantisano@lsvd.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Stefanie",
+              "lastName": "Lünsmann-Schmidt",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "stefanie.luensmann-schmidt@lsvd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Rudolph",
+              "function": "Mitglied im Bundesvorstand",
+              "phoneNumber": "+492219259610",
+              "organizationMemberEmails": [
+                "christian.rudolph@lsvd.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Jetz"
+            },
+            {
+              "commonFirstName": "Markus",
+              "lastName": "Ulrich"
+            },
+            {
+              "commonFirstName": "Sarah",
+              "lastName": "Ponti"
+            },
+            {
+              "commonFirstName": "René",
+              "lastName": "Mertens"
+            }
+          ],
+          "members": 4524,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Allianz Rechtssicherheit",
+            "Berliner CSD e.V.",
+            "BISS Bundesinteressenvertretung schwuler Senioren e.V.",
+            "Bundesarbeitsgemeinschaft Schwuler und Lesbischer Paare SLP",
+            "Bundesverband Beratung für NS-Verfolgte",
+            "Bundesverband Trans* BVT*",
+            "Bundesforum Familie",
+            "Bundesforum Männer",
+            "Centrum Schwule Geschichte",
+            "Der Paritätische Gesamtverband",
+            "Deutsches Institut für Menschenrechte",
+            "Forum Menschenrechte",
+            "ILGA International Lesbian, Gay, Bisexual, Trans and Intersex Association",
+            "NELFA Network of European LGBTIQ* Families Associations",
+            "Schwules Museum Berlin",
+            "Queeres Netzwerk NRW",
+            "Jugendnetzwerk Lambda",
+            "VENRO Bundesverband entwicklungspolitischer und humanitärer Nichtregierungsorganisationen"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration",
+            "description": "Projekt des Familien- und Sozialvereins des LSVD \"Queer Refugees Deutschland\"",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 150001,
+              "to": 160000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "description": "Projekt des Familien- und Sozialvereins des LSVD \"Kompetenznetzwerk Homosexuellen- und Transfeindlichkeit\"",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 250001,
+              "to": 260000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Institut für Auslandsbeziehungen",
+            "description": "Familien- und Sozialverein des LSVD als Gastorganisation im Rahmen der Elisabeth-Selbert-Initiative",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_EXTREMISM",
+            "de": "Extremismusbekämpfung",
+            "en": "Counter extremism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_VICTIM_PROTECTION",
+            "de": "Opferschutz",
+            "en": "Victim protection"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_OTHER",
+            "de": "Sonstiges im Bereich „Sport, Freizeit und Tourismus“",
+            "en": "Other in the field of “Sports, leisure and tourism”"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_PROFESSIONAL_SPORT",
+            "de": "Profisport",
+            "en": "Professional sports"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Nichtdiskriminierung"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_INTEGRATION",
+            "de": "Integration",
+            "en": "Integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_LAWS",
+            "de": "Ausländer- und Aufenthaltsrecht",
+            "en": "Foreign laws"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_REFUGEE",
+            "de": "Asyl und Flüchtlingsschutz",
+            "en": "Asylum and refugee protection"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DIVERSITY",
+            "de": "Diversitätspolitik",
+            "en": "Diversity policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_FAMILY",
+            "de": "Familienpolitik",
+            "en": "Family policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_GENDER",
+            "de": "Geschlechterpolitik",
+            "en": "Gender politics"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2022-01-06-LSVD-Jahresabschluss-2021-vorlaufig.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/44/94/2943/2022-01-06-LSVD-Jahresabschluss-2021-vorlaufig.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000373",
+      "registerEntryDetail": {
+        "id": 1674,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000373",
+          "firstPublicationDate": "2022-02-09T14:41:41.000Z"
+        },
+        "activityDescription": "Das Konsortium Ziviler Friedensdienst (ZFD) ist ein Netzwerk von neun deutschen staatlichen, kirchlichen und zivilgesellschaftlichen Friedens- und Entwicklungsorganisationen,  die sog. Träger. Der Zivile Friedensdienst ist ein Programm für Gewaltprävention und Friedensförderung in Krisen- und Konfliktregionen. Er setzt sich für eine Welt ein, in der Konflikte ohne Gewalt geregelt werden. Die Träger führen den ZFD gemeinsam mit lokalen Partnerorganisationen durch. Der ZFD wird von der Bundesregierung aus Mitteln des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) finanziell gefördert. Fachkräfte des ZFD unterstützen Menschen vor Ort langfristig in ihrem Engagement für Dialog, Menschenrechte und Frieden. Aktuell arbeiten rund 350 internationale ZFD-Fachkräfte in 45 Ländern. Rechtliche Grundlage für die Entsendung von ZFD-Fachkräften ist das Entwicklungshelfergesetz (EhfG). Die Aufgaben des Konsortiums ZFD liegen in der inhaltlichen Fortentwicklung des ZFD, im Erfahrungsaustausch, in der Verbesserung administrativer Rahmenbedingungen, der Koordinierung gemeinsamer Anliegen mit dem BMZ und Engagement Global (EG) sowie in der Vertretung der ZFD-Anliegen in der Öffentlichkeit und im politischen Raum. Um diese Aufgaben zu erfüllen, steht das Konsortium ZFD auch in regelmäßigem Austausch mit Bürgerinnen und Bürgern sowie den Vertreterinnen und Vertretern von Wissenschaft, Medien, Wirtschaft, zivilgesellschaftlichen Organisationen und Politik.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Konsortium Ziviler Friedensdienst (ZFD)",
+          "phoneNumber": "+493093624903",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Am Sudhaus",
+            "streetNumber": "2",
+            "zipCode": "12053",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "Zusammenschluss von Trägern des Zivilen Friedensdienstes"
+          },
+          "organizationEmails": [
+            "info@ziviler-friedensdienst.org"
+          ],
+          "websites": [
+            "www.ziviler-friedensdienst.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Anja",
+              "lastName": "Petz",
+              "function": "Sprecherin",
+              "phoneNumber": "+495843987139",
+              "organizationMemberEmails": [
+                "apetz@kurvewustrow.org"
+              ]
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Vehrenberg",
+              "function": "Sprecher",
+              "phoneNumber": "+492218896203",
+              "organizationMemberEmails": [
+                "martin.vehrenberg@agiamondo.org"
+              ]
+            },
+            {
+              "commonFirstName": "Priska",
+              "lastName": "Palacios",
+              "function": "Netzwerkmanagerin",
+              "phoneNumber": "+493093624903",
+              "organizationMemberEmails": [
+                "palacios@ziviler-friedensdienst.org"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 9,
+          "membersCountDate": "2022-02-07T00:00:00.000Z",
+          "membershipEntries": [
+            "Arbeitsgemeinschaft Frieden und Entwicklung (FriEnt)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Zivile Konfliktbearbeitung; Krisen- und Gewaltprävention; Klima und Frieden; Friedensförderung"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_OTHER",
+            "de": "Sonstiges im Bereich „Migration, Flüchtlingspolitik und Integration“",
+            "en": "Other in the field of “Migration, refugee policy and integration”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000372",
       "registerEntryDetail": {
