@@ -9,8 +9,127 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 373,
+  "resultCount": 374,
   "results": [
+    {
+      "registerNumber": "R000377",
+      "registerEntryDetail": {
+        "id": 1341,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 110001,
+          "to": 120000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000377",
+          "firstPublicationDate": "2022-02-09T16:28:10.000Z"
+        },
+        "activityDescription": "Mitgestalten von Rahmen- und Wettbewerbsbedingungen für geschäftliche Mobilität (Geschäftsreisen)",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "VDR e.V. - Verband Deutsches Reisemanagemnent e.V.",
+          "phoneNumber": "+49696952290",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Darmstädter Landstraße",
+            "streetNumber": "125",
+            "zipCode": "60598",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@vdr-service.de",
+            "carnier@vdr-service.de",
+            "pirner@vdr-service.de",
+            "hauptstadtbuero@vdr-service.de"
+          ],
+          "websites": [
+            "www.vdr-service.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Carnier",
+              "function": "Präsident",
+              "phoneNumber": "+4915114544688",
+              "organizationMemberEmails": [
+                "carnier@vdr-service.de"
+              ]
+            },
+            {
+              "commonFirstName": "Inge",
+              "lastName": "Pirner",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+491726334037",
+              "organizationMemberEmails": [
+                "pirner@vdr-service.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 547,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Geschäftliche und betriebliche Mobilität"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "VDR-Kassenbericht-Vermogensubersicht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/5f/92/2974/VDR-Kassenbericht-Vermogensubersicht-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000376",
       "registerEntryDetail": {
