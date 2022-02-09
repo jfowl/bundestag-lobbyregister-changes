@@ -9,8 +9,263 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 367,
+  "resultCount": 368,
   "results": [
+    {
+      "registerNumber": "R000371",
+      "registerEntryDetail": {
+        "id": 1098,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 240001,
+          "to": 250000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000371",
+          "firstPublicationDate": "2022-02-09T13:59:39.000Z"
+        },
+        "activityDescription": "Pro Mobilität ist ein breites Bündnis für leistungsfähige Infrastrukturen und eine sichere, nachhaltige und zukunftsfähige Mobilität in Deutschland. Als gemeinnütziger Verband ist für uns der gesellschaftliche Nutzen der Straßen im Zusammenspiel aller Verkehrsträger von besonderer Bedeutung. Schwerpunkte sind dabei die Förderung von Wissenschaft und Forschung und die Förderung der Unfallverhütung. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Pro Mobilität - Initiative für Verkehrsinfrastruktur e.V.",
+          "phoneNumber": "+493022488412",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Pro Mobilität - Initiative",
+            "nationalAdditional2": "für Verkehrsinfrastruktur e.V.",
+            "street": "Friedrichstraße",
+            "streetNumber": "133",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@promobilitaet.de"
+          ],
+          "websites": [
+            "https://www.promobilitaet.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Eduard",
+              "lastName": "Oswald",
+              "function": "Präsident",
+              "phoneNumber": "+493022488412",
+              "organizationMemberEmails": [
+                "fricke@promobilitaet.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.-Ing.",
+              "commonFirstName": "Walter",
+              "lastName": "Fleischer",
+              "function": "Vizepräsident/ Schatzmeister",
+              "phoneNumber": "+493022488412",
+              "organizationMemberEmails": [
+                "info@promobilitaet.de"
+              ]
+            },
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Coenen",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493022488412",
+              "organizationMemberEmails": [
+                "info@promobilitaet.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Dirk",
+              "lastName": "Engelhardt",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493022488412",
+              "organizationMemberEmails": [
+                "info@promobilitaet.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gerhard",
+              "lastName": "Hillebrand",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493022488412",
+              "organizationMemberEmails": [
+                "info@promobilitaet.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Kölbl",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493022488412",
+              "organizationMemberEmails": [
+                "info@promobilitaet.de"
+              ]
+            },
+            {
+              "commonFirstName": "Peter Markus",
+              "lastName": "Löw",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493022488412",
+              "organizationMemberEmails": [
+                "info@promibilitaet.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hildegard",
+              "lastName": "Müller",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+493022488412",
+              "organizationMemberEmails": [
+                "info@promobilitaet.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Funke"
+            },
+            {
+              "commonFirstName": "Leon",
+              "lastName": "Gärtner"
+            }
+          ],
+          "members": 39,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Pro-Mob-Anlage-Bilanz-GuV-2020-Lobbyregister.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/98/f7/2919/Pro-Mob-Anlage-Bilanz-GuV-2020-Lobbyregister.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000370",
       "registerEntryDetail": {
