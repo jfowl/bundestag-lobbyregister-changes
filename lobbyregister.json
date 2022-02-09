@@ -9,8 +9,169 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 379,
+  "resultCount": 380,
   "results": [
+    {
+      "registerNumber": "R000383",
+      "registerEntryDetail": {
+        "id": 1548,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000383",
+          "firstPublicationDate": "2022-02-09T22:25:15.000Z"
+        },
+        "activityDescription": "Interessensvertretung für den Ausstieg aus der Prostitution, konkret Stellungnahmen  (mündlich/schriftlich), Informationsveranstaltungen, Beratungen, etc.\r\nDer ehrenamtlich arbeitende Verein SISTERS unterstützt, begleitet und berät Frauen beim Ausstieg aus der Prostitution. SISTERS e.V. setzt sich für die Anerkennung der Prostitution als eine Form geschlechtsspezifischer Gewalt ein und fordert Prostitution als schweren Verstoß gegen die Menschenwürde und die Menschenrechte zu ächten. Fernziel ist eine Welt ohne Prostitution. Nahziel ist eine angemessene Gesetzgebung, die Frauen in der Prostitution nicht ausgrenzt, sondern integriert und den Frauenkauf verbietet. Wir setzen uns deshalb für die Einführung des sogenannten Nordischen Modells in Deutschland ein, das neben der Entkriminalisierung der prostituierten Personen, Ausstiegshilfen, Prävention und ein Sexkaufverbot vorsieht.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "SISTERS - für den Ausstieg aus der Prostitution! e.V.",
+          "phoneNumber": "+497032203303",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Johannesstr. ",
+            "streetNumber": "13",
+            "zipCode": "70176",
+            "city": "Stuttgart",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "mail@sisters-ev.de"
+          ],
+          "websites": [
+            "www.sisters-ev.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Karen",
+              "lastName": "Ehlers",
+              "function": "Finanzvorständin",
+              "phoneNumber": "+497032203303",
+              "organizationMemberEmails": [
+                "karen.ehlers@sisters-ev.de"
+              ]
+            },
+            {
+              "commonFirstName": "Sabine",
+              "lastName": "Constabel",
+              "function": "1. Vorsitzende",
+              "phoneNumber": "+4915157754553",
+              "organizationMemberEmails": [
+                "sabine.constabel@sisters-ev.de"
+              ]
+            },
+            {
+              "commonFirstName": "Leni",
+              "lastName": "Breymaier",
+              "function": "2. Vorsitzende",
+              "phoneNumber": "+4973615588093",
+              "organizationMemberEmails": [
+                "leni.breymaier@sisters-ev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Karen",
+              "lastName": "Ehlers"
+            }
+          ],
+          "members": 498,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Landesfrauenrat Baden-Württemberg",
+            "Der Paritätische Wohlfahrtsverband Landesverband Baden-Württemberg"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Prostitution"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_GENDER",
+            "de": "Geschlechterpolitik",
+            "en": "Gender politics"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_OTHER",
+            "de": "Sonstiges im Bereich „Gesellschaftspolitik und soziale Gruppen“",
+            "en": "Other in the field of “Social politics and social groups”"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of “Social security”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
     {
       "registerNumber": "R000382",
       "registerEntryDetail": {
