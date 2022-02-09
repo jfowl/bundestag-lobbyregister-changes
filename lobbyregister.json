@@ -9,8 +9,855 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 354,
+  "resultCount": 356,
   "results": [
+    {
+      "registerNumber": "R000359",
+      "registerEntryDetail": {
+        "id": 59,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 21,
+          "to": 30
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "",
+        "account": {
+          "registerNumber": "R000359",
+          "firstPublicationDate": "2022-02-09T09:24:54.000Z"
+        },
+        "activityDescription": "Seit seiner Gründung am 12. Februar 1947 in Rendsburg ist der Bauernverband die Interessenvertretung für Landwirtschaft und Ländlichen Raum in Schleswig-Holstein. Als einheitlicher und parteipolitisch unabhängiger Verband ist es seine Aufgabe, im Sinne der wirtschaftenden Betriebe Anliegen einzubringen und durchzusetzen, nicht nur in der Agrarpolitik, sondern auch in der Wirtschafts-, Rechts-, Sozial- und Umweltpolitik.\r\n\r\nDer Bauernverband vertritt die Interessen seiner Mitglieder bei Gesetzgebungs- und öffentlichen Verfahren, beispielsweise im Naturschutz oder bei Planungsverfahren. Öffentlichkeits- und Pressearbeit sind wichtige Instrumente zur Information der Bevölkerung. Neben der agrarpolitischen Interessenvertretung versteht sich der Verband als Dienstleister mit einem attraktiven Beratungs- und Sachleistungsangebot.\r\n\r\nJeder Landwirt kann Mitglied im Bauernverband werden und als Altenteiler oder Verpächter auch bleiben. Bei einer nahezu flächendeckenden Mitgliedschaft verleiht die Freiwilligkeit der Zugehörigkeit dem Bauernverband nach außen großes Gewicht. Nach innen gründet sich die Stärke des Verbandes auf demokratischer Willensbildung von Orts- über Bezirks- und Kreisverbände bis hin zum Landesverband. Der Verband untergliedert sich in 13 Kreisverbände. Die Betreuung der Mitglieder erfolgt durch zehn Geschäftsstellen im Land.\r\n\r\nDer Bauernverband steht für:\r\n- den zukunftsorientierten bäuerlichen Familienbetrieb in seinen unterschiedlichen Ausprägungen.\r\n- ein angemessenes Einkommen für die Landwirtschaft.\r\n- die Erzeugung von Nahrungsmitteln höchster Qualität bei einer transparenten Produktion.\r\n- eine sinnvolle Bodennutzung im Sinne einer nachhaltigen Wirtschaftsweise.\r\n- die Pflege der Kulturlandschaft und die Schonung der Natur.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bauernverband Schleswig-Holstein",
+          "phoneNumber": "+49433112770",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Grüner Kamp ",
+            "streetNumber": "19-21",
+            "zipCode": "24768",
+            "city": "Rendsburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "bvsh@bauern.sh"
+          ],
+          "websites": [
+            "www.bauern.sh"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Werner",
+              "lastName": "Schwarz",
+              "function": "Präsident",
+              "phoneNumber": "+49433112770",
+              "organizationMemberEmails": [
+                "bvsh@bauern.sh"
+              ]
+            },
+            {
+              "commonFirstName": "Klaus-Peter",
+              "lastName": "Lucht",
+              "function": "1. Vizepräsident",
+              "phoneNumber": "+49433112770",
+              "organizationMemberEmails": [
+                "bvsh@bauern.sh"
+              ]
+            },
+            {
+              "commonFirstName": "Dietrich",
+              "lastName": "Pritschau",
+              "function": "2. Vizepräsident",
+              "phoneNumber": "+49433112770",
+              "organizationMemberEmails": [
+                "bvsh@bauern.sh"
+              ]
+            },
+            {
+              "commonFirstName": "Ludwig",
+              "lastName": "Hirschberg",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49433112770",
+              "organizationMemberEmails": [
+                "bvsh@bauern.sh"
+              ]
+            },
+            {
+              "commonFirstName": "Karen",
+              "lastName": "Clausen-Franzen",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49433112770",
+              "organizationMemberEmails": [
+                "bvsh@bauern.sh"
+              ]
+            },
+            {
+              "commonFirstName": "Heinrich",
+              "lastName": "Mougin",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49433112770",
+              "organizationMemberEmails": [
+                "bvsh@bauern.sh"
+              ]
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Hansen",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49433112770",
+              "organizationMemberEmails": [
+                "bvsh@bauern.sh"
+              ]
+            },
+            {
+              "commonFirstName": "Jörg",
+              "lastName": "Albrecht",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49433112770",
+              "organizationMemberEmails": [
+                "bvsh@bauern.sh"
+              ]
+            },
+            {
+              "commonFirstName": "Klaus-Peter",
+              "lastName": "Dau",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49433112770",
+              "organizationMemberEmails": [
+                "bvsh@bauern.sh"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Gersteuer"
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Müller-Ruchholtz"
+            },
+            {
+              "commonFirstName": "Hans-Heinrich",
+              "lastName": "Baron von Maydell"
+            },
+            {
+              "commonFirstName": "Lena",
+              "lastName": "Preißler-Jebe"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Lennart ",
+              "lastName": "Schmitt"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kirsten",
+              "lastName": "Hess"
+            },
+            {
+              "commonFirstName": "Sönke",
+              "lastName": "Hauschild"
+            },
+            {
+              "commonFirstName": "Claas",
+              "lastName": "Petersen"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Susanne",
+              "lastName": "Werner"
+            },
+            {
+              "commonFirstName": "Frederike",
+              "lastName": "Böttger"
+            },
+            {
+              "commonFirstName": "Lisa",
+              "lastName": "Hansen-Flüh"
+            },
+            {
+              "commonFirstName": "Immo",
+              "lastName": "Petersen"
+            },
+            {
+              "commonFirstName": "Wiebke",
+              "lastName": "Bischoff"
+            },
+            {
+              "commonFirstName": "Wolf Dieter",
+              "lastName": "Krezdorn"
+            },
+            {
+              "commonFirstName": "Lennart",
+              "lastName": "Butz"
+            },
+            {
+              "commonFirstName": "Lennart",
+              "lastName": "Blunk"
+            },
+            {
+              "commonFirstName": "Armin",
+              "lastName": "Reiche"
+            },
+            {
+              "commonFirstName": "Ida",
+              "lastName": "Sieh"
+            },
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Koll"
+            },
+            {
+              "commonFirstName": "Jens",
+              "lastName": "Rosenplänter"
+            },
+            {
+              "commonFirstName": "Boris",
+              "lastName": "Fridriszik"
+            },
+            {
+              "commonFirstName": "Holger",
+              "lastName": "Schädlich"
+            },
+            {
+              "commonFirstName": "Hans-Jürgen",
+              "lastName": "Henßen"
+            },
+            {
+              "commonFirstName": "Rixa",
+              "lastName": "Kleinschmit"
+            },
+            {
+              "commonFirstName": "Peer",
+              "lastName": "Jensen-Nissen"
+            },
+            {
+              "commonFirstName": "Merle",
+              "lastName": "Pahl"
+            },
+            {
+              "commonFirstName": "Bernd",
+              "lastName": "Thomsen"
+            },
+            {
+              "commonFirstName": "André",
+              "lastName": "Jöns"
+            }
+          ],
+          "members": 16669,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Bauernverband e.V.",
+            "LEE SH - Landesverband Erneuerbare Energien SH e.V.",
+            "Norddeutsche Wildtierrettung e.V.",
+            "Verein zur Förderung des Umweltschutzes VFU",
+            "UNIKA e.V. - Union der dt. Kartoffelwirtschaft e.V.",
+            "UFOP Union zur Förderung von Öl- und Proteinpflanz",
+            "Copa-Cogeca european farmers",
+            "AktivRegion LAG Dithmarschen",
+            "Heimatgemeinschaft Eckernförde e. V.",
+            "Naturpark Hüttener Berge e.V.",
+            "Genossenschaftsverband-Verband der Regionen e.V.",
+            "Infrastruktur Vestkysten / Westküste e.V.",
+            "SDW-KV Schutzgemeinschaft Deutscher Wald Plön",
+            "Verbrauchergemeinschaft Kreis Stormarn e.V.",
+            "Akademie für die Ländlichen Räume SH e.V.- ALR",
+            "Fachgruppe Gemüsebau Norddeutschland",
+            "Grüne Insel Eiderstedt e. V./Haus Spökenkieker",
+            "Morsumer Kulturfreunde e. V.",
+            "Unternehmensverband Ostholstein-Plön",
+            "Gesellschaft der Freunde d. Agrar-u. Ernährungsw.",
+            "AktivRegion LAG Eckernförder Bucht e.V.",
+            "Bündnis Naturschutz in Dithmarschen e. V.",
+            "AKtivRegion LAG Wagrien-Fehmarn e. V.",
+            "HLBS e.V. Hauptverband der landwirtschaftlichen Buchstellen",
+            "Hermann Ehlers Stiftung e. V.  - HES",
+            "Haus & Grund Heide e.V.",
+            "Europäische Bewegung Schleswig-Holstein e. V.",
+            "Zentralverband Gartenbau e. V. - ZVG",
+            "Tierschutz Bad Segeberg u.Umgebung e.V.",
+            "MEV Milcherzeugervereinigung S-H e.V.",
+            "VDL Bundesverband e.V.",
+            "Fördergemeinschaft NordseeAkademie",
+            "AG für Heimatkunde",
+            "Heimatverein des Kreises Segeberg e.V.",
+            "Naturkundemuseum Niebüll e.V.",
+            "Förderverein Nordkolleg Rendburg e. V.",
+            "KUNO e. V.",
+            "Denkmalfonds Schleswig-Holstein e.V.",
+            "Förderverein Deutsches Landwirtschaftsmuseum e.V.",
+            "Runder Tisch Naturschutz Nordfriesland",
+            "AktivRegion LAG Schwentine-Holsteinische Schweiz",
+            "Landwirtschaftlicher Verein f.Gettorf u.Umgebung",
+            "VFT Verein Futtermitteltest e.V.",
+            "Holsteiner Auenland - LAG AktivRegion e.V.",
+            "SHHB Schleswig-Holsteinischer Heimatbund",
+            "Förderverein Berufl. Schulen des Kreises Plön e.V.",
+            "Verein zur Förderung d. Beschäftigung Jugendl.u. Behind. e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of “Spatial planning, construction and housing”"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_ACCIDENT",
+            "de": "Unfallversicherung",
+            "en": "Accident insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of “Social security”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000358",
+      "registerEntryDetail": {
+        "id": 1477,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "Der Unternehmensverband Hafen Hamburg e.V. ist ein regionaler Arbeitgeber- und Wirtschaftsverband, dessen Schwerpunkt auf regionaler, d.h. Hamburger, Ebene liegt. Kontakt zu Bundestagsabgeordneten*innen und Bundesministerien stellen ein Ausnahme dar. Deshalb sind diese Angaben hier entbehrlich",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "Der Verband erhält keine öffentlichen Zuschüsse.",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "Der Verband erhält keine Schenkungen Dritter.",
+        "account": {
+          "registerNumber": "R000358",
+          "firstPublicationDate": "2022-02-09T08:53:57.000Z"
+        },
+        "activityDescription": "Der Unternehmensverband Hafen Hamburg e.V. ist der regionale Arbeitgeber- und Wirtschaftsverband der Hamburger Hafenbetriebe. In dieser Funktion verhandeln wir mit unserem Tarifpartner ver.di über die Löhne/Gehälter und Arbeitsbedingungen für die die Hamburger Hafen Beschäftigten. Außerdem vertreten wir die die Interesse der Hafenbetriebe insbesondere im Bereich der Verkehrs- und Umweltpolitik. Der Schwerpunkt liegt dabei auf regionaler, d.h. Hamburger, Ebene. Da bei den für den Hafen wichtigen übergreifenden Verkehrsprojekten und anderen übergreifenden Themen die Bundespolitik eine Rolle spielt, nehmen wir als regionaler Arbeitgeber- und Wirtschaftsverband in einem sehr begrenztem Ausmaß auch gegenüber der Bundespolitik Stellung.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_EMPLOYER_ASSOC",
+          "de": "Arbeitgeberverband",
+          "en": "Employers association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Unternehmensverband Hafen Hamburg e.V.",
+          "phoneNumber": "+494037890966",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Unternehmensverband ",
+            "nationalAdditional2": "Hafen Hamburg e.V.",
+            "street": "Mattentwiete",
+            "streetNumber": "2",
+            "zipCode": "20457",
+            "city": "Hamburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "geschaeftsleitung@uvhh.de"
+          ],
+          "websites": [
+            "www.uvhh.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Gunther",
+              "lastName": "Bonz",
+              "function": "Präsident",
+              "phoneNumber": "+49403789090",
+              "organizationMemberEmails": [
+                "Gunther.Bonz@uvhh.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jaana ",
+              "lastName": "Kleinschmit von Lengefeld",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+494075194300",
+              "organizationMemberEmails": [
+                "Jaana.Kleinschmit@adm.com"
+              ]
+            },
+            {
+              "commonFirstName": "Ulfert",
+              "lastName": "Cornelius",
+              "function": "Vizepräsident",
+              "phoneNumber": "+494075196338",
+              "organizationMemberEmails": [
+                "ulfert.cornelius@evos.eu"
+              ]
+            },
+            {
+              "commonFirstName": "Rainer",
+              "lastName": "Fabian",
+              "function": "Vizepräsident",
+              "phoneNumber": "+4975247642",
+              "organizationMemberEmails": [
+                "rf@tco-transcargo.de"
+              ]
+            },
+            {
+              "commonFirstName": "Holger",
+              "lastName": "Jungerberg",
+              "function": "Vizepräsident",
+              "phoneNumber": "+494075275212",
+              "organizationMemberEmails": [
+                "Holger.Jungerberg@k-plus-s.com"
+              ]
+            },
+            {
+              "commonFirstName": "Torben",
+              "lastName": "Seebold",
+              "function": "Vizepräsident",
+              "phoneNumber": "+494030883202",
+              "organizationMemberEmails": [
+                "seebold@hhla.de"
+              ]
+            },
+            {
+              "commonFirstName": "Norman",
+              "lastName": "Zurke",
+              "function": "Geschäftsführendes Präsidiumsmitglied",
+              "phoneNumber": "+494037890966",
+              "organizationMemberEmails": [
+                "Norman.Zurke@uvhh.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Ina",
+              "lastName": "Luderer"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Peter",
+              "lastName": "Hesse"
+            }
+          ],
+          "members": 98,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Zentralverband der Deutschen Seehafenbetriebe e.V.",
+            "Logistik Initiative Hamburg",
+            "Hafen Hamburg Marketing e.V.",
+            "Elbe Allianz e.V.",
+            "Initiative Kiel-Canal e.V.",
+            "UVNord - Vereinigung der Unternehmensverbände in Hamburg und Schleswig-Holstein e.V.",
+            "Industrieverband Hamburg e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Der Unternehmensverband Hafen Hamburg e.V. ist der regionale Arbeitgeber- und Wirtschaftsverband der Hamburger Hafenbetriebe. Der Schwerpunkt des Verbandes liegt daher auf regionaler, d.h. Hamburger, Ebene. Die Angaben sind daher hier entbehrlich."
+      }
+    },
     {
       "registerNumber": "R000357",
       "registerEntryDetail": {
