@@ -9,8 +9,243 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 381,
+  "resultCount": 382,
   "results": [
+    {
+      "registerNumber": "R000385",
+      "registerEntryDetail": {
+        "id": 2199,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000385",
+          "firstPublicationDate": "2022-02-10T09:14:57.000Z"
+        },
+        "activityDescription": "Veröffentlichung von Stellungnahmen, Durchführung von Informations- und Diskussionsveranstaltungen",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Forum Menschenrechte",
+          "phoneNumber": "+493042021771",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Forum Menschenrechte",
+            "nationalAdditional2": "Briefkasten 16",
+            "street": "Greifswalder Strasse ",
+            "streetNumber": "4",
+            "zipCode": "10405",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_NIA",
+            "code_de": "Nicht rechtsfähiger Verein",
+            "code_en": "Non-incorporated association",
+            "type": "OTHER_ASSOCIATION_OF_PERSONS"
+          },
+          "organizationEmails": [
+            "kontakt@forum-menschenrechte.de"
+          ],
+          "websites": [
+            "www.forum-menschenrechte.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Ilona",
+              "lastName": "Auer-Frege",
+              "function": "Mitglied Koordinationskreis",
+              "phoneNumber": "+493044351980",
+              "organizationMemberEmails": [
+                "ilona.auer-frege@misereor.de"
+              ]
+            },
+            {
+              "commonFirstName": "Elise",
+              "lastName": "Bittenbinder",
+              "function": "Mitglied Koordinationskreis",
+              "phoneNumber": "+493088667378",
+              "organizationMemberEmails": [
+                "info@baff-zentren.org"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Julia",
+              "lastName": "Duchrow",
+              "function": "Mitglied Koordinationskreis",
+              "phoneNumber": "+4930420248407",
+              "organizationMemberEmails": [
+                "julia.duchrow@amnesty.de"
+              ]
+            },
+            {
+              "commonFirstName": "Günter",
+              "lastName": "Burkhardt",
+              "function": "Mitglied Koordinationskreis",
+              "phoneNumber": "+496924231410",
+              "organizationMemberEmails": [
+                "proasyl@proasyl.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Lisa",
+              "lastName": "Heemann",
+              "function": "Mitglied Koordinationskreis",
+              "phoneNumber": "+49302593750",
+              "organizationMemberEmails": [
+                "info@dgvn.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jochen",
+              "lastName": "Motte",
+              "function": "Mitglied Koordinationskreis",
+              "phoneNumber": "+4920289004142",
+              "organizationMemberEmails": [
+                "jpic@vemission.org"
+              ]
+            },
+            {
+              "commonFirstName": "Silke",
+              "lastName": "Pfeiffer",
+              "function": "Mitglied Koordinationskreis",
+              "phoneNumber": "+4930652111401",
+              "organizationMemberEmails": [
+                "silke.pfeiffer@brot-fuer-die-welt.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jonas",
+              "lastName": "Schubert",
+              "function": "Mitglied Koordinationskreis",
+              "phoneNumber": "+491701603624",
+              "organizationMemberEmails": [
+                "j.schubert@tdh.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Beate",
+              "lastName": "Ziegler"
+            }
+          ],
+          "members": 52,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_LAWS",
+            "de": "Ausländer- und Aufenthaltsrecht",
+            "en": "Foreign laws"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_REFUGEE",
+            "de": "Asyl und Flüchtlingsschutz",
+            "en": "Asylum and refugee protection"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DIVERSITY",
+            "de": "Diversitätspolitik",
+            "en": "Diversity policy"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Kindesschutz-Kodex.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/23/5e/3040/Kindesschutz-Kodex.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ]
+      }
+    },
     {
       "registerNumber": "R000384",
       "registerEntryDetail": {
@@ -11533,7 +11768,7 @@
     {
       "registerNumber": "R000331",
       "registerEntryDetail": {
-        "id": 616,
+        "id": 2504,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -11541,8 +11776,8 @@
         },
         "refuseFinancialExpensesInformation": false,
         "financialExpensesEuro": {
-          "from": 0,
-          "to": 0,
+          "from": 1,
+          "to": 10000,
           "fiscalYearStart": "01/20",
           "fiscalYearEnd": "12/20"
         },
