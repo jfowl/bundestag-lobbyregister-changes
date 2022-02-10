@@ -9,8 +9,379 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 393,
+  "resultCount": 395,
   "results": [
+    {
+      "registerNumber": "R000398",
+      "registerEntryDetail": {
+        "id": 441,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 230001,
+          "to": 240000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000398",
+          "firstPublicationDate": "2022-02-10T13:10:57.000Z"
+        },
+        "activityDescription": "Als Dachverband der deutschen Spirituosen-Hersteller und -Importeure repräsentiert der BSI mit 52 Direktmitgliedern und vier regionalen Landesverbänden (außerordentliche Mitglieder), Fördermitglieder und in Kooperation mit dem Verband Deutscher Whiskybrenner e. V. (VDW) rund 90 Prozent des Markenumsatzes in Deutschland. Der BSI vertritt dabei die Interessen einer in erster Linie mittelständisch geprägten Branche. \r\n\r\nDer BSI vertritt die wirtschaftspolitischen Interessen der Spirituosen-Industrie und -Importeure gegenüber Parlament, Regierung, Behörden auf Bundes- und Landesebene, in Europa, auf internationaler Ebene und gegenüber der Öffentlichkeit. Der BSI engagiert sich in maßgebenden nationalen und europäischen Institutionen sowie Verbänden. Der BSI ist Dienstleister für seine Mitgliedsunternehmen. Er ist ihr Sprachrohr und unterstützt, informiert und vertritt sie in allen die Spirituosenbereiche betreffenden Belangen (u. a. in den Bereichen Außenhandel, Technik, EU-Recht, Gesundheitspolitik, Spirituosenrecht, Lebensmittelrecht, Verkehrsrecht, Steuerrecht, Umweltrecht/Nachhaltigkeit, Wettbewerbsrecht etc.). Wichtige Themen werden auch anlässlich von Vortragsveranstaltungen, Podiumsdiskussionen, politischen Gesprächsrunden, Fachseminaren, Spirituosen-Foren und Events sowie auf Fachmessen diskutiert.\r\n\r\nDer BSI hat 2005 den \"Arbeitskreis Alkohol und Verantwortung (AAuV)\" gegründet. Das Gremium entwickelt relevante und nachhaltige Präventions- und Selbstregulierungsmaßnahmen zum verantwortungsvollen Umgang mit alkoholhaltigen Getränken. Die Projekte werden inhaltlich und projektbezogen von unabhängigen wissenschaftlichen Experten neutral begleitet. Mit der Verbraucherschutz-Webseite www.massvoll-geniessen.de werden die Verbraucherinnen und Verbraucher für einen verantwortungsvollen Umgang mit alkoholhaltigen Getränken sensibilisiert und informiert.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Deutschen Spirituosen-Industrie und -Importeure e. V. (BSI)",
+          "phoneNumber": "+49228539940",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Urstadtstraße",
+            "streetNumber": "2",
+            "zipCode": "53129",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bsi-bonn.de"
+          ],
+          "websites": [
+            "www.spirituosen-verband.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Diplom-Kaufmann",
+              "commonFirstName": "Thomas",
+              "lastName": "Ernst",
+              "function": "Präsident",
+              "phoneNumber": "+4945318070",
+              "organizationMemberEmails": [
+                "t.ernst@august-ernst.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Diplom-Betriebswirt ",
+              "commonFirstName": "Christof",
+              "lastName": "Queisser",
+              "function": "Stellvertretender Präsident",
+              "phoneNumber": "+4934464340",
+              "organizationMemberEmails": [
+                "Christof.Queisser@rotkaeppchen-mumm.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Master of Science (Msc.)",
+              "commonFirstName": "Nicolas",
+              "lastName": "Rampf",
+              "function": "Stellvertretender Präsident",
+              "phoneNumber": "+4940808113510",
+              "organizationMemberEmails": [
+                "nrampf@bacardi.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Diplom-Volkswirtin",
+              "commonFirstName": "Angelika",
+              "lastName": "Wiesgen-Pick"
+            }
+          ],
+          "members": 190,
+          "membersCountDate": "2022-01-20T00:00:00.000Z",
+          "membershipEntries": [
+            "Arbeitgeberverband der Ernährungsindustrie Nordrhein-Westfalen e. V. (AEN)",
+            "Arbeitgebervereinigung Nahrung und Genuss e. V. (ANG)",
+            "Bundesvereinigung der Deutschen Ernährungsindustrie e. V. (BVE)",
+            "Lebensmittelverband Deutschland e. V. ",
+            "Deutsche Gesellschaft für Verbandsmanagement e. V. (DGVM)",
+            "Gesellschaft zum Studium strukturpolitischer Fragen e. V.",
+            "Markenverband e. V.",
+            "Netzwerk Europäische Bewegung",
+            "Zentralverband der deutschen Werbewirtschaft e. V.  (ZAW)",
+            "Vereinigung der Bayerischen Wirtschaft e. V. (vbw)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_ADVERTISEMENT",
+            "de": "Werbung",
+            "en": "Advertising"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "BSI-Einnahmen-Ausgabenrechnung-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/aa/93/3137/BSI-Einnahmen-Ausgabenrechnung-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000397",
+      "registerEntryDetail": {
+        "id": 2144,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 61,
+          "to": 70
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000397",
+          "firstPublicationDate": "2022-02-10T13:07:57.000Z"
+        },
+        "activityDescription": "Der Zweck des Verbandes ist es, die Interessen der Bevölkerung des ländlichen\r\nRaumes, insbesondere seiner Mitglieder und ihrer Familien, zu wahren.\r\nDer Kreisverband nimmt nach Maßgabe der Gesetze die kulturellen, sozialen,\r\nwirtschaftlichen, steuerlichen und rechtlichen Interessen seiner Mitglieder\r\nund ihrer Familienangehörigen wahr.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Landvolk Niedersachsen, Kreisverband Mittelweser e.V.",
+          "phoneNumber": "+49424259515",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Landvolk Niedersachsen",
+            "nationalAdditional2": "Kreisverband Mittelweser e.V.",
+            "street": "Hauptstraße",
+            "streetNumber": "36-38",
+            "zipCode": "28857",
+            "city": "Syke",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "o.miermeister@landvolk-mittelweser.de"
+          ],
+          "websites": [
+            "www.landvolk-mittelweser.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Klomburg",
+              "function": "Landvolk Niedersachsen, Kreisverband Mittelweser",
+              "phoneNumber": "+4915118813673",
+              "organizationMemberEmails": [
+                "c.klomburg@landvolk-mittelweser.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl. Ing.",
+              "commonFirstName": "Tobias",
+              "lastName": "Göckeritz",
+              "function": "Landvolk Niedersachsen, Kreisverband Mittelweser",
+              "phoneNumber": "+4915118813671",
+              "organizationMemberEmails": [
+                "t.goeckeritz@landvolk-mittelweser.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 4270,
+          "membersCountDate": "2022-02-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Landvolk Niedersachsen, Landesbauernverband"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000396",
       "registerEntryDetail": {
