@@ -9,8 +9,144 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 395,
+  "resultCount": 396,
   "results": [
+    {
+      "registerNumber": "R000399",
+      "registerEntryDetail": {
+        "id": 1356,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000399",
+          "firstPublicationDate": "2022-02-10T13:55:19.000Z"
+        },
+        "activityDescription": "Verbesserung der Lebensverhältnisse von Opfern kommunistischer Gewaltherrschaft.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Union der Opferverbände kommunistischer Gewaltherrschaft (UOKG e.V.)",
+          "phoneNumber": "+493055779620",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "UOKG e.V.",
+            "street": "Ruschestraße 103",
+            "streetNumber": "Haus 1",
+            "zipCode": "10365",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@uokg.de",
+            "zumdick@uokg.de"
+          ],
+          "websites": [
+            "www.uokg.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Dieter",
+              "lastName": "Dombrowski",
+              "function": "Vorsitzender",
+              "phoneNumber": "+493055779620",
+              "organizationMemberEmails": [
+                "info@uokg.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Antje",
+              "lastName": "Zumdick"
+            }
+          ],
+          "members": 35,
+          "membersCountDate": "2022-01-25T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesbeauftragte für Kultur und Medien",
+            "description": "öffentliche Fördermittel",
+            "location": "Bundeskanzleramt",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 420001,
+              "to": 430000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Berliner Aufarbeitungsbeauftragter (BAB)",
+            "description": "öffentliche Förderung",
+            "location": "Berliner Senat",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 180001,
+              "to": 190000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_GERMAN_UNITY",
+            "de": "Deutsche Einheit",
+            "en": "German unity"
+          },
+          {
+            "code": "FOI_GERMAN_UNITY|FOI_GU_SED_JUSTICE",
+            "de": "Aufarbeitung SED-Unrecht",
+            "en": "Coming to terms with SED injustice"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "UOKG-Finanzbericht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/65/72/3153/UOKG-Finanzbericht-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000398",
       "registerEntryDetail": {
