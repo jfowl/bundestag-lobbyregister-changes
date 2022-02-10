@@ -9,8 +9,256 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 396,
+  "resultCount": 397,
   "results": [
+    {
+      "registerNumber": "R000400",
+      "registerEntryDetail": {
+        "id": 549,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 100001,
+          "to": 110000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000400",
+          "firstPublicationDate": "2022-02-10T14:52:49.000Z"
+        },
+        "activityDescription": "Der Verband der Kolping-Bildungsunternehmen Deutschland e. V. wirkt subsidiär als Dachverband für die deutschen Kolping-Bildungsunternehmen und dient der Zusammenarbeit zwischen dem Kolpingwerk Deutschland und den deutschen Kolping-Bildungsunternehmen untereinander. Gemäß § 2 der Satzung vertritt der Verband die Interessen der Kolping-Bildungsunternehmen gegenüber Legislative und Exekutive sowie Parteien, Zivilgesellschaft, Wirtschaft, Kirchen, Verbänden, Stiftungen und Öffentlichkeit auf Bundes- und Europaebene.\r\nDie selbstbetriebene Interessenvertretung gegenüber den oben genannten Akteuren und den genannten Politikfeldern und seinen Mitgliedern setzt der Verband u.a. durch folgende Leistungen und Angebote um:\r\na) die Erstellung und Aufarbeitung von Informationen, Berichten und Dokumentationen über mitgliederrelevante Gesetzesvorhaben, Verordnungen und Richtlinien\r\nb) die Erstellung von Informationen, Berichten und Dokumentationen über die Aktivtäten im Rahmen der Wahrnehmung politischer Interessenvertretung\r\nc) die Erarbeitung und Veröffentlichung von Stellungnahmen und Positionspapieren im Rahmen von Gesetzgebungsprozessen und/oder zu relevanten Entscheidungen/Veröffentlichungen in Bezug auf die Arbeitsmarkt- und Bildungspolitik\r\nd) die Durchführung von Diskussions- und Informationsveranstaltungen im Rahmen von Gesetzgebungsprozessen und/oder zu relevanten Entscheidungen/Veröffentlichungen in Bezug auf die Arbeitsmarkt- und Bildungspolitik\r\ne) das Aufgreifen von mitgliederrelevanten Themen im Bereich der Arbeitsmarkt- und Bildungspolitik, deren Aufarbeitung und deren Einbringung in die dazugehörigen politischen Entscheidungsprozesse\r\n\r\nHierzu strebt der Verband der Kolping-Bildungsunternehmen Deutschland e. V. themenbezogene Austauschgespräche mit Abgeordneten des Deutschen Bundestages, insbesondere während den Sitzungswochen, an und plant Anlass- und Einladungsbezogen als Gast an entsprechenden AG-, Arbeitskreis- und Ausschusssitzungen sowie an Fraktionsveranstaltungen teilzunehmen. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband der Kolping-Bildungsunternehmen Deutschland e. V.",
+          "phoneNumber": "+493028093659",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reinhardstraße",
+            "streetNumber": "13",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "buero-berlin@kolping-bildungsunternehmen.de"
+          ],
+          "websites": [
+            "https://www.kolping-bildungsunternehmen.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Wolfgang",
+              "lastName": "Gelhard",
+              "function": "Vorsitzender",
+              "phoneNumber": "+493028093659",
+              "organizationMemberEmails": [
+                "buero-berlin@kolping-bildungsunternehmen.de"
+              ]
+            },
+            {
+              "commonFirstName": "Wolfram",
+              "lastName": "Kohler",
+              "function": "stellv. Vorsitzender",
+              "phoneNumber": "+493028093659",
+              "organizationMemberEmails": [
+                "buero-berlin@kolping-bildungsunternehmen.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Bothe",
+              "function": "stellv. Vorsitzender",
+              "phoneNumber": "+493028093659",
+              "organizationMemberEmails": [
+                "buero-berlin@kolping-bildungsunternehmen.de"
+              ]
+            },
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "Metzen",
+              "academicDegreeAfter": "M.A.",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493028093659",
+              "organizationMemberEmails": [
+                "buero-berlin@kolping-bildungsunternehmen.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 21,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband der Träger der beruflichen Bildung (Bildungsverband) e. V.",
+            "Deutscher Weiterbildungstag e. V.",
+            "KSD Katholischer Siedlungsdienst  e. V. - Bundesverband für Wohnungswesen und Städtebau"
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "Stellungnahme zum Gesetz zur Modernisierung und Stärkung der beruflichen Bildung - WP 19/10815"
+          },
+          {
+            "name": "Stellungnahme zum Fachkräfteeinwanderungsgesetz - WP 19/8285"
+          },
+          {
+            "name": "Stellungnahme zum Berufsbildungsbericht 2019"
+          },
+          {
+            "name": "Stellungnahme zum Berufsbildungsbericht 2021"
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Fachkräfteeinwanderung"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_OTHER",
+            "de": "Sonstiges im Bereich „Staat und Verwaltung“",
+            "en": "Other in the field of “Government and administration”"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020-Kolping-Bildungsunternehmen.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/35/91/3177/Jahresabschluss-2020-Kolping-Bildungsunternehmen.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000399",
       "registerEntryDetail": {
