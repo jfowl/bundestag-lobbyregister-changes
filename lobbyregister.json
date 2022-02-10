@@ -9,8 +9,570 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 401,
+  "resultCount": 402,
   "results": [
+    {
+      "registerNumber": "R000406",
+      "registerEntryDetail": {
+        "id": 1454,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000406",
+          "firstPublicationDate": "2022-02-10T17:19:04.000Z"
+        },
+        "activityDescription": "Öffentlichkeitsarbeit\r\nÜber unsere Kommunikationskanäle tragen wir Slow-Food-Themen und -Botschaften in die Welt und informieren verbrauchernah über relevante Entwicklungen im Lebensmittelbereich. Wir teilen Informationen über Leuchtturmprojekte und zukunftsfähige Alternativen zu den Prozessen des industriellen Lebensmittelsystems.\r\n\r\nBewusstseinsbildung\r\nMit der Durchführung diverser Bildungsprojekte, Kampagnen und Veranstaltungen stellt Slow Food Ernährungskompetenz in Deutschland auf sichere Beine. Dazu kooperiert SFD mit anderen Organisationen und Stakeholdern.\r\n\r\nErnährungsbildung von Anfang an: Slow Food bringt Kinder und Jugendliche mit besonderen Formaten wie den Slow Mobilen, Kinderkochclubs, Sinnestrainings, Schulgärten sowie Ernährungswochen und Projekttagen auf den guten Geschmack. Ohne erhobenen Zeigefinger gelingt es, dass der Nachwuchs ein Verständnis für Lebensmittelqualität, einen respektvolleren Umgang mit der Natur und mehr Wertschätzung für Mahlzeiten entwickelt, die selber aus frischen und nahrhaften Zutaten zubereitet wurden.\r\n\r\nNetzwerkarbeit\r\nZum Netzwerk von SFD zählen Vertreter*innen der gesamten Lebensmittelwertschöpfungskette. Dazu gehören die regionalen Gruppen mit ihren Kontakten zu Köch*innen und Erzeuger*innen, die Slow Food Chef Alliance sowie ein Erzeuger*innennetzwerk für die Produkte der Arche des Geschmacks. Auch im Rahmen der Slow Food Youth Akademie hat sich ein Netzwerk aus jungen Erwachsenen herausgebildet, das gewillt ist, die Zukunft unseres Essens zukunftsfähig zu machen.\r\n\r\nGemeinsam sind wir stärker: Jedes Jahr aufs neue gehen wir neue Kooperationen ein, um mit unseren Partnern gemeinsame Ziele voranzubringen.\r\n\r\nZu ernährungs- und lebensmittelrelevanten Themen ist SFD im konstanten Austausch mit den Slow-Food-Mitgliedern, den Convivienleitungen, den Kommissionen, Partnerorganisationen und unseren Netzwerkpartner*innen.\r\n\r\nWir vertreten klare Positionen, was es für ein gutes Lebensmittelsystem braucht, und erarbeiten gemeinsame Strategien und Inhalte zur Umsetzung. Im Schulterschluss mit unseren Partnern stellen wir neue Formate, Inhalte und Veranstaltungen auf die Beine.\r\n\r\nInteressenvertretung\r\nSFD ist unter anderem im Dialog mit Vertreter*innen aus dem Handel, politischen Entscheidungsträger*innen sowie Lebensmittelerzeuger*innen, Lebensmittelhandwerker*innen und anderen Playern im Agrarbereich.\r\n\r\nSlow Food Deutschland gestaltet die politische Debatte über unsere Nahrung mit. Unser Ziel ist es, politische Entscheidungsträger*innen davon zu überzeugen, Ernährung als ressortübergreifendes Handlungsfeld anzuerkennen und Ernährungspolitik entschieden ganzheitlich anzugehen, regionale Strukturen wieder aufzubauen und zu fördern.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Slow Food Deutschland e. V.",
+          "phoneNumber": "+493020004750",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Slow Food Deutschland e. V.",
+            "street": "Marienstraße",
+            "streetNumber": "30",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@slowfood.de"
+          ],
+          "websites": [
+            "www.slowfood.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Nina",
+              "lastName": "Wolff",
+              "function": "Vorsitzende",
+              "phoneNumber": "+4930200047530",
+              "organizationMemberEmails": [
+                "nina.wolff@slowfood.de"
+              ]
+            },
+            {
+              "commonFirstName": "Sebastian",
+              "lastName": "Wenzel",
+              "function": "Schatzmeister",
+              "phoneNumber": "+4930200047533",
+              "organizationMemberEmails": [
+                "sebastian.wenzel@slowfood.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jens",
+              "lastName": "Witt",
+              "function": "Stellv. Vorsitzender",
+              "phoneNumber": "+4930200047532",
+              "organizationMemberEmails": [
+                "jens.witt@slowfood.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Sarah",
+              "lastName": "Niehaus"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Sebastian",
+              "lastName": "Strehlau"
+            },
+            {
+              "commonFirstName": "Sharon",
+              "lastName": "Sheets"
+            },
+            {
+              "commonFirstName": "Louise",
+              "lastName": "Duhan"
+            },
+            {
+              "commonFirstName": "Andrea",
+              "lastName": "Lenkert-Hörrmann"
+            },
+            {
+              "commonFirstName": "Sandra",
+              "lastName": "Binke"
+            }
+          ],
+          "members": 11809,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Agrarbündnis e. V.",
+            "Deutscher Naturschutzring",
+            "Forum Umwelt und Entwicklung",
+            "Institut für Welternährung e. V.",
+            "Interessengemeinschaft gesunder Boden e.V.",
+            "Meine Landwirtschaft",
+            "Verbraucherzentrale Bundesverband e. V.",
+            "Dachverband Kulturpflanzen und Nutztiervielfalt e. V.",
+            "Hochstamm Deutschland e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesanstalt für Landwirtschaft und Ernährung",
+            "description": "Zuwendung aus Kapitel 1002 Titel 684 04 für die Haushaltsjahre 2020 bis 2023 für das Vorhaben: 'Reduzierung von Lebensmittelverschwendung in privaten Haushalten. Unterstützung und Evaluierung von Interventionen und Einrichtung eines Dialogforums' im Rahmen der Nationalen Strategie zur Reduzierung der Lebensmittelverschwendung des BMEL.",
+            "location": "Deichmannsaue 29, 53179 Bonn",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Deutsche Bundesstiftung Umwelt",
+            "description": "Förderung des Projektes 'Umweltbildung und Ernährungsbildung im europäischen Kontext - Regionale, saisonale Lebensmittelwertschöpfung erhalten und weiterentwickeln - Tradition und Moderne verbinden'. Kooperationspartner ist die Stiftung Kreisau für europäische Verständigung in Kreisau. Slow Food Deutschland leitet als Leadpartner die für den Kooperationspartner bestimmten Mittel an die Stiftung Kreisau weiter. Mittelauflistung für 2021: Slow Food Deutschland e.V.: 6.000 €, Stiftung Kreisau: 35.196 €",
+            "location": "An der Bornau 2, 49090 Osnabrück",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "European Commission - EuropeAid",
+            "description": "Durchführung der Kampagne Our Food Our Future im Rahmen des DEAR-Programme der Europäischen Kommission als Partner eines europaweiten Konsortiums.",
+            "location": "Brüssel",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 200001,
+              "to": 210000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Umweltbundesamt",
+            "description": "Zuschüsse des Bundes an Verbände und sonstige Vereinigungen auf dem Gebiet des Umweltschutzes zur Gewährung einer nicht rückzahlbaren Zuwendung auf Ausgabenbasis als Fehlbedarfsfinanzierung nach Kapitel 1601 Titel 685 04. Bundeszuwendung zum Thema: Umweltgerechte und nachhaltige Fleischerzeugung am Beispiel Rind - Gute Praxisbeispiele für innovative sozial-ökologische Betriebsmodelle und Wertschöpfungsketten unter besonderer Berücksichtigung von Klimaaspekten.",
+            "location": "Wörlitzer Platz 1, 06844 Dessau-Rößlau",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_AQUACULTURE",
+            "de": "Fischerei/Aquakultur",
+            "en": "Fishery/aquaculture"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "wird nach Jahresabschluss so schnell wie möglich nachgereicht"
+      }
+    },
+    {
+      "registerNumber": "R000405",
+      "registerEntryDetail": {
+        "id": 2173,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 50001,
+          "to": 60000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000405",
+          "firstPublicationDate": "2022-02-10T17:18:59.000Z"
+        },
+        "activityDescription": "Die Open Knowledge Foundation Deutschland (OKF) setzt sich seit Gründung 2011 für freies, offenes Wissen und demokratische Teilhabe ein. Dafür entwickeln wir Technologien und Instrumente und stärken so die Zivilgesellschaft. Wir streben nach einer offenen, inklusiven und gerechten Gesellschaft. Digitale Technologien können uns helfen, diese Ziele zu erreichen, sofern sie aktiv von uns allen gestaltet werden. Wir verstehen uns als Teil einer aktiven Zivilgesellschaft, die den gesellschaftlichen Wandel hin zu einer offenen Wissensgesellschaft gestaltet und vorantreibt. Wir fördern den freien Zugang zu Informationen und die Aneignung digitaler Kompetenzen, damit Menschen informierte Entscheidungen treffen und sich aktiv in soziale, gesellschaftliche und demokratische Prozesse einbringen und diese gestalten können.\r\n\r\nOpen Data und Civic Tech sind die Kernthemen, die unsere Projektarbeit seit der Gründung definieren. Darauf aufbauend hat sich unser Themenfokus in den letzten Jahren erweitert und ausdifferenziert: Informationsfreiheit & Transparenz; Civic Tech (prototypische Innovation sowie nachhaltige digitale Infrastrukturen), Open Data & Open Hardware; offene Bildung & digitale Mündigkeit. Diese Ausdifferenzierung lässt sich grob in die drei Bereiche Open Data/Civic Tech, Open Government und Open Education fassen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Open Knowledge Foundation Deutschland e. V.",
+          "phoneNumber": "+4930577036660",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Singerstraße",
+            "streetNumber": "109",
+            "zipCode": "10179",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@okfn.de"
+          ],
+          "websites": [
+            "https://okfn.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Daniel",
+              "lastName": "Dietrich",
+              "function": "Vorstand",
+              "phoneNumber": "+4930577036660",
+              "organizationMemberEmails": [
+                "info@okfn.de"
+              ]
+            },
+            {
+              "commonFirstName": "Lea",
+              "lastName": "Gimpel",
+              "function": "Vorstand",
+              "phoneNumber": "+4930577036660",
+              "organizationMemberEmails": [
+                "info@okfn.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Heumann",
+              "function": "Vorstand",
+              "phoneNumber": "+4930577036660",
+              "organizationMemberEmails": [
+                "info@okfn.de"
+              ]
+            },
+            {
+              "commonFirstName": "Kristina",
+              "lastName": "Klein",
+              "function": "Vorstand",
+              "phoneNumber": "+4930577036660",
+              "organizationMemberEmails": [
+                "info@okfn.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gabriele C.",
+              "lastName": "Klug",
+              "function": "Vorstand",
+              "phoneNumber": "+4930577036660",
+              "organizationMemberEmails": [
+                "info@okfn.de"
+              ]
+            },
+            {
+              "commonFirstName": "Felix",
+              "lastName": "Reda",
+              "function": "Vorstand",
+              "phoneNumber": "+4930577036660",
+              "organizationMemberEmails": [
+                "info@okfn.de"
+              ]
+            },
+            {
+              "commonFirstName": "Henriette",
+              "lastName": "Litta",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+4930577036660",
+              "organizationMemberEmails": [
+                "info@okfn.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 46,
+          "membersCountDate": "2022-02-07T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesnetzwerk Bürgerschaftliches Engagement",
+            "Bundesverband Deutscher Stiftungen"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Bildung und Forschung",
+            "description": "Projektförderung Prototype Fund",
+            "location": "Bonn",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 500001,
+              "to": 510000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Umweltbundesamt",
+            "description": "Projektförderung Umweltdatenschule",
+            "location": "Dessau-Roßlau",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 70001,
+              "to": 80000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Deutsche Stiftung für Engagement und Ehrenamt",
+            "description": "Projektförderung Jugend hackt",
+            "location": "Neustrelitz",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Open Government Partnership",
+            "description": "Zuschuss Initiative Open Government Netzwerk",
+            "location": "Washington, DC",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Initiative Ulm Digital e. V., Ulm",
+            "description": "Geldzuwendung",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "OKF-DE-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/c1/78/3271/OKF-DE-Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000404",
       "registerEntryDetail": {
@@ -51314,155 +51876,6 @@
         "clientOrganizations": [],
         "clientPersons": [],
         "registerEntryMedia": []
-      }
-    },
-    {
-      "registerNumber": "R000160",
-      "registerEntryDetail": {
-        "id": 1561,
-        "clientIdentity": "",
-        "employeeCount": {
-          "from": 1,
-          "to": 10
-        },
-        "refuseFinancialExpensesInformation": false,
-        "financialExpensesEuro": {
-          "from": 0,
-          "to": 0,
-          "fiscalYearStart": "01/21",
-          "fiscalYearEnd": "12/21"
-        },
-        "refusePublicAllowanceInformation": false,
-        "refuseDonationInformation": false,
-        "donationInformationRequired": false,
-        "account": {
-          "registerNumber": "R000160",
-          "firstPublicationDate": "2022-01-25T12:36:05.000Z"
-        },
-        "activityDescription": "Kontaktaufnahme mit Mitgliedern des Bundestages im Rahmen von gesundheitspolitischen Fragestellungen. \r\n\r\nTeilnahme an Anhörungen \r\n\r\nVerfassen von Stellungnahmen insbesondere zu Gesetzesentwürfen",
-        "activityOperationType": "SELF_OPERATED",
-        "activity": {
-          "code": "ACT_PROFESSION_ASSOC",
-          "de": "Berufsverband",
-          "en": "Professional association"
-        },
-        "codexViolation": false,
-        "lobbyistIdentity": {
-          "identity": "ORGANIZATION",
-          "name": "Berufsverband der Deutschen Chirurgen e.V. ",
-          "phoneNumber": "+493028004150",
-          "address": {
-            "type": "NATIONAL",
-            "street": "Luisenstraße ",
-            "streetNumber": "58/59",
-            "zipCode": "10117",
-            "city": "Berlin",
-            "country": {
-              "code": "DE"
-            }
-          },
-          "legalForm": {
-            "code": "LF_EV",
-            "code_de": "Eingetragener Verein (e. V.)",
-            "code_en": "Registered association",
-            "type": "JURISTIC_PERSON"
-          },
-          "organizationEmails": [
-            "mail@bdc.de"
-          ],
-          "websites": [
-            "www.bdc.de"
-          ],
-          "legalRepresentatives": [
-            {
-              "academicDegreeBefore": "Prof. Dr. med. Dr. h. c. ",
-              "commonFirstName": "Hans-Joachim",
-              "lastName": "Meyer",
-              "function": "Präsident",
-              "phoneNumber": "+493028004150",
-              "organizationMemberEmails": [
-                "mail@bdc.de"
-              ]
-            },
-            {
-              "academicDegreeBefore": "Dr. med.",
-              "commonFirstName": "Jörg",
-              "lastName": "Rüggeberg",
-              "function": "Vizepräsident",
-              "phoneNumber": "+493028004150",
-              "organizationMemberEmails": [
-                "mail@bdc.de"
-              ]
-            },
-            {
-              "academicDegreeBefore": "Dr. med.",
-              "commonFirstName": "Peter",
-              "lastName": "Kalbe",
-              "function": "Vizepräsident",
-              "phoneNumber": "+493028004150",
-              "organizationMemberEmails": [
-                "mail@bdc.de"
-              ]
-            }
-          ],
-          "namedEmployees": [
-            {
-              "academicDegreeBefore": "Dr. med.",
-              "commonFirstName": "Friederike",
-              "lastName": "Burgdorf",
-              "academicDegreeAfter": "M. Sc. "
-            }
-          ],
-          "members": 17282,
-          "membersCountDate": "2021-11-01T00:00:00.000Z",
-          "membershipEntries": [
-            "Gemeinschaft Fachärztlicher Berufsverbände"
-          ]
-        },
-        "legislativeProjects": [],
-        "donators": [],
-        "fieldsOfInterest": [
-          {
-            "code": "FOI_HEALTH",
-            "de": "Gesundheit",
-            "en": "Health"
-          },
-          {
-            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
-            "de": "Sonstiges im Bereich „Gesundheit“",
-            "en": "Other in the field of “Health”"
-          },
-          {
-            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
-            "de": "Gesundheitsversorgung",
-            "en": "Health supply"
-          },
-          {
-            "code": "FOI_WORK",
-            "de": "Arbeit und Beschäftigung",
-            "en": "Work and employment"
-          },
-          {
-            "code": "FOI_WORK|FOI_WORK_RIGHT",
-            "de": "Arbeitsrecht/Arbeitsbedingungen",
-            "en": "Work right"
-          }
-        ],
-        "clientOrganizations": [],
-        "clientPersons": [],
-        "registerEntryMedia": [
-          {
-            "type": "ANNUAL_REPORT",
-            "media": {
-              "fileName": "2020-JA-BDCeV-LR-1-0.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/b5/95/2790/2020-JA-BDCeV-LR-1-0.pdf",
-              "mimeType": "application/pdf"
-            }
-          }
-        ],
-        "disclosureRequirementsExist": false,
-        "refuseAnnualFinanceStatement": false,
-        "annualReportExist": true
       }
     },
     {
