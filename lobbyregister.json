@@ -9,8 +9,1088 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 388,
+  "resultCount": 391,
   "results": [
+    {
+      "registerNumber": "R000394",
+      "registerEntryDetail": {
+        "id": 581,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000394",
+          "firstPublicationDate": "2022-02-10T12:32:25.000Z"
+        },
+        "activityDescription": "Beratung von Unternehmen zu Themen politischen und staatlichen Handelns, Vermittlung zu aktuellen politischen Entwicklungen und Zukunftsszenarien. Unterstützung des Dialogs zwischen Unternehmen und Politik/Administration.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "academicDegreeBefore": "Dr.",
+          "commonFirstName": "Ditmar",
+          "lastName": "Staffelt"
+        },
+        "legislativeProjects": [
+          {
+            "name": "BEHG, EEG, RED."
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of “Bundestag”"
+          },
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_AFFAIRS",
+            "de": "Bundeswehrangelegenheiten",
+            "en": "Bundeswehr affairs"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_OTHER",
+            "de": "Sonstiges im Bereich „Verteidigung“",
+            "en": "Other in the field of “Defense”"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_POLICY",
+            "de": "Verteidigungspolitik",
+            "en": "Defense policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Entsorgungswirtschaft,Technologie/Digitalisierung, PPP, Luft-und Raumfahrt."
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "DWS Alternative Global Limited",
+            "phoneNumber": "+442075452010",
+            "address": {
+              "type": "FOREIGN",
+              "internationalAdditional1": "WincestHouse1GreatWinchesterStreet",
+              "internationalAdditional2": "",
+              "city": "London EC2N 2DB",
+              "country": {
+                "code": "GB"
+              }
+            },
+            "legalForm": {
+              "code": "LF_AG",
+              "code_de": "Aktiengesellschaft (AG)",
+              "code_en": "Stock company (AG)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "harold.d'hauteville@dws.com"
+            ],
+            "websites": [
+              "https://www.dws.com"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Harold",
+                "lastName": "d'Hauteville",
+                "function": "Managing Director ",
+                "phoneNumber": "+442075475698",
+                "organizationMemberEmails": [
+                  "harold.d'hauteville@dws.com"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "AKKA Technologies Germany",
+            "phoneNumber": "+4915174633670",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Flugfeldallee",
+              "streetNumber": "12",
+              "zipCode": "71063",
+              "city": "Sindelfingen",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "peter.mehrle@akka.eu"
+            ],
+            "websites": [
+              "https://www.akka-technologies.com"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Peter",
+                "lastName": "Mehrle",
+                "function": "CEO AKKA Deutschland",
+                "phoneNumber": "+4915174631508",
+                "organizationMemberEmails": [
+                  "peter.mehrle@akka.eu"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "EEW EnergyfromWaste",
+            "phoneNumber": "+495351180",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Schöninger Str.",
+              "streetNumber": "2-3",
+              "zipCode": "38350",
+              "city": "Helmstedt",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@eew-energyfromwaste.com"
+            ],
+            "websites": [
+              "https://www.eew-energyfromwaste.com"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Bernard",
+                "lastName": "Kemper",
+                "function": "CEO EEW Energy from Waste GmbH",
+                "phoneNumber": "+495351182266",
+                "organizationMemberEmails": [
+                  "bernard.kemper@eew-energyfromwaste.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000393",
+      "registerEntryDetail": {
+        "id": 1107,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000393",
+          "firstPublicationDate": "2022-02-10T12:24:39.000Z"
+        },
+        "activityDescription": "Der ISZ vertritt als Industrie- und Arbeitgeberverband die branchenspezifischen Interessen der Hersteller und Zulieferer von Schreib- und Zeichengeräten sowie von Produkten des kreativen Gestaltens in Form und Farbe.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_OTHER",
+          "text": "Industrieverband"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Industrieverband Schreiben, Zeichnen, Kreatives Gestalten e.V.",
+          "phoneNumber": "+49911272290",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Fürther Straße",
+            "streetNumber": "17A",
+            "zipCode": "90429",
+            "city": "Nürnberg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@isz-ev.de"
+          ],
+          "websites": [
+            "https://isz-ev.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Laura",
+              "lastName": "Currier",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+49911272290",
+              "organizationMemberEmails": [
+                "laura.currier@ewima-isz.de"
+              ]
+            },
+            {
+              "commonFirstName": "Kamran-Ali",
+              "lastName": "Klee",
+              "function": "Vorsitzender des Vorstandes",
+              "phoneNumber": "+49911272290",
+              "organizationMemberEmails": [
+                "info@isz-ev.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Leitz",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49911272290",
+              "organizationMemberEmails": [
+                "info@isz-ev.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Diehlmann",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49911272290",
+              "organizationMemberEmails": [
+                "info@isz-ev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Hanan",
+              "lastName": "Gürbüzol"
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Weiß"
+            }
+          ],
+          "members": 28,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "vbw"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Gesundheits- und Verbraucherschutz"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "ISZ-Geschaftsbericht-2020-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/98/84/3113/ISZ-Geschaftsbericht-2020-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000392",
+      "registerEntryDetail": {
+        "id": 1658,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000392",
+          "firstPublicationDate": "2022-02-10T12:22:18.000Z"
+        },
+        "activityDescription": "- Monitoring von Gesetzesinitiativen / Parlamentarischen Initiativen\r\n- Organisation von Gesprächen\r\n- Organisation von Dialogformaten\r\n- Erstellen von Positionspapieren\r\n- Begleitung von Anhörungen",
+        "activityOperationType": "MANDATE_OPERATED",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Sänger, Schwarz & Partner Unternehmensberater",
+          "phoneNumber": "+4956095169410",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Schartensweg",
+            "streetNumber": "24",
+            "zipCode": "34292",
+            "city": "Ahnatal",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_PG",
+            "code_de": "Partnerschaftsgesellschaft",
+            "code_en": "Partnership company",
+            "type": "LEGAL_ASSOCIATION"
+          },
+          "organizationEmails": [
+            "info@saengerschwartzpartner.de"
+          ],
+          "websites": [
+            "www.saengerschwartzpartner.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Björn",
+              "lastName": "Sänger",
+              "function": "Partner",
+              "phoneNumber": "+495617055172",
+              "organizationMemberEmails": [
+                "bs@saengerschwartzpartner.de"
+              ]
+            },
+            {
+              "commonFirstName": "Heiko",
+              "lastName": "Schwartz",
+              "function": "Partner",
+              "phoneNumber": "+4956170555172",
+              "organizationMemberEmails": [
+                "hs@saengerschwartzpartner.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INSURANCE",
+            "de": "Versicherungswesen",
+            "en": "Insurance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_POLITICS",
+            "de": "Institutionelle Fragen der EU",
+            "en": "Institutional questions of European politics"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_EXTREMISM",
+            "de": "Extremismusbekämpfung",
+            "en": "Counter extremism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_TERRORISM",
+            "de": "Terrorismusbekämpfung",
+            "en": "Counter terrorism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_ADVERTISEMENT",
+            "de": "Werbung",
+            "en": "Advertising"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_MASS",
+            "de": "Massenmedien",
+            "en": "Mass media"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "EUTOP Europe GmbH ",
+            "phoneNumber": "+49893237000",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Denninger Straße",
+              "streetNumber": "15",
+              "zipCode": "81679",
+              "city": "München",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "eutop@eutop.eu"
+            ],
+            "websites": [
+              "www.eutop.eu"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Walter",
+                "lastName": "Tombrock",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+49893237000",
+                "organizationMemberEmails": [
+                  "eutop@eutop.eu"
+                ]
+              },
+              {
+                "commonFirstName": "Christian",
+                "lastName": "Schaufler",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+49893237000",
+                "organizationMemberEmails": [
+                  "eutop@eutop.eu"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "techreach GmbH",
+            "phoneNumber": "+4994146297731",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Franz-Mayer-Straße",
+              "streetNumber": "1",
+              "zipCode": "93053",
+              "city": "Regensburg",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@anybill.de"
+            ],
+            "websites": [
+              "www.anybill.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Lea",
+                "lastName": "Frank",
+                "function": "Geschäftsführerin",
+                "phoneNumber": "+4994146297731",
+                "organizationMemberEmails": [
+                  "info@anybill.de"
+                ]
+              },
+              {
+                "commonFirstName": "Tobias",
+                "lastName": "Gubo",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4994146297731",
+                "organizationMemberEmails": [
+                  "info@anybill.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "zeb.rolfes.schierenbeck.associates GmbH",
+            "phoneNumber": "+49251971280",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Hammer Straße",
+              "streetNumber": "165",
+              "zipCode": "48153",
+              "city": "Münster",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "muenster@zeb.de"
+            ],
+            "websites": [
+              "www.zeb.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Markus",
+                "lastName": "Thiesmeyer",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+49251971280",
+                "organizationMemberEmails": [
+                  "muenster@zeb.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Evangelische Bank eG",
+            "phoneNumber": "+4980052060410",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Ständeplattz",
+              "streetNumber": "19",
+              "zipCode": "34117",
+              "city": "Kassel",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EG",
+              "code_de": "Eingetragene Genossenschaft (eG)",
+              "code_en": "Registered cooperative (eG)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@eb.de"
+            ],
+            "websites": [
+              "www.eb.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Thomas",
+                "lastName": "Katzenmayer",
+                "function": "Vorsitzender des Vorstands",
+                "phoneNumber": "+4980052060410",
+                "organizationMemberEmails": [
+                  "info@eb.de"
+                ]
+              },
+              {
+                "commonFirstName": "Joachim",
+                "lastName": "Fröhlich",
+                "function": "Vorstand",
+                "phoneNumber": "+4980052060410",
+                "organizationMemberEmails": [
+                  "info@eb.de"
+                ]
+              },
+              {
+                "commonFirstName": "Olaf",
+                "lastName": "Kreuzberg",
+                "function": "Vorstand",
+                "phoneNumber": "+4980052060410",
+                "organizationMemberEmails": [
+                  "info@eb.de"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Verband der Veranstaltungsorganisatoren e.V.",
+            "phoneNumber": "+4930221903680",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Alexanderufer",
+              "streetNumber": "3-7",
+              "zipCode": "10117",
+              "city": "Berlin",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@vdvo.de"
+            ],
+            "websites": [
+              "www.vdvo.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Bernd",
+                "lastName": "Fritzges",
+                "function": "Vorsitzender",
+                "phoneNumber": "+4930221903680",
+                "organizationMemberEmails": [
+                  "info@vdvo.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000391",
       "registerEntryDetail": {
