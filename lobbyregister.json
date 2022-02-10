@@ -9,8 +9,338 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 391,
+  "resultCount": 393,
   "results": [
+    {
+      "registerNumber": "R000396",
+      "registerEntryDetail": {
+        "id": 1564,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000396",
+          "firstPublicationDate": "2022-02-10T12:39:55.000Z"
+        },
+        "activityDescription": "Als selbstständige Beraterin unterstütze ich Unternehmen und Verbände aus den Bereichen/Ressorts Ernährung und Landwirtschaft, Gesundheit, Stadtentwicklung und Bauwesen sowie Kultur und Medien bei ihrer politischen Kommunikation. Dies umfasst die strategische Beratung und inhaltliche Positionierung im politischen Umfeld sowie in speziellen Fällen die konkrete Interessenvertretung in Form von Stellungnahmen, Kontaktanbahnung und Hintergrundgesprächen.\r\n\r\nDen Süßstoff-Verband e.V. unterstütze ich dabei, Süßstoffe in der politischen Debatte als kalorienfreie, sichere und in der Lebensmittelproduktion bewährte Süßungsalternative vorzustellen. Ziel ist es, das Potenzial der kalorienfreie Süße in einer geschmacklich und ernährungsphysiologisch ausgewogenen Ernährung darzulegen.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Annegret",
+          "lastName": "Winzer"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Süßstoff-Verband e.V.",
+            "phoneNumber": "+492203208945",
+            "address": {
+              "type": "POSTBOX",
+              "zipCode": "51127",
+              "city": "Köln",
+              "poxBox": "906085",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@suessstoff-verband.de"
+            ],
+            "websites": [
+              "www.suessstoff-verband.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Isabelle",
+                "lastName": "Begger",
+                "function": "Vorstandsvorsitzende",
+                "phoneNumber": "+491632772443",
+                "organizationMemberEmails": [
+                  "begger@suessstoff-verband.de"
+                ]
+              },
+              {
+                "commonFirstName": "Kai",
+                "lastName": "Klicker-Brunner",
+                "function": "1. stellvertretender Vorsitzender",
+                "phoneNumber": "+491724550838",
+                "organizationMemberEmails": [
+                  "kai.klickerbrunner@pepsico.com"
+                ]
+              },
+              {
+                "commonFirstName": "Jürgen",
+                "lastName": "Meyer",
+                "function": "2. stellvertretender Vorsitzender",
+                "phoneNumber": "+4922021050",
+                "organizationMemberEmails": [
+                  "vorstand@suessstoff-verband.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000395",
+      "registerEntryDetail": {
+        "id": 657,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 700001,
+          "to": 710000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000395",
+          "firstPublicationDate": "2022-02-10T12:36:36.000Z"
+        },
+        "activityDescription": "Der DHV ist der Berufsverband der Hebammen jedweden Geschlechts und die Interessenvertretung der Mitgliedshebammen in den 16 Landesverbänden. Als Interessenvertretung von angestellten und freiberuflichen Hebammen, Lehrenden für Hebammenwesen, Wissenschaftlerinnen*, Familienhebammen, hebammengeleiteten Einrichtungen und werdenden Hebammen in Ausbildung und Studium möchte der DHV eine menschenwürdige Geburtskultur mitgestalten. \r\nDer DHV tritt insbesondere auch ein für \r\n- die Wahrnehmung und Förderung der beruflichen und wirtschaftlichen Interessen aller Hebammen \r\n- die Vertretung der Belange der Hebammen bei Mandatsträgerinnen*, Behörden, Gewerkschaften, Gerichten, Krankenkassen, anderen Berufs-, Standes- und sonstigen Organisationen sowie in der Öffentlichkeit.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Hebammenverband",
+          "phoneNumber": "+493039406770",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Gartenstraße",
+            "streetNumber": "26",
+            "zipCode": "76133",
+            "city": "Karlsruhe",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@hebammenverband.de"
+          ],
+          "websites": [
+            "https://www.hebammenverband.de/startseite/",
+            "https://www.unsere-hebammen.de/",
+            "https://hebammenkongress.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Ulrike",
+              "lastName": "Geppert-Orthofer",
+              "academicDegreeAfter": "MSc",
+              "function": "Präsidentin",
+              "phoneNumber": "+493039406770",
+              "organizationMemberEmails": [
+                "info@hebammenverband.de"
+              ]
+            },
+            {
+              "commonFirstName": "Ursula",
+              "lastName": "Jahn-Zöhrens",
+              "function": "Beirätin für den Selbständigenbereich (Mitglied des Präsidiums)",
+              "phoneNumber": "+493039406770",
+              "organizationMemberEmails": [
+                "info@hebammenverband.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl. Soz.Päd. (FH)",
+              "commonFirstName": "Andrea",
+              "lastName": "Ramsell",
+              "academicDegreeAfter": "MSc ",
+              "function": "Beirätin für den Angestelltenbereich (Mitglied des Präsidiums)",
+              "phoneNumber": "+493039406770",
+              "organizationMemberEmails": [
+                "info@hebammenverband.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof.in Dr.in",
+              "commonFirstName": "Lea",
+              "lastName": "Beckmann",
+              "academicDegreeAfter": "MSc BSc",
+              "function": "Beirätin für den Bildungsbereich (Mitglied des Präsidiums)",
+              "phoneNumber": "+493039406770",
+              "organizationMemberEmails": [
+                "info@hebammenverband.de"
+              ]
+            },
+            {
+              "commonFirstName": "Petra",
+              "lastName": "Kruse",
+              "academicDegreeAfter": "B. Prof. in Bilanzbuchhaltung",
+              "function": "Schatzmeisterin (Mitglied des Präsidiums)",
+              "phoneNumber": "+493039406770",
+              "organizationMemberEmails": [
+                "info@hebammenverband.de"
+              ]
+            },
+            {
+              "commonFirstName": "Vivian",
+              "lastName": "Stehmeier-Denker",
+              "academicDegreeAfter": "BSc",
+              "function": "Schriftführerin (Mitglied des Präsidiums)",
+              "phoneNumber": "+493039406770",
+              "organizationMemberEmails": [
+                "info@hebammenverband.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Eva Marie",
+              "lastName": "Plonske",
+              "academicDegreeAfter": "B.A."
+            }
+          ],
+          "members": 16,
+          "membersCountDate": "2022-02-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Frauenrat - Lobby der Frauen in Deutschland e.V.",
+            "Deutscher Pflegerat e.V.  DPR"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "IB-1-1-04-Compliance-Richtlinie.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/4f/d0/3120/IB-1-1-04-Compliance-Richtlinie.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "DHV-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f1/e1/3121/DHV-Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000394",
       "registerEntryDetail": {
