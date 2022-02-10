@@ -54119,7 +54119,7 @@
     {
       "registerNumber": "R000145",
       "registerEntryDetail": {
-        "id": 909,
+        "id": 1543,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -54135,6 +54135,7 @@
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
         "donationInformationRequired": false,
+        "locationOfReportPublication": " www.bundesanzeiger.de \r\n",
         "account": {
           "registerNumber": "R000145",
           "firstPublicationDate": "2022-01-24T12:06:29.000Z"
@@ -54452,8 +54453,7 @@
         "clientPersons": [],
         "registerEntryMedia": [],
         "disclosureRequirementsExist": true,
-        "annualReportExist": false,
-        "missingAnnualReportReason": ""
+        "annualReportExist": true
       }
     },
     {
