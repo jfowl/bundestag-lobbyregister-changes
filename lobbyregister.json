@@ -30586,7 +30586,7 @@
     {
       "registerNumber": "R000261",
       "registerEntryDetail": {
-        "id": 11,
+        "id": 2006,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 1,
@@ -30608,9 +30608,49 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "commonFirstName": "Hans-Joachim",
-          "lastName": "Reck"
+          "identity": "ORGANIZATION",
+          "name": "Taylor Wessing Part GmbB",
+          "phoneNumber": "+494036803350",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Benrather Straße ",
+            "streetNumber": "15",
+            "zipCode": "40213",
+            "city": "Düsseldorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_PG",
+            "code_de": "Partnerschaftsgesellschaft",
+            "code_en": "Partnership company",
+            "type": "LEGAL_ASSOCIATION"
+          },
+          "organizationEmails": [
+            "m.bell@taylorwessing.com"
+          ],
+          "websites": [
+            "www.taylorwessing.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Hans-Joachim",
+              "lastName": "Reck",
+              "function": "Anwalt / Public Affairs",
+              "phoneNumber": "+491735423088",
+              "organizationMemberEmails": [
+                "h.reck@taylorwessing.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Hans-Joachim",
+              "lastName": "Reck"
+            }
+          ],
+          "membershipEntries": []
         },
         "legislativeProjects": [],
         "donators": [],
@@ -31182,7 +31222,7 @@
             "type": "CODE_OF_CONDUCT",
             "media": {
               "fileName": "Verhaltenskodex-Lobbyarbeit-TW.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/31/b9/2053/Verhaltenskodex-Lobbyarbeit-TW.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/47/b3/3253/Verhaltenskodex-Lobbyarbeit-TW.pdf",
               "mimeType": "application/pdf"
             }
           }
