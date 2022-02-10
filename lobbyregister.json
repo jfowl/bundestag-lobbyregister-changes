@@ -9,8 +9,230 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 380,
+  "resultCount": 381,
   "results": [
+    {
+      "registerNumber": "R000384",
+      "registerEntryDetail": {
+        "id": 1305,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 550001,
+          "to": 560000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000384",
+          "firstPublicationDate": "2022-02-10T08:42:59.000Z"
+        },
+        "activityDescription": "Zweck des Vereins ist die Schaffung, Wahrung und Durchsetzung der Rechte von Betroffenen von Menschenhandel. Menschenhandel ist eine eklatante Menschenrechtsverletzung. Betroffen sind Erwachsene und auch Minderjährige. Menschenhandel kann in verschiedenen Formen und Bereichen erfolgen: sexuelle Ausbeutung; ausbeuterische Arbeitsverhältnisse; Ausbeutung in der Ehe; erzwungene Betteltätigkeit; Ausnutzung strafbarer Handlungen; Organentnahme.\r\nDer KOK strebt die Umsetzung, Verbesserung und Einhaltung nationaler und internationaler Standards sowie menschenrechlticher Verpflichtungen im Umgang mit Betroffenen an. \r\nDer Verein setzt sich für die rechtliche und soziale Gleichstellung von Migrant*inen und Deutschen ein. Schutz vor Menschenhandel und eine Sensibilisierung der Öffentlichkeit hinsichtlich Menschenhandel, (Arbeits-)Ausbeutung und Gewalt im Migrationsprozess sollen bewirkt werden. Die Umsetzung einer Frauen- und Menschenrechtsperspektive in Politik und Gesellschaft gilt es zu erreichen. Unerlässlich ist die (Existen-)Sicherung der Unterstützungsstrukturen für Betroffene.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "KOK - Bundesweiter Koordinierungskreis gegen Menschenhandel e.V.",
+          "phoneNumber": "+493026391176",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Hof 1, Aufgan A",
+            "street": "Lützowstraße",
+            "streetNumber": "102-104",
+            "zipCode": "10785",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@kok-buero.de"
+          ],
+          "websites": [
+            "https://www.kok-gegen-menschenhandel.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Sophia",
+              "lastName": "Wirsching",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+493026391176",
+              "organizationMemberEmails": [
+                "s.wirsching@kok-buero.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 39,
+          "membersCountDate": "2022-01-24T00:00:00.000Z",
+          "membershipEntries": [
+            "Forum Menschenrechte, Allianz für Rechtssicherheit, Deutsches Institut für Menschenrechte e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "description": "Durchsetzung der Opferrechte und nachhaltige Bekämpfung von Menschenhandel; kontinuierliche Stärkung der Unterstützungsstruktur durch Informationsarbeit und Wissenstransfer und innovative Maßnahmen; Festigung und sektorübergreifender Ausbau der Vernetzung im Bereich Menschenhandel mit Blick auf alte und neue Straftatbestände; rechte basierte Lobby und Advocacyarbeit\r\n\r\n",
+            "location": "Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 480001,
+              "to": 490000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration",
+            "description": "Flucht & Menschenhandel - Sensibilisierung, Prävention und Schutz",
+            "location": "Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 70001,
+              "to": 80000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_VICTIM_PROTECTION",
+            "de": "Opferschutz",
+            "en": "Victim protection"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_INTEGRATION",
+            "de": "Integration",
+            "en": "Integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_LAWS",
+            "de": "Ausländer- und Aufenthaltsrecht",
+            "en": "Foreign laws"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_OTHER",
+            "de": "Sonstiges im Bereich „Migration, Flüchtlingspolitik und Integration“",
+            "en": "Other in the field of “Migration, refugee policy and integration”"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_REFUGEE",
+            "de": "Asyl und Flüchtlingsschutz",
+            "en": "Asylum and refugee protection"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_GENDER",
+            "de": "Geschlechterpolitik",
+            "en": "Gender politics"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_OTHER",
+            "de": "Sonstiges im Bereich „Gesellschaftspolitik und soziale Gruppen“",
+            "en": "Other in the field of “Social politics and social groups”"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of “Social security”"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "SuSa-2020-Lexware-Buchhaltung-31-12-2020-KOK.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f9/3c/3034/SuSa-2020-Lexware-Buchhaltung-31-12-2020-KOK.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000383",
       "registerEntryDetail": {
