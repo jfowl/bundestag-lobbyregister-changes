@@ -9,8 +9,144 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 399,
+  "resultCount": 400,
   "results": [
+    {
+      "registerNumber": "R000403",
+      "registerEntryDetail": {
+        "id": 413,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000403",
+          "firstPublicationDate": "2022-02-10T15:42:07.000Z"
+        },
+        "activityDescription": "Zweck des Verbands ist die Wahrnehmung der gemeinsamen ideellen und wirtschaftlichen Interessen seiner Mitglieder gegenüber nationalen und internationalen Behörden und den übrigen Verbänden der Wirtschaft, insbesondere auch die Vertretung seiner Mitglieder in nationalen und internationalen \r\nWirtschaftsverbänden.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Wirtschaftsverband Häute/Leder (WHL) e. V.",
+          "phoneNumber": "+4930590099559",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Wirtschaftsverband Häute/Leder",
+            "street": "Am Weidendamm",
+            "streetNumber": "1A",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "whl@bga.de"
+          ],
+          "websites": [
+            "www.whl-verband.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Toni",
+              "lastName": "Baltes",
+              "function": "Vorsitzender des Vorstandes",
+              "phoneNumber": "+49243498060",
+              "organizationMemberEmails": [
+                "tb@aplusb-hides.de"
+              ]
+            },
+            {
+              "commonFirstName": "Bernhard",
+              "lastName": "Gronegger",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+4983319250970",
+              "organizationMemberEmails": [
+                "bernhard.gronegger@besthides.biz"
+              ]
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Seybold",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+4990722482",
+              "organizationMemberEmails": [
+                "martinseyboldek@t-online.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Sebastian",
+              "lastName": "Werren"
+            }
+          ],
+          "members": 13,
+          "membersCountDate": "2022-01-06T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Großhandel, Außenhandel, Dienstleistungen e.V.",
+            "International Council of Hides Skins & Leather Traders Associations"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "GuV-Bilanz-2022-02-10.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/fa/15/3216/GuV-Bilanz-2022-02-10.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000402",
       "registerEntryDetail": {
