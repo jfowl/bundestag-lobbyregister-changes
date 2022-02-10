@@ -9,8 +9,194 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 400,
+  "resultCount": 401,
   "results": [
+    {
+      "registerNumber": "R000404",
+      "registerEntryDetail": {
+        "id": 903,
+        "clientIdentity": "BOTH",
+        "employeeCount": {
+          "from": 21,
+          "to": 30
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "Der WFVD hat keine Zuwendungen. Die für den Betrieb des Verbandes erforderlichen Ausgaben werden über Fach-Veranstaltungen/-Zeitschrift etc. selbst erwirtschaftet ",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000404",
+          "firstPublicationDate": "2022-02-10T16:14:59.000Z"
+        },
+        "activityDescription": "Interessenvertretung des Betrieblichen Brandschutzes \r\n \r\nDie Werk- und Betriebsfeuerwehren sowie die betrieblichen Brandschutzbeauftragten haben im Rahmen der dem Brandschutz dienenden Organisation eine besondere Aufgabe. Neben den allgemeinen Brandschutzaufgaben ist durch die betriebliche Brandschutzorganisation den speziellen betrieblichen Risiken Rechnung zu tragen. Dabei kommt dem vorbeugenden Brandschutz, der Gefahrenabwehr, dem betrieblichen Rettungswesen sowie der Notfallvorsorge,  -organisation und -nachsorge besondere Bedeutung zu. \r\n \r\nInfolge der betriebsspezifischen Gegebenheiten lassen sich die für öffentliche Feuerwehren aufgestellten Grundsätze und Richtlinien nicht ohne weiteres auf Werk- und Betriebsfeuerwehren übertragen. \r\n \r\nDie Werk- und Betriebsfeuerwehren benötigen daher eine eigene Organisation zum Zwecke der Interessenvertretung und des Erfahrungsaustausches. Nachdem die entsprechenden Organisationen auf der Ebene der Bundesländer weitgehend vorhanden sind, stellt der Bundesverband Betrieblicher Brandschutz Werkfeuerwehrverband Deutschland e.V. die bündelnde, länderübergreifende Vertretung auf Bundesebene dar. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Betrieblicher Brandschutz Werkfeuerwehrverband Deutschland e.V.",
+          "phoneNumber": "+4915168009462",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o Deutscher Feuerwehrverband",
+            "street": "Reinhardtstrasse",
+            "streetNumber": "25",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "raimund.buecher@henkel.com",
+            "r.buecher@wfvd.de"
+          ],
+          "websites": [
+            "wfvd.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Raimund",
+              "lastName": "Bücher",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4915168009463",
+              "organizationMemberEmails": [
+                "raimund.buecher@henkel.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Christ"
+            }
+          ],
+          "members": 23,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Feuerwehrwehrverband (DFV)",
+            "Verein zur Förderung des deutschen Brandschutzes e.V. (vfdb)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Betrieblicher Brandschutz"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Bundesverband Betrieblicher Brandschutz Werkfeuerwehrverband Deutschland e.V.",
+            "phoneNumber": "+4915168009462",
+            "address": {
+              "type": "NATIONAL",
+              "nationalAdditional1": "C/o Deutscher Feuerwehrverband",
+              "street": "Reinhardtstrasse",
+              "streetNumber": "25",
+              "zipCode": "01117",
+              "city": "Berlin",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "r.buecher@wfvd.de"
+            ],
+            "websites": [
+              "wfvd.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "commonFirstName": "Raimund",
+                "lastName": "Bücher",
+                "function": "Vorsitzender",
+                "phoneNumber": "+4915168009462",
+                "organizationMemberEmails": [
+                  "r.buecher@wfvd.de"
+                ]
+              },
+              {
+                "academicDegreeBefore": "Dipl-Ing.",
+                "commonFirstName": "Rolf",
+                "lastName": "Fünning",
+                "function": "stellvertretender Vorsitzender",
+                "phoneNumber": "+491726448539",
+                "organizationMemberEmails": [
+                  "r.fuenning@wfvd.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [
+          {
+            "academicDegreeBefore": "Dipl.-Ing.",
+            "commonFirstName": "Raimund",
+            "lastName": "Bücher"
+          }
+        ],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Der Jahresbericht ist nicht öffentlich"
+      }
+    },
     {
       "registerNumber": "R000403",
       "registerEntryDetail": {
