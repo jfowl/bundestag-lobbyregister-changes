@@ -9,8 +9,220 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 406,
+  "resultCount": 407,
   "results": [
+    {
+      "registerNumber": "R000411",
+      "registerEntryDetail": {
+        "id": 801,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 160001,
+          "to": 170000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000411",
+          "firstPublicationDate": "2022-02-11T10:26:28.000Z"
+        },
+        "activityDescription": "Als bundesweiter Verband der bedeutenden und innovativen Chemiefaserhersteller in Deutschland, Österreich und der Schweiz engagiert sich die Industrievereinigung Chemiefaser e.V. (IVC) seit mehr als 60 Jahren für die gemeinsamen wirtschaftlichen, technischen, ökologischen und ideellen Interessen ihrer Mitglieder und informiert rund um das Thema Chemiefasern. \r\n\r\nDie IVC versteht sich als Sprachrohr der Chemiefaserbranche und ist Bindeglied zwischen ihren Mitgliedern und der Politik sowie wissenschaftlichen Instituten und fachkundiger Ansprechpartner rund um das Thema Chemiefasern. \r\n\r\nDie IVC bezieht keine finanziellen Mittel oder Spenden aus öffentlicher Hand und ist deshalb politisch unabhängig.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Industrievereinigung Chemiefaser e.V. (IVC)",
+          "phoneNumber": "+496927997133",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mainzer Landstraße",
+            "streetNumber": "55",
+            "zipCode": "60329",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "Rauch@IVC-eV.de"
+          ],
+          "websites": [
+            "IVC-eV.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Holz",
+              "function": "Vorsitzender",
+              "phoneNumber": "+496927997130",
+              "organizationMemberEmails": [
+                "Klaus.Holz@Trevira.com"
+              ]
+            },
+            {
+              "commonFirstName": "Dr. Till",
+              "lastName": "Boldt",
+              "function": "Schatzmeister und stv. Vorsitzender",
+              "phoneNumber": "+496927997130",
+              "organizationMemberEmails": [
+                "Till.Boldt@ENKA.de"
+              ]
+            },
+            {
+              "commonFirstName": "Werner",
+              "lastName": "Häller",
+              "function": "stv. Vorsitzender",
+              "phoneNumber": "+496927997130",
+              "organizationMemberEmails": [
+                "Werner.Haeller@Monosuisse.com"
+              ]
+            },
+            {
+              "commonFirstName": "Dr. Wilhelm",
+              "lastName": "Rauch",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+496927997133",
+              "organizationMemberEmails": [
+                "Rauch@IVC-eV.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jochen",
+              "lastName": "Ballach"
+            }
+          ],
+          "members": 16,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Verband der chemischen Industrie e.V. (VCI)",
+            "Institut der deutschen Wirtschaft Köln e.V. (IW Köln)",
+            "Forschungskuratorium Textil e.V. (FKT)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000410",
       "registerEntryDetail": {
@@ -12218,7 +12430,7 @@
     {
       "registerNumber": "R000357",
       "registerEntryDetail": {
-        "id": 2381,
+        "id": 2383,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -12249,7 +12461,7 @@
         "lobbyistIdentity": {
           "identity": "ORGANIZATION",
           "name": "Bund Getränkeverpackungen der Zukunft GbR",
-          "phoneNumber": "+491757463936",
+          "phoneNumber": "+4930700140420",
           "address": {
             "type": "NATIONAL",
             "street": "Unter den Linden",
@@ -12280,7 +12492,7 @@
               "commonFirstName": "Martin",
               "lastName": "Gerig",
               "function": "Geschäftsführer",
-              "phoneNumber": "+491757463936",
+              "phoneNumber": "+4930700140420",
               "organizationMemberEmails": [
                 "martin.gerig@bgvz.de"
               ]
@@ -12289,7 +12501,7 @@
               "commonFirstName": "Sebastian",
               "lastName": "Frevel",
               "function": "Stellvertretender Geschäftsführer",
-              "phoneNumber": "+491721898034",
+              "phoneNumber": "+4930700140420",
               "organizationMemberEmails": [
                 "sebastian.frevel@bgvz.de"
               ]
