@@ -9,8 +9,379 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 412,
+  "resultCount": 414,
   "results": [
+    {
+      "registerNumber": "R000418",
+      "registerEntryDetail": {
+        "id": 197,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000418",
+          "firstPublicationDate": "2022-02-11T12:22:50.000Z"
+        },
+        "activityDescription": "Vertretung der gemeinsamen wirtschaftlichen und technischen Interessen von Herstellern und Vertreibern von pyrotechnischen Gegenständen, insbesondere Feuerwerkskörpern.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband der pyrotechnischen Industrie (VPI)",
+          "phoneNumber": "+492102186200",
+          "address": {
+            "type": "NATIONAL",
+            "street": "An der Pönt ",
+            "streetNumber": "48",
+            "zipCode": "40885",
+            "city": "Ratingen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_NATIONAL",
+            "code_de": "Andere Rechtsform nach deutschem Recht",
+            "code_en": "Other legal form according to German law",
+            "type": "OTHER_ASSOCIATION_OF_PERSONS",
+            "legalFormText": "Fachabteilung des Fachverbandes Industrie verschiedener Eisen- und Stahlwaren e.V."
+          },
+          "organizationEmails": [
+            "info@feuerwerk-vpi.de"
+          ],
+          "websites": [
+            "www.feuerwerk-vpi.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Schreiber",
+              "function": "Vorsitzender",
+              "phoneNumber": "+492102186200",
+              "organizationMemberEmails": [
+                "info@feuerwerk-vpi.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Gotzen"
+            }
+          ],
+          "members": 21,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "European Fireworks Association",
+            "Fachverband Industrie verschiedener Eisen- und Stahlwaren e.V"
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "Sprengstoffgesetz; Erste Verordnung zum Sprengstoffgesetz; Zweite Verordnung zum Sprengstoffgesetz"
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_COOPERATION",
+            "de": "Polizeiliche und justizielle Zusammenarbeit in der EU",
+            "en": "Police and judicial cooperation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000417",
+      "registerEntryDetail": {
+        "id": 1061,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 30001,
+          "to": 40000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000417",
+          "firstPublicationDate": "2022-02-11T12:21:37.000Z"
+        },
+        "activityDescription": "Wahrnehmung der gemeinsamen wirtschaftlichen, technischen und ideellen Fachinteressen der deutschen Jagd-, Sportwaffen und Munitionsindustrie.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband der Hersteller von Jagd-, Sportwaffen und Munition (JSM)",
+          "phoneNumber": "+492102186200",
+          "address": {
+            "type": "NATIONAL",
+            "street": "An der Pönt ",
+            "streetNumber": "48",
+            "zipCode": "40885",
+            "city": "Ratingen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_NATIONAL",
+            "code_de": "Andere Rechtsform nach deutschem Recht",
+            "code_en": "Other legal form according to German law",
+            "type": "OTHER_ASSOCIATION_OF_PERSONS",
+            "legalFormText": "Fachabteilung des Fachverbandes Industrie verschiedener Eisen- und Stahlwaren e.V. "
+          },
+          "organizationEmails": [
+            "info@jsm-waffen.de"
+          ],
+          "websites": [
+            "info@jsm-waffen.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Olaf",
+              "lastName": "Sauer",
+              "function": "Präsident",
+              "phoneNumber": "+492102186200",
+              "organizationMemberEmails": [
+                "info@jsm-waffen.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Gotzen"
+            }
+          ],
+          "members": 50,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "IEACS, l’Institut Européen des Armes de Chasse et de Sport",
+            "World Forum on the Future of Sport Shooting Activities (WFSA)",
+            "Fachverband Industrie verschiedener Eisen- und Stahlwaren e.V. (IVEST)  "
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "Waffengesetz; Allgemeine Waffengesetz Verordnung; Beschussgesetz; Beschussverordnung; Außenwirtschaftsgesetz; Außenwirtschaftsverordnung"
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_OTHER",
+            "de": "Sonstiges im Bereich „Verteidigung“",
+            "en": "Other in the field of “Defense”"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_POLICY",
+            "de": "Verteidigungspolitik",
+            "en": "Defense policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000416",
       "registerEntryDetail": {
