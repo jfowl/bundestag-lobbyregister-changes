@@ -9,8 +9,278 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 405,
+  "resultCount": 406,
   "results": [
+    {
+      "registerNumber": "R000410",
+      "registerEntryDetail": {
+        "id": 2062,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 620001,
+          "to": 630000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000410",
+          "firstPublicationDate": "2022-02-11T10:19:05.000Z"
+        },
+        "activityDescription": "PlasticsEurope Deutschland e. V. ist der Verband der Kunststofferzeuger in Deutschland. Wir sind ein Fachverband des Verbandes der Chemischen Industrie (VCI) und Teil des europäischen Netzwerks Plastics Europe mit Vertretung in Brüssel und den europäischen Wirtschaftszentren- und Hauptstädten. Wir vertreten die politischen und wirtschaftlichen Interessen unserer Mitgliedsunternehmen.\r\nDie Kunststoffindustrie befindet sich in einer umfassenden Transformation zur Kreislaufwirtschaft. Das Ziel der Kreislaufwirtschaft ist, es Kunststoffe so effizient und lange wie möglich zu nutzen und anschließend wieder zurückzugewinnen. Deshalb wird der gesamte Lebensweg eines Kunststoffs von Beginn an mitgedacht: Von der Rohstoffgewinnung über die Herstellung, Verarbeitung und Nutzung bis hin zur Wiederverwertung.\r\nDie Transformation zur Kreislaufwirtschaft erfordert Entschlossenheit, interdisziplinäres Denken und neue Ideen. Dafür ist ein gutes Zusammenspiel unterschiedlicher Akteure der Wirtschaft, Politik und einer Vielzahl an gesellschaftlichen Gruppen wichtig.\r\nDerzeit arbeiten in der Kunststoffindustrie EU-weit mehr als 1,5 Millionen Menschen in etwa 55.000 Unternehmen. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "PlasticsEurope Deutschland e.V. ",
+          "phoneNumber": "+496925561303",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mainzer Landstraße",
+            "streetNumber": "55",
+            "zipCode": "60329",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "connect.de@plasticseurope.org"
+          ],
+          "websites": [
+            "plasticseurope.org/de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Michael",
+              "lastName": "Zobel",
+              "function": "Vorsitzender des Vorstandes",
+              "phoneNumber": "+496925561300",
+              "organizationMemberEmails": [
+                "vorsitzender-vorstand@plasticseurope.de"
+              ]
+            },
+            {
+              "commonFirstName": "Tassilo",
+              "lastName": "Bader",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+496925561300",
+              "organizationMemberEmails": [
+                "vorsitzender-stellvertreter1@plasticseurope.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Sommer",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+496925561300",
+              "organizationMemberEmails": [
+                "vorsitzender-stellvertreter2@plasticseurope.de"
+              ]
+            },
+            {
+              "commonFirstName": "Philip O.",
+              "lastName": "Krahn",
+              "function": "Schatzmeister",
+              "phoneNumber": "+496925561300",
+              "organizationMemberEmails": [
+                "schatzmeister@plasticseurope.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Ingemar",
+              "lastName": "Bühler"
+            },
+            {
+              "commonFirstName": "Carolina",
+              "lastName": "Hupfer"
+            },
+            {
+              "commonFirstName": "Henning",
+              "lastName": "Schmidt"
+            }
+          ],
+          "members": 49,
+          "membersCountDate": "2022-02-04T00:00:00.000Z",
+          "membershipEntries": [
+            "Verband der Chemischen Industrie e.V.",
+            "WIP-Kunststoffe e.V.",
+            "kunststoffland NRW e.V. ",
+            "DGNB Deutsche Gesellschaft für nachhaltiges Bauen e.V.",
+            "Lebensmittelverband Deutschland e.V.",
+            "Bundesverband Meeresmüll e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Bericht-uber-die-Prufung-der-Jahresrechnung-PlasticsEurope-Deutschland-e-V-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d5/12/3349/Bericht-uber-die-Prufung-der-Jahresrechnung-PlasticsEurope-Deutschland-e-V-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Verhaltenskodex-PlasticsEurope-Deutschland-eV.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/53/ec/3350/Verhaltenskodex-PlasticsEurope-Deutschland-eV.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000409",
       "registerEntryDetail": {
@@ -25441,7 +25711,7 @@
     {
       "registerNumber": "R000294",
       "registerEntryDetail": {
-        "id": 1093,
+        "id": 2623,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -25449,8 +25719,8 @@
         },
         "refuseFinancialExpensesInformation": false,
         "financialExpensesEuro": {
-          "from": 10001,
-          "to": 20000,
+          "from": 50001,
+          "to": 60000,
           "fiscalYearStart": "01/21",
           "fiscalYearEnd": "12/21"
         },
@@ -25603,7 +25873,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "BTB-Jahresabschluss-2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/7a/4a/2308/BTB-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/21/65/3346/BTB-Jahresabschluss-2020.pdf",
               "mimeType": "application/pdf"
             }
           }
