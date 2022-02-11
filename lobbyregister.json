@@ -9,8 +9,415 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 426,
+  "resultCount": 428,
   "results": [
+    {
+      "registerNumber": "R000432",
+      "registerEntryDetail": {
+        "id": 1531,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 21,
+          "to": 30
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000432",
+          "firstPublicationDate": "2022-02-11T16:20:05.000Z"
+        },
+        "activityDescription": "Im August 2012 wurde der Cyber-Sicherheitsrat Deutschland e.V. von namhaften Persönlichkeiten gegründet. Der in Berlin ansässige Verein ist politisch neutral und hat zum Zweck Unternehmen, Behörden und politische Entscheidungsträger im Bereich Cybersicherheit zu beraten und im Kampf gegen die Cyber-Kriminalität zu stärken.\r\n\r\nZu den Mitgliedern des Vereins zählen große und mittelständische Unternehmen, Betreiber kritischer Infrastrukturen, zahlreiche Bundesländer, Kommunen sowie Experten und politische Entscheider mit Bezug zum Thema Cybersicherheit. Über seine Mitglieder repräsentiert der Verein mehr als drei Millionen Arbeitnehmer aus der Wirtschaft und knapp zwei Millionen Mitglieder anderer Verbände und Vereine. Der Cyber-Sicherheitsrat Deutschland e.V. informiert und unterstützt mit vielfältigen Angeboten seine Mitglieder und richtet seine Tätigkeiten an deren operativen und betrieblichen Bedürfnissen aus.\r\n\r\nDer Cyber-Sicherheitsrat Deutschland e.V. verfolgt folgende Ziele:\r\n- Intensivierung der Zusammenarbeit zwischen Politik, öffentlicher Verwaltung, Wirtschaft und Wissenschaft zur Verbesserung des IT-Schutzes\r\n- Initiativen und Projekte zur Förderung des Bewusstseins für Cyber-Sicherheit\r\n- Aufbau eines deutschlandweiten Cyber-Sicherheitsnetzwerkes in einem europäischen und internationalen Kontext\r\n- Wissensplattform, Forum und Netzwerk für Vereinsmitglieder\r\n\r\nTätigkeit:\r\n- Informationsveranstaltungen und Diskussionsrunden zum Thema Cyber-Sicherheit\r\n- Branchen- oder themenbezogene Arbeitskreise zur Erarbeitung von Lösungsansätzen\r\n- Neutrale Plattform und Netzwerk zur Identifizierung von Kooperationspartnern\r\n- Beratung politischer Entscheidungsträger\r\n- Auslandsreisen zum internationalen Austausch mit Entscheidungsträgern und Unternehmensführungen zum Thema Cyber-Sicherheit\r\n- Organisation von Schulungen über IT-Schutz\r\n- Awareness-Kampagnen\r\n- Erstellung von Studien, Analysen und Artikeln\r\n- Kommentierung von Gesetzen oder Gesetzentwürfen",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Cyber-Sicherheitsrat Deutschland e.V.",
+          "phoneNumber": "+493067936526",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o 18TH Floor",
+            "street": "Hardenbergstraße",
+            "streetNumber": "27",
+            "zipCode": "10623",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "harthun@cybersicherheitsrat.de",
+            "info@cybersicherheitsrat.de"
+          ],
+          "websites": [
+            "www.cybersicherheitsrat.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Hans-Wilhelm",
+              "lastName": "Dünn",
+              "function": "Präsident",
+              "phoneNumber": "+493067936528",
+              "organizationMemberEmails": [
+                "duenn@cybersicherheitsrat.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. Dr.",
+              "commonFirstName": "Werner",
+              "lastName": "Weidenfeld",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493067936528",
+              "organizationMemberEmails": [
+                "werner.weidenfeld@t-online.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Hannes",
+              "lastName": "Harthun"
+            }
+          ],
+          "members": 119,
+          "membersCountDate": "2022-01-27T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband mittelständische Wirtschaft, Unternehmerverband Deutschlands e.V.",
+            "Internationaler Wirtschaftsrat e. V.",
+            "Wirtschaftsrat der CDU e.V.     "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INSURANCE",
+            "de": "Versicherungswesen",
+            "en": "Insurance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_ORGANIZATION",
+            "de": "Staatsorganisation",
+            "en": "State organization"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_SERVICE",
+            "de": "Öffentlicher Dienst und öffentliche Verwaltung",
+            "en": "Public service"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000431",
+      "registerEntryDetail": {
+        "id": 1717,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000431",
+          "firstPublicationDate": "2022-02-11T16:14:08.000Z"
+        },
+        "activityDescription": "Zweck des Verbandes ist:\r\n1. Die Vertretung der allgemeinen aus der beruflichen Tätigkeit erwachsenden ideellen und wirtschaftlichen Interessen des Berufsstandes der HNO-Ärzte, einschließlich der Verfolgung berufsrechtswidriger Handlungen sowie der Bekämpfung unlauteren Wettbewerbs und die Darstellung der HNO-Heilkunde bei Behörden, ärztlichen und sonstigen Organisationen, insbesondere den Ärztekammern und den Kassenärztlichen Vereinigungen.\r\n2. Die Wahrnehmung der Interessen der Mitglieder in der Öffentlichkeit und ihre Beratung in beruflichen Angelegenheiten.\r\n3. Die Förderung einer berufsnahen Fortbildung durch eigene Veranstaltungen oder durch Unterstützung solcher Veranstaltungen anderer Organisationen.\r\n4. Der Verband verfolgt mit der Förderung der besonderen Interessen seiner Mitglieder ausschließlich und unmittelbar gemeinnützige Ziele. Der Verband ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Verbandes dürfen nur für satzungsmäßige Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Verbandes. Keine Person darf durch Verwaltungsausgaben, die den Zwecken des Verbandes fremd sind, oder durch unverhältnismäßig hohe Vergütung begünstigt werden.\r\n5. Der Verband wird nicht in Gewinnerzielungsabsicht tätig.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Landesverband der Hals-, Nasen- und Ohrenärzte Rheinland-Pfalz .e.V.",
+          "phoneNumber": "+4967141020",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "LV d. HNO-Ärzte RLP e.V.",
+            "nationalAdditional2": "c/o Dt. BV d. HNO-Ärzte e.V.",
+            "street": "Haart",
+            "streetNumber": "221",
+            "zipCode": "24539",
+            "city": "Neumünster",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@hno-bad-kreuznach.de"
+          ],
+          "websites": [
+            "www.hno-aerzte.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "PD Dr. med.",
+              "commonFirstName": "Christoph",
+              "lastName": "Aletsee",
+              "function": "Vorsitzende",
+              "phoneNumber": "+4967141020",
+              "organizationMemberEmails": [
+                "berufsverband@hno-aerzte.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Holger",
+              "lastName": "Heinritz",
+              "function": "stellv. Vorsitzender",
+              "phoneNumber": "+49673196410",
+              "organizationMemberEmails": [
+                "berufsverband@hno-aerzte.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Carsten",
+              "lastName": "Thorn"
+            },
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Carsten",
+              "lastName": "Fachinger"
+            }
+          ],
+          "members": 187,
+          "membersCountDate": "2022-01-19T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Berufsverband der Hals-, Nasen- und Ohrenärzte e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "kein eigener Haushalt"
+      }
+    },
     {
       "registerNumber": "R000430",
       "registerEntryDetail": {
@@ -83062,7 +83469,7 @@
     {
       "registerNumber": "R000027",
       "registerEntryDetail": {
-        "id": 93,
+        "id": 2722,
         "clientIdentity": "",
         "employeeCount": {
           "from": 11,
@@ -83077,7 +83484,7 @@
         },
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
-        "donationInformationRequired": true,
+        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000027",
           "firstPublicationDate": "2022-01-10T11:02:29.000Z"
@@ -83091,35 +83498,100 @@
         },
         "codexViolation": false,
         "lobbyistIdentity": {
-          "identity": "NATURAL",
-          "academicDegreeBefore": "Dr.",
-          "commonFirstName": "Kambiz",
-          "lastName": "Ghawami"
+          "identity": "ORGANIZATION",
+          "name": "World University Service, Deutsches Komitee e.V.",
+          "phoneNumber": "+49611446648",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Goebenstraße",
+            "streetNumber": "35",
+            "zipCode": "65195",
+            "city": "Wiesbaden",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "ghawami@wusgermany.de",
+            "info@wusgermany.de"
+          ],
+          "websites": [
+            "www.wusgermany.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kambiz",
+              "lastName": "Ghawami",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4961144648",
+              "organizationMemberEmails": [
+                "ghawami@wusgermany.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 116,
+          "membersCountDate": "2021-11-05T00:00:00.000Z",
+          "membershipEntries": [
+            "VENRO - Verband Entwicklungspolitik und humanitäre Hilfe"
+          ]
         },
         "legislativeProjects": [],
         "donators": [
           {
-            "name": "WUS erhält öffentliche Zuschüsse von allen 16 Bundesländern, dem  BMZ und der evangelischen Kirche.",
-            "description": "Die öffentlichen Zuschüsse wurden 2020 eingesetzt für die Projektbereiche: Informationsstelle Bildungsauftrag Nord-Süd, Portal Globales Lernen, Portal der Länder, Projekt Grenzenlos, Studienbegleitprogramm für ausländische Studierende an hessischen Hochschulen, Deutsch Vietnamesische Hochschule, Sur Place Stipendienprogramme in Vietnam, Mali und Stipendiatenbetreuung in Deutschland.",
-            "location": "bundesweit",
+            "name": "Engagement Global",
+            "description": "Mittel zur Förderung der entwicklungsbezogenen Bildungsarbeit:\r\nProjekt: Informationsstelle Bildungsauftrag Nord-Süd\r\nProjekt: Grenzenlos - Globales Lernen in der Beruflichen Bildung\r\nProjekt: Portal Globales Lernen - EWIK",
+            "location": "Bonn/Berlin",
             "fiscalYearStart": "01/20",
             "fiscalYearEnd": "12/20",
             "donationEuro": {
-              "from": 1790001,
-              "to": 1800000
+              "from": 320001,
+              "to": 330000
             },
             "categoryType": "PUBLIC_ALLOWANCES"
           },
           {
-            "name": "Mehr als 100 Einzelspenderinnen und Spender",
-            "description": "WUS hat von mehr als 100 Einzelspenderinnen und Spendern Spenden erhalten für die Unterstützung von Schulen und Bildungseinrichtungen in Lateinamerika, Afrika und Asien. ",
+            "name": "Hessischen Ministerium für Wirtschaft, Energie, Verkehr und Wohnen",
+            "description": "Förderung der Entwicklungszusammenarbeit mit den Schwerpunktländern, Vietnam, Albanien",
+            "location": "Wiesbaden, Hessen, Deutschland",
             "fiscalYearStart": "01/20",
             "fiscalYearEnd": "12/20",
             "donationEuro": {
-              "from": 50001,
-              "to": 60000
+              "from": 90001,
+              "to": 100000
             },
-            "categoryType": "DONATIONS"
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Hessisches Ministerium für Wissenschaft und Kunst",
+            "description": "Mittel aus dem Bereich der Entwicklungszusammenarbeit mit Schwerpunkt Wissenschaftsförderung:\r\no Aufbau der Deutsch - Vietnamesischen Hochschule\r\no Sur Place Stipendienprogramme in Mali, Vietnam, \r\no Notfonds förderung für ausländische Studierende in Lateinamerika, Afrika und Asien in Hessen\r\no Hessenfonds - Stipendien für geflüchtete und verfolgte Studierende",
+            "location": "Wiesbaden, Hessen, Deutschland",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 10030001,
+              "to": 10040000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Ministerium für Wirtschaft, Tourismus, landwirtschaft und Forsten des Landes Sachsen-Anhalt",
+            "description": "Zuschuss im Bereich der humantitären Hilfe: Trinkwasserversorgung in Schulen in Vietnam - Paul wasserrucksack",
+            "location": "Magdeburg, Sachsen-Anhalt, Deutschland",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
           }
         ],
         "fieldsOfInterest": [
@@ -83176,7 +83648,19 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": []
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "WUS-Finanzbericht-2020-kurz.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7f/43/3484/WUS-Finanzbericht-2020-kurz.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
       }
     },
     {
