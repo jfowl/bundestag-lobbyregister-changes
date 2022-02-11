@@ -9,8 +9,399 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 407,
+  "resultCount": 409,
   "results": [
+    {
+      "registerNumber": "R000413",
+      "registerEntryDetail": {
+        "id": 2119,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000413",
+          "firstPublicationDate": "2022-02-11T11:22:09.000Z"
+        },
+        "activityDescription": "Kontakt zu Parlamentariern und Verwaltung um:\r\n* Förderprojekte zu initiieren\r\n* Gesetzesvorhaben zu kommentieren\r\n* Gesetztes -vorhaben / -änderungen zu initiieren\r\n* Konzepte in den angesprochenen Politikbereichen zu entwickeln und zu diskutieren \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "academicDegreeBefore": "Dr. ",
+          "commonFirstName": "Volker",
+          "lastName": "Lodwig"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NUCLEAR",
+            "de": "Atomenergie",
+            "en": "Nuclear power"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "EIT Health eV",
+            "phoneNumber": "+4989215474820",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Mies-Van-Der-Rohe-Straße",
+              "streetNumber": "1C",
+              "zipCode": "80807",
+              "city": "München",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@eithealth.eu"
+            ],
+            "websites": [
+              "www.eithealth.eu"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Jan-Philipp",
+                "lastName": "Beck",
+                "function": "CEO",
+                "phoneNumber": "+4989215474820",
+                "organizationMemberEmails": [
+                  "Jan-Philipp.Beck@EITHEALTH.EU"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000412",
+      "registerEntryDetail": {
+        "id": 1502,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 70001,
+          "to": 80000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000412",
+          "firstPublicationDate": "2022-02-11T11:11:11.000Z"
+        },
+        "activityDescription": "Der Deutsche Berufsverband der Hals-Nasen-Ohrenärzte e.V. vertritt die ideellen und wirtschaftlichen Interessen der HNO-Ärztinnen und -Ärzte in Praxis und Klinik. Zu seinen Tätigkeitsschwerpunkten zählen die fachliche Beratung von ärztlichen Organisationen, wie Ärztekammern und Kassenärztlichen Vereinigungen sowie von Politik und anderen öffentlichen Einrichtungen. Der Verband unterstützt seine Mitglieder bei allen beruflichen Belangen und fördert mit der Organisation eigener Fortbildungsveranstaltungen den Wissenserwerb seiner Mitglieder. Der jährliche HNO-Kongress findet seit 1999 in Mannheim statt und bildet mit seinem umfangreichen Vortrags- und Kursprogramm sowie der begleitenden Fachausstellung den Höhepunkt des Verbandsjahres.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Berufsverband der Hals-Nasen-Ohrenärzte e.V.",
+          "phoneNumber": "+49432197250",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Haart",
+            "streetNumber": "221",
+            "zipCode": "24539",
+            "city": "Neumünster",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "bv@hno-aerzte.de"
+          ],
+          "websites": [
+            "www.hno-aerzte.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Dirk",
+              "lastName": "Heinrich",
+              "function": "Präsident",
+              "phoneNumber": "+49432197250",
+              "organizationMemberEmails": [
+                "heinrich@hno-aerzte.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Drumm",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49432197250",
+              "organizationMemberEmails": [
+                "drumm@hno-aerzte.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kerstin",
+              "lastName": "Zeise",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+49432197250",
+              "organizationMemberEmails": [
+                "bv.zeise@web.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Priv.-Doz. Dr.",
+              "commonFirstName": "Jan",
+              "lastName": "Löhler"
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Hahn"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Detlef",
+              "lastName": "Oldenburg"
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Med.",
+              "commonFirstName": "Angelika",
+              "lastName": "von Schütz"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Matthias",
+              "lastName": "Heinze"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Andree",
+              "lastName": "Schwerdtner"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Petra",
+              "lastName": "Bubel"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Denise",
+              "lastName": "Lundershausen"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Klaus-Peter",
+              "lastName": "Tillmann"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Hermann",
+              "lastName": "Zwisler"
+            }
+          ],
+          "members": 5027,
+          "membersCountDate": "2022-01-27T00:00:00.000Z",
+          "membershipEntries": [
+            "Spitzenverband Fachärzte Deutschlands e.V.",
+            "Bundesverband für Ambulantes Operieren e.V.",
+            "Initiative Hören e.V.",
+            "European Union of Medical Specialists"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Kodex-der-Funktionstraeger-und-Organe-des-HNO-BV.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/32/c3/3370/Kodex-der-Funktionstraeger-und-Organe-des-HNO-BV.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "GuV-HNO-Berufsverband-2020-kurz.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/ab/c9/3371/GuV-HNO-Berufsverband-2020-kurz.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000411",
       "registerEntryDetail": {
