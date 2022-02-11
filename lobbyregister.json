@@ -9,8 +9,666 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 416,
+  "resultCount": 419,
   "results": [
+    {
+      "registerNumber": "R000423",
+      "registerEntryDetail": {
+        "id": 1972,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000423",
+          "firstPublicationDate": "2022-02-11T14:03:24.000Z"
+        },
+        "activityDescription": "Vertretung der Interessen der Giessereichemieunternehmen auf Bundes- und EU-Ebene \r\nFörderung der wirtschaftlichen Rahmenbedingungen und des Industriestandortes ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Industrieverband Giesserei-Chemie e.V.",
+          "phoneNumber": "+49511984900",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Sankt-Florian-Weg",
+            "streetNumber": "1",
+            "zipCode": "30880",
+            "city": "Laatzen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@giessereichemie.de",
+            "wilkens@lv-nord.vci.de"
+          ],
+          "websites": [
+            "www.giessereichemie.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jochen",
+              "lastName": "Wilkens",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+495119849011",
+              "organizationMemberEmails": [
+                "wilkens@lv-nord.vci.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Verena",
+              "lastName": "Wolf"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Timo",
+              "lastName": "Rhauderwiek"
+            }
+          ],
+          "members": 10,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Verband der Chemischen Industrie e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2020-Rechenschaftsbericht-IVG.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/a6/b5/3441/2020-Rechenschaftsbericht-IVG.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000422",
+      "registerEntryDetail": {
+        "id": 875,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 220001,
+          "to": 230000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000422",
+          "firstPublicationDate": "2022-02-11T14:03:09.000Z"
+        },
+        "activityDescription": "Das Netzwerk Europäischer Eisenbahnen (NEE), auch die Güterbahnen, will  den Anteil der Güter erhöhen, die klimafreundlich von den Bahnen befördert werden. Der Verband setzt sich für fairen Wettbewerb auf der Schiene sowie zwischen Schiene und Straße ein.  \r\nAnders als im Personenfernverkehr ist die Deutsche Bahn im Güterverkehr kein Quasi-Monopolist. Andere Eisenbahnverkehrsunternehmen transportieren über die Hälfte der Waren und Rohstoffe. Viele von ihnen sind im NEE organisiert. \r\n\r\nDas NEE vertritt die Interessen seiner Mitglieder gegenüber der Politik, der Verwaltung und der Deutschen Bahn.\r\n\r\nDas Netzwerk Europäischer Eisenbahnen hat sich in seiner Satzung zum Ziel gesetzt:\r\n\r\n1. Fairen Wettbewerb auf der Schiene zu etablieren: Daher unterstützen wir Forderungen nach diskriminierungsfreien Regelungen oder initiieren diese selbst u. a. auf den Gebieten Infrastruktur, Energieversorgung, Fahrzeuge, internationaler Verkehr und Vorschriftenwesen.\r\n2. Die Bedeutung Eisenbahnen in der öffentlichen Diskussion zu verdeutlichen und die Interessen unserer Mitglieder gegenüber Politik, Behörden, Industrie und Zulieferunternehmen zu vertreten\r\n3. Den Informations- und Erfahrungsaustausch zwischen den Mitgliedsbahnen zu pflegen\r\n4. Die Kooperation zwischen den Mitgliederunternehmen zu fördern",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Netzwerk Europäischer Eisenbahnen e.V.",
+          "phoneNumber": "+4930531491470",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reinhardtstr.",
+            "streetNumber": "46",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "office@netzwerk-bahnen.de"
+          ],
+          "websites": [
+            "https://www.netzwerk-bahnen.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Westenberger",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4930531491473",
+              "organizationMemberEmails": [
+                "westenberger@netzwerk-bahnen.de"
+              ]
+            },
+            {
+              "commonFirstName": "Ludolf",
+              "lastName": "Kerkeling",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+49303759810",
+              "organizationMemberEmails": [
+                "info@hvle.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gerhard",
+              "lastName": "Timpel",
+              "function": "Schatzmeister",
+              "phoneNumber": "+493364375060",
+              "organizationMemberEmails": [
+                "contact.germany@arcelormittal.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Kaufmann (FH)",
+              "commonFirstName": "Thilo",
+              "lastName": "Beuven",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+4924153807310",
+              "organizationMemberEmails": [
+                "info@rtb-cargo.com"
+              ]
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Knechtel",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+31104943909",
+              "organizationMemberEmails": [
+                "info@kombirail.eu"
+              ]
+            },
+            {
+              "commonFirstName": "Roger",
+              "lastName": "Mahler",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+494030093490",
+              "organizationMemberEmails": [
+                "info@metransrail.eu"
+              ]
+            },
+            {
+              "commonFirstName": "Isabelle",
+              "lastName": "Schulze",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+497621915280",
+              "organizationMemberEmails": [
+                "info@aers-rail.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Sven",
+              "lastName": "Flore",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+41791588710",
+              "organizationMemberEmails": [
+                "info@sbbcargoint.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Neele",
+              "lastName": "Wesseln"
+            },
+            {
+              "commonFirstName": "Hubertus",
+              "lastName": "Wester-Ebbinghaus"
+            }
+          ],
+          "members": 92,
+          "membersCountDate": "2022-01-10T00:00:00.000Z",
+          "membershipEntries": [
+            "European Rail Freight Association (ERFA)",
+            "Forschungsstelle für deutsches und internationales Eisenbahnrecht (F/E/R)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "1-19533-E-handelsrechtlicher-Jahresabschluss-2020-mU.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/77/f9/3440/1-19533-E-handelsrechtlicher-Jahresabschluss-2020-mU.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000421",
+      "registerEntryDetail": {
+        "id": 1940,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000421",
+          "firstPublicationDate": "2022-02-11T14:02:08.000Z"
+        },
+        "activityDescription": "Förderung eines zukunftsfähigen Wachstums der Chemieregion Norddeutschland sowie ihrer wirtschaftlichen Interessen im Sinne der Sicherung und Weiterentwicklung der Standorte und Arbeitsplätze",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "ChemCoast e.V.",
+          "phoneNumber": "+495119849017",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Sankt-Florian-Weg",
+            "streetNumber": "1",
+            "zipCode": "30880",
+            "city": "Laatzen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "Klingenberg@lv-nord.vci.de"
+          ],
+          "websites": [
+            "www.chemcoast.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Renate",
+              "lastName": "Klingenberg",
+              "function": "Geschäftsführung",
+              "phoneNumber": "+495119849017",
+              "organizationMemberEmails": [
+                "Klingenberg@lv-nord.vci.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jochen",
+              "lastName": "Wilkens ",
+              "function": "Vorstand",
+              "phoneNumber": "+495119849011",
+              "organizationMemberEmails": [
+                "wilkens@lv-nord.vci.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 20,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of “Spatial planning, construction and housing”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2020-Rechenschaftsbericht-ChemCoast.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/dd/4f/3438/2020-Rechenschaftsbericht-ChemCoast.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000420",
       "registerEntryDetail": {
