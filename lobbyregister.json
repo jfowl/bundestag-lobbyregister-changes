@@ -70618,7 +70618,7 @@
     {
       "registerNumber": "R000081",
       "registerEntryDetail": {
-        "id": 476,
+        "id": 2698,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -70903,8 +70903,8 @@
           {
             "type": "ANNUAL_REPORT",
             "media": {
-              "fileName": "2020-VDB-Rechenschaftsbericht-short.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/43/d8/809/2020-VDB-Rechenschaftsbericht-short.pdf",
+              "fileName": "2020-VDB-Rechenschaftsbericht-short-ohnePW.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/68/1d/3411/2020-VDB-Rechenschaftsbericht-short-ohnePW.pdf",
               "mimeType": "application/pdf"
             }
           }
