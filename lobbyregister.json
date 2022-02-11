@@ -9,12 +9,177 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 424,
+  "resultCount": 425,
   "results": [
+    {
+      "registerNumber": "R000429",
+      "registerEntryDetail": {
+        "id": 125,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 80001,
+          "to": 90000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000429",
+          "firstPublicationDate": "2022-02-11T15:29:46.000Z"
+        },
+        "activityDescription": "Zweck des Verbandes ist die Wahrung und Förderung der gemeinsamen fachlichen Belange seiner Mitgliedsunternehmen. Darunter fällt insbesondere die Öffentlichkeitsarbeit zu den ökologischen und sozio-ökonomischen Vorteilen des Flüssigkeitskartons sowie die Interessenwahrnehmung gegenüber politischen Entscheidungsgremien, Behörden sowie gegenüber anderen Interessengruppen. \r\n\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Fachverband Kartonverpackungen für flüssige Nahrungsmittel e. V. (FKN)",
+          "phoneNumber": "+493020914750",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Französische Straße",
+            "streetNumber": "13/14",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@getraenkekarton.de"
+          ],
+          "websites": [
+            "www.getraenkekarton.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Robert",
+              "lastName": "Kummer",
+              "function": "Vorsitzender ",
+              "phoneNumber": "+493020914750",
+              "organizationMemberEmails": [
+                "vorstand@getraenkekarton.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Karl",
+              "function": "Stellvertretender Vorsitzender ",
+              "phoneNumber": "+493020914750",
+              "organizationMemberEmails": [
+                "vorstand@getraenkekarton.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stephen",
+              "lastName": "Naumann",
+              "function": "Stellvertretender Vorsitzender ",
+              "phoneNumber": "+493020914750",
+              "organizationMemberEmails": [
+                "vorstand@getraenkekarton.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Kleene"
+            }
+          ],
+          "members": 3,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "FSC Deutschland - Verein für verantwortungsvolle Waldwirtschaft e.V.",
+            "Lebensmittelverband Deutschland e.V. "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-FKN-2020-LR.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/5e/ab/3470/Jahresabschluss-FKN-2020-LR.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000428",
       "registerEntryDetail": {
-        "id": 1649,
+        "id": 2724,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -34,7 +199,7 @@
           "registerNumber": "R000428",
           "firstPublicationDate": "2022-02-11T15:21:27.000Z"
         },
-        "activityDescription": "Der BTGA vereinigt als Dachverband industriell ausgerichtete, Anlagen erstellende Unternehmen der Gebäudetechnik mit eigenen Ingenieurkapazitäten. Die BTGA-Organisation besteht aus acht Landesverbänden sowie Direkt- und Fördermitgliedern und umfasst rund 440 Großbetriebe und mittelständische Unternehmen, die etwa 43.000 Mitarbeiter beschäftigen. Schwerpunkte der Verbandsarbeit liegen in den Bereichen Technik, Berufsbildung, Tarif- und Sozialpolitik, Wirtschaft, Recht, Normung und in der Öffentlichkeitsarbeit.\r\n\r\nDas Ziel der Verbandsarbeit ist es u.a. die Interessen und Informationen der Branche der Technischen Gebäudeausrüstung stellvertretend für die Mitglieder in aktuelle politische Diskussionen und Projekte einzubringen - insbesondere in den Bereichen Elektrotechnik, Gebäudeautomation, Heizungstechnik, Kältetechnik, Raumluft- und Reinraumtechnik, Sanitärtechnik, Building Information Modeling und Energieeffizienz. Dazu veranstaltet der BTGA Fachkongresse, Diskussionrunden und ähnliche dem Austausch dienende Formate.",
+        "activityDescription": "Der BTGA vereinigt als Dachverband industriell ausgerichtete, Anlagen erstellende Unternehmen der Gebäudetechnik mit eigenen Ingenieurkapazitäten. Die BTGA-Organisation besteht aus acht Landesverbänden sowie Direkt- und Fördermitgliedern und umfasst rund 440 Großbetriebe und mittelständische Unternehmen, die etwa 43.000 Mitarbeiter beschäftigen. Schwerpunkte der Verbandsarbeit liegen in den Bereichen Technik, Berufsbildung, Tarif- und Sozialpolitik, Wirtschaft, Recht, Normung und in der Öffentlichkeitsarbeit.\r\n\r\nDas Ziel der Verbandsarbeit ist es u.a., die Interessen und Informationen der Branche der Technischen Gebäudeausrüstung stellvertretend für die Mitglieder in aktuelle politische Diskussionen und Projekte einzubringen - insbesondere in den Bereichen Elektrotechnik, Gebäudeautomation, Heizungstechnik, Kältetechnik, Raumluft- und Reinraumtechnik, Sanitärtechnik, Building Information Modeling und Energieeffizienz. Dazu veranstaltet der BTGA Fachkongresse, Diskussionrunden und ähnliche dem Austausch dienende Formate.",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_TRADE_ASSOC",
@@ -284,7 +449,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "2020-btga-haushaltsplan.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/24/ab/3464/2020-btga-haushaltsplan.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/87/90/3472/2020-btga-haushaltsplan.pdf",
               "mimeType": "application/pdf"
             }
           }
@@ -297,7 +462,7 @@
     {
       "registerNumber": "R000427",
       "registerEntryDetail": {
-        "id": 1742,
+        "id": 2723,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -317,7 +482,7 @@
           "registerNumber": "R000427",
           "firstPublicationDate": "2022-02-11T15:20:23.000Z"
         },
-        "activityDescription": "Die führenden TGA-Verbände Bundesindustrieverband Technische Gebäudeausrüstung e.V. (BTGA), Fachverband Gebäude-Klima e.V. (FGK) und Herstellerverband RLT-Geräte e.V. (RLT-Verband) haben mit der TGA-Repräsentanz Berlin GbR ein gemeinsames Hauptstadtbüro ins Leben gerufen. Von dort aus wird der Dialog der Verbände und ihrer Mitgliedsunternehmen mit Politik, Verwaltung, Medien und sonstigen Stakeholdern auf Bundesebene gebündelt, gesteuert und gestärkt.\r\n\r\nDas Ziel der Arbeit der Repräsentanz ist es u.a. die Interessen und Informationen der sie tragenden Verbände in aktuelle politische Diskussionen und Projekte einzubringen - insbesondere zu den Themenbereichen Elektrotechnik, Gebäudeautomation, Heizungstechnik, Kältetechnik, Raumluft- und Reinraumtechnik, Sanitärtechnik, Building Information Modeling, Energieeffizienz. Dazu veranstaltet dier TGA-Repräsentanz Fachkongresse, Diskussionrunden und ähnliche dem Austausch dienende Formate.",
+        "activityDescription": "Die führenden TGA-Verbände Bundesindustrieverband Technische Gebäudeausrüstung e.V. (BTGA), Fachverband Gebäude-Klima e.V. (FGK) und Herstellerverband RLT-Geräte e.V. (RLT-Verband) haben mit der TGA-Repräsentanz Berlin GbR ein gemeinsames Hauptstadtbüro ins Leben gerufen. Von dort aus wird der Dialog der Verbände und ihrer Mitgliedsunternehmen mit Politik, Verwaltung, Medien und sonstigen Stakeholdern auf Bundesebene gebündelt, gesteuert und gestärkt.\r\n\r\nDas Ziel der Arbeit der Repräsentanz ist es u.a., die Interessen und Informationen der sie tragenden Verbände in aktuelle politische Diskussionen und Projekte einzubringen - insbesondere zu den Themenbereichen Elektrotechnik, Gebäudeautomation, Heizungstechnik, Kältetechnik, Raumluft- und Reinraumtechnik, Sanitärtechnik, Building Information Modeling, Energieeffizienz. Dazu veranstaltet die TGA-Repräsentanz Fachkongresse, Diskussionrunden und ähnliche dem Austausch dienende Formate.",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_TRADE_ASSOC",
