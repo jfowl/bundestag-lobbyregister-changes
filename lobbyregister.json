@@ -9,8 +9,202 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 425,
+  "resultCount": 426,
   "results": [
+    {
+      "registerNumber": "R000430",
+      "registerEntryDetail": {
+        "id": 2346,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000430",
+          "firstPublicationDate": "2022-02-11T15:46:33.000Z"
+        },
+        "activityDescription": "- Durchführung von Parlamentarischen Abenden\r\n- Erstellung von Informationsmaterialien zu den verschiedenen Bereichen der Supraleitertechnologie\r\n- Informationsgespräche mit Abgeordneten\r\n- Einladung von Abgeordneten zu unseren Veranstaltungen wie z.B. Kongressen, Messeauftritten etc.\r\nAngebote an Abgeordnete, individuell ausgerichtete Informationsveranstaltungen durchzuführen wie etwa zum Themen wie \"Supraleiter für den Netzausbau\", \"Effizienzsteigerungen in der Industrie durch Supraleiter\" oder \"Ausbau der Ladeinfrastruktur der E-Mobilität mit Supraleitern\".",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_OTHER",
+          "text": "Der ivSupra ist ein Zusammenschluss von Unternehmen, Hochschulinstituten und Interessierten zur  Förderung der Supraleitertechnik, insbesondere durch Informationsarbeit über die Vorteile und das breite Anwendungsspektrum von Supraleitern. Ziel  ist die  Schaffung geeigneter gesellschaftlicher und politischer Rahmenbedingungen für den Erfolg der innovativen, effizienten und umweltfreundlichen Supraleitertechnologie.Der Verband ist selbstlos tätig und verfolgt keine eigenwirtschaftliche Zwecke."
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Interessenverband Supraleitung (ivSupra)",
+          "phoneNumber": "+491778748418",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Agrippinawerft",
+            "streetNumber": "6",
+            "zipCode": "50678",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@ivsupra.de"
+          ],
+          "websites": [
+            "www.ivsupra.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Wolfgang",
+              "lastName": "Reiser",
+              "function": "Vorstand",
+              "phoneNumber": "+496316279830",
+              "organizationMemberEmails": [
+                "reiser@vesc-superbar.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Michael",
+              "lastName": "Bäcker",
+              "function": "Vorstand",
+              "phoneNumber": "+4917645728051",
+              "organizationMemberEmails": [
+                "baecker@matech-consult.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hermann",
+              "lastName": "Boy",
+              "function": "Vorstand",
+              "phoneNumber": "+491747788883",
+              "organizationMemberEmails": [
+                "hermann.boy@shi-g.com"
+              ]
+            },
+            {
+              "commonFirstName": "Ursula",
+              "lastName": "Kollenbach",
+              "function": "Schatzmeisterin",
+              "phoneNumber": "+491778748418",
+              "organizationMemberEmails": [
+                "kollenbach@ivsupra.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 14,
+          "membersCountDate": "2022-02-08T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AEROSPACE",
+            "de": "Luft- und Raumfahrt",
+            "en": "Aerospace"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Bislang hat noch keine Kassenprüfung und noch keine Mitgliederversammlung stattgefunden, d.h. der Jahresabschluss ist weder geprüft noch beschlossen worden. geplant ist die Kassenprüfung und die Mitgliederversammlung für Anfang April. Dann wird der Rechenschaftsbericht  und der Jahresabschluss nachgereicht."
+      }
+    },
     {
       "registerNumber": "R000429",
       "registerEntryDetail": {
@@ -179,7 +373,7 @@
     {
       "registerNumber": "R000428",
       "registerEntryDetail": {
-        "id": 2724,
+        "id": 2726,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -320,6 +514,11 @@
               "academicDegreeBefore": "B.Sc.",
               "commonFirstName": "Jyotsna",
               "lastName": "Pydiah"
+            },
+            {
+              "commonFirstName": "Oliver",
+              "lastName": "Lübker",
+              "academicDegreeAfter": "M. A."
             }
           ],
           "members": 38,
@@ -449,7 +648,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "2020-btga-haushaltsplan.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/87/90/3472/2020-btga-haushaltsplan.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/bf/48/3476/2020-btga-haushaltsplan.pdf",
               "mimeType": "application/pdf"
             }
           }
