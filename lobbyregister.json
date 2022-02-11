@@ -9,8 +9,844 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 420,
+  "resultCount": 424,
   "results": [
+    {
+      "registerNumber": "R000428",
+      "registerEntryDetail": {
+        "id": 1649,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 340001,
+          "to": 350000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000428",
+          "firstPublicationDate": "2022-02-11T15:21:27.000Z"
+        },
+        "activityDescription": "Der BTGA vereinigt als Dachverband industriell ausgerichtete, Anlagen erstellende Unternehmen der Gebäudetechnik mit eigenen Ingenieurkapazitäten. Die BTGA-Organisation besteht aus acht Landesverbänden sowie Direkt- und Fördermitgliedern und umfasst rund 440 Großbetriebe und mittelständische Unternehmen, die etwa 43.000 Mitarbeiter beschäftigen. Schwerpunkte der Verbandsarbeit liegen in den Bereichen Technik, Berufsbildung, Tarif- und Sozialpolitik, Wirtschaft, Recht, Normung und in der Öffentlichkeitsarbeit.\r\n\r\nDas Ziel der Verbandsarbeit ist es u.a. die Interessen und Informationen der Branche der Technischen Gebäudeausrüstung stellvertretend für die Mitglieder in aktuelle politische Diskussionen und Projekte einzubringen - insbesondere in den Bereichen Elektrotechnik, Gebäudeautomation, Heizungstechnik, Kältetechnik, Raumluft- und Reinraumtechnik, Sanitärtechnik, Building Information Modeling und Energieeffizienz. Dazu veranstaltet der BTGA Fachkongresse, Diskussionrunden und ähnliche dem Austausch dienende Formate.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "BTGA - Bundesindustrieverband Technische Gebäudeausrüstung e.V.",
+          "phoneNumber": "+49228949170",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Hinter Hoben ",
+            "streetNumber": "149",
+            "zipCode": "53129",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@btga.de"
+          ],
+          "websites": [
+            "www.btga.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Ing. (FH)",
+              "commonFirstName": "Hermann",
+              "lastName": "Sperber",
+              "function": "Präsident",
+              "phoneNumber": "+49228949170",
+              "organizationMemberEmails": [
+                "info@btga.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing. (FH)",
+              "commonFirstName": "Bernhard",
+              "lastName": "Dürheimer",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49228949170",
+              "organizationMemberEmails": [
+                "info@btga.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Hans-Werner",
+              "lastName": "Menge",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49228949170",
+              "organizationMemberEmails": [
+                "info@btga.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing. (FH)",
+              "commonFirstName": "Manfred",
+              "lastName": "Schmitz",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49228949170",
+              "organizationMemberEmails": [
+                "info@btga.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing. (FH)",
+              "commonFirstName": "Nikolaus",
+              "lastName": "Daume",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49228949170",
+              "organizationMemberEmails": [
+                "info@btga.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dipl.-Chem.",
+              "commonFirstName": "Christoph",
+              "lastName": "Brauneis"
+            },
+            {
+              "commonFirstName": "Günther",
+              "lastName": "Mertz",
+              "academicDegreeAfter": "M.A."
+            },
+            {
+              "commonFirstName": "Jörn",
+              "lastName": "Adler",
+              "academicDegreeAfter": "M.A."
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing. (FH)",
+              "commonFirstName": "Clemens",
+              "lastName": "Schickel"
+            },
+            {
+              "academicDegreeBefore": "RAin",
+              "commonFirstName": "Britta",
+              "lastName": "Brass"
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing. M.Eng.",
+              "commonFirstName": "Stefan",
+              "lastName": "Tuschy"
+            },
+            {
+              "academicDegreeBefore": "B.Sc.",
+              "commonFirstName": "Jyotsna",
+              "lastName": "Pydiah"
+            }
+          ],
+          "members": 38,
+          "membersCountDate": "2022-01-31T00:00:00.000Z",
+          "membershipEntries": [
+            "DIN - Deutsches Institut für Normung e.V.",
+            "DVA - Deutscher Vergabe- und Vertragsausschuss für Bauleistungen",
+            "DVGW - Deutscher Verein des Gas- und Wasserfachs e.V.",
+            "EBD - Europäische Bewegung Deutschland",
+            "FGK - Fachverband Gebäude-Klima e.V.",
+            "geea - Allianz für Gebäude-Energie-Effizienz",
+            "VDS - Vereinigung Deutsche Sanitärwirschaft e.V.",
+            "ZIA - Zentraler Immobilien Ausschuss e.V.",
+            "TGA-Repräsentanz Berlin GbR",
+            "Deutscher Baugerichtstag",
+            "Deutscher Juristentag"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2020-btga-haushaltsplan.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/24/ab/3464/2020-btga-haushaltsplan.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000427",
+      "registerEntryDetail": {
+        "id": 1742,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 60001,
+          "to": 70000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000427",
+          "firstPublicationDate": "2022-02-11T15:20:23.000Z"
+        },
+        "activityDescription": "Die führenden TGA-Verbände Bundesindustrieverband Technische Gebäudeausrüstung e.V. (BTGA), Fachverband Gebäude-Klima e.V. (FGK) und Herstellerverband RLT-Geräte e.V. (RLT-Verband) haben mit der TGA-Repräsentanz Berlin GbR ein gemeinsames Hauptstadtbüro ins Leben gerufen. Von dort aus wird der Dialog der Verbände und ihrer Mitgliedsunternehmen mit Politik, Verwaltung, Medien und sonstigen Stakeholdern auf Bundesebene gebündelt, gesteuert und gestärkt.\r\n\r\nDas Ziel der Arbeit der Repräsentanz ist es u.a. die Interessen und Informationen der sie tragenden Verbände in aktuelle politische Diskussionen und Projekte einzubringen - insbesondere zu den Themenbereichen Elektrotechnik, Gebäudeautomation, Heizungstechnik, Kältetechnik, Raumluft- und Reinraumtechnik, Sanitärtechnik, Building Information Modeling, Energieeffizienz. Dazu veranstaltet dier TGA-Repräsentanz Fachkongresse, Diskussionrunden und ähnliche dem Austausch dienende Formate.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "TGA-Repräsentanz Berlin GbR",
+          "phoneNumber": "+4930206088870",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Haus der Bundespressekonferenz",
+            "nationalAdditional2": "R 6101",
+            "street": "Schiffbauerdamm",
+            "streetNumber": "40",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GBR",
+            "code_de": "Gesellschaft des bürgerlichen Rechts (GbR; BGB-Gesellschaft)",
+            "code_en": "Civil law association (GbR; BGB-Gesellschaft)",
+            "type": "LEGAL_ASSOCIATION"
+          },
+          "organizationEmails": [
+            "info@tga-repraesentanz.de"
+          ],
+          "websites": [
+            "www.tga-repraesentanz.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Ing. (FH)",
+              "commonFirstName": "Hermann",
+              "lastName": "Sperber",
+              "function": "Gesellschafter",
+              "phoneNumber": "+4930206088870",
+              "organizationMemberEmails": [
+                "info@tga-repraesentanz.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.-Ing.",
+              "commonFirstName": "Christoph",
+              "lastName": "Kaup",
+              "function": "Gesellschafter",
+              "phoneNumber": "+4930206088870",
+              "organizationMemberEmails": [
+                "info@tga-repraesentanz.de"
+              ]
+            },
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "von Thun",
+              "function": "Gesellschafter",
+              "phoneNumber": "+4930206088870",
+              "organizationMemberEmails": [
+                "info@tga-repraesentanz.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing. (FH)",
+              "commonFirstName": "Christian",
+              "lastName": "Weger",
+              "function": "Gesellschafter",
+              "phoneNumber": "+4930206088870",
+              "organizationMemberEmails": [
+                "info@tga-repraesentanz.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dipl.-Chem.",
+              "commonFirstName": "Christoph",
+              "lastName": "Brauneis"
+            },
+            {
+              "commonFirstName": "Jörn",
+              "lastName": "Adler",
+              "academicDegreeAfter": "M.A."
+            }
+          ],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000426",
+      "registerEntryDetail": {
+        "id": 926,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 30001,
+          "to": 40000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000426",
+          "firstPublicationDate": "2022-02-11T15:12:47.000Z"
+        },
+        "activityDescription": "Metrc ist der zuverlässigste und erfahrenste Anbieter von Cannabis-Regulierungssystemen in den Vereinigten Staaten. Unsere Lösung kombiniert fortschrittliche Software, Radiofrequenz-Identifikationstechnologie (RFID), ein engagiertes Kundenserviceteam und eine sichere Datenbank, um Cannabis vom Anbau, der Ernte und der Verarbeitung bis hin zur Prüfung, dem Transport und dem Verkauf zu verfolgen und nachzuverfolgen. Regierungen, die einen Vertrag mit Metrc abschließen, erhalten ein fertiges Software-as-a-Service (SaaS)-System, das speziell für ihre Bedürfnisse konfiguriert ist. Unsere Cloud-basierte Verfolgungssoftware und die sicher kodierten RFID-fähigen Etiketten ermöglichen den Behörden einen vollständigen Einblick in die Lieferkette. Metrc bietet außerdem Datenmanagement, Berichterstattungsdienste, Unterstützung von Drittanbietern, Cloud-Hosting, technische Updates sowie Schulungen und Support für Benutzer in Behörden und Industrie. \r\nBei der Legalisierung unterschiedlicher Formen des Cannabiskonsums durch Staaten, stehen die Regulierungsbehörden vor einer Vielzahl von Herausforderungen. An erster Stelle steht der Schutz der öffentlichen Gesundheit, der umfassende Tests von Cannabis, die Möglichkeit zur Verfolgung von Beständen und Verkäufen sowie eine Strategie zur Sicherung des regulierten Marktes gegen illegale Produkte erfordert. Metrc ist ein starker Verbündeter bei der Durchsetzung all dieser Interessen. Metrc überwacht die Lieferkette von legalen Cannabisprodukten detailliert und in Echtzeit, um den Markt vor Diebstahl und Unterwanderung zu schützen. Innovative Lösungen und fortschrittliche Technologie stellen sicher, dass jede Cannabispflanze und jedes Cannabisprodukt von lizenzierten Unternehmen im Metrc-System erfasst wird. \r\nMetrc zielt darauf ab, Regierungs- und Regulierungsbehörden bei der sicheren Schaffung und Regulierung des Cannabismarktes durch seine Track-and-Trace-Technologie zu unterstützen. Als Technologieunternehmen ermöglicht es Metrc den Aufsichtsbehörden, die notwendigen Untersuchungen durchzuführen, und erleichtert den Behörden und ihren Mitarbeitern die Berichterstattung mit aktuellen Daten über Marktleistung, Umsatzwachstum, Steuereinnahmen und Durchsetzung. Da es Metrcs Track-and-Trace-System den Aufsichtsbehörden ermöglicht, die auf dem Markt befindlichen legalen Cannabisprodukte in Echtzeit zu verfolgen, schützt Metrc den Markt und die öffentliche Gesundheit. Um die notwendigen Rahmenbedingungen zu schaffen und zu fördern, wird Metrc mit Regulierungsbehörden, Wirtschaft, Wissenschaft und Interessengruppen zusammenarbeiten. Metrc ist ein US-amerikanisches Unternehmen mit der Rechtsform LLC (Limited Liability Company).",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Metrc, LLC",
+          "phoneNumber": "+18775666506",
+          "address": {
+            "type": "FOREIGN",
+            "internationalAdditional1": "4151 South Pipkin Road",
+            "internationalAdditional2": "",
+            "city": "Lakeland, Florida 33811",
+            "country": {
+              "code": "US"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "Limited Liability Company (LLC)"
+          },
+          "organizationEmails": [
+            "info@metrc.com"
+          ],
+          "websites": [
+            "https://www.metrc.com/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jeffrey",
+              "lastName": "Wells",
+              "function": "Chief Executive Officer",
+              "phoneNumber": "+18775666506",
+              "organizationMemberEmails": [
+                "jeff.wells@metrc.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Lewis",
+              "lastName": "Koski",
+              "academicDegreeAfter": "Ph.D. "
+            },
+            {
+              "commonFirstName": "David",
+              "lastName": "Urbanowicz"
+            },
+            {
+              "commonFirstName": "Jesse",
+              "lastName": "Naranjo"
+            },
+            {
+              "commonFirstName": "John",
+              "lastName": "Little"
+            },
+            {
+              "commonFirstName": "Jennifer",
+              "lastName": "Clements"
+            },
+            {
+              "commonFirstName": "Lauren",
+              "lastName": "Cole"
+            },
+            {
+              "commonFirstName": "Audrey",
+              "lastName": "Prior"
+            },
+            {
+              "commonFirstName": "Kasey",
+              "lastName": "Carroll"
+            },
+            {
+              "commonFirstName": "Andrea",
+              "lastName": "Kiehl"
+            }
+          ],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000425",
+      "registerEntryDetail": {
+        "id": 1625,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000425",
+          "firstPublicationDate": "2022-02-11T15:03:53.000Z"
+        },
+        "activityDescription": "Kontakt zu Mandatsträgern und zuständigen Regierungsmitgliedern im Bereich der schulischen Bildung.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "simpleclub GmbH",
+          "phoneNumber": "+491605553716",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "simpleclub GmbH",
+            "street": "Lena-Christ-Straße ",
+            "streetNumber": "2",
+            "zipCode": "82031",
+            "city": "Grünwald",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "support@simpleclub.com"
+          ],
+          "websites": [
+            "simpleclub.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Dario",
+              "lastName": "Schramm",
+              "function": "Governmental Affairs Manager",
+              "phoneNumber": "+491786991546",
+              "organizationMemberEmails": [
+                "dario.schramm@simpleclub.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "SC-JA-2020-seiten-3.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d3/67/3463/SC-JA-2020-seiten-3.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000424",
       "registerEntryDetail": {
@@ -35643,7 +36479,7 @@
     {
       "registerNumber": "R000262",
       "registerEntryDetail": {
-        "id": 488,
+        "id": 2718,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -35724,32 +36560,32 @@
               "lastName": "Malczak"
             },
             {
-              "commonFirstName": "-",
+              "commonFirstName": "Katharina",
               "lastName": "von Kodolitsch"
             },
             {
-              "commonFirstName": "-",
+              "commonFirstName": "Dörte",
               "lastName": "Kuhn"
             },
             {
               "academicDegreeBefore": "Dr. ",
-              "commonFirstName": "-",
+              "commonFirstName": "Anne",
               "lastName": "Gnauk "
             },
             {
-              "commonFirstName": "-",
+              "commonFirstName": "Daniel",
               "lastName": "Oetzel"
             },
             {
-              "commonFirstName": "-",
+              "commonFirstName": "Karsten",
               "lastName": "Marschner"
             },
             {
-              "commonFirstName": "-",
+              "commonFirstName": "Sylvia",
               "lastName": "Pille-Steppat"
             },
             {
-              "commonFirstName": "-",
+              "commonFirstName": "Julian",
               "lastName": "Kulawik"
             }
           ],
@@ -35973,7 +36809,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "HSB-Jahresbericht-2020-web-2.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/c5/f3/2069/HSB-Jahresbericht-2020-web-2.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/bb/02/3459/HSB-Jahresbericht-2020-web-2.pdf",
               "mimeType": "application/pdf"
             }
           },
@@ -35981,7 +36817,7 @@
             "type": "CODE_OF_CONDUCT",
             "media": {
               "fileName": "Verhaltensrichtlinien-Ethikkodex-HSB.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/c7/33/2070/Verhaltensrichtlinien-Ethikkodex-HSB.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/b3/59/3460/Verhaltensrichtlinien-Ethikkodex-HSB.pdf",
               "mimeType": "application/pdf"
             }
           }
