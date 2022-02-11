@@ -9,8 +9,271 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 419,
+  "resultCount": 420,
   "results": [
+    {
+      "registerNumber": "R000424",
+      "registerEntryDetail": {
+        "id": 181,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 680001,
+          "to": 690000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000424",
+          "firstPublicationDate": "2022-02-11T14:44:25.000Z"
+        },
+        "activityDescription": "Der Deutsche Brauer-Bund e.V. vertritt die Interessen der deutschen Brauwirtschaft. Der Verband wurde 1871 in Dresden gegründet und hat seinen Sitz heute in Berlin. Unter seinen Mitgliedern finden sich kleine, mittlere und große Familienbetriebe mit zum Teil jahrhundertealter Geschichte ebenso wie weltbekannte Braugruppen oder junge Craftbrauerinnen und Craftbrauer, die als Existenzgründer ein neues Unternehmen aufbauen. Kleine und mittlere Brauereien sind in den regionalen Mitgliedsverbänden des DBB organisiert. Der Verband veranstaltet Diskussionsrunden und ähnliche dem Austausch dienende Formate. Er ist die Stimme der Branche gegenüber Staat, Gesellschaft, Wissenschaft und Partnern der Wirtschaft. Der Deutsche Brauer-Bund vertritt die Interessen aller deutschen Brauer zum Erhalt optimaler Rahmenbedingungen auf nationaler und europäischer Ebene.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher-Brauer-Bund e.V.",
+          "phoneNumber": "+49302091670",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Neustädtische Kirchstraße",
+            "streetNumber": "7A",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@brauer-bund.de"
+          ],
+          "websites": [
+            "www.brauer-bund.de",
+            "www.bierbewusstgeniessen.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Jörg",
+              "lastName": "Lehmann",
+              "function": "Präsident",
+              "phoneNumber": "+49302091670",
+              "organizationMemberEmails": [
+                "info@brauer-bund.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michael ",
+              "lastName": "Hollmann",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49302091670",
+              "organizationMemberEmails": [
+                "info@brauer-bund.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Weber",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49302091670",
+              "organizationMemberEmails": [
+                "info@brauer-bund.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing. ",
+              "commonFirstName": "Mathias",
+              "lastName": "Keil",
+              "function": "Schatzmeister",
+              "phoneNumber": "+49302091670",
+              "organizationMemberEmails": [
+                "info@brauer-bund.de"
+              ]
+            },
+            {
+              "commonFirstName": "Holger",
+              "lastName": "Eichele",
+              "function": "Hauptgeschäftsführer",
+              "phoneNumber": "+49302091670",
+              "organizationMemberEmails": [
+                "info@brauer-bund.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Syndikusrechtsanwältin",
+              "commonFirstName": "Julia",
+              "lastName": "Busse"
+            },
+            {
+              "commonFirstName": "Daniel",
+              "lastName": "Schock"
+            },
+            {
+              "academicDegreeBefore": "Syndikusrechtsanwalt",
+              "commonFirstName": "Matthias",
+              "lastName": "Nadolski"
+            }
+          ],
+          "members": 12,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesvereinigung der Deutschen Ernährungsindustrie e.V. (BVE)",
+            "Deutsche Gesellschaft für Verbandsmanagement e.V. (DGVM)",
+            "Europäische Bewegung Deutschland e.V. ",
+            "Lebensmittelverband Deutschland e.V.",
+            "Wirtschaftsforum der SPD e.V.",
+            "Wirtschaftsrat der CDU e.V.",
+            "Zentralverband der deutschen Werbewirtschaft ZAW e.V.",
+            "Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main e. V. ",
+            "The Brewers of Europe"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f6/82/3454/Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000423",
       "registerEntryDetail": {
