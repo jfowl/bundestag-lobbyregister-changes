@@ -67090,7 +67090,7 @@
     {
       "registerNumber": "R000090",
       "registerEntryDetail": {
-        "id": 435,
+        "id": 2664,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 1,
@@ -67111,7 +67111,7 @@
           "firstPublicationDate": "2022-01-18T15:47:33.000Z"
         },
         "activityDescription": "Unterstützung von Unternehmen und Verbänden wie z.B. OpenSource Business Alliance, Bitkom, Suse GmbH in der öffentlichen Diuskusison und bei politischen fragestellungen. Beratung hinsichtlich digitaler Souveränität, Digitalisierung, Startups, und digitaler Bildung",
-        "activityOperationType": "MANDATE_OPERATED",
+        "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_CONSULTING",
           "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
