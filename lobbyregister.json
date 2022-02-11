@@ -9,8 +9,372 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 414,
+  "resultCount": 416,
   "results": [
+    {
+      "registerNumber": "R000420",
+      "registerEntryDetail": {
+        "id": 396,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000420",
+          "firstPublicationDate": "2022-02-11T13:33:01.000Z"
+        },
+        "activityDescription": "Der Bund der Militär- und Polizeischützen wurde am 11. August 1979 im Schloss zu Neuhaus/Paderborn gegründet und beim Amtsgericht Paderborn in das Vereinsregister eingetragen.\r\nAls Vorbild für den BDMP e.V. diente die British Army Rifle Association. Der Mitgliederkreis umfasst die Gruppen der Bundeswehr-Soldaten und Reservisten, der Polizei- und Grenzschutzbeamten sowie der Sportschützen und Schützen von Zoll und Justiz.\r\nZielsetzung war es, eine Vereinheitlichung der Regeln herbeizuführen und ein Sportprogramm zu entwerfen, das in besonderer Weise den spezifischen Interessen der vorgenannten Zielgruppen entsprach, ohne dabei militärischen Tendenzen Vorschub zu leisten.\r\nAngehörige dieser Zielgruppen aus dem Ausland und den Alliierten Streitkräften besitzen ebenso die BDMP-Mitgliedschaft. Eigene Schießleistungsgruppen für diesen Personenkreis existieren sowohl im In- als auch im Ausland. \r\nDer BDMP e.V. siedelte sich mit seinem Schießsportprogramm neben bereits bestehenden Verbänden, vor allem dem Deutschen Schützenbund e.V., an und füllte, wie es die kontinuierlich steigenden Mitgliederzahlen überzeugend belegen, eine Lücke in den gegebenen Möglichkeiten der Ausübung des Schießsports. Das einst erarbeitete Grundkonzept des BDMP e.V. bewährte sich.\r\nAusgezeichnete Kontakte zu den National Rifle Associations von Großbritannien, Kanada, Südafrika und den USA, um nur einige zu nennen und zu den Schießsportverbänden in Frankreich, Belgien, Luxemburg und den Niederlanden bestehen seit geraumer Zeit. Ein besonders freundschaftliches Verhältnis besteht zu den Sportschützen in Israel. Die Pflege bestehender, und die Knüpfung\r\nweiterer internationaler Kontakte sind zu einer besonderen Eigenschaft des BDMP e.V. geworden.\r\nDer BDMP e.V. nimmt als Vertreter der Bundesrepublik Deutschland an vielen bedeutenden Großkaliber-Schießsportereignisse in der Welt teil. Stellvertretend seien folgende genannt: Annual Imperial Meeting, GB; European Team Championships; F-Class World Championships; Palma Match; World Long Range Individual Championships; World Championships PPC 1500, USA; World\r\nChampionships Bianchi Cup.\r\nEin vordergründiger Verbandszweck besteht darin, den Schießsport als Leibesübung, insbesondere bei der Jugend, populär zu machen und dessen erzieherischen Charakter zu fördern, was aufgrund der internationalen Beziehungen des BDMP e.V. zusätzlichen Einfluss auf die grenzübergreifende\r\nVerständigung auf dem Wege des Sportes bewirkt.\r\nDie Arbeit, die auf breitensportlicher Basis von den mehr als 1000 über das ganze Bundesgebiet verteilten und flächendeckend von den Landesverbänden in den Bundesländern betreuten Schießleistungsgruppen erbracht wird, bildet die Voraussetzung für die nationale und internationale Leistungsfähigkeit des BDMP e.V.\r\nDie Schaffung von geeigneten Schießsportanlagen sind entscheidende Maßnahmen zur Verwirklichung dieser Ziele.\r\nIn dieser Hinsicht hat der Verband im Jahre 1995 neue Wege eingeschlagen, nämlich den Erwerb und den Ausbau eigener Sportstätten. Neben der Förderung über verlorene oder zurückzuzahlende Mittel einer Vielzahl von kleinen und mittleren Schießsportanlagen wurden inzwischen drei eigene Großschießanlagen erworben bzw. gebaut.\r\nDem Zweck unseres Bundes als gemeinnütziger Verein wird so am besten Wirkung verliehen. Der Verband will in diesem Sinne für alle offen sein. Neben den anderen großen Schützenverbänden hat auch der BDMP e.V. seine Aufgaben und Pflichten im Gesetzgebungsverfahren und in den internationalen Verbänden permanent wahrgenommen und die Interessen seiner Mitglieder\r\nzuverlässig vertreten.\r\nDer BDMP e.V. erhielt im Oktober 2003 sowohl die Anerkennung als Schießsportverband gemäß Paragraph 15 WaffG als auch die behördliche Genehmigung seiner Sportordnung. Neben der Gründung unseres Verbandes muss dies wohl als bedeutendster Schritt in seiner Geschichte angesehen werden",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bund der Militär- und Polizeischützen e.V. ",
+          "phoneNumber": "+4952512987420",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Grüner Weg ",
+            "streetNumber": "12",
+            "zipCode": "33098",
+            "city": "Paderborn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "office@bdmp.de",
+            "praesident@bdmp.de"
+          ],
+          "websites": [
+            "www.bdmp.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "David",
+              "lastName": "Brandenburger",
+              "function": "Präsident",
+              "phoneNumber": "+4922894498275",
+              "organizationMemberEmails": [
+                "praesident@bdmp.de"
+              ]
+            },
+            {
+              "commonFirstName": "Helge",
+              "lastName": "Peters",
+              "function": "Vizepräsident Sport",
+              "phoneNumber": "+4952512987420",
+              "organizationMemberEmails": [
+                "vp-sport@bdmp.de"
+              ]
+            },
+            {
+              "commonFirstName": "Roman",
+              "lastName": "Pfeifer",
+              "function": "Vizepräsident Finanzen",
+              "phoneNumber": "+4952512987420",
+              "organizationMemberEmails": [
+                "vp-finanzen@bdmp.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hubert",
+              "lastName": "Muck",
+              "function": "Vizepräsident Medien",
+              "phoneNumber": "+4952512987420",
+              "organizationMemberEmails": [
+                "vp-medien@bdmp.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 34089,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Forum Waffenrecht"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_PROFESSIONAL_SPORT",
+            "de": "Profisport",
+            "en": "Professional sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000419",
+      "registerEntryDetail": {
+        "id": 2259,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000419",
+          "firstPublicationDate": "2022-02-11T13:02:27.000Z"
+        },
+        "activityDescription": "Beratung von Unternehmen in Bezug auf Länderparlamente, den Deutschen Bundestag und Ministerien\r\ndes Bundes und der Länder. Informationen über die Produkte der Kunden. Vermittlung von entsprechenden Kontakten und Gesprächen. Planung und Durchführung von Veranstaltungen für Kunden. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Robert",
+          "lastName": "Hochbaum"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_AFFAIRS",
+            "de": "Bundeswehrangelegenheiten",
+            "en": "Bundeswehr affairs"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_POLICY",
+            "de": "Verteidigungspolitik",
+            "en": "Defense policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_SAFETY_POLICY",
+            "de": "Gemeinsame Außen- und Sicherheitspolitik der EU",
+            "en": "Common foreign and security policy of the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_GERMAN_UNITY",
+            "de": "Deutsche Einheit",
+            "en": "German unity"
+          },
+          {
+            "code": "FOI_GERMAN_UNITY|FOI_GU_LIVING_CONDITIONS",
+            "de": "Gewährleistung gleichwertiger Lebensverhältnisse",
+            "en": "Guarantee of equal living conditions"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Dynamit Nobel Defence GmbH",
+            "phoneNumber": "+492736462014",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Dr.Hermann-Fleck-Allee",
+              "streetNumber": "8",
+              "zipCode": "57299",
+              "city": "Burbach",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@dn-defence.com"
+            ],
+            "websites": [
+              "www.dn-defence.com"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Michael",
+                "lastName": "Humbek",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+492736462014",
+                "organizationMemberEmails": [
+                  "info@dn-defence.com"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Global Logistics Support GmbH",
+            "phoneNumber": "+4989660658960",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Pritzen-Ressener-Weg",
+              "streetNumber": "1",
+              "zipCode": "03229",
+              "city": "Altdöbern/Brandenburg",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@glsupport.de"
+            ],
+            "websites": [
+              "www.glsupport.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Christoph",
+                "lastName": "Speith",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4989660658960",
+                "organizationMemberEmails": [
+                  "info@glsupport.de"
+                ]
+              },
+              {
+                "commonFirstName": "Ralf",
+                "lastName": "Miethke",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4989660658960",
+                "organizationMemberEmails": [
+                  "info@glsupport.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000418",
       "registerEntryDetail": {
@@ -70432,7 +70796,7 @@
     {
       "registerNumber": "R000082",
       "registerEntryDetail": {
-        "id": 484,
+        "id": 2701,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -70609,10 +70973,19 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Buchfuhrung-2021-short.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/4d/46/3419/Buchfuhrung-2021-short.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": false,
-        "refuseAnnualFinanceStatement": true,
-        "refuseAnnualFinanceStatementReason": "Jahresrechnung 2021 ist noch nicht geprüft und freigegeben."
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
       }
     },
     {
