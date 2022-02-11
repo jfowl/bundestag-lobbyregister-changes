@@ -9,12 +9,169 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 404,
+  "resultCount": 405,
   "results": [
+    {
+      "registerNumber": "R000409",
+      "registerEntryDetail": {
+        "id": 1898,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000409",
+          "firstPublicationDate": "2022-02-11T09:44:36.000Z"
+        },
+        "activityDescription": "Das Innovationscluster HZwo ist die sächsische Kompetenzstelle rund um die Themen Brennstoffzellen und grüner Wasserstoff und betreut ein umfassendes Wertschöpfungsnetzwerk im Freistaat. HZwo ermöglicht den beteiligten Akteuren frühzeitig einen Zugang zu künftigen Absatzmärkten und damit einen Technologievorsprung, um Sachsens Zukunft als Hochtechnologiestandort nachhaltig zu sichern.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "HZwo e.V.",
+          "phoneNumber": "+4937153135357",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reichenhainer Straße",
+            "streetNumber": "70",
+            "zipCode": "09126",
+            "city": "Chemnitz",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@hzwo.eu"
+          ],
+          "websites": [
+            "hzwo.eu"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Karl",
+              "lastName": "Lötsch",
+              "function": "Gerschäftsführer",
+              "phoneNumber": "+4937153135357",
+              "organizationMemberEmails": [
+                "karl.loetsch@hzwo.eu"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 70,
+          "membersCountDate": "2022-02-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutsche Wasserstoff- und Brennstoffzellen-Verband (DWV)",
+            "Hydrogen Europe",
+            "BVMW - Bundesverband mittelständische Wirtschaft",
+            "VDE Verband der Elektrotechnik Elektronik Informationstechnik e. V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Sächsische Aufbaubank Förderbank",
+            "description": "Leitung des Innovationsclusters HZwo - Antrieb für Sachsen\r\nPlanung und Durchführung von Fachkonferenzen und Workshops zu Wasserstoff und Brennstoffzellen\r\nMesseteilnahmen zu Wasserstoff und Brennstoffzellen\r\nKoordinierung und Initiierung von Forschungsprojekten zu Wasserstoff und Brennstoffzellen",
+            "location": "Dresden",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 60001,
+              "to": 70000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "HZwo-Tatigkeitsbericht-2019-2020-V4.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/4c/8d/3334/HZwo-Tatigkeitsbericht-2019-2020-V4.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000408",
       "registerEntryDetail": {
-        "id": 1958,
+        "id": 2646,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -83,7 +240,9 @@
           "namedEmployees": [],
           "members": 730,
           "membersCountDate": "2021-12-31T00:00:00.000Z",
-          "membershipEntries": []
+          "membershipEntries": [
+            "Instituts der Norddeutschen Wirtschaft (INW)"
+          ]
         },
         "legislativeProjects": [],
         "donators": [
@@ -199,7 +358,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "PDF-Datei-Prufungsbericht-2020-Final-Ems-Achse-e-V.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/ef/98/3315/PDF-Datei-Prufungsbericht-2020-Final-Ems-Achse-e-V.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/2a/d9/3325/PDF-Datei-Prufungsbericht-2020-Final-Ems-Achse-e-V.pdf",
               "mimeType": "application/pdf"
             }
           }
@@ -21344,7 +21503,7 @@
     {
       "registerNumber": "R000317",
       "registerEntryDetail": {
-        "id": 1693,
+        "id": 2649,
         "clientIdentity": "",
         "employeeCount": {
           "from": 0,
@@ -21461,10 +21620,18 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "211216-Vorstandsbericht-DSfjEmK-Stiftung-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/92/26/3332/211216-Vorstandsbericht-DSfjEmK-Stiftung-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": true,
-        "annualReportExist": false,
-        "missingAnnualReportReason": "Vorstandsbericht erfolgt für das vergangene Geschäftsjahr bis August des Folgejahres."
+        "annualReportExist": true
       }
     },
     {
