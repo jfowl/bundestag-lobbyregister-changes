@@ -9,8 +9,129 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 429,
+  "resultCount": 430,
   "results": [
+    {
+      "registerNumber": "R000434",
+      "registerEntryDetail": {
+        "id": 2320,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "Eintragungsprobleme",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "",
+        "account": {
+          "registerNumber": "R000434",
+          "firstPublicationDate": "2022-02-12T08:37:23.000Z"
+        },
+        "activityDescription": "Hinwirken auf Reduzierung der Emmissionen von Bahnstrecken.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "BIN gegen Bahnlärm e.V.",
+          "phoneNumber": "+491782855011",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o Stadtinfo Bad Honnef",
+            "street": "Rathausplatz ",
+            "streetNumber": "1",
+            "zipCode": "53604",
+            "city": "Bad Honnef",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bingegenbahnlaerm.de"
+          ],
+          "websites": [
+            "https://www.bingegenbahnlaerm.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Gerd",
+              "lastName": "Kirchhoff",
+              "function": "1. Vorsitzender",
+              "phoneNumber": "+491703188766",
+              "organizationMemberEmails": [
+                "info@bingegenbahnlaerm.de"
+              ]
+            },
+            {
+              "commonFirstName": "Heiner",
+              "lastName": "Lindlein",
+              "function": "2. Vorsitzender",
+              "phoneNumber": "+491782855011",
+              "organizationMemberEmails": [
+                "info@bingegenbahnlaerm.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 12,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000433",
       "registerEntryDetail": {
