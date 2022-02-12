@@ -9,8 +9,97 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 432,
+  "resultCount": 433,
   "results": [
+    {
+      "registerNumber": "R000437",
+      "registerEntryDetail": {
+        "id": 2379,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000437",
+          "firstPublicationDate": "2022-02-12T22:31:39.000Z"
+        },
+        "activityDescription": "Zweck des Instituts ist die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe sowie die Förderung von Wissenschaft und Forschung, beides auf dem Gebiet der Digitalisierung als einer der wesentlichen Zukunftsaufgaben für die Bundesrepublik Deutschland. Das Institut konzentriert sich dabei auf den Bereich des Steuer- und Abgabenrechts, ohne auf dieses Rechtsgebiet beschränkt zu sein. Dies betrifft insbesondere digitale Anwendungsprozesse der Steuerpflichtigen und der Verwaltung mit Blick auf das Besteuerungsverfahren, aber auch die praxis- und automationsgerechte Weiterentwicklung von Rechtsvorschriften. Das Institut unterstützt die steuerwissenschaftliche Fachdiskussion, insbesondere zwischen politischen Funktionsträgern, Steuerjuristen, Angehörigen der steuerberatenden Berufe, Richterschaft, Verwaltung, in Forschung und Lehre tätigen Personen sowie sonstigen im Steuerwesen tätigen Personen. Daneben kann das Institut auf dem Gebiet der Digitalisierung des Steuerrechts andere gemeinnützige Körperschaften oder Körperschaften des öffentlichen Rechts fördern.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Institut für Digitalisierung im Steuerrecht",
+          "phoneNumber": "+493020281602",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Breite Straße",
+            "streetNumber": "29",
+            "zipCode": "10178",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@idst.tax"
+          ],
+          "websites": [
+            "www.idst.tax"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Georg",
+              "lastName": "Geberth",
+              "function": "Vorsitzender des Vorstands",
+              "phoneNumber": "+491737032102",
+              "organizationMemberEmails": [
+                "geberth@idst.tax"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 130,
+          "membersCountDate": "2022-02-09T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Das Institut wurde erst am 25.03.2021 gegründet."
+      }
+    },
     {
       "registerNumber": "R000436",
       "registerEntryDetail": {
