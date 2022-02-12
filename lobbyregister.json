@@ -9,8 +9,129 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 430,
+  "resultCount": 431,
   "results": [
+    {
+      "registerNumber": "R000435",
+      "registerEntryDetail": {
+        "id": 2129,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000435",
+          "firstPublicationDate": "2022-02-12T13:01:20.000Z"
+        },
+        "activityDescription": "Interessenvertretung pflegender Angehöriger",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "wir pflegen - Interessenvertretung und Selbsthilfe pflegender Angehöriger in Thüringen e.V.",
+          "phoneNumber": "+493612620627",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Marcel-Breuer-Ring",
+            "streetNumber": "25",
+            "zipCode": "99085",
+            "city": "Erfurt",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "sfuchs@th.wir-pflegen.net"
+          ],
+          "websites": [
+            "www,wir-pflegen-thueringen.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Sigrun",
+              "lastName": "Fuchs",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+493612620627",
+              "organizationMemberEmails": [
+                "sfuchs@th.wir-pflegen.net"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 11,
+          "membersCountDate": "2022-02-05T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_ELDERLY",
+            "de": "Seniorenpolitik",
+            "en": "Elderly/senior citizens policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_FAMILY",
+            "de": "Familienpolitik",
+            "en": "Family policy"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000434",
       "registerEntryDetail": {
