@@ -9,8 +9,162 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 431,
+  "resultCount": 432,
   "results": [
+    {
+      "registerNumber": "R000436",
+      "registerEntryDetail": {
+        "id": 2132,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000436",
+          "firstPublicationDate": "2022-02-12T20:57:08.000Z"
+        },
+        "activityDescription": "Der Careleaver e.V. ist ein Unterstützungsnetzwerk für junge Menschen, die in der stationären Jugendhilfe aufgewachsen sind - also Wohngruppen, Einrichtungen und Pflegefamilien - und sich im Übergang in die Selbstständigkeit befinden oder diesen Übergang bereits vollzogen haben (sog. Careleaver). Neben der Netzwerkarbeit vertreten die Mitglieder ihre Interessen gegenüber Politik und Verwaltung und machen auf die besonderen Herausforderungen aufmerksam, die sich ihnen beim Übergang von der stationären Jugendhilfe in ein eigenständiges, selbstbestimmtes Leben stellen. Auf diese Weise arbeiten sie kontinuierlich daran, die Situation im Übergang für die nachfolgenden Generationen zu verbessern. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Careleaver e.V.",
+          "phoneNumber": "+491735923922",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Basler Straße",
+            "streetNumber": "115",
+            "zipCode": "79115",
+            "city": "Freiburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "melanie.overbeck@careleaver.de"
+          ],
+          "websites": [
+            "www.careleaver.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Ruth",
+              "lastName": "Seybold",
+              "function": "Erste Vorsitzende",
+              "phoneNumber": "+491639820246",
+              "organizationMemberEmails": [
+                "ruth.seyboldt@careleaver.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Melanie",
+              "lastName": "Overbeck",
+              "function": "Zweite Vorsitzende",
+              "phoneNumber": "+491735923922",
+              "organizationMemberEmails": [
+                "melanie.overbeck@careleaver.de"
+              ]
+            },
+            {
+              "commonFirstName": "Robin",
+              "lastName": "Loh",
+              "function": "Kassierer",
+              "phoneNumber": "+4915154160476",
+              "organizationMemberEmails": [
+                "robin.loh@careleaver.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Andrea",
+              "lastName": "Edler"
+            },
+            {
+              "commonFirstName": "Corinna",
+              "lastName": "Schwieger"
+            }
+          ],
+          "members": 156,
+          "membersCountDate": "2022-02-05T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutsches Jugendherbergswerk Hauptverband für Jugendbanden und Jugendherbergen e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "description": "Projektförderung gemäß § 83 Abs. 1 SGB VIII",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 100001,
+              "to": 110000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_CHILDREN",
+            "de": "Kinder- und Jugendpolitik",
+            "en": "Child and youth policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_FAMILY",
+            "de": "Familienpolitik",
+            "en": "Family policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
     {
       "registerNumber": "R000435",
       "registerEntryDetail": {
