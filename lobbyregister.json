@@ -9,8 +9,279 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 433,
+  "resultCount": 434,
   "results": [
+    {
+      "registerNumber": "R000438",
+      "registerEntryDetail": {
+        "id": 53,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "08/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000438",
+          "firstPublicationDate": "2022-02-13T18:09:38.000Z"
+        },
+        "activityDescription": "WIR ARBEITEN AN DER SCHNITTSTELLE VON WISSENSCHAFT UND PRAXIS. \r\nWIR UNTERSUCHEN UND BEKÄMPFEN ALLE FORMEN DES ANTISEMITISMUS.\r\nWIR BEZIEHEN JÜDISCHE PERSPEKTIVEN EIN.\r\n\r\nUnsere Schwerpunkte sind Förderung von Wissenschaft und Forschung; Förderung des demokratischen Staatswesens und der  der demokratischen Zivilgesellschaft durch politische Bildung und des Werbens für Respekt gegenüber der Religionsfreiheit und Unterstützung des interreligiösen Dialog, insbesondere:\r\n- Antisemitismusprävention\r\n- die Stärkung jüdischen Lebens ( z.B. Feiertagsrecht, Rentengerechtigkeit für jüdische Zuwanderer, Sicherheit etc.)\r\n- Förderung eines fairen und freundschaftlichen Verhältnis zum jüdischen und demokratischen Staat Israel im Sinne der deutschen Staatsräson.\r\n\r\n\r\nHierfür entwerfen wir Policy papers, führen Projekte wie Veranstaltungen durch und werben für Gesetzesvorhaben.\r\nDeren Inhalte vermitteln wir an Abgeordnete und Regierungsstellen wie Bundesministerien und Beauftragte.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Tikvah Institut gUG",
+          "phoneNumber": "+493028094629",
+          "address": {
+            "type": "POSTBOX",
+            "zipCode": "10942",
+            "city": "Berlin",
+            "poxBox": "613132",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_UG_LIMITED",
+            "code_de": "Unternehmergesellschaft (haftungsbeschränkt); auch UG (haftungsbeschränkt)",
+            "code_en": "Entrepreneurial company (limited liability); also UG (limited liability)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "office@tikvahinstitut.de"
+          ],
+          "websites": [
+            "http://www.tikvahinstitut.de",
+            "https://aschkenas.de",
+            "https://wie-deutsch-ist-jiddisch.de "
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Volker",
+              "lastName": "Beck",
+              "function": "Gesellschafter und Geschäftsführer ",
+              "phoneNumber": "+493028094629",
+              "organizationMemberEmails": [
+                "volker.beck@tikvahinstitut.de",
+                "volker.beck@ruhr-uni-bochum.de"
+              ]
+            },
+            {
+              "commonFirstName": "Deidre",
+              "lastName": "Berger",
+              "function": "Gesellschafterin und Programmdirektorin",
+              "phoneNumber": "+493028094629",
+              "organizationMemberEmails": [
+                "deidre.berger@tikvahinstitut.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [
+          {
+            "name": "Fremdrentengesetz"
+          },
+          {
+            "name": "Sozialversicherungsabkommen"
+          },
+          {
+            "name": "Bundeshaushalt"
+          },
+          {
+            "name": "Demokratiefördergesetz"
+          },
+          {
+            "name": "Deutsch-Israelisches Jugendwerk"
+          },
+          {
+            "name": "Rüstungsexportgesetz"
+          },
+          {
+            "name": "Fonds zur Abmilderung von Härtefällen aus der Ost-West-Rentenüberleitung, für jüdische Kontingentflüchtlinge und Spätaussiedler"
+          },
+          {
+            "name": "WehrhafteDemokratieGesetz"
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_EXTREMISM",
+            "de": "Extremismusbekämpfung",
+            "en": "Counter extremism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_TERRORISM",
+            "de": "Terrorismusbekämpfung",
+            "en": "Counter terrorism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_MASS",
+            "de": "Massenmedien",
+            "en": "Mass media"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_OTHER",
+            "de": "Sonstiges im Bereich „Medien, Kommunikation und  Informationstechnik“",
+            "en": "Other in the field of “Media, communication and information technology”"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Antisemitismusforschung und -prävention, Außenpolitik: MENA, Israel, Schutz jüdischen Lebens"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_INTEGRATION",
+            "de": "Integration",
+            "en": "Integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_OTHER",
+            "de": "Sonstiges im Bereich „Staat und Verwaltung“",
+            "en": "Other in the field of “Government and administration”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_BASIC",
+            "de": "Grundsicherung",
+            "en": "Basic security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of “Social security”"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Tikvah-Jahreabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/8e/f4/3539/Tikvah-Jahreabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000437",
       "registerEntryDetail": {
