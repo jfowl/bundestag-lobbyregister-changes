@@ -9,8 +9,151 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 436,
+  "resultCount": 437,
   "results": [
+    {
+      "registerNumber": "R000441",
+      "registerEntryDetail": {
+        "id": 371,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000441",
+          "firstPublicationDate": "2022-02-13T19:30:17.000Z"
+        },
+        "activityDescription": "Kita- und Schulfördervereine sind ein verlässlicher Sensor im laufenden Bildungsprozess. Ihre Mitglieder nehmen die Veränderungen im Schulalltag wahr, mit denen Schule, Schülerinnen und Schüler zu kämpfen haben. Sie schließen mit ihrem zivilgesellschaftlichen Engagement die Lücken der staatlichen und kommunalen Versorgung und sind verlässliche Partner in der Weiterentwicklung des schulischen Lebensraumes.\r\n\r\nDurch Interessenvertretung und Lobbyarbeit ist der BSFV laufend bestrebt, Kita- und Schulfördervereinen mehr Anerkennung und politische Bedeutung zu verleihen. Auf der Bundesebene tritt er so als Themenanwalt für Eltern und Lehrer im Hinblick auf bildungsspezifische Anliegen von Schülerinnen und Schülern auf.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Kita- und Schulfördervereine e.V.",
+          "phoneNumber": "+4971279801795",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Im Grörach",
+            "streetNumber": "10/3",
+            "zipCode": "72631",
+            "city": "Aichtal",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "bsfv@schulfoerdervereine.de"
+          ],
+          "websites": [
+            "https://www.schulfoerdervereine.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Gebauer",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4971279801795",
+              "organizationMemberEmails": [
+                "bsfv@schulfoerdervereine.de"
+              ]
+            },
+            {
+              "commonFirstName": "Joachim",
+              "lastName": "Bartz",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+4971279801795",
+              "organizationMemberEmails": [
+                "bsfv@schulfoerdervereine.de"
+              ]
+            },
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Kessel",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+4971279801795",
+              "organizationMemberEmails": [
+                "bsfv@schulfoerdervereine.de"
+              ]
+            },
+            {
+              "commonFirstName": "Kay",
+              "lastName": "Dimmerling",
+              "function": "Schatzmeister",
+              "phoneNumber": "+4971279801795",
+              "organizationMemberEmails": [
+                "bsfv@schulfoerdervereine.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 473,
+          "membersCountDate": "2020-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Deutscher Stiftungen"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2020-EUR-BSFV.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/bb/a4/3541/2020-EUR-BSFV.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000440",
       "registerEntryDetail": {
