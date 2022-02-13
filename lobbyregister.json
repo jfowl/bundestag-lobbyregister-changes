@@ -9,8 +9,133 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 437,
+  "resultCount": 438,
   "results": [
+    {
+      "registerNumber": "R000442",
+      "registerEntryDetail": {
+        "id": 835,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000442",
+          "firstPublicationDate": "2022-02-13T21:03:44.000Z"
+        },
+        "activityDescription": "Spenderkinder wurde im Jahr 2009 gegründet und ist ein ehrenamtlich arbeitender Verein von durch Samen oder Eizellen Dritter gezeugten Erwachsenen. Unser Verein repräsentiert die Sicht der entstandenen Kinder auf Samenspende und andere Formen der Familiengründung mit Samen oder Eizellen einer dritten Person wie Eizellspende, Embryonenadoption und Leihmutterschaft. Wir möchten andere Spenderkinder, Menschen mit Kinderwunsch und Spender über die rechtlichen Rahmenbedingungen, psychologischen Herausforderungen und ethischen Fragestellungen dieser Arten der Familiengründung sowie über den aus unserer Sicht bestehenden rechtlichen Handlungsbedarf informieren. Wir setzen uns ein für rechtliche Regelungen zu Samenspenden und anderen reproduktionsmedizinischen Verfahren, die die Interessen von Spenderkindern berücksichtigen. Das betrifft insbesondere Fragen des Abstammungsrechts und der Reproduktionsmedizin.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Spenderkinder",
+          "phoneNumber": "+491716931038",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c / o S. Savary",
+            "street": "Thorwaldsenstr.",
+            "streetNumber": "8",
+            "zipCode": "12157",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_NATIONAL",
+            "code_de": "Andere Rechtsform nach deutschem Recht",
+            "code_en": "Other legal form according to German law",
+            "type": "OTHER_ASSOCIATION_OF_PERSONS",
+            "legalFormText": "Nicht eingetragener Verein"
+          },
+          "organizationEmails": [
+            "info@spenderkinder.de"
+          ],
+          "websites": [
+            "www.spenderkinder.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christina",
+              "lastName": "Motejl",
+              "function": "Vorstandssprecherin",
+              "phoneNumber": "+491716931038",
+              "organizationMemberEmails": [
+                "stina@spenderkinder.de"
+              ]
+            },
+            {
+              "commonFirstName": "Anne",
+              "lastName": "Meier-Credner",
+              "function": "Stellvertretende Vorstandssprecherin",
+              "phoneNumber": "+4917624022090",
+              "organizationMemberEmails": [
+                "anne@spenderkinder.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 121,
+          "membersCountDate": "2022-01-10T00:00:00.000Z",
+          "membershipEntries": [
+            "Donor Offspring Europe"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_CHILDREN",
+            "de": "Kinder- und Jugendpolitik",
+            "en": "Child and youth policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_FAMILY",
+            "de": "Familienpolitik",
+            "en": "Family policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_OTHER",
+            "de": "Sonstiges im Bereich „Gesellschaftspolitik und soziale Gruppen“",
+            "en": "Other in the field of “Social politics and social groups”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000441",
       "registerEntryDetail": {
