@@ -9,8 +9,229 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 434,
+  "resultCount": 436,
   "results": [
+    {
+      "registerNumber": "R000440",
+      "registerEntryDetail": {
+        "id": 2533,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000440",
+          "firstPublicationDate": "2022-02-13T18:45:57.000Z"
+        },
+        "activityDescription": "laicoS ist ein loser Zusammenschluss von politisch engagierten oder beruflich aktiven InteressenvertreterInnen mit Schwerpunkt in der Bundespolitik. Einen Großteil der Mitglieder eint eine frühere Anstellung/Tätigkeit im Deutschen Bundestag, dem Europäischen Parlament oder einem Landesparlament. Die Mitglieder sind als Privatperson nachweislich sozialdemokratischen Inhalten nahe oder SPD-Parteimitglied und pflegen den regelmäßigen Austausch in Runden zu denen Gäste geladen und mit Ihnen über aktuelle politische Entwicklungen und Fragestellungen diskutiert wird.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "laicoS Genossenschaft",
+          "phoneNumber": "+491797335311",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Strelitzer Straße",
+            "streetNumber": "50",
+            "zipCode": "10115",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "loser Zusammenschluss ohne Rechtsform"
+          },
+          "organizationEmails": [
+            "gerritgramer@gmx.net"
+          ],
+          "websites": [
+            "nicht existent"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Gerrit",
+              "lastName": "Gramer",
+              "function": "Leitung der Gesprächsrunde",
+              "phoneNumber": "+491797335311",
+              "organizationMemberEmails": [
+                "gerritgramer@gmx.net"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 98,
+          "membersCountDate": "2022-02-10T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of “Bundestag”"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_OTHER",
+            "de": "Sonstiges im Bereich „Staat und Verwaltung“",
+            "en": "Other in the field of “Government and administration”"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000439",
+      "registerEntryDetail": {
+        "id": 964,
+        "clientIdentity": "BOTH",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "08/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000439",
+          "firstPublicationDate": "2022-02-13T18:38:19.000Z"
+        },
+        "activityDescription": "Vorträge und Beratung zu politischen Verfahrensstrategien und zur politischen Kommunikation mit Fokus auf die Abläufe im Bundestag und Bundesrat",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE",
+          "de": "Privatperson",
+          "en": "Private citizen"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Gerrit",
+          "lastName": "Gramer"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_ORGANIZATION",
+            "de": "Staatsorganisation",
+            "en": "State organization"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Rud Pedersen Public Affairs Germany",
+            "phoneNumber": "+491622090949",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Unter den Linden",
+              "streetNumber": "32-34",
+              "zipCode": "10117",
+              "city": "Berlin",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "hendrik.hagemann@rudpedersen.com"
+            ],
+            "websites": [
+              "https://www.rudpedersen.com/berlin-office"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Hendrik",
+                "lastName": "Hagemann",
+                "function": "Managing Partner Germany",
+                "phoneNumber": "+491622090949",
+                "organizationMemberEmails": [
+                  "hendrik.hagemann@rudpedersen.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [
+          {
+            "commonFirstName": "Michael",
+            "lastName": "Hack"
+          }
+        ],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000438",
       "registerEntryDetail": {
