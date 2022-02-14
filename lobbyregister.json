@@ -9,8 +9,1120 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 471,
+  "resultCount": 473,
   "results": [
+    {
+      "registerNumber": "R000477",
+      "registerEntryDetail": {
+        "id": 1865,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000477",
+          "firstPublicationDate": "2022-02-14T15:27:59.000Z"
+        },
+        "activityDescription": "Der Landesverband Hals-Nasen-Ohrenärzte Schleswig-Holstein e.V. vertritt die ideellen und wirtschaftlichen Interessen der HNO-Ärztinnen und -Ärzte in Praxis und Klinik in Schleswig-Holstein. Zu seinen Tätigkeitsschwerpunkten zählen die fachliche Beratung von ärztlichen Organisationen, wie Ärztekammern und Kassenärztlichen Vereinigungen sowie von Politik und anderen öffentlichen Einrichtungen.\r\n\r\nDer Verband unterstützt seine Mitglieder bei allen beruflichen Belangen und fördert mit der Organisation eigener Fortbildungsveranstaltungen den Wissenserwerb seiner Mitglieder.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Landesverband der Hals-Nasen-Ohrenärzte Schleswig-Holstein",
+          "phoneNumber": "+4941928192754",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Haart",
+            "streetNumber": "221",
+            "zipCode": "24539",
+            "city": "Neumünster",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "loehler@hno-aerzte.de"
+          ],
+          "websites": [
+            "www.hno-aerzte.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Priv.-Doz. Dr. med. habil.",
+              "commonFirstName": "Jan",
+              "lastName": "Löhler",
+              "function": "Landesvorsitzender",
+              "phoneNumber": "+4941928192754",
+              "organizationMemberEmails": [
+                "loehler@hno-aerzte.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Thomas",
+              "lastName": "Harder",
+              "function": "Stellvertretender Landesvorsitzender",
+              "phoneNumber": "+49431524928",
+              "organizationMemberEmails": [
+                "Dr.Harder.Kiel@t-online.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 133,
+          "membersCountDate": "2022-02-02T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Berufsverband der HNO-Ärzte e. V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Einnahmen-Ausgabenrechnung-LVBVHNO-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/4b/f2/3774/Einnahmen-Ausgabenrechnung-LVBVHNO-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000476",
+      "registerEntryDetail": {
+        "id": 365,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 81,
+          "to": 90
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 8230001,
+          "to": 8240000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000476",
+          "firstPublicationDate": "2022-02-14T15:27:34.000Z"
+        },
+        "activityDescription": "Der Verband der Chemischen Industrie vertritt die wirtschaftspolitischen Interessen der Chemie- und Pharmaunternehmen in Deutschland. Als wirtschaftspolitische Stimme der gesamten Branche diskutiert der Verband mit anderen Interessenvertretungen, Politik und Behörden, mit Wissenschaft und Nichtregierungsorganisationen über die bestmögliche Ausgestaltung der Rahmenbedingungen am Industriestandort Deutschland. \r\n\r\nLesen Sie hier ein Kurzporträt über den Verband:\r\nhttps://www.vci.de/ergaenzende-downloads/2021-02-08-vci-kurzportraet-de.pdf \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband der Chemischen Industrie e.V.",
+          "phoneNumber": "+496925560",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mainzer Landstraße",
+            "streetNumber": "55",
+            "zipCode": "60329",
+            "city": "Frankfurt",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@vci.de"
+          ],
+          "websites": [
+            "www.vci.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Kullmann",
+              "function": "Präsident",
+              "phoneNumber": "+496925560",
+              "organizationMemberEmails": [
+                "info@vci.de"
+              ]
+            },
+            {
+              "commonFirstName": "Werner",
+              "lastName": "Baumann",
+              "function": "Vizepräsident",
+              "phoneNumber": "+496925560",
+              "organizationMemberEmails": [
+                "info@vci.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Martin",
+              "lastName": "Brudermüller",
+              "function": "Vizepräsident",
+              "phoneNumber": "+496925560",
+              "organizationMemberEmails": [
+                "info@vci.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Markus",
+              "lastName": "Steilemann",
+              "function": "Vizepräsident",
+              "phoneNumber": "+496925560",
+              "organizationMemberEmails": [
+                "info@vci.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Wolfgang",
+              "lastName": "Große Entrup",
+              "function": "Hauptgeschäftsführer",
+              "phoneNumber": "+496925560",
+              "organizationMemberEmails": [
+                "info@vci.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Jan",
+              "lastName": "Nickel"
+            },
+            {
+              "commonFirstName": "Anne",
+              "lastName": "Armbruster"
+            },
+            {
+              "commonFirstName": "Denise",
+              "lastName": "Bagirow"
+            },
+            {
+              "commonFirstName": "Angelika",
+              "lastName": "Becker"
+            },
+            {
+              "commonFirstName": "Tilman",
+              "lastName": "Benzing"
+            },
+            {
+              "commonFirstName": "Anna Lena",
+              "lastName": "Bergmann"
+            },
+            {
+              "commonFirstName": "Bernd",
+              "lastName": "Berressem"
+            },
+            {
+              "commonFirstName": "Nils",
+              "lastName": "Binder"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Matthias",
+              "lastName": "Blum"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Tobias",
+              "lastName": "Brouwer"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Tina",
+              "lastName": "Buchholz"
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Bünger"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Claudia",
+              "lastName": "Drucker"
+            },
+            {
+              "commonFirstName": "Isabell",
+              "lastName": "Esterhaus"
+            },
+            {
+              "commonFirstName": "Christine",
+              "lastName": "Frohn"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Ricardo",
+              "lastName": "Gent"
+            },
+            {
+              "commonFirstName": "Jenni",
+              "lastName": "Glaser"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Pierre",
+              "lastName": "Gröning"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Wolfgang",
+              "lastName": "Große Entrup"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Alexander",
+              "lastName": "Grube"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Angelika",
+              "lastName": "Hanschmidt"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Ulrich",
+              "lastName": "Hartung"
+            },
+            {
+              "commonFirstName": "Simone",
+              "lastName": "Heinrich"
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Henning"
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Hillenbrand"
+            },
+            {
+              "commonFirstName": "Thilo",
+              "lastName": "Höchst"
+            },
+            {
+              "commonFirstName": "Dominik",
+              "lastName": "Jaensch"
+            },
+            {
+              "commonFirstName": "Julian",
+              "lastName": "Jakob"
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Kaspar"
+            },
+            {
+              "commonFirstName": "Christiane",
+              "lastName": "Kellermann"
+            },
+            {
+              "commonFirstName": "Chin Chin",
+              "lastName": "King"
+            },
+            {
+              "commonFirstName": "Lukas",
+              "lastName": "Kölln"
+            },
+            {
+              "commonFirstName": "Marcel",
+              "lastName": "Kouskoutis"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Alexander",
+              "lastName": "Kronimus"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thomas",
+              "lastName": "Kullick"
+            },
+            {
+              "commonFirstName": "Marko",
+              "lastName": "Leist"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Martina",
+              "lastName": "Ludwig"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Michael",
+              "lastName": "Lulei"
+            },
+            {
+              "commonFirstName": "Katharina",
+              "lastName": "Mayer"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Henrik",
+              "lastName": "Meincke"
+            },
+            {
+              "commonFirstName": "Elena",
+              "lastName": "Michels"
+            },
+            {
+              "commonFirstName": "Benjamin",
+              "lastName": "Nummert"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Denis",
+              "lastName": "Pahlke"
+            },
+            {
+              "commonFirstName": "Petter",
+              "lastName": "Brian"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kirstin",
+              "lastName": "Reuter"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Martin",
+              "lastName": "Reuter"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Gerd",
+              "lastName": "Romanowski"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Evelyn",
+              "lastName": "Roßkamp"
+            },
+            {
+              "commonFirstName": "Jörg",
+              "lastName": "Roth"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jörg",
+              "lastName": "Rothermel"
+            },
+            {
+              "commonFirstName": "Elena",
+              "lastName": "Schad"
+            },
+            {
+              "commonFirstName": "Martina",
+              "lastName": "Schönnenbeck"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Denise",
+              "lastName": "Schütz"
+            },
+            {
+              "commonFirstName": "Aliaksandra",
+              "lastName": "Shuliakevich"
+            },
+            {
+              "commonFirstName": "Reinhart",
+              "lastName": "Stephan"
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Stuhl"
+            },
+            {
+              "commonFirstName": "Norbert",
+              "lastName": "Theihs"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Annette",
+              "lastName": "Vielfort"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Verena",
+              "lastName": "Weidmann"
+            },
+            {
+              "commonFirstName": "Berthold",
+              "lastName": "Welling"
+            },
+            {
+              "commonFirstName": "Benjamin",
+              "lastName": "Wiechmann"
+            },
+            {
+              "commonFirstName": "Ulrike",
+              "lastName": "Zimmer"
+            }
+          ],
+          "members": 1900,
+          "membersCountDate": "2022-01-18T00:00:00.000Z",
+          "membershipEntries": [
+            "American Chamber of Commerce in Germany e. V.",
+            "BDI - Bundeverband der Chemischen Industrie e. V.",
+            "Bundesvereinigung Materialwissenschaft und Werkstofftechnik e. V.",
+            "CEPS - Centre for European Policy Studies",
+            "DECHEMA - Gesellschaft für Chemische Technik und Biotechnologie e. V.",
+            "Deutsche Vereinigung für Internationales Steuerrecht",
+            "Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall e. V. (DWA)",
+            "Deutscher Zentralausschuss für Chemie / International Union of Pure and Applied Chemistry (IUPAC)",
+            "Deutschland - Land der Ideen e. V.",
+            "DIN e. V.",
+            "econsense e. V.",
+            "EuropaBio",
+            "Forum für Zukunftsenergien e. V.",
+            "Forum Moderne Landwirtschaft e. V.",
+            "Friedrich-Ebert-Stiftung e. V.",
+            "Gesamtverband der versicherungsnehmenden Wirtschaft e. V.",
+            "ICC Germany e. V. - International Chamber of Commerce",
+            "Institut der deutschen Wirtschaft Köln e. V.",
+            "Institut Finanzen und Steuern e. V.",
+            "Institut für das Recht der Wasser- und Entsorgungswirtschaft an der Universität Bonn (IRWE e. V.) ",
+            "Lebensmittelverband Deutschland e. V.",
+            "Max-Planck-Gesellschaft",
+            "Netzwerk Europäische Bewegung Deutschland e. V.",
+            "Netzwerk Zukunft der Industrie e. V.",
+            "Stiftung Gesellschaft für Rechtspolitik (gfr) - Bitburger Gespräche",
+            "UmsatzsteuerForum e. V.",
+            "Verein zur Förderung der Europa-Union Deutschland e. V.",
+            "Wirtschaftsforum der SPD e. V.",
+            "Wirtschaftsrat der CDU e. V.",
+            "Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main e. V.",
+            "Allianz für Lobbytransparenz",
+            "Energieintensive Industrien Deutschland (EID)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+            "description": "Förderung des Projektes Chemistry 4 Climate",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 150001,
+              "to": 160000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_AQUACULTURE",
+            "de": "Fischerei/Aquakultur",
+            "en": "Fishery/aquaculture"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INSURANCE",
+            "de": "Versicherungswesen",
+            "en": "Insurance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NUCLEAR",
+            "de": "Atomenergie",
+            "en": "Nuclear power"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_POLITICS",
+            "de": "Institutionelle Fragen der EU",
+            "en": "Institutional questions of European politics"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_SAFETY_POLICY",
+            "de": "Gemeinsame Außen- und Sicherheitspolitik der EU",
+            "en": "Common foreign and security policy of the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_EXTREMISM",
+            "de": "Extremismusbekämpfung",
+            "en": "Counter extremism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_TERRORISM",
+            "de": "Terrorismusbekämpfung",
+            "en": "Counter terrorism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_ORGANIZATION",
+            "de": "Staatsorganisation",
+            "en": "State organization"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_OTHER",
+            "de": "Sonstiges im Bereich „Staat und Verwaltung“",
+            "en": "Other in the field of “Government and administration”"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_SERVICE",
+            "de": "Öffentlicher Dienst und öffentliche Verwaltung",
+            "en": "Public service"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_CHILDREN",
+            "de": "Kinder- und Jugendpolitik",
+            "en": "Child and youth policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DIVERSITY",
+            "de": "Diversitätspolitik",
+            "en": "Diversity policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_GENDER",
+            "de": "Geschlechterpolitik",
+            "en": "Gender politics"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AEROSPACE",
+            "de": "Luft- und Raumfahrt",
+            "en": "Aerospace"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "vci-compliance-leitfaden.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/1e/b1/3771/vci-compliance-leitfaden.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "VCI-Ergebnisrechnung2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/47/61/3772/VCI-Ergebnisrechnung2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000475",
       "registerEntryDetail": {
