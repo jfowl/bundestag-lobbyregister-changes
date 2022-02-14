@@ -9,8 +9,481 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 438,
+  "resultCount": 442,
   "results": [
+    {
+      "registerNumber": "R000446",
+      "registerEntryDetail": {
+        "id": 2175,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000446",
+          "firstPublicationDate": "2022-02-14T09:27:57.000Z"
+        },
+        "activityDescription": "1. Mitglied in der \"Initiative Leichtbau\". Abstimmung mit anderen Organisationen zur Positionsbestimmung zum Thema Leichtbau.\r\n\r\n2. Teilnahme am jährlichen \"Parlamentarischen Abend\" des GKV.\r\n\r\n3. Beteiligung an Konsultationen zu Gesetzesvorhaben.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "AVK e. V.",
+          "phoneNumber": "+49692710770",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "AVK",
+            "street": "Am Hauptbahnhof",
+            "streetNumber": "10",
+            "zipCode": "60329",
+            "city": "Frankfurt",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "elmar.witten@avk-tv.de"
+          ],
+          "websites": [
+            "www.avk-tv.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Elmar",
+              "lastName": "Witten",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49692710770",
+              "organizationMemberEmails": [
+                "elmar.witten@avk-tv.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 210,
+          "membersCountDate": "2022-02-07T00:00:00.000Z",
+          "membershipEntries": [
+            "GKV - Gesamtverband Kunststoffverarbeitende Industrie",
+            "EuCIA - European Composites Industry Association",
+            "Composites Germany",
+            "Composites United"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Leitlinien-Kartellrecht.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d2/f2/3562/Leitlinien-Kartellrecht.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Jahresabschluss 2021 noch nicht fertig erstellt."
+      }
+    },
+    {
+      "registerNumber": "R000445",
+      "registerEntryDetail": {
+        "id": 2147,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000445",
+          "firstPublicationDate": "2022-02-14T09:20:33.000Z"
+        },
+        "activityDescription": "Der  Verband  fördert  die  wissenschaftliche  und  fachliche  Weiterentwicklung  der  Krankenhauspharmazie  sowie  die  beruflichen  und ideellen  Interessen  der  Krankenhausapotheker. Der  Zweck  des  Verbandes  wird  insbesondere  verwirklicht  durch:  \r\n-  Informationsvermittlung  zur  Sicherung  des  Berufsstandes  auf  hohem  wissenschaftlichen  und  praktischen    Niveau,\r\n-  Förderung  der  Klinischen  Pharmazie  und  klinisch-pharmazeutischer  Dienstleistungen,\r\n-  Vertretung  der  Krankenhauspharmazie  gegenüber  Bund,  Ländern,  Körperschaften,  Standes-  und  Berufsverbänden  und  sonstigen Organisationen,\r\n-  Öffentlichkeitsarbeit,\r\n-  Zusammenarbeit  mit  pharmazeutischen  Vereinigungen  auf  nationaler  und  internationaler  Ebene,\r\n-  Wahrung  und  Förderung  der  beruflichen,  wirtschaftlichen  und  sozialen  Interessen  der  Krankenhausapotheker,-  Nachwuchsförderung  in  der  Krankenhauspharmazie.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Deutscher Krankenhausapotheker (ADKA) e.V.",
+          "phoneNumber": "+493039808752",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Alt-Moabit",
+            "streetNumber": "96",
+            "zipCode": "10559",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "gs@adka.de"
+          ],
+          "websites": [
+            "www.adka.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thomas",
+              "lastName": "Vorwerk",
+              "function": "Präsident",
+              "phoneNumber": "+493039808752",
+              "organizationMemberEmails": [
+                "gs@adka.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Sven-Frederik",
+              "lastName": "Balders",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493039808752",
+              "organizationMemberEmails": [
+                "gs@adka.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Heike",
+              "lastName": "Hilgarth"
+            }
+          ],
+          "members": 2670,
+          "membersCountDate": "2022-02-07T00:00:00.000Z",
+          "membershipEntries": [
+            "Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Kassenprüfung: Die  Mitgliederversammlung  wählt  für  vier  Jahre  zwei  Kassenprüfer,  die  dem  Vorstand  nicht  angehören  dürfen.\r\nDie  Kassenprüfer  prüfen  vor  jeder  ordentlichen  Mitgliederversammlung  die  Kasse  des  Verbandes  und  legen  der  Versammlung einen  Kassenprüfungsbericht  vor.\r\nNach  dem  Kassenprüfungsbericht  ist  in  jeder  ordentlichen  Mitgliederversammlung  Entlastung  des  Schatzmeisters  zu  beantragen."
+      }
+    },
+    {
+      "registerNumber": "R000444",
+      "registerEntryDetail": {
+        "id": 1380,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "locationOfReportPublication": "www.bundesanzeiger.de",
+        "account": {
+          "registerNumber": "R000444",
+          "firstPublicationDate": "2022-02-14T09:08:12.000Z"
+        },
+        "activityDescription": "Das SHARE TO CARE-Programm unterstützt Patientinnen und Patienten, Ärztinnen und Ärzte sowie Pflegekräfte gemeinsam eine Gesundheits-Entscheidung zu treffen, die auf die persönlichen Bedürfnisse der Betroffenen abgestimmt ist. Indem das Programm den Prozess der gemeinsamen Entscheidungsfindung, auch Shared Decision Making (SDM), systematisch etabliert, setzt es neue Maßstäbe in der Arzt-Patienten-Kommunikation. In diesem Kontext erfolgt die Ansprache von Gesundheitspolitiker:innen.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "SHARE TO CARE. Patientenzentrierte Versorgung GmbH",
+          "phoneNumber": "+4922129299730",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Maria-Hilf-Straße ",
+            "streetNumber": "15",
+            "zipCode": "50677",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "willkommen@share-to-care.de"
+          ],
+          "websites": [
+            "https://www.share-to-care.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jens-Ulrich",
+              "lastName": "Rüffer",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4922129299730",
+              "organizationMemberEmails": [
+                "willkommen@share-to-care.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "DNGK Deutsches Netzwerk Gesundheitskompetenz e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000443",
+      "registerEntryDetail": {
+        "id": 1094,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000443",
+          "firstPublicationDate": "2022-02-14T09:04:54.000Z"
+        },
+        "activityDescription": "Zweck des Vereins ist die Dokumentation und Verbesserung einer nachhaltigen Waldbewirtschaftung durch die Förderung des PEFC-Systems, insbesondere durch die Förderung der Umsetzung der Waldzertifizierung nach PEFC Deutschland.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "PEFC Deutschland e.V.",
+          "phoneNumber": "+497112484006",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Tübinger Str.",
+            "streetNumber": "15",
+            "zipCode": "70178",
+            "city": "Stuttgart",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@pefc.de",
+            "teegelbekkers@pefc.de"
+          ],
+          "websites": [
+            "www.pefc.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Andreas",
+              "lastName": "Bitter",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4935146331838",
+              "organizationMemberEmails": [
+                "andreas.bitter@tu-dresden.de"
+              ]
+            },
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Gaffert",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+493943654100",
+              "organizationMemberEmails": [
+                "peter.gaffert@wernigerode.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Dirk",
+              "lastName": "Teegelbekkers"
+            }
+          ],
+          "members": 38,
+          "membersCountDate": "2022-01-20T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutsche Gesellschaft Nachhaltiges Bauen (DGNB)",
+            "Deutsches Verpackungsinstitut (DVI)",
+            "Zentrum für Lebensmittel- und Verpackungstechnologie (ZLV)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Jahresabschluss des Vorjahres wird für die Mitgliederversammlung, die jeweils im Sommer zusammenkommt, angefertigt."
+      }
+    },
     {
       "registerNumber": "R000442",
       "registerEntryDetail": {
@@ -27580,7 +28053,7 @@
     {
       "registerNumber": "R000317",
       "registerEntryDetail": {
-        "id": 2649,
+        "id": 2776,
         "clientIdentity": "",
         "employeeCount": {
           "from": 0,
@@ -27603,9 +28076,8 @@
         "activityDescription": "Pro Jahr erkranken etwa 16.500 junge Menschen zwischen 18 und 39 Jahren an Krebs. Junge Erwachsene mit Krebs benötigen nicht nur eine spezielle medizinische Behandlung und psychosoziale Versorgung. Die Diagnose bedeutet für sie häufig auch einen gravierenden Einschnitt in die gesamte Lebens- und Zukunftsplanung. Plötzlich sehen sie sich mit besonderen Problemen und Entscheidungen konfrontiert: Kinderwunsch und Familienplanung, eine mögliche Unterbrechung des Ausbildungsweges oder wirtschaftliche und soziale Notlagen. Themen, die neben der bestmöglichen Krebstherapie eine zentrale Rolle spielen.\r\nDie Deutsche Stiftung für junge Erwachsene mit Krebs setzt hier an und möchte durch die Förderung von Wissenschaft und Forschung sowie des öffentlichen Gesundheitswesens junge Menschen mit Krebs unterstützen und begleiten. Die Stiftung initiiert in enger Zusammenarbeit mit den Betroffenen verschiedene Projekte, um die Versorgungssituation der jungen Erwachsenen zu verbessern.",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
-          "code": "ACT_PUBLIC_LAW_ORGA",
-          "de": "Öffentlich-rechtliche Organisation (z. B. Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts)",
-          "en": "Public law organization (e.g. corporations, institutions and foundations under public law)"
+          "code": "ACT_OTHER",
+          "text": "Rechtsfähige Stiftung des bürgerlichen Rechts"
         },
         "codexViolation": false,
         "lobbyistIdentity": {
@@ -27702,7 +28174,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "211216-Vorstandsbericht-DSfjEmK-Stiftung-2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/92/26/3332/211216-Vorstandsbericht-DSfjEmK-Stiftung-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/43/b9/3561/211216-Vorstandsbericht-DSfjEmK-Stiftung-2020.pdf",
               "mimeType": "application/pdf"
             }
           }
