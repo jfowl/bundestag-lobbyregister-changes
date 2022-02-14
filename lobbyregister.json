@@ -38159,7 +38159,7 @@
     {
       "registerNumber": "R000263",
       "registerEntryDetail": {
-        "id": 1523,
+        "id": 2769,
         "clientIdentity": "",
         "employeeCount": {
           "from": 21,
@@ -38283,6 +38283,11 @@
             {
               "commonFirstName": "Florian",
               "lastName": "Schneider"
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. ",
+              "commonFirstName": "Peter",
+              "lastName": "Wigge"
             }
           ],
           "members": 10580,
