@@ -9,8 +9,520 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 480,
+  "resultCount": 482,
   "results": [
+    {
+      "registerNumber": "R000486",
+      "registerEntryDetail": {
+        "id": 664,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 21,
+          "to": 30
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 490001,
+          "to": 500000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000486",
+          "firstPublicationDate": "2022-02-14T18:31:07.000Z"
+        },
+        "activityDescription": "Der Verband dient als Wirtschaftsverband der Förderung und Vertretung der gemeinsamen Interessen der Industrie- und Handelsunternehmen von Medizinprodukten sowie Fach- und Großhandel von Medizinprodukten, Zulieferern, Hilfsmittel-Leistungserbringern und Homecare-Versorgern.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "BVMed - Bundesverband Medizintechnologie",
+          "phoneNumber": "+49302462550",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reinhardtstraße ",
+            "streetNumber": "29B",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bvmed.de"
+          ],
+          "websites": [
+            "www.bvmed.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Meinrad",
+              "lastName": "Lugan",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+49302462550",
+              "organizationMemberEmails": [
+                "info@bvmed.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Manfred",
+              "lastName": "Elff",
+              "function": "Stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+49302462550",
+              "organizationMemberEmails": [
+                "info@bvmed.de"
+              ]
+            },
+            {
+              "commonFirstName": "Marc ",
+              "lastName": "Michel",
+              "function": "Stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+49302462550",
+              "organizationMemberEmails": [
+                "info@bvmed.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Marc-Pierre",
+              "lastName": "Möll",
+              "function": "Geschäftsführer und Vorstandsmitglied",
+              "phoneNumber": "+493024625510",
+              "organizationMemberEmails": [
+                "moell@bvmed.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Björn",
+              "lastName": "Kleiner"
+            },
+            {
+              "commonFirstName": "Katja",
+              "lastName": "Velimirovic Rostohar"
+            },
+            {
+              "commonFirstName": "Manfred",
+              "lastName": "Beeres"
+            },
+            {
+              "commonFirstName": "Olaf",
+              "lastName": "Winkler"
+            },
+            {
+              "commonFirstName": "Juliane",
+              "lastName": "Pohl"
+            },
+            {
+              "commonFirstName": "Natalie",
+              "lastName": "Gladkov"
+            },
+            {
+              "commonFirstName": "Michelle",
+              "lastName": "Klee"
+            },
+            {
+              "commonFirstName": "Clara",
+              "lastName": "Allonge"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Katja",
+              "lastName": "Marx"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christina",
+              "lastName": "Ziegenberg"
+            },
+            {
+              "commonFirstName": "Carol",
+              "lastName": "Petri"
+            },
+            {
+              "commonFirstName": "Lena",
+              "lastName": "Richter"
+            },
+            {
+              "commonFirstName": "Monika",
+              "lastName": "Ridder"
+            },
+            {
+              "commonFirstName": "Miriam",
+              "lastName": "Rohloff"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Marc-Pierre",
+              "lastName": "Möll"
+            }
+          ],
+          "members": 240,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "VCI - Verband der chemischen Industrie ",
+            "Aktionsbündnis Patientensicherheit e. V.",
+            "BMC - Bundesverband Managed Care e.V.",
+            "MedTech Europe",
+            "Europäische Bewegung Deutschland e. V.",
+            "Forschungskuratorium Textil e. V.",
+            "Gesamtverband der deutschen Textil- und Modeindustrie e. V.",
+            "Deutsche Kontinenz Gesellschaft e. V.",
+            "Bundesverband der Kommunikatoren e. V. ",
+            "vbw - Vereinigung der Bayerischen Wirtschaft e. V.",
+            "DIN - Deutsches Institut für Normung e. V.",
+            "DIN Named",
+            "Netzwerk Lady Lobby Berlin"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of “Social security”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "kodex-medizinprodukte.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/9e/8b/3862/kodex-medizinprodukte.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Lobbyregister-BVMed-Haushalt-2020-Rechenschaftsbericht.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/4d/66/3863/Lobbyregister-BVMed-Haushalt-2020-Rechenschaftsbericht.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000485",
+      "registerEntryDetail": {
+        "id": 1395,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000485",
+          "firstPublicationDate": "2022-02-14T18:27:23.000Z"
+        },
+        "activityDescription": "Kontakt zu Mitgliedern des Bundestages oder der Bundesregierung und politischen Vertretern zur Betrieblichen Sozialen Arbeit und den Arbeitsbedingungen in Organisationen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesfachverband Betriebliche Sozialarbeit e.V.",
+          "phoneNumber": "+492514176722",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Piusallee",
+            "streetNumber": "89",
+            "zipCode": "48147",
+            "city": "Münster",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bbs-ev.de"
+          ],
+          "websites": [
+            "www.bbs-ev.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr. ",
+              "commonFirstName": "Martin",
+              "lastName": "Klein",
+              "function": "1. Vorsitzender",
+              "phoneNumber": "+492514176722",
+              "organizationMemberEmails": [
+                "martin.klein@bbs-ev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Alice",
+              "lastName": "Neuhäuser"
+            }
+          ],
+          "members": 422,
+          "membersCountDate": "2022-01-25T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Der Bundesfachverband Betriebliche Sozialarbeit e.V. ist ein Berufsverband, der ehrenamtlich geleitet wird und zwei geringfügig beschäftigte Mitarbeiterinnen hat. Aufgrund des geringen Umfangs der Tätigkeit in politischen Zusammenhängen ist eine Offenlegung des Jahresabschlusses nicht notwendig."
+      }
+    },
     {
       "registerNumber": "R000484",
       "registerEntryDetail": {
