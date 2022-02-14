@@ -9,8 +9,428 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 459,
+  "resultCount": 462,
   "results": [
+    {
+      "registerNumber": "R000466",
+      "registerEntryDetail": {
+        "id": 2407,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000466",
+          "firstPublicationDate": "2022-02-14T12:52:25.000Z"
+        },
+        "activityDescription": "Die FQS fördert vorwettbewerbliche, praxisrelevante Forschung in den Bereichen Qualitätsmanagement, Qualitätssicherung und in benachbarten Themengebieten rund um das Thema Qualität, um insbesondere kleinen und mittleren Unternehmen den Zugang zu innovativen Forschungsergebnissen zu eröffnen.\r\n\r\nHierzu kann auch die Vertretung der Interessen von Unternehmen und Forschungseinrichtungen hinsichtlich des Faches der Qualitätswissenschaften gehören, die vorwiegend über die Arbeitsgemeinschaft industrieller Forschungsvereinigungen Otto von Guericke e.V. erfolgt, aber bei Bedarf auch direkt von den FQS wahrgenommen wird.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "FQS Forschungsgemeinschaft Qualität",
+          "phoneNumber": "+496995424197",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "FQS Forschungsgemeinschaft ",
+            "nationalAdditional2": "Qualität e. V.",
+            "street": "August-Schanz-Str.",
+            "streetNumber": "21A",
+            "zipCode": "60433",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "gf_fqs@dgq.de"
+          ],
+          "websites": [
+            "www.fqs.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Schmieder",
+              "function": "Vorsitzender des Vorstands",
+              "phoneNumber": "+4962326842018",
+              "organizationMemberEmails": [
+                "klaus@schmieder.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.-Ing.",
+              "commonFirstName": "Tilo",
+              "lastName": "Pfeifer",
+              "function": "Vorstand",
+              "phoneNumber": "+492418027412",
+              "organizationMemberEmails": [
+                "t.pfeifer@wzl.rwth-aachen.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.-Ing.",
+              "commonFirstName": "Robert",
+              "lastName": "Schmitt",
+              "function": "Vorstand",
+              "phoneNumber": "+492418020283",
+              "organizationMemberEmails": [
+                "r.schmitt@wzl.rwth-aachen.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christian",
+              "lastName": "Kellermann-Langhagen"
+            }
+          ],
+          "members": 61,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "AiF Arbeitsgemeinschaft industrieller Forschungsvereinigungen „Otto von Guericke“ e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+            "description": "Projektförderung im Rahmen der Industriellen Gemeinschaftsforschung",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 1920001,
+              "to": 1930000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/e2/21/3679/Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000465",
+      "registerEntryDetail": {
+        "id": 50,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 80001,
+          "to": 90000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000465",
+          "firstPublicationDate": "2022-02-14T12:44:16.000Z"
+        },
+        "activityDescription": "TIER Mobility ist nach dem Zusammenschluss mit Nextbike Europas führender Anbieter von geteilten Mikromobilitätslösungen mit der Mission, Mobilität zum Guten zu verändern. Indem TIER den Bürgerinnen und Bürgern verschiedene Elektrofahrzeuge wie E-Scooter, E-Bikes und E-Mopeds zur Miete zur Verfügung stellt und ein Netzwerk aus Batterieladestationen betreibt, hilft TIER den Kommunen, ihre Abhängigkeit vom Auto zu reduzieren. TIER wurde 2018 von Lawrence Leuschner, Matthias Laug und Julian Blessin gegründet, hat seinen Hauptsitz in Berlin und ist derzeit in über 170 Städten in 18 Ländern in Europa und dem Nahen Osten aktiv. Mit dem Fokus, die sicherste, fairste und nachhaltigste Mobilitätslösung anzubieten, ist TIER seit 2020 klimaneutral.\r\nUnser Anspruch ist, in enger Partnerschaft mit lokalem ÖPNV und anderen Mobilitätspartnern praktische, verfügbare und bezahlbare multimodale Alternativen zum Privat-PKW zu schaffen und damit zu Klima- und Umweltschutz sowie einer höheren Lebensqualität in den Städten und Gemeinden beizutragen. TIER setzt sich daher für eine nachhaltige Verkehrspolitik und innovations-offene rechtliche Rahmenbedingungen ein, die gute Rad-Infrastruktur, gut ausgebauten ÖPNV und vielfältige Mikromobilität fördern.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "TIER Mobility SE",
+          "phoneNumber": "+493056838651",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o WeWork    ",
+            "street": "Eichhornstr ",
+            "streetNumber": "3",
+            "zipCode": "10785",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_SE",
+            "code_de": "Europäische Aktiengesellschaft (SE)",
+            "code_en": "European stock company (SE)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@tier.app"
+          ],
+          "websites": [
+            "https://www.tier.app/de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Lawrence",
+              "lastName": "Leuschner",
+              "function": "CEO & Co-Founder",
+              "phoneNumber": "+493056838651",
+              "organizationMemberEmails": [
+                "info@tier.app"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christine",
+              "lastName": "Wenzel"
+            },
+            {
+              "commonFirstName": "Tobias",
+              "lastName": "Griesmeier"
+            },
+            {
+              "commonFirstName": "Christopher",
+              "lastName": "Dreke"
+            }
+          ],
+          "membershipEntries": [
+            "Platform Shared Mobility PSM",
+            "Berliner Agentur für Elektromobilität eMO",
+            "Deutscher Verkehrssicherheitsrat DVR",
+            "New Mobility Forum des Verbands Deutscher Verkehrsunternehmen VDV",
+            "SPD Wirtschaftsforum"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000464",
+      "registerEntryDetail": {
+        "id": 2214,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000464",
+          "firstPublicationDate": "2022-02-14T12:40:13.000Z"
+        },
+        "activityDescription": "Wir glauben daran, dass die Wasserstoff-Gesellschaft nur möglich sein wird, wenn alle an einem Strang ziehen. Die Erzeugung und Nutzung von grünem Wasserstoff ist wesentlich, um Industrie und Verkehr zu defossilisieren. Das ist Klimaschutz.\r\nDer Zeitpunkt ist jetzt, um die Wasserstoff-Wirtschaft zu stärken und auszubauen und noch mehr Firmen, Unternehmer, Politiker und Medien einzubeziehen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Mission Hydrogen GmbH",
+          "phoneNumber": "+4971959043900",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Mission Hydrogen GmbH",
+            "street": "Lise-Meitner-Straße",
+            "streetNumber": "20",
+            "zipCode": "71364",
+            "city": "Winnenden",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "silke.frank@mission-hydrogen.de"
+          ],
+          "websites": [
+            "www.mission-hydrogen.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Silke",
+              "lastName": "Frank",
+              "function": "Geschäftsführerin",
+              "phoneNumber": "+491622109822",
+              "organizationMemberEmails": [
+                "silke.frank@mission-hydrogen.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "DWV Deutscher Wasserstoff- und Brennstoffzellen-Verband e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "E-Bilanz-Vorschau-31-12-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/48/d5/3673/E-Bilanz-Vorschau-31-12-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000463",
       "registerEntryDetail": {
@@ -63616,7 +64036,7 @@
     {
       "registerNumber": "R000156",
       "registerEntryDetail": {
-        "id": 1369,
+        "id": 2815,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -63629,11 +64049,9 @@
           "fiscalYearStart": "01/21",
           "fiscalYearEnd": "12/21"
         },
-        "refusePublicAllowanceInformation": true,
-        "refusePublicAllowanceInformationReason": "",
+        "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
         "donationInformationRequired": false,
-        "locationOfReportPublication": "www.civd.de",
         "account": {
           "registerNumber": "R000156",
           "firstPublicationDate": "2022-01-25T09:21:49.000Z"
@@ -63811,7 +64229,16 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "CIVD-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/3a/04/3675/CIVD-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": true,
         "annualReportExist": true
       }
