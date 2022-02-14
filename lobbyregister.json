@@ -9,8 +9,161 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 442,
+  "resultCount": 443,
   "results": [
+    {
+      "registerNumber": "R000447",
+      "registerEntryDetail": {
+        "id": 2779,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000447",
+          "firstPublicationDate": "2022-02-14T09:34:01.000Z"
+        },
+        "activityDescription": "Direkter Kontakt mit Entscheidungsträgern durch ALPLA Public Affairs Team, ALPLA wird bei der Lobbyarbeit durch die Consultancy Van Beust und Coll unterstützt.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "ALPLA Werke Lehner GmbH & Co KG",
+          "phoneNumber": "+4975445080",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Daimlerstraße",
+            "streetNumber": "4",
+            "zipCode": "88677",
+            "city": "Markdorf ",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_KG",
+            "code_de": "Kommanditgesellschaft (KG)",
+            "code_en": "Limited partnership (KG)",
+            "type": "LEGAL_ASSOCIATION"
+          },
+          "organizationEmails": [
+            "sebastian.lemp@alpla.com",
+            "georg.pescher@alpla.com"
+          ],
+          "websites": [
+            "https://www.alpla.com/en"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Georg",
+              "lastName": "Pescher",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49522864499155",
+              "organizationMemberEmails": [
+                "georg.pescher@alpla.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Hoffmann"
+            },
+            {
+              "commonFirstName": "Sebastian",
+              "lastName": "Lemp"
+            }
+          ],
+          "membershipEntries": [
+            "Industrievereinigung Kunststoffverpackungen",
+            "Grüner Wirtschaftsdialog"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000446",
       "registerEntryDetail": {
