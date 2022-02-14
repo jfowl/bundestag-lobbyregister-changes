@@ -9,8 +9,385 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 479,
+  "resultCount": 480,
   "results": [
+    {
+      "registerNumber": "R000484",
+      "registerEntryDetail": {
+        "id": 553,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000484",
+          "firstPublicationDate": "2022-02-14T18:12:46.000Z"
+        },
+        "activityDescription": "In unserer Satzung heisst es: Die Informatik berührt alle Bereiche unseres Lebens, unserer Gesellschaft und unserer Umwelt - sie soll den Menschen und dem Gemeinwohl dienen. Die in der Informatik Tätigen haben daher eine besondere Verantwortung für ihr Handeln. Unter diesem Leitgedanken führt die Gesellschaft für Informatik e.V. (GI) Menschen zusammen, die sich der Informatik verbunden fühlen. Sie verbindet Wissenschaft, Wirtschaft, Bildung, Gesellschaft und Politik in allen die Informatik, ihre Anwendungen und Auswirkungen auf die Menschen, die Gesellschaft und die Umwelt betreffenden Fragen. Dazu zählen auch die zugrundeliegenden Technologien, die Anwendung von Informationstechnik sowie die Auswirkungen der Digitalisierung. Als Fachgesellschaft setzt sich die GI für die Interessen der Informatiker*innen ein und fördert die in der Informatik tätigen Frauen mit dem Ziel ihrer faktischen Gleichstellung.\r\nDie GI bezweckt die Förderung der Informatik in Forschung und Lehre, ihrer Anwendungen und der Weiterbildung auf diesem Gebiet. Sie ist selbstlos tätig, verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke, sondern ausschließlich und unmittelbar gemeinnützige Zwecke.\r\nZur Erreichung der Ziele  nimmt die GI insbesondere folgende Aufgaben wahr: Mitgestaltung der Entwicklung der Informatik und Einflussnahme darauf, Mitgestaltung des einschlägigen Bildungswesens und Einflussnahme darauf, Mitgestaltung im Vorfeld der einschlägigen politischen Planung und Gesetzgebung, Einbringung der Expertise der GI-Mitglieder in Wirtschaft und Gesellschaft, Unterrichtung der Öffentlichkeit über Fragen der Informatik und deren Auswirkungen, Auseinandersetzung mit den gesellschaftlichen Implikationen der Informatik und ihrer Anwendungen sowie Teilnahme am Diskurs darüber, Unterstützung der in der Informatik Tätigen in ihrer beruflich-fachlichen Arbeit, Förderung des Nachwuchses.\r\nZur Erfüllung ihrer Aufgaben dienen u.a. folgende Maßnahmen: Schaffung und Förderung geeigneter Gruppierungen zur fachlichen und inhaltlichen Zusammenarbeit der Mitglieder, Veranstaltung von Tagungen, Seminaren, Vorträgen und damit verbundenen Ausstellungen, Herausgabe und Förderung von Fachpublikationen, Abgabe von öffentlichen Empfehlungen und Stellungnahmen für die Informatik,  Ausrichtung von Informatikwettbewerben und Vergabe von fachlichen Preisen,  Mitwirkung bei der Entwicklung von Normen und Standards sowie deren Validierung,  Zusammenarbeit mit anderen einschlägigen nationalen und internationalen Institutionen, kontinuierlicher Diskurs zu Grundsatzfragen und Erarbeitung entsprechender Leitlinien.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Gesellschaft für Informatik e.V.",
+          "phoneNumber": "+49228302145",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Spreepalais am Dom",
+            "street": "Anna-Louisa-Karsch-Str.",
+            "streetNumber": "2",
+            "zipCode": "10178",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "berlin@gi.de"
+          ],
+          "websites": [
+            "https://gi.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Daniel",
+              "lastName": "Krupka",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4930726156615",
+              "organizationMemberEmails": [
+                "daniel.krupka@gi.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 19086,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Verbraucherzentrale Bundesverband e.V.",
+            "Informatics Europe",
+            "International Federation of Information Processing",
+            "Council of European Professional Informatics Societies",
+            "Initiative D21 e.V.",
+            "Deutscher Frauenrat e.V.",
+            "ASIIN Akkreditierungsagentur für Studiengänge der Ingenieurwissenschaften, der Informatik, der Naturwissenschaften und der Mathematik e.V.",
+            "idw",
+            "Max-Planck-Gesellschaft",
+            "Kompetenzzentrum Technik-Diversity-Chancengleichheit e. V.",
+            "BiB e.V.",
+            "Konrad-Zuse-Gesellschaft e.V.",
+            "EQANIE e. V.",
+            "GDD E.V.",
+            "MINT Zukunft e.V.",
+            "CAST E.V.",
+            "EurAi - European Association for Artificial Intelligence",
+            "DIN e.V.",
+            "PSVaG",
+            "GFD e. V.",
+            "DGVM BONN"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Bildung und Forschung",
+            "description": "Zuwendungen für verschiedenen Bildungs-, Forschungs- und Wissenschaftskommunikationsprojekte:\r\nKEA-Mod: E-Assessment in der grafischen Modellierung (https://keamod.gi.de), Kompetenzzentrum Digital Autonomy Hub - Technik souverän: Koordinierung eines interdisziplinären Netzwerks aus 43 Instituten und Organisationen  (https://digitalautonomy.net), InviDas - Eigene Daten aus tragbaren Gesundheitstechnologien souverän verwalten (https://invidas.gi.de), Turing-Bus: Die Reise in die Quantenzeit! (https://turing-bus.de), Hack-the Summer (https://hack-the-summer.de), KI-Camp 2021: Interdisziplinäre Science Convention für den wissenschaftlichen Nachwuchs (https://kicamp.org) und die Bundesweiten Informatikwettbewerbe (https://bwinf.de).",
+            "location": "Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 1240001,
+              "to": 1250000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Bundesministerium für Arbeit und Soziales",
+            "description": "m Konsortialprojekt ExamAI - KI Testing & Auditing unter Leitung der Gesellschaft für Informatik e.V. untersucht ein interdisziplinäres Team aus (Sozio-)Informatiker*innen, Software-Ingenieuren sowie Rechts- und Politikwissenschaftler*innen anhand von zwei konkreten Anwendungsbereichen - (1) Mensch-Maschine-Kooperation in der Industrieproduktion sowie (2) KI-Systeme im Personal- und Talentmanagement - wie sinnvolle Kontroll- und Testverfahren für KI-Systeme aussehen können.",
+            "location": "Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 90001,
+              "to": 100000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Bundesministerium für Wirtschaft und Energie",
+            "description": "Young people under the age of 30 are the largest demographic group on the Internet, yet they are still underrepresented at the Internet Governance Forum, and in decision-making on digital agendas. We believe that young people have a high knowledge of the digital world they interact with daily and therefore deserve to play a stronger role in decision making, and policy processes regarding the Internet. This is why the German Informatics Society has been organizing events, networking and advocacy opportunities to support youth participation and foster the dialogue with other stakeholders since 2019.",
+            "location": "Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of “Bundestag”"
+          },
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_COOPERATION",
+            "de": "Polizeiliche und justizielle Zusammenarbeit in der EU",
+            "en": "Police and judicial cooperation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_MASS",
+            "de": "Massenmedien",
+            "en": "Mass media"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_OTHER",
+            "de": "Sonstiges im Bereich „Medien, Kommunikation und  Informationstechnik“",
+            "en": "Other in the field of “Media, communication and information technology”"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_OTHER",
+            "de": "Sonstiges im Bereich „Staat und Verwaltung“",
+            "en": "Other in the field of “Government and administration”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2021-06-17-GI-JR2020-Bericht-final-unterzeichnet.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/42/17/3856/2021-06-17-GI-JR2020-Bericht-final-unterzeichnet.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "GI-Leitlinien.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/bf/84/3857/GI-Leitlinien.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000483",
       "registerEntryDetail": {
