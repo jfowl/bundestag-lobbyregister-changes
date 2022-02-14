@@ -9,8 +9,1142 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 462,
+  "resultCount": 467,
   "results": [
+    {
+      "registerNumber": "R000471",
+      "registerEntryDetail": {
+        "id": 1084,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000471",
+          "firstPublicationDate": "2022-02-14T13:29:20.000Z"
+        },
+        "activityDescription": "Der Beruf des Drechslers verbindet lange Tradition und permanente Innovation, künstlerische Phantasie und handwerkliches Können. Diese Vorzüge auch künftigem Berufsnachwuchs und Fachkräften zu vermitteln, hat sich der Verband des Deutschen Drechsler- und Holzspielzeugmacher-Handwerks zum Ziel gesetzt. Um den gehobenen Ansprüchen heutiger Kunden gerecht zu werden, sorgen wir nicht nur für ein modernes Berufsbild, zeitgemäße Prüfungsordnungen für Gesellen und Meister und attraktive Weiterbildungsmöglichkeiten; als Sprachrohr vertreten wir die Interessen unserer Mitglieder gegenüber Politik und Öffentlichkeit und binden auch Quereinsteiger in eine starke Berufsstandsvertretung mit ein.  \r\nDer Verband kümmert sich um Ausbildungsrichtlinien, überbetriebliche Weiterbildung, Sonderqualifizierungen, Meisterkurse und Abschlussprüfungen.\r\nDer Verband des Deutschen Drechsler- und Holzspielzeugmacher-Handwerks vertritt folgende Gewerke:\r\nDrechsler\r\nReifendreher\r\nElfenbeinschnitzer\r\nBernsteindrechsler\r\nHolzspielzeugmacher\r\nDer Verband des Deutschen Drechsler- und Holzspielzeugmacher-Handwerks nimmt die fachlichen Interessen der Handwerksmeister in den genannten Berufszweigen wahr. Er stützt sich in seiner Organisation auf die Landesverbände, die Innungen und auf zahlreiche Einzelmeister, die aus Gegenden kommen, in denen es keine Innungen gibt.\r\nDas Handwerk ist mehr als ein regional verwurzelter Wirtschaftszweig mit Mitgliedschaft in der Handwerkskammer. Unser Fachverband als Organisation der Innungsbetriebe fungiert als Ansprechpartner der Betriebe bei fachlichen Fragen und als ihr starker Repräsentant.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "   Verband des Deutschen Drechsler- und Holzspielzeugmacherhandwerks e.V",
+          "phoneNumber": "+49911740850",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/oKreishandwerkerschaft Fürth",
+            "street": "Fürther Freiheit",
+            "streetNumber": "6",
+            "zipCode": "90762",
+            "city": "Fürth",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@drechslerverband.de"
+          ],
+          "websites": [
+            "www.drechslerverband.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Walter",
+              "lastName": "Hoppe",
+              "function": "Bundesinnungsmeister",
+              "phoneNumber": "+49511851530",
+              "organizationMemberEmails": [
+                "walterhoppe@t-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Wolfgang",
+              "lastName": "Miller",
+              "function": "stellv. Bundesinnungsmeister",
+              "phoneNumber": "+499735820095",
+              "organizationMemberEmails": [
+                "info@drechslerei-miller.de"
+              ]
+            },
+            {
+              "commonFirstName": "Markus",
+              "lastName": "Günther",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+49711771148",
+              "organizationMemberEmails": [
+                "drechslerei-guenther@web.de"
+              ]
+            },
+            {
+              "commonFirstName": "Frank",
+              "lastName": "Grottenthaler",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+49911262995",
+              "organizationMemberEmails": [
+                "frank.grottenthaler@freenet.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gerhard",
+              "lastName": "Preick",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4950412650",
+              "organizationMemberEmails": [
+                "info@drechslerei-preick.de"
+              ]
+            },
+            {
+              "commonFirstName": "Werner",
+              "lastName": "Möhlmann",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4951952593",
+              "organizationMemberEmails": [
+                "info@drechslerei-moehlmann.de"
+              ]
+            },
+            {
+              "commonFirstName": "Thiele",
+              "lastName": "Schaper",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+495274488",
+              "organizationMemberEmails": [
+                "drechslermeisterin.g.schaper@web.de"
+              ]
+            },
+            {
+              "commonFirstName": "Anton",
+              "lastName": "Schöttl",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4988164713",
+              "organizationMemberEmails": [
+                "drechslerei-schoettl@t-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Karina",
+              "lastName": "Ihlenburg",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+493977920413",
+              "organizationMemberEmails": [
+                "service@drechslerei-rose.de"
+              ]
+            },
+            {
+              "commonFirstName": "Constantin",
+              "lastName": "Kempe",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+49524167175",
+              "organizationMemberEmails": [
+                "post@drechslerei-kempe.de"
+              ]
+            },
+            {
+              "commonFirstName": "Katharina",
+              "lastName": "Rose-Lachermeier",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4984617944",
+              "organizationMemberEmails": [
+                "info@schreinerei-lachermeier.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dipl.Ing.(FH)",
+              "commonFirstName": "Thomas",
+              "lastName": "Mörtel"
+            }
+          ],
+          "members": 73,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000470",
+      "registerEntryDetail": {
+        "id": 244,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000470",
+          "firstPublicationDate": "2022-02-14T13:12:06.000Z"
+        },
+        "activityDescription": "Der Berufsverband der Deutschen Urologen e.V. tritt für die beruflichen und berufspolitischen Interessen seiner Mitglieder ein. Insbesondere hat er folgende Aufgaben:\r\n- Er nimmt die beruflichen und berufspolitischen Interessen seiner Mitglieder gegenüber allen im\r\nGesundheitswesen im Inland und Ausland Handelnden wahr.\r\n- Er fördert die berufliche Fortbildung und wirkt an der Gestaltung der Weiterbildungsordnung und\r\ndes Berufsbildes mit.\r\n- Er nimmt die Interessen seiner Mitglieder gegenüber unlauteren Wettbewerbshandlungen wahr.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Berufsverband der Deutschen Urologen e. V. (BvDU)",
+          "phoneNumber": "+493088722550",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kantstr.",
+            "streetNumber": "149",
+            "zipCode": "10623",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@urologie-gestalten.de"
+          ],
+          "websites": [
+            "www.urologie-gestalten.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Roland",
+              "lastName": "Zielke",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493088722550",
+              "organizationMemberEmails": [
+                "geschaeftsfuehrung@bdu-urologie.de"
+              ]
+            },
+            {
+              "commonFirstName": "Catrin",
+              "lastName": "Steiniger",
+              "function": "Präsidentin",
+              "phoneNumber": "+493088722550",
+              "organizationMemberEmails": [
+                "praesidentin@bdu-urologie.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr.",
+              "commonFirstName": "Peter",
+              "lastName": "Göbell",
+              "function": "1. Vizepräsident",
+              "phoneNumber": "+493088722550",
+              "organizationMemberEmails": [
+                "1.vizepraesident@bdu-urologie.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Peter",
+              "lastName": "Kollenbach",
+              "function": "2. Vizepräsident",
+              "phoneNumber": "+493088722550",
+              "organizationMemberEmails": [
+                "2.vizepraesident@bdu-urologie.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Peter",
+              "lastName": "Kühne",
+              "function": "Schatzmeister",
+              "phoneNumber": "+493088722550",
+              "organizationMemberEmails": [
+                "schatzmeister@bdu-urologie.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Axel",
+              "lastName": "Belusa",
+              "function": "Schriftführer",
+              "phoneNumber": "+493088722550",
+              "organizationMemberEmails": [
+                "schriftfuehrer@bdu-urologie.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 2500,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Spitzenverband Fachärzte Deuschland e.V. (SpiFa)",
+            "Bundesverband der Beleärzte und Belegkrankenhäuser e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Rechenschaftsbericht-fur-Lobbyregister-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7c/f7/3691/Rechenschaftsbericht-fur-Lobbyregister-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000469",
+      "registerEntryDetail": {
+        "id": 865,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 80001,
+          "to": 90000,
+          "fiscalYearStart": "11/20",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000469",
+          "firstPublicationDate": "2022-02-14T13:10:04.000Z"
+        },
+        "activityDescription": "Im neuen digitalen Zeitalter müssen die Entscheidungen des öffentlichen Sektors und Innovationen des privaten Sektors ineinander greifen, um das Wirtschaftswachstum zu fördern und das Leben der Bürger:innen zu verbessern. Adobe ist sich bewusst, dass staatliche Maßnahmen z.B. in den Bereichen Verbraucherschutz, Datenschutz und Bildung große Auswirkungen auf unsere Kund:innen und Mitarbeiter:innen sowie auf die globale Gemeinschaft haben. Aus diesem Grund arbeitet unser Government Realtions-Team mit Vertretern des öffentlichen Lebens auf der ganzen Welt zusammen und bietet wertvolle Einblicke und Fachwissen zu politischen Themen, die sowohl unser Unternehmen als auch die Software-Branche als Ganzes direkt betreffen.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Adobe Systems GmbH",
+          "phoneNumber": "+4989317050",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Georg-Brauchle-Ring",
+            "streetNumber": "56/58",
+            "zipCode": "80992",
+            "city": "München",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "contact.de@adobe.com",
+            "receptmun@adobe.com"
+          ],
+          "websites": [
+            "www.adobe.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Kull",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4989317050",
+              "organizationMemberEmails": [
+                "ckull@adobe.com"
+              ]
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Keim",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+441628590000",
+              "organizationMemberEmails": [
+                "ckeim@adobe.com"
+              ]
+            },
+            {
+              "commonFirstName": "Keith",
+              "lastName": "San Felipe",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+14085366000",
+              "organizationMemberEmails": [
+                "keithsf@adobe.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Stefanie",
+              "lastName": "Valdés-Scott"
+            }
+          ],
+          "membershipEntries": [
+            "Bitkom e.V.",
+            "Bundesverband Digitale Wirtschaft (BVDW) e.V.",
+            "Grüner Wirtschaftsdialog e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_SERVICE",
+            "de": "Öffentlicher Dienst und öffentliche Verwaltung",
+            "en": "Public service"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DISABILITY",
+            "de": "Rechte von Menschen mit Behinderung",
+            "en": "Rights of people with disabilities"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DIVERSITY",
+            "de": "Diversitätspolitik",
+            "en": "Diversity policy"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Geschäftsjahr erst am 03.12.2021 beendet"
+      }
+    },
+    {
+      "registerNumber": "R000468",
+      "registerEntryDetail": {
+        "id": 1711,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000468",
+          "firstPublicationDate": "2022-02-14T13:09:18.000Z"
+        },
+        "activityDescription": "Atos ist ein weltweit führender Anbieter für die digitale Transformation mit 107.000 Mitarbeitern und einem Jahresumsatz von über 11 Milliarden Euro. Als europäischer Marktführer für Cybersecurity sowie Cloud und High Performance Computing bietet die Atos Gruppe maßgeschneiderte, ganzheitliche Lösungen für sämtliche Branchen in 71 Ländern. Als Pionier im Bereich nachhaltiger Dienstleistungen und Produkte arbeitet Atos für seine Kunden an sicheren, dekarbonisierten Digitaltechnologien. Atos ist eine SE (Societas Europaea) und an der internationalen Börse Euronext Paris sowie in den Aktienindizes CAC 40 ESG und CAC Next 20 notiert.\r\n\r\nDas Ziel von Atos ist es, die Zukunft der Informationstechnologie mitzugestalten. Fachwissen und Services von Atos fördern Wissensentwicklung, Bildung sowie Forschung in einer multikulturellen Welt und tragen zu wissenschaftlicher und technologischer Exzellenz bei. Weltweit ermöglicht die Atos Gruppe ihren Kunden und Mitarbeitern sowie der Gesellschaft insgesamt, in einem sicheren Informationsraum nachhaltig zu leben, zu arbeiten und sich zu entwickeln.\r\n\r\nDer Atos Information Technology GmbH geht es darum in einem konstruktiven Dialog entsprechende Rahmenbedingungen zu schaffen, welche es einem Technologieunternehmen wie Atos ermöglicht, die hierfür notwendigen Dienste bereitzustellen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Atos Information Technology GmbH",
+          "phoneNumber": "+4921139950534",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Otto-Hahn-Ring",
+            "streetNumber": "6",
+            "zipCode": "81739",
+            "city": "München",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "ingo.juergens@atos.net"
+          ],
+          "websites": [
+            "https://atos.net/de/deutschland"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Udo",
+              "lastName": "Littke",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4939920200",
+              "organizationMemberEmails": [
+                "udo.littke@atos.net"
+              ]
+            },
+            {
+              "commonFirstName": "Boris",
+              "lastName": "Hecker",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4915111204938",
+              "organizationMemberEmails": [
+                "boris.hecker@atos.net"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Catherine",
+              "lastName": "Briat"
+            }
+          ],
+          "membershipEntries": [
+            "Bitkom e.V.",
+            "Teletrust",
+            "IDSA",
+            "Acatech",
+            "Münchner Kreis",
+            "Allianz für Cybersicherheit",
+            "Gaia-X"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_ARMAMENTS",
+            "de": "Rüstungsangelegenheiten",
+            "en": "Armaments matters"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_OTHER",
+            "de": "Sonstiges im Bereich „Staat und Verwaltung“",
+            "en": "Other in the field of “Government and administration”"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Atos-Code-of-Ethics-DE.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/29/6c/3688/Atos-Code-of-Ethics-DE.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "atos-2020universal-registration-document.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/9e/a5/3689/atos-2020universal-registration-document.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000467",
+      "registerEntryDetail": {
+        "id": 2424,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000467",
+          "firstPublicationDate": "2022-02-14T13:02:37.000Z"
+        },
+        "activityDescription": "Der BSM e.V. ist als Vereinsverband die Dachorganisation von Berufsorganisationen des Reisegewerbes, die sowohl auf Landesebene wie auch auf regionaler und lokaler Ebene tätig sind. Vereinszweck ist die Interessenvertretung der Schausteller, Marktkaufleute und Zirkusse beim Bund und der EU.\r\nAufgaben sind unter anderem\r\n\r\nFörderung und Unterstützung der Reisegewerbetreibenden in ihrer organisatorischen und berufsständischen Entwicklung\r\nMitgliederinformastionen über brancheneinschlägige Vorschriften und Entwicklungen\r\nDarlegung der branchenspezifischen Belange des Reisegewerbes bei Verbandsanhörungen bei Gesetzgebung und Vollzug.\r\nFörderung des Ansehens des Berufsstandes in der Öffentlichkeit\r\nZusammenarbeit mit anderen Spitzenorganisationen bei gemeinsamen Interessen\r\nÖffentlichkeitsarbeit\r\nEbenen der Aktivitäten\r\nDer BSM steht in Kontakt mit dem Tourismusausschuss und seinen Arbeitsgruppen als ständige institutionelle Ansprechpartner im Deutschen Bundestag. \r\nVorrangige Ressorts der Bundesregierung für branchenspezifrische Themen sind das Bundeswirtschafts-, Bundesfinanz-, Bundesverkehrs- und das Bundesgesundheitsministerium.\r\n\r\nDer BSM ist als ständiger Gast im bauaufsichtlichen Arbeitskreis Fliegende Bauten vertreten sowie über den Bundesgeschäftsführer als stellvertretendes Mitglied der Vertreterversammlung in der Berufsgenossenschaft Nahrungsmittel und Gastgewerbe. \r\n\r\nEr ist Gründungsmitglied des deutschen (BERiD) wie auch des europäischen Bildungsverbands ENTE. Diese Organisationen haben die Verbesserung der schulischen und beruflichen Bildung der Kinder reisender Berufsgruppen zum Ziel. \r\nAuf europäischer Ebene Mitgliedschaft in der Europischen Schausteller-Union. \r\nDurch die Vernetzung der Verbände von der kommunalen über die Landesebene über den Bund bis in die EU ist eine koordinierte und in sich geschlossene Darstellung des Reisegewerbes in Politik, Wirtschaft und Medien gewährleistet. \r\nEr informiert regelmäßig im Verbandsteil der Fachzeitung Der Komet alle interessierten Kreise über aktuelle Themen und Aktivitäten der Dachorganisation wie auch der Landesverbände\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Deutscher Schausteller und Marktkaufleute e.V.",
+          "phoneNumber": "+49228224026",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Bundesverband  Schausteller",
+            "nationalAdditional2": "und Marktkaufleute e.V.",
+            "street": "Im Johdorf",
+            "streetNumber": "26",
+            "zipCode": "53227",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bsmev.de"
+          ],
+          "websites": [
+            "www.bsmev.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Wilfried",
+              "lastName": "Thal",
+              "function": "Präsident",
+              "phoneNumber": "+494047372482",
+              "organizationMemberEmails": [
+                "wilfried.thal@t-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Patrick",
+              "lastName": "Arens",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49231353508",
+              "organizationMemberEmails": [
+                "patrick.arens@t-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Pfeffer",
+              "function": "Vizepräsident",
+              "phoneNumber": "+491772752063",
+              "organizationMemberEmails": [
+                "anderlpfeffer@gmail.com"
+              ]
+            },
+            {
+              "commonFirstName": "Wenzel",
+              "lastName": "Bradac",
+              "function": "Vizepräsident",
+              "phoneNumber": "+498954072867",
+              "organizationMemberEmails": [
+                "blv-leitung@gmx.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Werner",
+              "lastName": "Hammerschmidt"
+            }
+          ],
+          "members": 15,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Verband zur Förderung der schulischen Bildung und Erziehung von Kindern der Angehörigen reisender Berufsgruppen in Deutschland",
+            "Bundesmarktverband der Fischwirtschaft",
+            "European Network for Traveller Education",
+            "Europäische Schaustellerunion",
+            "Verein zur Förderung der Sicherheit von Großveranstaltungen e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_ACCIDENT",
+            "de": "Unfallversicherung",
+            "en": "Accident insurance"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Rechungslegung-fur-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/b3/9b/3686/Rechungslegung-fur-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000466",
       "registerEntryDetail": {
@@ -31089,7 +32223,7 @@
     {
       "registerNumber": "R000320",
       "registerEntryDetail": {
-        "id": 948,
+        "id": 2784,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -31213,10 +32347,19 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-VAD-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/08/d4/3707/Jahresabschluss-VAD-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": false,
-        "refuseAnnualFinanceStatement": true,
-        "refuseAnnualFinanceStatementReason": "Da keine handelsrechtliche Offenlegungspflichten bestehen."
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
       }
     },
     {
