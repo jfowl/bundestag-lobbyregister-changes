@@ -32123,7 +32123,7 @@
     {
       "registerNumber": "R000325",
       "registerEntryDetail": {
-        "id": 2445,
+        "id": 2885,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -32186,6 +32186,34 @@
               "organizationMemberEmails": [
                 "heim@keb-deutschland.de"
               ]
+            },
+            {
+              "commonFirstName": "Elisabeth",
+              "lastName": "Vanderheiden",
+              "function": "Bundesvorsitzende",
+              "phoneNumber": "+49228902470",
+              "organizationMemberEmails": [
+                "keb@keb-deutschland.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kullmann",
+              "lastName": "Claudio",
+              "function": "Stellvertretender Bundesvorsitzender",
+              "phoneNumber": "+49228902470",
+              "organizationMemberEmails": [
+                "keb@keb-deutschland.de"
+              ]
+            },
+            {
+              "commonFirstName": "Rüdiger",
+              "lastName": "Paus-Burkard",
+              "function": "Stellvertretender Bundesvorsitzender",
+              "phoneNumber": "+49228902470",
+              "organizationMemberEmails": [
+                "keb@keb-deutschland.de"
+              ]
             }
           ],
           "namedEmployees": [],
@@ -32195,14 +32223,15 @@
             "Forum Hoschule und Kirche",
             "Bundesausschuss politische Bildung",
             "Zentralkommittee der deutschen Katholiken",
-            "Föderation für Katholische Erwachsenenbildung (FEECA)"
+            "Föderation für Katholische Erwachsenenbildung (FEECA)",
+            "European Association for the Education of Adults (EAEA)"
           ]
         },
         "legislativeProjects": [],
         "donators": [
           {
             "name": "Koordinierungsstelle Alphadekade ",
-            "description": "Projektförderung",
+            "description": "Projektförderung des Bundesministeriums für Bildung und Forschung",
             "location": "Bonn",
             "fiscalYearStart": "01/21",
             "fiscalYearEnd": "12/21",
@@ -32236,8 +32265,8 @@
           {
             "type": "ANNUAL_REPORT",
             "media": {
-              "fileName": "210604-Testat-WP-fur-2020-oU.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/2b/38/2931/210604-Testat-WP-fur-2020-oU.pdf",
+              "fileName": "2020-Bilanz-KEB-MV.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/ea/0e/3757/2020-Bilanz-KEB-MV.pdf",
               "mimeType": "application/pdf"
             }
           }
