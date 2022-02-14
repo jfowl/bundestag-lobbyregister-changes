@@ -9,8 +9,584 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 451,
+  "resultCount": 455,
   "results": [
+    {
+      "registerNumber": "R000459",
+      "registerEntryDetail": {
+        "id": 1791,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000459",
+          "firstPublicationDate": "2022-02-14T11:41:07.000Z"
+        },
+        "activityDescription": "Der Verein \"Fakultätentage der Ingenieurwissenschaften und der Informatik (kurz: 4ING) e.V. ist ein freiwilliger Zusammenschluss von Funktionsträgern und Fakultätentagen, welche die Ingenieurwissenschaften und die Informatik an Universitäten im deutschsprachigen Gebiet und im europäischen Hochschulraum fördern. \r\n\r\nSatzungsmäßige Aufgaben des Vereins sind\r\na) die Wissenschaft, Lehre und Forschung im Bereich der Ingenieurwissenschaften und der Informatik   an deutschen Universitäten zu vertreten,\r\nb) die Darstellung und Bekanntmachung dieser Wissenschaften in der Öffentlichkeit und\r\nc) die Beratung und Kontaktpflege mit Industrie, Wirtschaft und Politik.  \r\n\r\nDies erfolgt insbesondere durch\r\na) Unterstützung der Zusammenarbeit zwischen den einschlägigen Fakultätentagen in allen wissenschaftlichen und zugehörigen hochschulpolitischen Fragen,\r\nb) die Koordinierung der universitären Ausbildung,\r\nc) die Vertretung gemeinsamer Belang der Mitglieder und\r\nd) geeignete Veranstaltungen und Veröffentlichungen.\r\n\r\nDer Verein arbeitet dazu mit allen zuständigen Gremien innerhalb und außerhalb der Universitäten eigenständig zusammen.\r\n\r\nDer Verein verfolgt mit den beschriebenen Aufgaben ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts \"Steuerbegünstigte Zwecke\" der Abgabenordnung. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Fakultätentage der Ingenieurwissenschaften und der Inofrmatik an Universitäten (4ING) ",
+          "phoneNumber": "+4961519505135",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Technische Universität Berlin",
+            "nationalAdditional2": "FG Statik u. Dynamik, TIB1-B5 ",
+            "street": "Gustav-Meyer-Allee ",
+            "streetNumber": "25",
+            "zipCode": "13355",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "Vorsitzender@4ing.net",
+            "H.Schmitt@4ing.net"
+          ],
+          "websites": [
+            "https://4ing.net"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr.-Ing. habil.",
+              "commonFirstName": "Olaf",
+              "lastName": "Wünsch",
+              "function": "Vorsitzender",
+              "phoneNumber": "+495618043878",
+              "organizationMemberEmails": [
+                "Vorsitzender@4ing.net"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Ass. iur.",
+              "commonFirstName": "Heike",
+              "lastName": "Schmitt"
+            }
+          ],
+          "members": 12,
+          "membersCountDate": "2022-02-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Nationales MINT Forum e.V.",
+            "SEFI aisbl",
+            "EUA-Council of Doctoral Education"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "4ING-Jahresabschluss-2020-komprimmiert.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/5c/50/3641/4ING-Jahresabschluss-2020-komprimmiert.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000458",
+      "registerEntryDetail": {
+        "id": 2044,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000458",
+          "firstPublicationDate": "2022-02-14T11:37:02.000Z"
+        },
+        "activityDescription": "Tree Energy Solutions (TES) ist ein auf grünen Wasserstoff fokussiertes Unternehmen, das in großem Maßstab langfristige, nicht intermittierende, kohlenstoffneutrale Energie auf Abruf liefert.\r\n\r\nDas Hauptziel von TES ist es, die Energiewende zu beschleunigen, indem die bestehende globale Energieinfrastruktur genutzt wird , um Kunden mit grünem Wasserstoff, grünem Gas und grünem Strom zu versorgen und gleichzeitig den Ausstieg aus fossilen Energieträgern weltweit zu beschleunigen und eine Kohlenstoffkreislaufwirtschaft einzuführen.\r\n\r\nTES wird grünen Wasserstoff mit einem innovativen Geschäftsmodell und einer bewährten Technologie für derzeitige und künftige Wasserstoffnutzer, insbesondere in den Bereichen Mobilität, Industrie und Energie, in großem Maßstab auf den weltweiten Märkten einführen.\r\n\r\nTES entwickelt derzeit Energieversorgungs- und Importzentren in Deutschland, Belgien, Frankreich, den Niederlanden und den Vereinigten Staaten, um globale Versorgungsnetze aufzubauen und zu optimieren. Erste Produktions- und Exportzentren werden derzeit im Nahen Osten und in Nordamerika aufgebaut.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "academicDegreeBefore": "Dr.",
+          "commonFirstName": "Markus",
+          "lastName": "Schöffel"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000457",
+      "registerEntryDetail": {
+        "id": 478,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 170001,
+          "to": 180000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000457",
+          "firstPublicationDate": "2022-02-14T11:36:49.000Z"
+        },
+        "activityDescription": "Der Bundesverband Gesundheits-IT, bvitg e.V., vertritt die Hersteller digitaler Lösungen im Gesundheitswesen. Mit unseren über 100 Mitgliedsunternehmen sprechen wir seit über 25 Jahren sowohl für Start-Ups, kleine und mittelständische Unternehmen sowie international agierende Konzerne. Wir beschäftigen uns mit einem breiten Themenspektrum bezüglich der Digitalisierung des Gesundheitswesens um die Patientenversorgung zukunftsfähig und nachhaltig zu verbessern. Dazu verfassen wir Positionspapiere, kommentieren Gesetzesentwürfe, stellen unsere Expertise den Akteuren des Gesundheitswesens zur Verfügung, erarbeiten Problemlösungsansätze und veranstalten dem Austausch dienende Formate. Unser Ziel ist es, entsprechende Rahmenbedingungen für die Digitalisierung des Gesundheitswesens zu schaffen und  die politischen Entscheidungsträger auf mögliche Probleme, Hindernisse und Folgen aufmerksam zu machen, sowie Problemlösungen zur Verbesserung der Versorgung in Deutschland zu erarbeiten und zu präsentieren. Dazu steht der bvitg in ständigen Austausch mit anderen Verbänden, teilstaatlichen und Organen der Selbstverwaltung, sowie mit weiteren Akteuren des Gesundheitswesens.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Gesundheits-IT",
+          "phoneNumber": "+4930206225820",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Bundesverband Gesundheits-IT",
+            "street": "Friedrichstraße",
+            "streetNumber": "200",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "sebastian.zilch@bvitg.de",
+            "info@bvitg.de"
+          ],
+          "websites": [
+            "bvitg.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Gerrit",
+              "lastName": "Schick",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+494089727121",
+              "organizationMemberEmails": [
+                "gerrit.schick@philips.com"
+              ]
+            },
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Kassner",
+              "function": "Stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+491714867417",
+              "organizationMemberEmails": [
+                "akassner@mmm.com"
+              ]
+            },
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "Meierhofer",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+4989442316200",
+              "organizationMemberEmails": [
+                "matthias.meierhofer@meierhofer.com"
+              ]
+            },
+            {
+              "commonFirstName": "Bernhard",
+              "lastName": "Calmer",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49808517110",
+              "organizationMemberEmails": [
+                "bernhard.calmer@cgm.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Ralf",
+              "lastName": "Brandner",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+496227385135",
+              "organizationMemberEmails": [
+                "ralf.brandner@icw.de"
+              ]
+            },
+            {
+              "commonFirstName": "Heiko",
+              "lastName": "Mania",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+493012084040",
+              "organizationMemberEmails": [
+                "mania@nursit-institute.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Sebastian",
+              "lastName": "Zilch"
+            },
+            {
+              "commonFirstName": "Dennis",
+              "lastName": "Geisthardt"
+            },
+            {
+              "commonFirstName": "Constanze ",
+              "lastName": "Pappert"
+            },
+            {
+              "commonFirstName": "Susanne",
+              "lastName": "Koch"
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Saß"
+            }
+          ],
+          "members": 103,
+          "membersCountDate": "2022-01-07T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Managed Care e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "bvitg-e-V-Bericht-Erstellung-JA-zum-31-12-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/9e/8d/3633/bvitg-e-V-Bericht-Erstellung-JA-zum-31-12-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "18-07-25-bvitg-Code-of-Conduct.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/97/82/3634/18-07-25-bvitg-Code-of-Conduct.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000456",
+      "registerEntryDetail": {
+        "id": 2828,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 30001,
+          "to": 40000,
+          "fiscalYearStart": "10/20",
+          "fiscalYearEnd": "09/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000456",
+          "firstPublicationDate": "2022-02-14T11:35:13.000Z"
+        },
+        "activityDescription": "Als global agierendes forschendes pharmazeutisches Unternehmen bringt sich Servier Deutschland GmbH als Interessenvertreter in die hiesige Verbandsarbeit ein und hat als Unternehmen ebenfalls Kontakt mit Politikern und Regierungsvertretern. Der Informationsaustausch hat zum Ziel, mögliche Verbesserungspotentiale der Standortbedingungen / Investitionschancen zu thematisieren, um die Versorgung von Patientinnen und Patienten mit innovativen Therapien zu ermöglichen und sicherzustellen.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Servier Deutschland GmbH",
+          "phoneNumber": "+49895709501",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Elsenheimerstr. ",
+            "streetNumber": "53",
+            "zipCode": "80687",
+            "city": "München",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info-de@servier.com"
+          ],
+          "websites": [
+            "www.servier.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Andreas",
+              "lastName": "Heigl",
+              "function": "Leiter Gesundheitspolitik",
+              "phoneNumber": "+4915152627492",
+              "organizationMemberEmails": [
+                "andreas.heigl@servier.com"
+              ]
+            },
+            {
+              "commonFirstName": "Oliver",
+              "lastName": "Kirst",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+495709501",
+              "organizationMemberEmails": [
+                "oliver.kirst@servier.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Juris",
+              "lastName": "Ezernieks",
+              "function": "Leiter Market Access",
+              "phoneNumber": "+4915152627369",
+              "organizationMemberEmails": [
+                "juris.ezernieks@servier.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "Bundesverband der Pharmazeutischen Industrie (BPI)",
+            "Pharmainitiative Bayern",
+            "Deutscher Industrie- und Handelskammertag (DIHK)",
+            "Wirtschaftsrat Deutschland",
+            "Wirtschaftsbeirat der Union e.V.",
+            "Bundesverband Internetmedizin e.V.",
+            "Bundesverband Managed Care (BMC)",
+            "AKG („Arzneimittel und Kooperation im Gesundheitswesen e.V.) "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "akg-verhaltenskodex-22-04-2015-blanco.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/70/bf/3644/akg-verhaltenskodex-22-04-2015-blanco.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Wird bei Vorliegen umgehend nachgereicht."
+      }
+    },
     {
       "registerNumber": "R000455",
       "registerEntryDetail": {
