@@ -9,8 +9,174 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 458,
+  "resultCount": 459,
   "results": [
+    {
+      "registerNumber": "R000463",
+      "registerEntryDetail": {
+        "id": 1274,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000463",
+          "firstPublicationDate": "2022-02-14T12:28:19.000Z"
+        },
+        "activityDescription": "Die Interessenvertretung organisiert Termine und fertigt Stellungnahmen an. ",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Getir",
+          "phoneNumber": "+491622854854",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o Design Offices Berlin",
+            "street": "Alexanderufer",
+            "streetNumber": "3-7",
+            "zipCode": "10117",
+            "city": "Berlin ",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "sven.irmer@getir.com"
+          ],
+          "websites": [
+            "www.getir.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Selin ",
+              "lastName": "Barlin",
+              "function": "Chief Legal Officer",
+              "phoneNumber": "+905323221961",
+              "organizationMemberEmails": [
+                "selin.barlin@getir.com"
+              ]
+            },
+            {
+              "commonFirstName": "Sven-Joachim",
+              "lastName": "Irmer",
+              "function": "Head of Governmental Relations ",
+              "phoneNumber": "+491622854854",
+              "organizationMemberEmails": [
+                "sven.irmer@getir.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "Verband der türkischen Handwerker ",
+            "Deutscher Franchiseverband ",
+            "Türkisch-Deutsche Unternehmervereinigung"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Das Geschäftsjahr ist noch nicht abgeschlossen."
+      }
+    },
     {
       "registerNumber": "R000462",
       "registerEntryDetail": {
