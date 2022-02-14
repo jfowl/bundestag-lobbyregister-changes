@@ -9,8 +9,250 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 457,
+  "resultCount": 458,
   "results": [
+    {
+      "registerNumber": "R000462",
+      "registerEntryDetail": {
+        "id": 116,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 190001,
+          "to": 200000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000462",
+          "firstPublicationDate": "2022-02-14T11:58:39.000Z"
+        },
+        "activityDescription": "Der Deutsche Angelfischerverband (DAFV) e.V. ist der Spitzenverband der auf Bundesebene organisierten Landes- und Spezialverbände. Er sieht sich als Interessenvertretung für alle Anglerinnen und Angler in Deutschland. Der Verband vertritt fachkompetent und engagiert, national wie international, die Interessen seiner Mitglieder.\r\nAktuell sind im Deutschen Angelfischerverband e.V. 24 Landes- und Spezialverbände mit ca. 9.000 angeschlossenen Vereinen organisiert. Mit seinen insgesamt rund 500.000 Mitgliedern gehört der DAFV zu den größten anerkannten Naturschutz- und Umweltverbänden Deutschlands. ",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Angelfischerverband e.V.",
+          "phoneNumber": "+493097104379",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reinhardtstrasse",
+            "streetNumber": "14",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@dafv.de"
+          ],
+          "websites": [
+            "www.dafv.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Klaus-Dieter Johannes",
+              "lastName": "Mau",
+              "function": "Präsident",
+              "phoneNumber": "+493097104379",
+              "organizationMemberEmails": [
+                "info@dafv.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Olaf",
+              "lastName": "Lindner"
+            },
+            {
+              "commonFirstName": "Florian",
+              "lastName": "Stein"
+            },
+            {
+              "commonFirstName": "Philipp",
+              "lastName": "Czapla"
+            },
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Seggelke"
+            }
+          ],
+          "members": 24,
+          "membersCountDate": "2021-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Fischerei-Verband e.V.",
+            "Verband der Deutschen Binnenfischerei und Aquakultur e.V.",
+            "Gesellschaft zur Rettung des Störs e.V.",
+            "Kuratorium Sport und Natur e.V.",
+            "Royal Fishing Kinderhilfe e.V.",
+            "Verband Deutscher Fischereiverwaltungsbeamter und Fischereiwissenschaftler e.V.",
+            "Verein der Freunde und Förderer der Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin",
+            "European Anglers Alliance",
+            "European Anglers Federation",
+            "International Casting Sport Federation",
+            "Baltic Sea Advisory Council",
+            " International Union for Conservation of Nature",
+            "Vereinigung Deutscher Gewässerschutz e.V.",
+            "Internationale Kommission zum Schutz des Rheins",
+            "Wanderfische ohne Grenzen e.V. / NASF Deutschland"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_AQUACULTURE",
+            "de": "Fischerei/Aquakultur",
+            "en": "Fishery/aquaculture"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_OTHER",
+            "de": "Sonstiges im Bereich „Gesellschaftspolitik und soziale Gruppen“",
+            "en": "Other in the field of “Social politics and social groups”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "DAFV-Vermogensbericht-zum-31-12-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/11/a9/3659/DAFV-Vermogensbericht-zum-31-12-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000461",
       "registerEntryDetail": {
