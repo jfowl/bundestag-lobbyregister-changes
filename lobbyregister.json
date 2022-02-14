@@ -9,8 +9,346 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 445,
+  "resultCount": 447,
   "results": [
+    {
+      "registerNumber": "R000451",
+      "registerEntryDetail": {
+        "id": 1880,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 140001,
+          "to": 150000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000451",
+          "firstPublicationDate": "2022-02-14T10:24:26.000Z"
+        },
+        "activityDescription": "Der IVH, dessen Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet\r\nist, hat folgende Aufgaben und Ziele:\r\n\r\na) die Industrie und die industrienahen Unternehmen aus dem Wirtschaftsraum\r\nHamburg zu unterstützen und deren Interessen zu vertreten;\r\n\r\nb) die wirtschaftliche Entwicklung in diesem Gebiet zu fördern, wobei die Stärkung\r\ndes Industriestandorts Hamburg im Vordergrund steht. Dies geschieht\r\ninsbesondere durch einen konstruktiven Dialog mit Politik, Öffentlichkeit und\r\nanderen Interessensvertretungen der Wirtschaft.\r\n\r\nc) die Hamburger Industrie innerhalb des Bundesverbandes der Deutschen\r\nIndustrie e.V. (BDI) zu vertreten und in dessen Organen den Einfluss dieser\r\nIndustrie zur Geltung zu bringen;\r\n\r\nd) die Interessen des BDI in Hamburg zu vertreten.\r\n\r\nDie Tätigkeit des IVH erstreckt sich auf alle industriepolitischen Fragen, soweit diese\r\nfür den Wirtschaftsraum Hamburg von Bedeutung sind\r\n\r\nDer Industrieverband Hamburg (IVH) vertritt als selbständige Hamburger Landesvertretung des Bundesverband der Deutschen Industrie (BDI) die Interessen seiner Mitgliedsunternehmen am Standort und weit darüber hinaus. Der IVH ist Träger von drei Energieeffizienz-Netzwerken und fördert die Akzeptanz für Industrie, beispielsweise als Träger der \"Langen Nacht der Industrie\".\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Industrieverband Hamburg e.V. ",
+          "phoneNumber": "+494063784112",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Industrieverband Hamburg e.V.",
+            "nationalAdditional2": "Haus der Wirtschaft",
+            "street": "Kapstadtring ",
+            "streetNumber": "10",
+            "zipCode": "22297",
+            "city": "Hamburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "andre.trepoll@bdi-hamburg.de"
+          ],
+          "websites": [
+            "www.bdi-hamburg.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "André",
+              "lastName": "Trepoll",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+494063784112",
+              "organizationMemberEmails": [
+                "andre.trepoll@bdi-hamburg.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hubert",
+              "lastName": "Grimm",
+              "function": "Hauptgeschäftsführer",
+              "phoneNumber": "+494063784100",
+              "organizationMemberEmails": [
+                "hubert.grimm@bdi-hamburg.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Yvonne",
+              "lastName": "Gerhardt"
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Bartsch"
+            },
+            {
+              "commonFirstName": "Stephanie",
+              "lastName": "Fey"
+            }
+          ],
+          "members": 251,
+          "membersCountDate": "2022-02-04T00:00:00.000Z",
+          "membershipEntries": [
+            "UV Nord e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "210929-Geschaftsbericht-INZAHLEN-2020-21.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/57/1b/3583/210929-Geschaftsbericht-INZAHLEN-2020-21.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000450",
+      "registerEntryDetail": {
+        "id": 738,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000450",
+          "firstPublicationDate": "2022-02-14T10:24:14.000Z"
+        },
+        "activityDescription": "Satzungsgemäß hat der Verband die Aufgabe, die gemeinsamen wirtschaftlichen und fachlichen Interessen des Berufsstandes der Hefehersteller unter Ausschluss aller parteipolitischen und konfessionellen Belange zu vertreten, die Angehörigen des Berufsstandes in ihren gemeinsamen Belangen zu beraten und die gemeinsamen wirtschaftlichen und fachlichen Interessen zu wahren und zu fördern. Hierzu gehört die Vertretung der Interessen der Gesamtheit des Berufsstandes gegenüber dem Staat, Behörden, Gerichten, gesetzgebenden Körperschaften und Organisationen sowie anderen Wirtschaftsgruppen und auch gegenüber der Öffentlichkeit sowie die Unterstützung der Unternehmen in ihren gemeinsamen Belangen. Viele den Berufsstand betreffende Regelungen werden auf Bundesebene beschlossen. Der Einfluss der Europäischen Union wird jedoch immer bedeutender, immer mehr gesetzliche Regelungen der EU gelten für die Mitgliedstaaten unmittelbar. Die Arbeit auf EU-Ebene wird deshalb zunehmend wichtiger. Der Deutsche Verband der Hefeindustrie ist Mitglied des EU-Verbandes der Hefehersteller, COFALEC, und wirkt in dessen Entscheidungsgremien aktiv mit.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Verband der Hefeindustrie e.V.",
+          "phoneNumber": "+49228212018",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reuterstraße ",
+            "streetNumber": "151",
+            "zipCode": "53113",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@hefeindustrie.de"
+          ],
+          "websites": [
+            "www.hefeindustrie.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Markus",
+              "lastName": "Weck",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49228212018",
+              "organizationMemberEmails": [
+                "m.weck@verbaendebuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jan",
+              "lastName": "Moormann",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4923897978116",
+              "organizationMemberEmails": [
+                "Jan.Moormann@uniferm.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thomas",
+              "lastName": "Dellweg",
+              "function": "Stellvertretender Vorsitzender ",
+              "phoneNumber": "+499126293790",
+              "organizationMemberEmails": [
+                "tdellweg@lallemand.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Catherina",
+              "lastName": "Lüke"
+            }
+          ],
+          "members": 6,
+          "membersCountDate": "2022-01-12T00:00:00.000Z",
+          "membershipEntries": [
+            "Lebensmittelverband Deutschland e.V.",
+            "Confederation of European Yeast Producers (COFALEC)",
+            "Zentralverband des Deutschen Bäckerhandwerks e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Hefe-EA-2020-oE.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f7/6c/3582/Hefe-EA-2020-oE.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000449",
       "registerEntryDetail": {
