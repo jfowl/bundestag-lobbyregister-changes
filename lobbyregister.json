@@ -9,8 +9,430 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 467,
+  "resultCount": 469,
   "results": [
+    {
+      "registerNumber": "R000473",
+      "registerEntryDetail": {
+        "id": 2347,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1230001,
+          "to": 1240000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000473",
+          "firstPublicationDate": "2022-02-14T14:20:32.000Z"
+        },
+        "activityDescription": "Die Industrie-Förderung Gesellschaft mbH (IFG) ist die Servicegesellschaft des BDI. Sie ist zuständig für die Verwaltung und Verwendung von Mitteln, die der Gesellschaft aus Industriekreisen zufließen. Die IFG unterstützt, fördert und organisiert Projekte und Veranstaltungen des BDI und eine Vielzahl von Initiativen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Industrie-Förderung Gesellschaft mbH",
+          "phoneNumber": "+4915146117403",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Gertraudenstr.",
+            "streetNumber": "20",
+            "zipCode": "10178",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@ifg-online.com",
+            "j.pichler@bdi.eu"
+          ],
+          "websites": [
+            "ifg-online.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Niels",
+              "lastName": "Lau",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493020281400",
+              "organizationMemberEmails": [
+                "n.lau@bdi.eu"
+              ]
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Veit",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493020281400",
+              "organizationMemberEmails": [
+                "t.veit@bdi.eu"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Wolfram"
+            },
+            {
+              "commonFirstName": "Wilko",
+              "lastName": "Specht"
+            },
+            {
+              "commonFirstName": "Rafael",
+              "lastName": "Haddad Magnocavallo"
+            },
+            {
+              "commonFirstName": "Ferdinand",
+              "lastName": "Schaff"
+            },
+            {
+              "commonFirstName": "Friedolin",
+              "lastName": "Strack"
+            },
+            {
+              "commonFirstName": "Serhat",
+              "lastName": "Ünaldi"
+            },
+            {
+              "commonFirstName": "Mante",
+              "lastName": "Bartuseviciute"
+            },
+            {
+              "commonFirstName": "Jill",
+              "lastName": "Thesen"
+            },
+            {
+              "commonFirstName": "Maximilian",
+              "lastName": "Bettzuege"
+            },
+            {
+              "commonFirstName": "Alina",
+              "lastName": "Gumpert"
+            },
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Boxler"
+            },
+            {
+              "commonFirstName": "Inken",
+              "lastName": "Sittler"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Claas",
+              "lastName": "Oehlmann"
+            },
+            {
+              "commonFirstName": "Alexandrea",
+              "lastName": "Swanson"
+            }
+          ],
+          "members": 80,
+          "membersCountDate": "2022-02-01T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "GuV-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/62/1e/3730/GuV-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000472",
+      "registerEntryDetail": {
+        "id": 200,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000472",
+          "firstPublicationDate": "2022-02-14T14:12:46.000Z"
+        },
+        "activityDescription": "Harmonisierung von Landwirtschaft, Ernährungssicherung und Nachhaltigkeit",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Tönnies Central Services GmbH & Co.KG",
+          "phoneNumber": "+491782189866",
+          "address": {
+            "type": "NATIONAL",
+            "street": "In der Mark",
+            "streetNumber": "2",
+            "zipCode": "33378",
+            "city": "Rheda-Wiedenbrück",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_KG",
+            "code_de": "Kommanditgesellschaft (KG)",
+            "code_en": "Limited partnership (KG)",
+            "type": "LEGAL_ASSOCIATION"
+          },
+          "organizationEmails": [
+            "thomas.dosch@toennies.de"
+          ],
+          "websites": [
+            "www.toennies.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Andrè",
+              "lastName": "Ressing",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4952429610",
+              "organizationMemberEmails": [
+                "Andre.Ressing@toennies.de"
+              ]
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Bocklage",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4952429610",
+              "organizationMemberEmails": [
+                "martin.bocklage@toennies.de"
+              ]
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Dosch",
+              "function": "Leitung Public Affairs",
+              "phoneNumber": "+491782189866",
+              "organizationMemberEmails": [
+                "thomas.dosch@toennies.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000471",
       "registerEntryDetail": {
