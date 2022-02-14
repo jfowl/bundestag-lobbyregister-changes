@@ -48276,15 +48276,22 @@
     {
       "registerNumber": "R000261",
       "registerEntryDetail": {
-        "id": 2006,
+        "id": 2625,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 1,
           "to": 10
         },
         "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 140001,
+          "to": 150000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": false,
+        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000261",
           "firstPublicationDate": "2022-02-02T12:17:52.000Z"
@@ -48336,8 +48343,9 @@
           ],
           "namedEmployees": [
             {
-              "commonFirstName": "Hans-Joachim",
-              "lastName": "Reck"
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Roland",
+              "lastName": "Schmidt-Bleker"
             }
           ],
           "membershipEntries": []
@@ -48912,7 +48920,7 @@
             "type": "CODE_OF_CONDUCT",
             "media": {
               "fileName": "Verhaltenskodex-Lobbyarbeit-TW.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/47/b3/3253/Verhaltenskodex-Lobbyarbeit-TW.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d4/11/3872/Verhaltenskodex-Lobbyarbeit-TW.pdf",
               "mimeType": "application/pdf"
             }
           }
