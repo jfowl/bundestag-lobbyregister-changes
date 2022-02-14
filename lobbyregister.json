@@ -414,7 +414,7 @@
     {
       "registerNumber": "R000485",
       "registerEntryDetail": {
-        "id": 1395,
+        "id": 2937,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -434,7 +434,7 @@
           "registerNumber": "R000485",
           "firstPublicationDate": "2022-02-14T18:27:23.000Z"
         },
-        "activityDescription": "Kontakt zu Mitgliedern des Bundestages oder der Bundesregierung und politischen Vertretern zur Betrieblichen Sozialen Arbeit und den Arbeitsbedingungen in Organisationen.",
+        "activityDescription": "Kontakt zu Mitgliedern des Bundestages, der Bundesregierung und Bundesministerien zur Betrieblichen Sozialen Arbeit und den Arbeitsbedingungen in Organisationen.",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_PROFESSION_ASSOC",
@@ -520,7 +520,7 @@
         "registerEntryMedia": [],
         "disclosureRequirementsExist": false,
         "refuseAnnualFinanceStatement": true,
-        "refuseAnnualFinanceStatementReason": "Der Bundesfachverband Betriebliche Sozialarbeit e.V. ist ein Berufsverband, der ehrenamtlich geleitet wird und zwei geringfügig beschäftigte Mitarbeiterinnen hat. Aufgrund des geringen Umfangs der Tätigkeit in politischen Zusammenhängen ist eine Offenlegung des Jahresabschlusses nicht notwendig."
+        "refuseAnnualFinanceStatementReason": "Der Bundesfachverband Betriebliche Sozialarbeit e.V. ist ein Berufsverband, der ehrenamtlich geleitet wird und eine geringfügig und eine sozialversicherungspflichtig beschäftigte Mitarbeiterin hat. Aufgrund des geringen Umfangs der Tätigkeit in politischen Zusammenhängen ist eine Offenlegung des Jahresabschlusses nicht notwendig."
       }
     },
     {
