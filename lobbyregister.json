@@ -9,8 +9,391 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 447,
+  "resultCount": 449,
   "results": [
+    {
+      "registerNumber": "R000453",
+      "registerEntryDetail": {
+        "id": 2300,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "locationOfReportPublication": "https://www.unternehmensregister.de/",
+        "account": {
+          "registerNumber": "R000453",
+          "firstPublicationDate": "2022-02-14T10:40:44.000Z"
+        },
+        "activityDescription": "SUPERRR Lab setzt sich für eine gemeinwohlorientierte Digitalisierung und eine feministische Digital- und Technologiepolitik ein.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "SUPERRR Lab SL gGmbH",
+          "phoneNumber": "+493098444200",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Oranienstr.",
+            "streetNumber": "58A",
+            "zipCode": "10969",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "hello@superrr.net"
+          ],
+          "websites": [
+            "superrr.net"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Julia",
+              "lastName": "Kloiber",
+              "function": "Co-Geschäftsführerin",
+              "phoneNumber": "+493098444200",
+              "organizationMemberEmails": [
+                "julia@superrr.net"
+              ]
+            },
+            {
+              "commonFirstName": "Elisa",
+              "lastName": "Lindinger",
+              "function": "Co-Geschäftsführerin",
+              "phoneNumber": "+493098444200",
+              "organizationMemberEmails": [
+                "elisa@superrr.net"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "BLE",
+            "description": "Förderprojekt \"Zukunftsforum\"",
+            "location": "Bonn",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Digitalisierung"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000452",
+      "registerEntryDetail": {
+        "id": 561,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 70001,
+          "to": 80000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000452",
+          "firstPublicationDate": "2022-02-14T10:36:50.000Z"
+        },
+        "activityDescription": "Der HKI Industrieverband Haus-, Heiz- und Küchentechnik e.V. vertritt seit über 70 Jahren die Interessen zweier Branchen national, europaweit und international. Im Fachverband Großkücheneinrichtungen sind die Hersteller von unter anderem Kaffeemaschinen, Fritteusen, Kochblöcken, Heißluftdämpfern und Lüftungssystemen für gewerbliche Küchen organisiert. Die Mitglieder des Fachverbandes Heiz- und Kochgeräte produzieren häusliche Einzelraumfeuerungsanlagen wie beispielsweise Kaminöfen, Pelletöfen, Kamineinsätze, Kachelofenheizeinsätze aber auch Herde für Gas, Kohle und Holz. Zurzeit vertrauen rund 220 Mitglieder den Leistungen des Verbandes. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "HKI Industrieverband Haus-, Heiz- und Küchentechnik e.V.",
+          "phoneNumber": "+49692562680",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Lyoner Str.",
+            "streetNumber": "9",
+            "zipCode": "60528",
+            "city": "Frankfurt a.M.",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@hki-online.de"
+          ],
+          "websites": [
+            "www.hki-online.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christiane",
+              "lastName": "Wodtke",
+              "function": "Präsidentin",
+              "phoneNumber": "+49707170030",
+              "organizationMemberEmails": [
+                "christiane.wodtke@wodtke.com"
+              ]
+            },
+            {
+              "commonFirstName": "Frank",
+              "lastName": "Kienle",
+              "function": "Hauptgeschäftsführer",
+              "phoneNumber": "+49692562680",
+              "organizationMemberEmails": [
+                "kienle@hki-online.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Adrian",
+              "lastName": "Brändle"
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Schnabel"
+            },
+            {
+              "commonFirstName": "Julia",
+              "lastName": "Langer"
+            },
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Helm"
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Heinz"
+            },
+            {
+              "commonFirstName": "Volker",
+              "lastName": "Siede"
+            },
+            {
+              "commonFirstName": "Fabian",
+              "lastName": "Anzmann"
+            },
+            {
+              "commonFirstName": "Annekathrin",
+              "lastName": "Schmitt"
+            },
+            {
+              "commonFirstName": "Veronique",
+              "lastName": "Müller"
+            }
+          ],
+          "members": 220,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "European Federation of Catering Equipment Manufacturers (EFCEM)",
+            " Comité Européen des Fabricants d’Appareils de Chauffage et de Cuisine Domestiques (C.E.F.A.C.D.)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "HKI-Compliance-Leitfaden.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d9/09/3590/HKI-Compliance-Leitfaden.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Jahresabschluss bedarf der Entgegennahe durch die Mitgliederversammlung. Diese findet voraussichtlich Mitte des Jahres statt. Er wird  nachgereicht. "
+      }
+    },
     {
       "registerNumber": "R000451",
       "registerEntryDetail": {
