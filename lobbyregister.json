@@ -9,8 +9,288 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 455,
+  "resultCount": 457,
   "results": [
+    {
+      "registerNumber": "R000461",
+      "registerEntryDetail": {
+        "id": 2106,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 30001,
+          "to": 40000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000461",
+          "firstPublicationDate": "2022-02-14T11:50:15.000Z"
+        },
+        "activityDescription": "Ansprechpartner bei der Gestaltung der gesetzlichen Rahmenbedingung für die Versorgung von Menschen mit Diabetes",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Roche Diabetes Care Deutschland GmbH",
+          "phoneNumber": "+496217590",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Roche Diabetes Care ",
+            "nationalAdditional2": "Deutschland GmbH",
+            "street": "Sandhofer Str.",
+            "streetNumber": "116",
+            "zipCode": "68305",
+            "city": "Mannheim",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "mannheim.gesundheitswesen@roche.com"
+          ],
+          "websites": [
+            "www.rochediabetes.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "James",
+              "lastName": "Fischer",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+496217590",
+              "organizationMemberEmails": [
+                "james.fischer.jf1@roche.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christiane",
+              "lastName": "Arras-Friederich",
+              "function": "Leiterin Market Access",
+              "phoneNumber": "+496217590",
+              "organizationMemberEmails": [
+                "christiane.arras-friederich@roche.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Oliver",
+              "lastName": "Hergel",
+              "function": "Leiter Market Access",
+              "phoneNumber": "+496217590",
+              "organizationMemberEmails": [
+                "marc_oliver.hergel@roche.com"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Kulling",
+              "function": "Senior Market Access Manager",
+              "phoneNumber": "+496217590",
+              "organizationMemberEmails": [
+                "michael.kulling@roche.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "SVDGV e. V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "1-geschaeftsbericht-2020-original-c-roche-1.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/89/b7/3656/1-geschaeftsbericht-2020-original-c-roche-1.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000460",
+      "registerEntryDetail": {
+        "id": 1544,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000460",
+          "firstPublicationDate": "2022-02-14T11:48:28.000Z"
+        },
+        "activityDescription": "Die Interessenvertretung wird regelmäßig und auf Dauer angelegt betrieben.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Roche Diabetes Care GmbH",
+          "phoneNumber": "+496217590",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Sandhofer Str.",
+            "streetNumber": "116",
+            "zipCode": "68305",
+            "city": "Mannheim",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "mannheim.rdcg-communications@roche.com"
+          ],
+          "websites": [
+            "www.rochediabetes.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Moser",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+496217590",
+              "organizationMemberEmails": [
+                "rdcg.geschaeftsfuehrung@roche.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": [
+            "Bundesarbeitgeberverband Chemie - BAVC ",
+            "Deutsche Gesellschaft für Pharmazeutische Medizin e.V",
+            "European Association for the Study of Diabetes - EASD D14",
+            "International Federation of Clinical Chemistry - IFCC",
+            "MedTECH Europe"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Diabetesversorgung, Medizintechnik"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "1-geschaeftsbericht-2020-original-c-roche.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/75/48/3653/1-geschaeftsbericht-2020-original-c-roche.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000459",
       "registerEntryDetail": {
