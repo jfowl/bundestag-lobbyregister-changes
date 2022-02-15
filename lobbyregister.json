@@ -9,8 +9,422 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 506,
+  "resultCount": 508,
   "results": [
+    {
+      "registerNumber": "R000513",
+      "registerEntryDetail": {
+        "id": 1764,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "09/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000513",
+          "firstPublicationDate": "2022-02-15T13:57:55.000Z"
+        },
+        "activityDescription": "Das North East India Forum (neif) verfolgt das Ziel, die Menschenrechte der Bürger:innen in Nordostindien zu wahren, ihre Umsetzung einzufordern und das zivilgesellschaftliche Engagement zu fördern. Unsere Arbeit beruht auf Vertraulichkeit in der Kommunikation mit unseren Partnern und ihren Organisationen. Das neif ist ein Netzwerk von Hilfswerken, Menschenrechtsorganisationen, in der Entwicklungszusammenarbeit engagierten Vereinen, einschlägigen Stiftungen sowie Einzelpersonen, die sich für Entwicklung und Rechtsstaatlichkeit im Nordosten Indiens einsetzen. Das neif leistet Lobby- und anwaltschaftliche Tätigkeiten sowie Öffentlichkeitsarbeit. Es bearbeitet bezogen auf Nordostindien primär die Themenbereiche Menschenrechte, rechtsstaatliche Garantien, Minderheiten und indigene Völker, Ressourcenerschließung, Auswirkungen deutscher und europäischer Entwicklungszusammenarbeit, deutsche Rüstungsexporte und Beteiligungen an Großprojekten. Darüber hinaus beschäftigt sich das neif mit dem Prozess der Regionalisierung in der Region Nordostindien, Bangladesch, Myanmar und China.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "North East India Forum (neif)",
+          "phoneNumber": "+492217161210",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Georgenkirchstr.",
+            "streetNumber": "70",
+            "zipCode": "10249",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "Netzwerk"
+          },
+          "organizationEmails": [
+            "neif@asienhaus.de"
+          ],
+          "websites": [
+            "https://www.asienhaus.de/neif/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jörg",
+              "lastName": "Schwieger",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Erika",
+              "lastName": "Märke",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Anna",
+              "lastName": "Grimminger",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Dehn",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Uwe",
+              "lastName": "Hoering",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefanie",
+              "lastName": "Elbern",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr",
+              "commonFirstName": "Dieter",
+              "lastName": "Reinhardt"
+            },
+            {
+              "commonFirstName": "Olga",
+              "lastName": "Basnet",
+              "academicDegreeAfter": "M.A."
+            },
+            {
+              "commonFirstName": "Majid",
+              "lastName": "Lenz"
+            },
+            {
+              "academicDegreeBefore": "Dr",
+              "commonFirstName": "Theodor",
+              "lastName": "Rathgeber"
+            }
+          ],
+          "members": 11,
+          "membersCountDate": "2022-02-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Internationale Advocacy Netzwerke (IAN)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000512",
+      "registerEntryDetail": {
+        "id": 1772,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 70001,
+          "to": 80000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000512",
+          "firstPublicationDate": "2022-02-15T13:54:31.000Z"
+        },
+        "activityDescription": "Die Stiftung Asienhaus setzt sich für die Verwirklichung der Menschenrechte, für die Stärkung gesellschaftlicher und politischer Teilhabe, sowie für soziale Gerechtigkeit und den Schutz der Umwelt ein. Sie fordert von Politik und Wirtschaft die Verwirklichung sozialer, ökologischer und menschenrechtlicher Standards. \r\n\r\nZweck der Stiftung ist die Förderung von Bildungs- und Informationsarbeit, sowie von wissenschaftlichen Arbeiten über die Länder und Völker Asiens und (die Beziehungen zu ihnen.) ihre Beziehungen zu Europa insbesondere im deutschsprachigen Raum sowie die Förderung der Verständigung und Zusammenarbeit zwischen den Zivilgesellschaften in Asien und Europa.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Stiftung Asienhaus",
+          "phoneNumber": "+4922171612111",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Stiftung Asienhaus",
+            "street": "Hohenzollernring",
+            "streetNumber": "52",
+            "zipCode": "50672",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_RSBR",
+            "code_de": "Rechtsfähige Stiftung bürgerlichen Rechts",
+            "code_en": "Legal foundation under civil law",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "asienhaus@asienhaus.de"
+          ],
+          "websites": [
+            "www.asienhaus.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jörg",
+              "lastName": "Schwieger",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Erika",
+              "lastName": "Märke",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Anna",
+              "lastName": "Grimminger",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Dehn",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Uwe",
+              "lastName": "Hoering",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefanie",
+              "lastName": "Elbern",
+              "function": "Stellvertretende Vorsitzende im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Joanna",
+              "lastName": "Klabisch"
+            },
+            {
+              "commonFirstName": "Majid",
+              "lastName": "Lenz"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christian",
+              "lastName": "Straube"
+            },
+            {
+              "commonFirstName": "Raphael",
+              "lastName": "Göpel"
+            },
+            {
+              "commonFirstName": "Birgit",
+              "lastName": "Felleisen",
+              "academicDegreeAfter": "MA."
+            },
+            {
+              "commonFirstName": "Olga",
+              "lastName": "Basnet",
+              "academicDegreeAfter": "M.A."
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Dieter",
+              "lastName": "Reinhardt"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Theo",
+              "lastName": "Rathgeber"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Monika",
+              "lastName": "Schlicher"
+            }
+          ],
+          "membershipEntries": [
+            "Nepal Dialogforum für Frieden und Menschenrechte (NDF)",
+            "North East India Forum (NEIF)",
+            "Internationale Advocacynetzwerke (IAN)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Engagement Global",
+            "description": "Entwicklungspolitische Bildungs-, Öffentlichkeits- und Lobbyarbeit zu Entwicklungen in Asien",
+            "location": "Bonn",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 70001,
+              "to": 80000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020-Stiftung-Asienhaus.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/89/4d/4121/Jahresabschluss-2020-Stiftung-Asienhaus.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000511",
       "registerEntryDetail": {
@@ -13831,7 +14245,7 @@
     {
       "registerNumber": "R000447",
       "registerEntryDetail": {
-        "id": 2779,
+        "id": 3034,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -13851,7 +14265,7 @@
           "registerNumber": "R000447",
           "firstPublicationDate": "2022-02-14T09:34:01.000Z"
         },
-        "activityDescription": "Direkter Kontakt mit Entscheidungsträgern durch ALPLA Public Affairs Team, ALPLA wird bei der Lobbyarbeit durch die Consultancy Van Beust und Coll unterstützt.",
+        "activityDescription": "Direkter Kontakt mit Entscheidungsträgern durch ALPLA Public Affairs Team, ALPLA wird bei der Lobbyarbeit durch die Consultancy \"von Beust und Coll\" unterstützt.",
         "activityOperationType": "BOTH",
         "activity": {
           "code": "ACT_ORGANIZATION",
