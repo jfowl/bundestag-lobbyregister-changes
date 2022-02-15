@@ -9,8 +9,727 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 517,
+  "resultCount": 520,
   "results": [
+    {
+      "registerNumber": "R000525",
+      "registerEntryDetail": {
+        "id": 1584,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000525",
+          "firstPublicationDate": "2022-02-15T16:52:14.000Z"
+        },
+        "activityDescription": "Seit genau 40 Jahren fördern wir den praktischen und wissenschaftlichen Fortschritt der Intensiv- und Notfallmedizin und verbessern hier die Strukturen. Unsere Erfolge sind ebenso zurückzuführen auf die Expertise unserer Mitglieder wie auf die starke Geschlossenheit unserer interdisziplinären Vereinigung. Wir haben es uns zum Ziel gesetzt, Wissenschaft, Praxis und Forschung in Bezug auf die Intensiv- und Notfallmedizin zu fördern und Politik und Öffentlichkeit auf unsere Belange aufmerksam zu machen.\r\nBesonders greifbar und anschaulich wird unsere Arbeit für Außenstehende, wenn wir Standards für die multidisziplinäre Versorgung kritisch kranker Patienten entwickeln, zu ethisch-juristischen Fragen Stellung nehmen oder Leitlinien für die Grenzen intensiv- und notfallmedizinischer Behandlungspflicht bearbeiten. Diese sind deutschlandweit und darüber hinaus Grundlage der täglichen Arbeit auf den Intensivstationen und im Rettungsdienst.\r\nWeniger sichtbar nach außen, aber umso wichtiger für unsere Mitglieder und die Fachrichtungen im Allgemeinen, ist der von uns aktiv geförderte nationale und internationale Wissensaustausch im Bereich der Intensiv- und Notfallmedizin sowie die interdisziplinäre Kommunikation auf allen Versorgungsebenen. Wie bedeutsam dieser Wissensaustausch für unsere Mitglieder ist, zeigt der Erfolg des mittlerweile jährlich stattfindenden DIVI-Kongresses mit durchschnittlich 5.000 Besuchern.\r\nErst eine spannende, kooperative, interdisziplinäre Kommunikation ermöglicht die vertiefte, starke Zusammenarbeit zwischen den Gesellschaften und Verbänden. Von dieser profitiert natürlich die Intensiv- und Notfallmedizin selbst, und damit unsere Patienten. So arbeiten wir an der Qualitätssicherung, der Forschungsförderung und insbesondere der Verbesserung einer Plattform für multidisziplinäre, fächerübergreifende Forschungsprojekte (inkl. Pflegeforschung).\r\nAußerdem gründen wir gemeinnützige Einrichtungen oder Stiftungen zur Förderung und Weiterentwicklung der klinischen und medizinisch-technischen Forschung und statten diese aus. Ein weiterer Schwerpunkt ist der Ausbau der Aus-, Weiter- und Fortbildung in der Intensiv- und Notfallmedizin, insbesondere die Förderung der Zusatz-Weiterbildung Intensivmedizin und Notfallmedizin in Ergänzung zu einer Facharztkompetenz.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin e.V. (DIVI)",
+          "phoneNumber": "+493040005607",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "DIVI e.V.",
+            "street": "Schumannstr. ",
+            "streetNumber": "2",
+            "zipCode": "10117",
+            "city": "Berlin ",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@divi.de"
+          ],
+          "websites": [
+            "www.divi.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof. Dr. med. ",
+              "commonFirstName": "Gernot ",
+              "lastName": "Marx",
+              "academicDegreeAfter": "FRCA",
+              "function": "Präsident",
+              "phoneNumber": "+492418080444",
+              "organizationMemberEmails": [
+                "gmarx@ukaachen.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med. ",
+              "commonFirstName": "Uwe",
+              "lastName": "Janssens",
+              "function": "Past-Präsident (1. Vizepräsident) ",
+              "phoneNumber": "+492403761227",
+              "organizationMemberEmails": [
+                "uwe.janssens@sah-eschweiler.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "PD Dr. med. ",
+              "commonFirstName": "Florian",
+              "lastName": "Hoffmann",
+              "function": "Generalsekretär ",
+              "phoneNumber": "+4989440057938",
+              "organizationMemberEmails": [
+                "florian.hoffmann@med.uni-muenchen.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Prof. Dr. med. ",
+              "commonFirstName": "Bernd",
+              "lastName": "Böttiger",
+              "function": "Schatzmeister",
+              "phoneNumber": "+4922147882054",
+              "organizationMemberEmails": [
+                "bernd.boettiger@uk-koeln.de"
+              ]
+            },
+            {
+              "commonFirstName": "Volker",
+              "lastName": "Parvu",
+              "academicDegreeAfter": "Dipl. Inf (FH) ",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493040005607",
+              "organizationMemberEmails": [
+                "volker.parvu@divi.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 3749,
+          "membersCountDate": "2022-01-28T00:00:00.000Z",
+          "membershipEntries": [
+            "Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V. (AWMF)",
+            "Deutscher Rat für Wiederbelebung German Resuscitation Council e.V. (GRC)",
+            " European Society of Intensive Care Medicine",
+            "Global Sepsis Alliance",
+            "World Federation of Intensive and Critical Care"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Der Jahresbericht 2020 wird derzeit erstellt, liegt uns aber n der Endversion noch nicht vor. "
+      }
+    },
+    {
+      "registerNumber": "R000524",
+      "registerEntryDetail": {
+        "id": 2511,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000524",
+          "firstPublicationDate": "2022-02-15T16:40:02.000Z"
+        },
+        "activityDescription": "KOLPING INTERNATIONAL ist ein katholischer Sozialverband mit über 400.000 Mitgliedern auf allen Kontinenten in 60 Ländern. In Deutschland hat KOLPING rund 225.000 Mitglieder.\r\n\r\nKOLPING INTERNATIONAL gliedert sich in rund 8.800 Basisgruppen (Kolpingsfamilien) in denen verschiedene Bildungs-, Freizeit- und Gemeinwohlaktivitäten durchgeführt werden.\r\n\r\nDer Verband will Bewusstsein für verantwortliches Leben und solidarisches Handeln fördern.\r\n\r\nBeim Wirtschafts- und Sozialrat der Vereinten Nationen (ECOSOC) in New York sowie bei der Internationalen Arbeitsorganisation (ILO) in Genf ist KOLPING INTERNATIONAL vertreten.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "KOLPING INTERNATIONAL Association e.V.",
+          "phoneNumber": "+492217788014",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "KOLPING INTERNATIONAL",
+            "nationalAdditional2": "Association e.V.",
+            "street": "Kolpingplatz",
+            "streetNumber": "5-11",
+            "zipCode": "50667",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@kolping.net"
+          ],
+          "websites": [
+            "www.kolping.net"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Huber",
+              "function": "Generalpraeses / Vorsitzender",
+              "phoneNumber": "+492217788012",
+              "organizationMemberEmails": [
+                "generalpraeses@kolping.net",
+                "info@kolping.net"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Markus",
+              "lastName": "Demele",
+              "function": "Generalsekretär / stellvertr. Vorsitzender",
+              "phoneNumber": "+492217788014",
+              "organizationMemberEmails": [
+                "MarkusDemele@kolping.net",
+                "info@kolping.net"
+              ]
+            },
+            {
+              "commonFirstName": "Karin",
+              "lastName": "Wollgarten",
+              "function": "Geschäftsführerin / stellvertretende Vorsitzende",
+              "phoneNumber": "+492217788023",
+              "organizationMemberEmails": [
+                "KarinWollgarten@kolping.net",
+                "info@kolping.net"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 400000,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Südwind Institut für Ökonomie und Ökumene",
+            "CoNGO - Conference of NGOs",
+            "INGOs Conference of the Council of Europe",
+            "Erlassjahr.de - Entwicklung braucht Entschuldung"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "KOLPING INTERNATIONAL Cooperation e.V., Köln",
+            "description": "Zuschuss im Rahmen der Partnerförderung",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 90001,
+              "to": 100000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_POLITICS",
+            "de": "Institutionelle Fragen der EU",
+            "en": "Institutional questions of European politics"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_FAMILY",
+            "de": "Familienpolitik",
+            "en": "Family policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_RELIGION",
+            "de": "Religion/Weltanschauung",
+            "en": "Religion/Belief"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "KIA-2020-Bericht-Jahresabschlussprufung-KKS.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/6f/d5/4332/KIA-2020-Bericht-Jahresabschlussprufung-KKS.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000523",
+      "registerEntryDetail": {
+        "id": 2436,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 21,
+          "to": 30
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000523",
+          "firstPublicationDate": "2022-02-15T16:38:12.000Z"
+        },
+        "activityDescription": "KOLPING INTERNATIONAL ist ein katholischer Sozialverband mit über 400.000 Mitgliedern auf allen Kontinenten in 60 Ländern. KOLPING INTERNATIONAL gliedert sich in rund 8.800 Basisgruppen (Kolpingsfamilien), in denen verschiedene Bildungs-, Gemeinwohl- und Freizeitaktivitäten durchgeführt werden.\r\nDer Verband will Bewusstsein für verantwortliches Leben und solidarisches Handeln fördern.\r\nDurch seine Fachorganisation KOLPING INTERNATIONAL Cooperation e.V. ist der Verband in der Entwicklungszusammenarbeit aktiv. Schwerpunkte der Arbeit sind berufliche Bildung, Maßnahmen zur Existenzgründung, ländliche Entwicklung sowie Kleinkreditprogramme. Außerdem wird der Zugang zu sauberem Trinkwasser gefördert.\r\nFinanziert wird diese Arbeit durch öffentliche Gelder sowie durch Spenden.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "KOLPING INTERNATIONAL Cooperation e.V.",
+          "phoneNumber": "+492217788014",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "KOLPING INTERNATIONAL",
+            "nationalAdditional2": "Cooperation e.V.",
+            "street": "Kolpingplatz",
+            "streetNumber": "5-11",
+            "zipCode": "50667",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@kolping.net"
+          ],
+          "websites": [
+            "www.kolping.net"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Markus",
+              "lastName": "Demele",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+492217788014",
+              "organizationMemberEmails": [
+                "MarkusDemele@kolping.net",
+                "info@kolping.net"
+              ]
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Huber",
+              "function": "Vorsitzender",
+              "phoneNumber": "+492217788012",
+              "organizationMemberEmails": [
+                "generalpraeses@kolping.net",
+                "info@kolping.net"
+              ]
+            },
+            {
+              "commonFirstName": "Karin",
+              "lastName": "Wollgarten",
+              "function": "stellvertretende Vorsitzende",
+              "phoneNumber": "+492217788023",
+              "organizationMemberEmails": [
+                "KarinWollgarten@kolping.net",
+                "info@kolping.net"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 14,
+          "membersCountDate": "2021-09-01T00:00:00.000Z",
+          "membershipEntries": [
+            "VENRO, Verband Entwicklungspolitik und Humanitäre Hilfe deutscher Nichtregierungsorganisationen"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+            "description": "Fehlbedarfsfinanzierungen zu Projekten der Entwicklungszusammenarbeit:\r\nAufbau von Sozialstruktur durch verbandsgestützte Bildung für Arbeit und Gesellschaft zur Reduzierung von Einkommensarmut, Stärkung der Zivilgesellschaft, Empowerment marginalisierter Gruppen, Förderung von Genergerechtigkeit in Ländern Lateinamerikas, Afrikas, Asiens und Süd- und Osteuropas.\r\n\r\n\r\n\r\n",
+            "location": "Bonn/Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 5460001,
+              "to": 5470000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "natürliche Person",
+            "description": "Projektspenden ",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 230001,
+              "to": 240000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "natürliche Person",
+            "description": "Projektspende",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "natürliche Person",
+            "description": "Projektspenden ",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Kolping-Diözesanverband Paderborn",
+            "description": "Projektspenden ",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 160001,
+              "to": 170000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Kolping Schweiz",
+            "description": "Projektspenden",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 220001,
+              "to": 230000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "natürliche Person",
+            "description": "Projektspenden",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Gemeinschaftsstiftung Kolping Deutschland",
+            "description": "Projektspende",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Kolpng Österreich",
+            "description": "Projektspenden",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Kolping Südtirol",
+            "description": "Projektspenden",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Unternehmen",
+            "description": "Projektspende",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Kolpingstiftung",
+            "description": "Projektspende",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Kolping-Diözesanverband München und Freising",
+            "description": "Projektspenden",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Kolping Diözesanverband Regensburg",
+            "description": "Projektspenden",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "private Stiftung",
+            "description": "Projektspende",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 180001,
+              "to": 190000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "natürliche Person",
+            "description": "Projektspende",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 10001,
+              "to": 20000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "natürliche Person",
+            "description": "Projektspende",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020-web.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/e0/5a/4330/Jahresabschluss-2020-web.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000522",
       "registerEntryDetail": {
