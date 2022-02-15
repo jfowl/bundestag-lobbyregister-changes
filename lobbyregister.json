@@ -9,8 +9,283 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 488,
+  "resultCount": 490,
   "results": [
+    {
+      "registerNumber": "R000494",
+      "registerEntryDetail": {
+        "id": 677,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 80001,
+          "to": 90000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000494",
+          "firstPublicationDate": "2022-02-15T09:41:44.000Z"
+        },
+        "activityDescription": "Mitglieder sind Krankenhäuser, Ärzte, Wissenschaftler, Hochschulen, Forschungseinrichtungen, Wirtschaftsunternehmen der Medizintechnik und Pharmazie, Beratungs- und Dienstleistungsunternehmen, Krankenkassen, ärztliche Körperschaften, IT-Unternehmen und weitere Institutionen und Persönlichkeiten.\r\n\r\nDie DGTelemed e. V. versteht sich als Forum für Kommunikation, Diskussion und Interessenvertretung in der Telemedizin in Deutschland und Europa.\r\nPatientenorientierung und Optimierung der Zusammenarbeit zwischen Leistungserbringern, Gesundheitsdienstleistungs- und Medizintechnikunternehmen, Verbänden und Vereinigungen gehören zum Grundverständnis ihres Handelns.\r\n\r\nDie DGTelemed e. V. fördert die Kontakte ihrer Mitglieder untereinander sowie mit Partnern aus Politik, Gesundheitswesen, Wissenschaft und Wirtschaft im deutschen und europäischen Gesundheitsmarkt.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Gesellschaft für Telemedizin",
+          "phoneNumber": "+4923319106012",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Luisenstr.",
+            "streetNumber": "58/59",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@dgtelemed.de"
+          ],
+          "websites": [
+            "https://www.dgtelemed.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Univ.-Prof. Dr.",
+              "commonFirstName": "Gernot",
+              "lastName": "Marx",
+              "academicDegreeAfter": "FRCA",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4923319106090",
+              "organizationMemberEmails": [
+                "info@dgtelemed.de"
+              ]
+            },
+            {
+              "commonFirstName": "Günter",
+              "lastName": "van Aalst",
+              "function": "stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+4923319106090",
+              "organizationMemberEmails": [
+                "info@dgtelemed.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 129,
+          "membersCountDate": "2022-01-11T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Telematik und Telemedizin"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-zum-31-12-2020-DGTelemed-e-V.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/66/77/3924/Jahresabschluss-zum-31-12-2020-DGTelemed-e-V.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000493",
+      "registerEntryDetail": {
+        "id": 2960,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "locationOfReportPublication": "N26 wird im Handelsregister beim Amtsgericht Charlottenburg (Berlin) unter der Handelsregister-Nummer HRB 151080 B geführt.",
+        "account": {
+          "registerNumber": "R000493",
+          "firstPublicationDate": "2022-02-15T09:29:20.000Z"
+        },
+        "activityDescription": "N26 ist eine mobile Bank, die ein Bankkonto ohne versteckte Gebühren anbietet. Mit deutscher Banklizenz, einer Technologie die Maßstäbe setzt und ohne teures Filialnetz, verändert N26 das Banking des 21. Jahrhunderts maßgeblich, um es zu digitalisieren und zu vereinfachen. Dazu steht N26 im Dialog mit politischen Entscheidungsträgern, veranstaltet Diskussionsrunden und ähnliche dem Austausch dienende Formate. Die Tätigkeiten der Interessenvertretungen zielen dabei darauf ab, entsprechende Rahmenbedingungen für FinTechs und Startups zu schaffen und die regulatorischen Vorgaben innerhalb der Europäischen Union weiter zu harmonisieren. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "N26 Group",
+          "phoneNumber": "+493016637286",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "N26 ",
+            "street": "Rungestraße",
+            "streetNumber": "22",
+            "zipCode": "10179",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "politics@n26.com"
+          ],
+          "websites": [
+            "https://n26.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Valentin",
+              "lastName": "Stalf",
+              "function": "CEO",
+              "phoneNumber": "+493016637286",
+              "organizationMemberEmails": [
+                "politics@n26.com"
+              ]
+            },
+            {
+              "commonFirstName": "Maximilian",
+              "lastName": "Tayenthal",
+              "function": "Co-CEO",
+              "phoneNumber": "+493016637286",
+              "organizationMemberEmails": [
+                "politics@n26.com"
+              ]
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Große",
+              "function": "CRO",
+              "phoneNumber": "+493016637286",
+              "organizationMemberEmails": [
+                "politics@n26.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jan",
+              "lastName": "Kemper",
+              "function": "CFO",
+              "phoneNumber": "+493016637286",
+              "organizationMemberEmails": [
+                "politics@n26.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jan",
+              "lastName": "Dornhöfer-Boehm"
+            },
+            {
+              "commonFirstName": "Greta",
+              "lastName": "Schulte"
+            },
+            {
+              "commonFirstName": "Karen",
+              "lastName": "Sturm"
+            }
+          ],
+          "membershipEntries": [
+            "Bitkom e.V.",
+            "Bundesverband Deutsche Startups e.V.",
+            "Deutschland sicher im Netz e.V.",
+            "European FinTech Association"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000492",
       "registerEntryDetail": {
