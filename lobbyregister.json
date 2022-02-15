@@ -9,8 +9,471 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 494,
+  "resultCount": 496,
   "results": [
+    {
+      "registerNumber": "R000501",
+      "registerEntryDetail": {
+        "id": 2447,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "account": {
+          "registerNumber": "R000501",
+          "firstPublicationDate": "2022-02-15T11:06:29.000Z"
+        },
+        "activityDescription": "Entwicklung und Umsetzung von Konzepten zur politischen Interessenvertretung von Unternehmen, Verbänden und Institutionen. \r\nErbringung von Dienstleistungen im Bereich der strategischen Kommunikationsberatung.\r\nErstellung von Analysen zu politischen und gesetzgeberischen Prozessen und Vorhaben\r\nMedienarbeit und publizistische Tätigkeit",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_CONSULTING",
+          "de": "Beratungsunternehmen, selbständige Beraterin oder selbständiger Berater",
+          "en": "Consulting company, independent consultant"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "commonFirstName": "Henrik",
+          "lastName": "Tesch"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_AFFAIRS",
+            "de": "Bundeswehrangelegenheiten",
+            "en": "Bundeswehr affairs"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_ORGANIZATION",
+            "de": "Staatsorganisation",
+            "en": "State organization"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_SERVICE",
+            "de": "Öffentlicher Dienst und öffentliche Verwaltung",
+            "en": "Public service"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Pegasystems GmbH",
+            "phoneNumber": "+4989540320",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Sternstraße",
+              "streetNumber": "5",
+              "zipCode": "80538",
+              "city": "München",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_GMBH",
+              "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+              "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@pega.com"
+            ],
+            "websites": [
+              "pega.com"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Frank",
+                "lastName": "Wischerhoff",
+                "function": "Direktor",
+                "phoneNumber": "+4989540320",
+                "organizationMemberEmails": [
+                  "frank.wischerhoff@pega.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000500",
+      "registerEntryDetail": {
+        "id": 825,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 21,
+          "to": 30
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 350001,
+          "to": 360000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000500",
+          "firstPublicationDate": "2022-02-15T11:02:23.000Z"
+        },
+        "activityDescription": "Der Industrieverband SPECTARIS setzt sich für die Interessen seiner Mitgliedsunternehmen in den Innovationsbranchen Augenoptik, Photonik, Analysen- und Medizintechnik ein. Die Mehrzahl der Mitgliedsunternehmen sind mittelständische Hersteller aus Deutschland. Ziel ist es, die Wettbewerbsfähigkeit und die Innovationskraft dieser Unternehmen zu stärken. Dabei beschäftigt sich der Verband unter anderem mit den industriepolitischen, außenwirtschaftlichen und regulatorischen Rahmenbedingungen, die Einfluss auf die Geschäftstätigkeit der Branche haben. Die Angestellten des Verbands erarbeiten dazu gemeinsam mit den Mitgliedsunternehmen Positionen, die die Mehrheitsmeinung der Branche widerspiegeln und auf ihre besonderen Anliegen hinweisen. Nach Aufforderung entwickelt der Verband auch Stellungnahmen, die im Verlauf von Gesetzgebungsverfahren vorgelegt werden. Den Kontakt zur Politik stellt der Verband über direkte Gespräche, über öffentliche Dialogformate, über Branchenkonferenzen und über den Versand von Papieren her. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "SPECTARIS. Deutscher Industrieverband für Optik, Photonik, Analysen- und Medizintechnik e.V.",
+          "phoneNumber": "+493041402110",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Werderscher Markt",
+            "streetNumber": "15",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@spectaris.de"
+          ],
+          "websites": [
+            "www.spectaris.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jörg",
+              "lastName": "Mayer",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493041402110",
+              "organizationMemberEmails": [
+                "info@spectaris.de"
+              ]
+            },
+            {
+              "commonFirstName": "Josef",
+              "lastName": "May",
+              "function": "Vorsitzender des Vorstands",
+              "phoneNumber": "+493041402110",
+              "organizationMemberEmails": [
+                "info@spectaris.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Marcus",
+              "lastName": "Kuhlmann"
+            },
+            {
+              "commonFirstName": "Patrick",
+              "lastName": "Nicola"
+            },
+            {
+              "commonFirstName": "Aziza",
+              "lastName": "Arbabzadah"
+            },
+            {
+              "commonFirstName": "Nadine",
+              "lastName": "Benad"
+            },
+            {
+              "commonFirstName": "Felix",
+              "lastName": "Dotzauer"
+            },
+            {
+              "commonFirstName": "Peter",
+              "lastName": "Frankenstein"
+            },
+            {
+              "commonFirstName": "Jennifer",
+              "lastName": "Goldenstede"
+            },
+            {
+              "commonFirstName": "Carsten",
+              "lastName": "Leutloff"
+            },
+            {
+              "commonFirstName": "Corinna",
+              "lastName": "Mutter"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Wenko",
+              "lastName": "Süptitz"
+            },
+            {
+              "commonFirstName": "Benedikt",
+              "lastName": "Herzog-Wolbeck"
+            },
+            {
+              "commonFirstName": "Anne-Kathrin",
+              "lastName": "Schmalz"
+            }
+          ],
+          "members": 354,
+          "membersCountDate": "2021-08-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutsche Gesellschaft für Verbandsmanagement",
+            "Wirtschaftsrat der CDU e. V.",
+            "MedTechEurope, Brüssel (Europäische Interessenvertretung für Medizintechnik)",
+            "Euromcontact, Brüssel (Europäische Interessenvertretung für Kontaktlinsen)",
+            "Verband der Bayerischen Wirtschaft (VBW)",
+            "Verband der deutschen Messewirtschaft (AUMA)",
+            "Ost-Ausschuss der deutschen Wirtschaft (OAOEV)",
+            "EUROM 2 (Europäische Interessenvertretung für Analysen- und Labortechnik)",
+            "EUROM 1 (Europäische Interessenvertretung für Augenoptik)",
+            "EUROM 6 (Europäische Interessenvertretung für Medizintechnik)",
+            "Photonics 21 (Europäische Interessenvertretung für die Photonik)",
+            "SPD-Wirtschaftsforum "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "sequa gGmbH, ein Projektträger des Bundesministeriums für wirtschaftliche Zusammenarbeit (BMZ)",
+            "description": "Finanzierung eines Projekts im Rahmen der Kammer- und Verbandspartnerschaften (KVP).\r\nDas Projekt fördert den Aufbau der East African Health Plattform (EAHP), eine Interessenvertretung der Gesundheitswirtschaft für die East African Community (EAC). \r\nDas Projekt wird von der SPECTARIS GmbH, einer Tochter des Deutschen Industrieverbands SPECTARIS, durchgeführt",
+            "location": "Alexanderstr. 10, 53111 Bonn",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 350001,
+              "to": 360000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "2021-SPECTARIS-Code-of-Conduct-Deutsch.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/ff/06/3969/2021-SPECTARIS-Code-of-Conduct-Deutsch.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Handelsbilanz-SPECTARISeV-per-31-12-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/94/ee/3970/Handelsbilanz-SPECTARISeV-per-31-12-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000499",
       "registerEntryDetail": {
