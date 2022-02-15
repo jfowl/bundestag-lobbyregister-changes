@@ -9,8 +9,605 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 503,
+  "resultCount": 506,
   "results": [
+    {
+      "registerNumber": "R000511",
+      "registerEntryDetail": {
+        "id": 1696,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000511",
+          "firstPublicationDate": "2022-02-15T13:30:44.000Z"
+        },
+        "activityDescription": "Die Durchführung berufsständischer Interessenvertretung des Orthopädieschuhmacher-Handwerks in der Politik sowie die Schaffung adäquater Voraussetzungen für eine qualitative Hilfsmittelversorgung.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Zentralverband Gesundheitshandwerk Orthopädieschuhtechnik",
+          "phoneNumber": "+4951154398080",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Ricklinger Stadtweg",
+            "streetNumber": "92",
+            "zipCode": "30459",
+            "city": "Hannover",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "code_en": "Other juristic person",
+            "type": "JURISTIC_PERSON",
+            "legalFormText": "Bundesinnungsverband"
+          },
+          "organizationEmails": [
+            "info@zvos.de"
+          ],
+          "websites": [
+            "www.zvos.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Jehring",
+              "function": "Präsident",
+              "phoneNumber": "+4951154398080",
+              "organizationMemberEmails": [
+                "info@zvos.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jessica",
+              "lastName": "Kuhn",
+              "function": "Hauptgeschäftsführerin",
+              "phoneNumber": "+4951154398080",
+              "organizationMemberEmails": [
+                "info@zvos.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 10,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "ZDH - Zentralverband des Deutschen Handwerks"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
+    {
+      "registerNumber": "R000510",
+      "registerEntryDetail": {
+        "id": 106,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 50001,
+          "to": 60000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000510",
+          "firstPublicationDate": "2022-02-15T13:15:58.000Z"
+        },
+        "activityDescription": "politische Interessensvertretung für den Bundesverband der Deutschen Sportartikel-Industrie e.V. (BSI) ",
+        "activityOperationType": "MANDATE_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der deutschen Sportartikel-Industrie e.V. (BSI)",
+          "phoneNumber": "+4922892659314",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Adenauerallee",
+            "streetNumber": "134",
+            "zipCode": "53113",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "hendrikje.lucic@bsi-sport.de"
+          ],
+          "websites": [
+            "https://www.bsi-sport.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Stefan",
+              "lastName": "Rosenkranz",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4922892659312",
+              "organizationMemberEmails": [
+                "stefan.rosenkranz@bsi-sport.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 131,
+          "membersCountDate": "2022-02-02T00:00:00.000Z",
+          "membershipEntries": [
+            "FESI",
+            "DIN e.V.",
+            "SGI",
+            "DHO",
+            "Kuratorium Sport & Natur"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_OTHER",
+            "de": "Sonstiges im Bereich „Sport, Freizeit und Tourismus“",
+            "en": "Other in the field of “Sports, leisure and tourism”"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_CHILDREN",
+            "de": "Kinder- und Jugendpolitik",
+            "en": "Child and youth policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_FAMILY",
+            "de": "Familienpolitik",
+            "en": "Family policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_OTHER",
+            "de": "Sonstiges im Bereich „Gesellschaftspolitik und soziale Gruppen“",
+            "en": "Other in the field of “Social politics and social groups”"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Bundesverband der deutschen Sportartikel-Industrie e.V. (BSI)",
+            "phoneNumber": "+4915758305793",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Adenauerallee ",
+              "streetNumber": "134",
+              "zipCode": "53113",
+              "city": "Bonn",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "hendrikje.lucic@bsi-sport.de"
+            ],
+            "websites": [
+              "https://www.bsi-sport.de/"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Stefan",
+                "lastName": "Rosenkranz",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+4922892659312",
+                "organizationMemberEmails": [
+                  "stefan.rosenkranz@bsi-sport.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "JA-2020-BSI.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/1c/4a/4086/JA-2020-BSI.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000509",
+      "registerEntryDetail": {
+        "id": 443,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000509",
+          "firstPublicationDate": "2022-02-15T13:05:26.000Z"
+        },
+        "activityDescription": "Der Verband Deutscher Kühlhäuser und Kühllogistikunternehmen e.V. (VDKL) ist der Wirtschaftsverband für Lebensmittelunternehmen rund um die temperaturgeführte Lagerung, Distribution und Logistik insbesondere von Tiefkühlkost und Frischewaren. \r\nEr vertritt die Interessen der Branche sowie seiner Mitglieder u.a. gegenüber Regierungsstellen, Behörden, Organisationen und Institutionen.\r\n\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband Deutscher Kühlhäuser und Kühllogistikunternehmen e.V. (VDKL)",
+          "phoneNumber": "+49228201660",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Fränkische Straße",
+            "streetNumber": "1",
+            "zipCode": "53229",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@vdkl.de"
+          ],
+          "websites": [
+            "www.vdkl.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Falko",
+              "lastName": "Thomas",
+              "function": "Vorsitzender",
+              "phoneNumber": "+49228201660",
+              "organizationMemberEmails": [
+                "f.thomas@thermotraffic.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Regus",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+49228201660",
+              "organizationMemberEmails": [
+                "bkr@bkr-regus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Tim",
+              "lastName": "Pfotenhauer",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+49228201660",
+              "organizationMemberEmails": [
+                "t.pfotenhauer@thueringer-kuehlhaeuser.de"
+              ]
+            },
+            {
+              "commonFirstName": "Britta",
+              "lastName": "Bartels",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49228201660",
+              "organizationMemberEmails": [
+                "britta.bartels@nordfrost.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Berlin",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+49228201660",
+              "organizationMemberEmails": [
+                "christian.berlin@nagel-group.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Rechtsanwalt",
+              "commonFirstName": "Jan",
+              "lastName": "Peilnsteiner"
+            }
+          ],
+          "members": 222,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "European Cold Storage and Logistics Association (ECSLA)",
+            "Bundesverband Großhandel, Außenhandel, Dienstleistungen e.V. (BGA) ",
+            "Lebensmittelverband Deutschland e.V.",
+            "Forschungsrat Kältetechnik e.V.",
+            "Deutscher Kälte- und Klimatechnischer Verein e.V. (DKV)",
+            "Deutsche Gesellschaft für Verbandsmanagement e.V. (DGVM)",
+            "Deutsches Institut für Normung e.V. (DIN)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresergebnis-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/fa/c5/4070/Jahresergebnis-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "VDKL-Compliance.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/2f/7f/4071/VDKL-Compliance.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000508",
       "registerEntryDetail": {
