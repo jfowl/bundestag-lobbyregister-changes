@@ -9,8 +9,148 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 513,
+  "resultCount": 514,
   "results": [
+    {
+      "registerNumber": "R000519",
+      "registerEntryDetail": {
+        "id": 87,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000519",
+          "firstPublicationDate": "2022-02-15T15:44:49.000Z"
+        },
+        "activityDescription": "Die DGNB versteht sich als ein gemeinnütziger Verein zur Förderung des nachhaltigen Bauens und Betreibens der gebauten Umwelt. Die DGNB ist nicht vorrangig ökologischen oder ökonomischen, sondern gesellschaftlichen Zielen verpflichtet. Sie ist eine von ihren Mitgliedern getragene Organisation, die Nachhaltigkeit auch als Ausweitung des Demokratieverständnisses auf künftige Generationen begreift. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutsche Gesellschaft für Nachhaltiges Bauen - DGNB e.V.",
+          "phoneNumber": "+497117223220",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Tübinger Straße",
+            "streetNumber": "43",
+            "zipCode": "70178",
+            "city": "Stuttgart",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@dgnb.de"
+          ],
+          "websites": [
+            "www.dgnb.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christine",
+              "lastName": "Lemaitre",
+              "function": "geschäftsführender Vorstand",
+              "phoneNumber": "+497117223220",
+              "organizationMemberEmails": [
+                "info@dgnb.de"
+              ]
+            },
+            {
+              "commonFirstName": "Johannes",
+              "lastName": "Kreißig",
+              "function": "geschäftsführender Vorstand",
+              "phoneNumber": "+497117223220",
+              "organizationMemberEmails": [
+                "info@dgnb.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Anna",
+              "lastName": "Braune"
+            }
+          ],
+          "members": 1500,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "ZIA Zentraler Immobilien Ausschuss e.V.",
+            "World Green Building Council",
+            "Climate Positive Europe Alliance",
+            "Förderverein Bundesstiftung Baukultur e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "DGNB-Corporate-Governance-geschutzt.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/55/6a/4261/DGNB-Corporate-Governance-geschutzt.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000518",
       "registerEntryDetail": {
