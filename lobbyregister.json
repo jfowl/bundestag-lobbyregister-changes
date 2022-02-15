@@ -9,8 +9,437 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 492,
+  "resultCount": 494,
   "results": [
+    {
+      "registerNumber": "R000499",
+      "registerEntryDetail": {
+        "id": 1126,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 140001,
+          "to": 150000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000499",
+          "firstPublicationDate": "2022-02-15T10:43:23.000Z"
+        },
+        "activityDescription": "Der Fachverband der Gewürzindustrie e.V. vertritt die Interessen von mehr als 90 Unternehmen, die Gewürze veredeln und Gewürzmischungen, Gewürzpräparate und sonstige würzende Zutaten produzieren. \r\n\r\nAls Interessenvertreter der Branche informiert der Fachverband über gesetzgeberische Vorhaben auf nationaler und europäischer Ebene, die die Interessen unserer Mitgliedsunternehmen berühren können und begleitet diese mit seiner Expertise, z.B. durch Stellungnahmen. Im Vordergrund stehen dabei Fragen der Lebensmittelsicherheit und Qualitätssicherung, aber auch Fragen der Nachhaltigkeit und Ökologie.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Fachverband der Gewürzindustrie e.V.",
+          "phoneNumber": "+49228216162",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Reuterstraße ",
+            "streetNumber": "151",
+            "zipCode": "53113",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@gewuerzindustrie.de"
+          ],
+          "websites": [
+            "https://www.gewuerzindustrie.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Markus",
+              "lastName": "Weck",
+              "function": "Hauptgeschäftsführer",
+              "phoneNumber": "+49228216162",
+              "organizationMemberEmails": [
+                "m.weck@verbaendebuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Wolfgang",
+              "lastName": "Schulze",
+              "function": "Präsident",
+              "phoneNumber": "+49911646055",
+              "organizationMemberEmails": [
+                "wolfgang.schulze@schuco-gewuerze.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Barbara",
+              "lastName": "von Fragstein und Niemsdorff ",
+              "function": "Stellvertretende Vorsitzende",
+              "phoneNumber": "+496836460",
+              "organizationMemberEmails": [
+                "info@scheid-gewuerze.de"
+              ]
+            },
+            {
+              "commonFirstName": "Nils",
+              "lastName": "Meyer-Pries",
+              "academicDegreeAfter": "LL.M.",
+              "function": "Stellvertretender Vorsitzender",
+              "phoneNumber": "+4954213090",
+              "organizationMemberEmails": [
+                "Nils.Meyer-Pries@fuchs.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Laura ",
+              "lastName": "Winter-Gierlich"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Martin",
+              "lastName": "Einig"
+            },
+            {
+              "commonFirstName": "Catherina",
+              "lastName": "Lüke"
+            }
+          ],
+          "members": 94,
+          "membersCountDate": "2022-01-20T00:00:00.000Z",
+          "membershipEntries": [
+            "Lebensmittelverband Deutschland e.V.",
+            "Bundesvereinigung der Deutschen Ernährungsindustrie e.V.",
+            "Deutsche Gesellschaft für Ernährung e.V.",
+            "Förderergesellschaft für Fleischforschung e.V.",
+            "Food - Made in Germany e.V.",
+            "Forschungskreis der Ernährungsindustrie e.V. (FEI)",
+            "Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main e.V.",
+            "Lemgoer Arbeitskreis Fleisch + Feinkost an der Technischen Hochschule Ostwestfalen-Lippe e. V. (LAFF) "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CRIMINAL",
+            "de": "Strafrecht",
+            "en": "Criminal law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Gewurze-EA-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/3e/35/3962/Gewurze-EA-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000498",
+      "registerEntryDetail": {
+        "id": 1000,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 120001,
+          "to": 130000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "locationOfReportPublication": "www.Bundesanzeiger.de",
+        "account": {
+          "registerNumber": "R000498",
+          "firstPublicationDate": "2022-02-15T10:39:16.000Z"
+        },
+        "activityDescription": "Dialog über energiepolitische Fragestellungen mit Auswirkung auf die Contractingbranche, insbesondere Gespräche mit Bundestagsabgeordneten, Ministerien. Verbänden und Vereinigungen; Einbringung von Initiativen und inhaltlichen Ausarbeitungen, Teilnahme an Informationsveranstaltungen und Verbänden und eigenen Informationsveranstaltungen.",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "G+E GETEC Holding GmbH",
+          "phoneNumber": "+493912568100",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Albert-Vater-Straße",
+            "streetNumber": "50",
+            "zipCode": "39108",
+            "city": "Magdeburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@getec.de"
+          ],
+          "websites": [
+            "https://www.getec-energyservices.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Wagner",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493912568100",
+              "organizationMemberEmails": [
+                "info@getec.de"
+              ]
+            },
+            {
+              "commonFirstName": "Heiko",
+              "lastName": "Laubheimer",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493912568100",
+              "organizationMemberEmails": [
+                "info@getec.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Lowak",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493912568100",
+              "organizationMemberEmails": [
+                "info@getec.de"
+              ]
+            },
+            {
+              "commonFirstName": "Udo",
+              "lastName": "Lackner",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493912568100",
+              "organizationMemberEmails": [
+                "info@getec.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Faßelt"
+            },
+            {
+              "commonFirstName": "Hajo",
+              "lastName": "Hoops"
+            }
+          ],
+          "membershipEntries": [
+            "Grüner Wirtschaftsdialog e.V.",
+            "Wirtschaftsrat der CDU"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000497",
       "registerEntryDetail": {
