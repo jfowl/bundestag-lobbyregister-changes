@@ -9,8 +9,189 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 500,
+  "resultCount": 501,
   "results": [
+    {
+      "registerNumber": "R000506",
+      "registerEntryDetail": {
+        "id": 1842,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 30001,
+          "to": 40000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000506",
+          "firstPublicationDate": "2022-02-15T12:19:59.000Z"
+        },
+        "activityDescription": "Der Deutsche Schraubenverband e.V. (DSV) vertritt die Interessen der deutschen Schrauben-, Muttern- und Nietehersteller, die als Ordentliche Mitglieder dem Verband angehören. ",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Schraubenverband e.V.",
+          "phoneNumber": "+49233195880",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Goldene Pforte",
+            "streetNumber": "1",
+            "zipCode": "58093",
+            "city": "Hagen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "register@schraubenverband.de"
+          ],
+          "websites": [
+            "www.schraubenverband.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Kocherscheidt",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+492751529652",
+              "organizationMemberEmails": [
+                "ckocherscheidt@ejot.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Frank",
+              "lastName": "Pahl",
+              "function": "Vorstand",
+              "phoneNumber": "+492733284250",
+              "organizationMemberEmails": [
+                "f.pahl@wsh-schrauben.com"
+              ]
+            },
+            {
+              "commonFirstName": "Beatrix",
+              "lastName": "Brand",
+              "function": "Vorstand",
+              "phoneNumber": "+4920991320",
+              "organizationMemberEmails": [
+                "beatrix.brand@august-friedberg.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Hans",
+              "lastName": "Führlbeck"
+            }
+          ],
+          "members": 48,
+          "membersCountDate": "2022-01-03T00:00:00.000Z",
+          "membershipEntries": [
+            "Wirtschaftsverband Stahl- und Metallverarbeitung e.V.",
+            "EIFI European Industrial Fasteners Institute"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "DSV-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/45/d1/4037/DSV-Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000505",
       "registerEntryDetail": {
