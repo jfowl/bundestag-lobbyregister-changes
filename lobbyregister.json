@@ -9,8 +9,211 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 482,
+  "resultCount": 483,
   "results": [
+    {
+      "registerNumber": "R000487",
+      "registerEntryDetail": {
+        "id": 1266,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000487",
+          "firstPublicationDate": "2022-02-15T05:40:48.000Z"
+        },
+        "activityDescription": "Wir sind der deutsche Fachverband für Hersteller von sogenannten kaltgewalzten Bandstählen. Gegründet im Jahr 1908 besteht unsere Aufgabe in der Wahrung und Förderung der gemeinsamen wirtschaftlichen und wirtschaftspolitischen Interessen der Kaltwalzindustrie.\r\n\r\nAls Interessenvertretung der überwiegend mittelständisch geprägten Unternehmen dient die FVK ihren Mitgliedern dazu, sich als Industriebranche gegenüber der Öffentlichkeit und dem globalen Wettbewerb zu positionieren.\r\n\r\nWir verstehen uns als Dienstleister der Unternehmen und verdichten deren individuelle Wünsche und Interessen zu einem einheitlichen, die Tätigkeit der Fachvereinigung tragenden Gruppenwillen. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Fachvereinigung Kaltwalzwerke e.V.",
+          "phoneNumber": "+492114564120",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kaiserswerther Str.",
+            "streetNumber": "137",
+            "zipCode": "40474",
+            "city": "Düsseldorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@fv-kaltwalzwerke.de",
+            "gieschenhagen@fv-kaltwalzwerke.de"
+          ],
+          "websites": [
+            "https://fv-kaltwalzwerke.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Matthias",
+              "lastName": "Gierse",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4923319640",
+              "organizationMemberEmails": [
+                "info@waelzholz.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kai",
+              "lastName": "Wilke",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+4923749350",
+              "organizationMemberEmails": [
+                "zentrale@risse-wilke.de"
+              ]
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Kunkel",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+492114564121",
+              "organizationMemberEmails": [
+                "kunkel@fv-kaltwalzwerke.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Anke",
+              "lastName": "Üffing"
+            }
+          ],
+          "members": 21,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Wirtschaftsverband Stahl- und Metallverarbeitung e.V.",
+            "Wirtschaftsrat der CDU"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "FVK-JA-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/1a/d8/3888/FVK-JA-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000486",
       "registerEntryDetail": {
