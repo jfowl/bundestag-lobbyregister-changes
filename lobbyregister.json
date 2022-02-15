@@ -9,8 +9,580 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 490,
+  "resultCount": 491,
   "results": [
+    {
+      "registerNumber": "R000496",
+      "registerEntryDetail": {
+        "id": 642,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 210001,
+          "to": 220000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000496",
+          "firstPublicationDate": "2022-02-15T10:01:48.000Z"
+        },
+        "activityDescription": "- Begleitung der Gesetzgebungsverfahren auf nationaler und europäischer Ebene\r\n- Wahrnehmung und Förderung der gemeinsamen Interessen aller Mitgliedsfirmen \r\n\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Industrieverband Körperpflege- und Waschmittel e. V.",
+          "phoneNumber": "+496925561323",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mainzer Landstraße ",
+            "streetNumber": "55",
+            "zipCode": "60329",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@ikw.org"
+          ],
+          "websites": [
+            "www.ikw.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Georg",
+              "lastName": "Held",
+              "function": "Vorsitzender",
+              "phoneNumber": "+492114378225",
+              "organizationMemberEmails": [
+                "georg.held@loreal.com"
+              ]
+            },
+            {
+              "commonFirstName": "Gabriele",
+              "lastName": "Hässig",
+              "function": "Stellvertretende Vorsitzende",
+              "phoneNumber": "+496196896647",
+              "organizationMemberEmails": [
+                "haessig.g@pg.com"
+              ]
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Harras-Wolff",
+              "function": "Schatzmeister",
+              "phoneNumber": "+495218808400",
+              "organizationMemberEmails": [
+                "chw@drwolffgroup.com"
+              ]
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Keiser",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+496925561321",
+              "organizationMemberEmails": [
+                "tkeiser@ikw.org"
+              ]
+            },
+            {
+              "commonFirstName": "Birgit",
+              "lastName": "Huber",
+              "function": "Stellvertretende Geschäftsführerin",
+              "phoneNumber": "+496925561325",
+              "organizationMemberEmails": [
+                "bhuber@ikw.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "Ibel"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Bernd",
+              "lastName": "Glassl"
+            },
+            {
+              "commonFirstName": "Karen",
+              "lastName": "Kumposcht"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Klaus",
+              "lastName": "Rettinger"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Marita",
+              "lastName": "Grothus"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jens",
+              "lastName": "Burfeindt"
+            }
+          ],
+          "members": 441,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Verband der chemischen Industrie e. V.",
+            "A.I.S.E. - Association Internationale de la Savonnerie, de la Détergence et des Produits d'Entretien",
+            "Cosmetics Europe - The Personal Care Association",
+            "Ausstellungs- und Messe-Ausschuss der Deutschen Wirtschaft e. V.",
+            "Bundesarbeitsgemeinschaft mehr Sicherheit für Kinder e. V.",
+            "Europäische Bewegung Deutschland e. V.",
+            "Forschungsgemeinschaft Reinigungs- und Hygienetechnologie e. V.",
+            "GINETEX Germany ",
+            "Informationsverbund Dermatologischer Kliniken",
+            "Lebensmittelverband Deutschland e. V.",
+            "Bundesverband mittelständische Wirtschaft Unternehmensverband Deutschland e. V.",
+            "Vereinigung der hessischen Unternehmensverbände e. V.",
+            "Science Media Center Germany gGmbH",
+            "Zentralverband des Deutschen Friseurhandwerks",
+            "DIN/ISO",
+            "set - Stiftung zur Förderung der Erforschung von Ersatz- und Ergänzungsmethoden zur Einschränkung von Tierversuchen"
+          ]
+        },
+        "legislativeProjects": [
+          {
+            "name": "Änderung des Verpackungsgesetzes"
+          },
+          {
+            "name": "Revision der EU-Verpackungsabfallrichtlinie"
+          },
+          {
+            "name": "Entwurf einer EU-Produktsicherheitsverordnung"
+          },
+          {
+            "name": "Revision der EU-Kosmetikrichtlinie"
+          },
+          {
+            "name": "Revision der EU-CLP-Verordnung"
+          },
+          {
+            "name": "Geplante Initiativen im Rahmen des Europäischen Green Deal"
+          }
+        ],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_ADVERTISEMENT",
+            "de": "Werbung",
+            "en": "Advertising"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Aufwands-und-Ertragsrechnung-2020-fur-Lobbyregister.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/47/92/3938/Aufwands-und-Ertragsrechnung-2020-fur-Lobbyregister.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000495",
+      "registerEntryDetail": {
+        "id": 149,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000495",
+          "firstPublicationDate": "2022-02-15T10:00:59.000Z"
+        },
+        "activityDescription": "Zweck des Verbandes ist es, die gemeinsamen fachlichen Interessen der Mitglieder aus Industrie, Handel und Dienstleistung im Vertrieb von Produkten und Leistungen aus den Bereichen Bauen, Heimwerken, Wohnen und Garten wahrzunehmen.\r\nDer Verbandszweck wird insbesondere verwirklicht durch:\r\na) Die fachlichen, wirtschaftlichen und wirtschaftspolitischen Interessen der Mitglieder gegenüber dem Gesetzgeber, den Behörden und in der Öffentlichkeit zu vertreten\r\nb) die fachlichen und wirtschaftlichen Interessen der Mitglieder gegenüber anderen Wirtschaftsstufen zu vertreten\r\nc) die gewerblichen Belange des Wirtschaftszweigs bzw. Berufstandes zu fördern\r\nd) in den Organen und Ausschüssen der Spitzenverbände mitzuarbeiten\r\ne) die berufliche und wissenschaftliche Ausbildung der Beschäftigten der Heimwerker-, Bau- und Gartenfachmärkte zu fördern.\r\nDer Verband ist parteipolitisch neutral. Sein Zweck ist nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "BHB - Handelsverband Heimwerken, Bauen und Garten e.V.",
+          "phoneNumber": "+4922127759513",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Hohenzollernring ",
+            "streetNumber": "14",
+            "zipCode": "50672",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bhb.org"
+          ],
+          "websites": [
+            "www.bhb.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Franz Peter",
+              "lastName": "Tepaß",
+              "function": "Sprecher des Vorstands",
+              "phoneNumber": "+492212775950",
+              "organizationMemberEmails": [
+                "peter.wuest@bhb.org"
+              ]
+            },
+            {
+              "commonFirstName": "René",
+              "lastName": "Haßfeld",
+              "function": "Finanzvorstand",
+              "phoneNumber": "+492212775950",
+              "organizationMemberEmails": [
+                "peter.wuest@bhb.org"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Peter",
+              "lastName": "Wüst",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4922127759513",
+              "organizationMemberEmails": [
+                "peter.wuest@bhb.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Torsten",
+              "lastName": "Gralla"
+            },
+            {
+              "commonFirstName": "Jörn",
+              "lastName": "Brüningholt"
+            },
+            {
+              "commonFirstName": "Imke",
+              "lastName": "Ide"
+            },
+            {
+              "commonFirstName": "Annekatrin",
+              "lastName": "Conrads"
+            }
+          ],
+          "members": 220,
+          "membersCountDate": "2020-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "HDE",
+            "EDRA",
+            "FSC",
+            "PEFC",
+            "Nature Plus",
+            "Wettbewerbszentrale"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "42356-Verkurzte-Bilanz-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/4d/b4/3935/42356-Verkurzte-Bilanz-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000494",
       "registerEntryDetail": {
@@ -30435,288 +31007,6 @@
       }
     },
     {
-      "registerNumber": "R000354",
-      "registerEntryDetail": {
-        "id": 955,
-        "clientIdentity": "ORGANIZATION",
-        "employeeCount": {
-          "from": 21,
-          "to": 30
-        },
-        "refuseFinancialExpensesInformation": false,
-        "financialExpensesEuro": {
-          "from": 0,
-          "to": 0,
-          "fiscalYearStart": "01/21",
-          "fiscalYearEnd": "12/21"
-        },
-        "refusePublicAllowanceInformation": false,
-        "refuseDonationInformation": false,
-        "donationInformationRequired": false,
-        "account": {
-          "registerNumber": "R000354",
-          "firstPublicationDate": "2022-02-08T16:50:43.000Z"
-        },
-        "activityDescription": "Im Rahmen ihrer Zwecke der Bildung und Erziehung von Kindern und Jugendlichen fördert die Stiftung das Verständnis von Eltern und Erziehern für die Bedeutung des Kinder- und Jugendbuchs und stellt für Personen und Institutionen, die an der Verbreitung und Vermittlung von Kinder- und Jugendliteratur (KJL) beteiligt sind, Informationen bereit. Sie trägt zur Fortbildung von Fachkräften bei und berät Autoren, Illustratorinnen, Verlegern, Übersetzerinnen, Publizisten und Wissenschaftlerinnen. Sie arbeitet mit entsprechenden Einrichtungen im In- und Ausland zusammen.\r\nDie Stiftung verwirklicht diesen Zweck insbesondere mit dem Betrieb der Internationalen Jugendbibliothek in München als zentrale Spezialbibliothek der internationalen KJL und als internationales Zentrum der KJL.\r\nAufgabe der Stiftung Internationale Jugendbibliothek ist es insbesondere, durch Sammlung, Erschließung und Vermittlung in- und ausländischer KJL zu deren Verbreitung und Verwendung als Mittel der kulturellen Jugendbildung und interkulturellen Verständigung beizutragen.\r\nIm Rahmen ihrer wissenschaftlichen Zwecke fördert die Stiftung Internationale Jugendbibliothek die Forschung auf dem Gebiet der internationalen KJL.\r\nDie Stiftung erfüllt ihre Zwecke auch durch die Einwerbung von Geld- und Sachleistungen zugunsten ihrer Zwecke.",
-        "activityOperationType": "SELF_OPERATED",
-        "activity": {
-          "code": "ACT_PRIVATE_ORGA",
-          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
-          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
-        },
-        "codexViolation": false,
-        "lobbyistIdentity": {
-          "identity": "ORGANIZATION",
-          "name": "Stiftung Internationale Jugendbibliothek",
-          "phoneNumber": "+49898912110",
-          "address": {
-            "type": "NATIONAL",
-            "nationalAdditional1": "Schloss Blutenburg",
-            "street": "Seldweg",
-            "streetNumber": "15",
-            "zipCode": "81247",
-            "city": "München",
-            "country": {
-              "code": "DE"
-            }
-          },
-          "legalForm": {
-            "code": "LF_RSBR",
-            "code_de": "Rechtsfähige Stiftung bürgerlichen Rechts",
-            "code_en": "Legal foundation under civil law",
-            "type": "JURISTIC_PERSON"
-          },
-          "organizationEmails": [
-            "direktion@ijb.de"
-          ],
-          "websites": [
-            "https://www.ijb.de/home"
-          ],
-          "legalRepresentatives": [
-            {
-              "academicDegreeBefore": "Dr.",
-              "commonFirstName": "Christiane",
-              "lastName": "Raabe",
-              "function": "Geschäftsführendes Vorstandsmitglied",
-              "phoneNumber": "+498989121142",
-              "organizationMemberEmails": [
-                "direktion@ijb.de"
-              ]
-            },
-            {
-              "commonFirstName": "Clara",
-              "lastName": "Fernández López",
-              "function": "Vorstandsvorsitzende",
-              "phoneNumber": "+498987130007",
-              "organizationMemberEmails": [
-                "clara@publishing-consulting.com"
-              ]
-            }
-          ],
-          "namedEmployees": [],
-          "membershipEntries": [
-            "Deutscher Bibliotheksverband",
-            "Bundesverband Deutscher Stiftungen",
-            "AK Jugendliteratur",
-            "Verein Deutscher Bibliothekare",
-            "LV Kulturelle Bildung"
-          ]
-        },
-        "legislativeProjects": [],
-        "donators": [
-          {
-            "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
-            "description": "Institutionelle Förderung der Kinder- und Jugendhilfe durch den Kinder- und Jugendplan des Bundes.",
-            "location": "Glinkastraße 24, 10117 Berlin",
-            "fiscalYearStart": "01/21",
-            "fiscalYearEnd": "12/21",
-            "donationEuro": {
-              "from": 1020001,
-              "to": 1030000
-            },
-            "categoryType": "PUBLIC_ALLOWANCES"
-          },
-          {
-            "name": "Bayerisches Staatsministerium für Wissenschaft und Kunst",
-            "description": "Institutionelle Zuwendung zur teilweisen Deckung der Kosten des laufenden Betriebes der Stiftung Internationale Jugendbibliothek.",
-            "location": "80327 München",
-            "fiscalYearStart": "01/21",
-            "fiscalYearEnd": "12/21",
-            "donationEuro": {
-              "from": 540001,
-              "to": 550000
-            },
-            "categoryType": "PUBLIC_ALLOWANCES"
-          },
-          {
-            "name": "Landeshauptstadt München, Kulturreferat",
-            "description": "Institutionelle Zuwendung für den Betrieb der Stiftung sowie zur Erfüllung der satzungsmäßigen Aufgaben (kulturelle Jugendarbeit und interkulturelle Verständigung durch Sammlung und Forschung auf dem Gebiet der internationalen Jugendliteratur).",
-            "location": "Burgstr. 4, 80331 München",
-            "fiscalYearStart": "01/21",
-            "fiscalYearEnd": "12/21",
-            "donationEuro": {
-              "from": 490001,
-              "to": 500000
-            },
-            "categoryType": "PUBLIC_ALLOWANCES"
-          }
-        ],
-        "fieldsOfInterest": [
-          {
-            "code": "FOI_CULTURE",
-            "de": "Kultur",
-            "en": "Culture"
-          },
-          {
-            "code": "FOI_EDUCATION_PARENTING",
-            "de": "Bildung und Erziehung",
-            "en": "Education and parenting"
-          },
-          {
-            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
-            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
-            "en": "Other in the field of “Education and parenting”"
-          },
-          {
-            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
-            "de": "Wissenschaft, Forschung und Technologie",
-            "en": "Science, research and technology"
-          }
-        ],
-        "clientOrganizations": [
-          {
-            "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
-            "phoneNumber": "+4918885552021",
-            "address": {
-              "type": "NATIONAL",
-              "street": "Referat",
-              "streetNumber": "502",
-              "zipCode": "53107",
-              "city": "Bonn",
-              "country": {
-                "code": "DE"
-              }
-            },
-            "legalForm": {
-              "code": "LF_OTHER_JP_INTERNATIONAL",
-              "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
-              "code_en": "Other juristic person",
-              "type": "JURISTIC_PERSON",
-              "legalFormText": "Bundesministerium"
-            },
-            "organizationEmails": [
-              "uta-christina.biskup@bmfsfj.bund.de"
-            ],
-            "websites": [
-              "https://www.bmfsfj.de/bmfsfj"
-            ],
-            "legalRepresentatives": [
-              {
-                "academicDegreeBefore": "Oberamtsrätin",
-                "commonFirstName": "Uta-Christina",
-                "lastName": "Biskup",
-                "function": "Referat 502, Außerschulische Kinder- und Jugendbildung",
-                "phoneNumber": "+4918885552021",
-                "organizationMemberEmails": [
-                  "uta-christina.biskup@bmfsfj.bund.de"
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Bayerisches Staatsministerium für Wissenschaft und Kunst",
-            "phoneNumber": "+498921862465",
-            "address": {
-              "type": "NATIONAL",
-              "street": "Salvatorstraße",
-              "streetNumber": "2",
-              "zipCode": "80327",
-              "city": "München",
-              "country": {
-                "code": "DE"
-              }
-            },
-            "legalForm": {
-              "code": "LF_OTHER_JP_INTERNATIONAL",
-              "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
-              "code_en": "Other juristic person",
-              "type": "JURISTIC_PERSON",
-              "legalFormText": "Staatsministerium"
-            },
-            "organizationEmails": [
-              "Elisabeth.Donoughue@stmwk.bayern.de"
-            ],
-            "websites": [
-              "https://www.stmwk.bayern.de/index.html"
-            ],
-            "legalRepresentatives": [
-              {
-                "academicDegreeBefore": "Dr.",
-                "commonFirstName": "Elisabeth",
-                "lastName": "Donoughue",
-                "function": "Regierungsdirektorin",
-                "phoneNumber": "+498921862465",
-                "organizationMemberEmails": [
-                  "Elisabeth.Donoughue@stmwk.bayern.de"
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Landeshauptstadt München, Kulturreferat",
-            "phoneNumber": "+498923325908",
-            "address": {
-              "type": "NATIONAL",
-              "street": "Burgstraße",
-              "streetNumber": "4",
-              "zipCode": "80331",
-              "city": "München",
-              "country": {
-                "code": "DE"
-              }
-            },
-            "legalForm": {
-              "code": "LF_OTHER_JP_INTERNATIONAL",
-              "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
-              "code_en": "Other juristic person",
-              "type": "JURISTIC_PERSON",
-              "legalFormText": "Rathaus München, Kulturreferat"
-            },
-            "organizationEmails": [
-              "Anton.Biebl@muenchen.de"
-            ],
-            "websites": [
-              "https://www.muenchen.de/"
-            ],
-            "legalRepresentatives": [
-              {
-                "commonFirstName": "Anton",
-                "lastName": "Biebl",
-                "function": "Kulturreferent",
-                "phoneNumber": "+498923325908",
-                "organizationMemberEmails": [
-                  "Anton.Biebl@muenchen.de"
-                ]
-              }
-            ]
-          }
-        ],
-        "clientPersons": [],
-        "registerEntryMedia": [
-          {
-            "type": "ANNUAL_REPORT",
-            "media": {
-              "fileName": "Jahresbericht2020-klein.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/71/10/2760/Jahresbericht2020-klein.pdf",
-              "mimeType": "application/pdf"
-            }
-          }
-        ],
-        "disclosureRequirementsExist": true,
-        "annualReportExist": true
-      }
-    },
-    {
       "registerNumber": "R000353",
       "registerEntryDetail": {
         "id": 2434,
@@ -46058,7 +46348,7 @@
     {
       "registerNumber": "R000276",
       "registerEntryDetail": {
-        "id": 602,
+        "id": 2781,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -46074,7 +46364,6 @@
         "refusePublicAllowanceInformation": false,
         "refuseDonationInformation": true,
         "refuseDonationInformationReason": "Wir verweigern die Angaben nach § 3, Abs. 1, Nr. 7 LobbyRG gemäß § 3 Abs. 2 LobbyRG mit folgender Begründung:\r\naction medeor ist ein gemeinnütziger eingetragener Verein. Satzungsgemäß fördern wir die Entwicklungszusammenarbeit auf allen Gebieten der Gesundheitsfürsorge und mildtätige Zwecke. Als Teil von Aktion Deutschland Hilft, dem Bündnis renommierter deutscher Hilfsorganisationen, leisten wir auch im Katastrophenfall schnelle und effektive Hilfe.\r\nAls Mitglied des Deutschen Spendenrates sind wir zu Transparenz und Offenheit und zur Einhaltung hoher Qualitätsstandards verpflichtet. Dies gilt insbesondere für unsere Spendenwerbung und Mittelverwendung.\r\nUnsere Spender:innen vertrauen darauf, dass ihre Daten in sicheren Händen sind und diese nicht an Dritte weitergegeben werden. Dieses Vertrauen ist für uns ein hohes Gut. Zudem bestehen datenschutzrechtliche Bedenken. Wir können aus diesen  Gründen die Daten von Spender:innen nicht weitergeben und veröffentlichen. \r\nDurch den regelmäßigen und intensiven Austausch mit unseren Spender:innen wissen wir außerdem, dass die große Mehrheit einer Meldung ihrer Namen und Wohnorte nicht zustimmen würde und deshalb zukünftig auf eine Spende verzichten würde. Dies würde zu signifikanten Finanzierungslücken führen, die die verfassungsmäßig gewährleistete und gesellschaftlich angestrebte Tätigkeit der Zivilgesellschaft stark einschränken würde.\r\n",
-        "locationOfReportPublication": "Link zu den jeweils aktuellsten Rechenschaftsberichten:\r\nhttps://medeor.de/de/ueber-uns/transparenz-und-kontrolle/publikationen-und-jahresberichte.html\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
         "account": {
           "registerNumber": "R000276",
           "firstPublicationDate": "2022-02-03T11:07:07.000Z"
@@ -46225,8 +46514,18 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
-        "disclosureRequirementsExist": true,
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "20-30290-Endgultig-Unterschrieben-KURZ-Deutsches-Medikamenten-Hilfswerk-action-medeor-e-V-Li.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/37/1f/3934/20-30290-Endgultig-Unterschrieben-KURZ-Deutsches-Medikamenten-Hilfswerk-action-medeor-e-V-Li.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
         "annualReportExist": true
       }
     },
