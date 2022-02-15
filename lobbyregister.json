@@ -104846,7 +104846,7 @@
     {
       "registerNumber": "R000003",
       "registerEntryDetail": {
-        "id": 1287,
+        "id": 3068,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -104866,7 +104866,7 @@
           "registerNumber": "R000003",
           "firstPublicationDate": "2022-01-05T16:27:39.000Z"
         },
-        "activityDescription": "Als Geschäftsführer der Organisation \"Partner für Wasser e.V. - Interessengemeinschaft für den Erhalt und die Verbesserung der Trinkwasserqualität\" nehme ich die Interessen des Verbandes wahr. Es geht darum, politische Entscheider im Deutschen Bundestag für das Thema zu sensibilisieren. Trinkwasserhygiene im Healthcare-Sektor umfasst alle Einrichtungen der öffentlichen Daseinsvorsorge: Krankenhäuser, Pflegeeinrichtungen, Schulen, Sportstätten etc.",
+        "activityDescription": "Die Partner für Wasser (PfW) setzen sich für mehr Hygiene und Sicherheit im Umgang mit Trinkwasser in den sensiblen Einrichtungen der Daseinsvorsorge ein und engagieren sich primär im Healthcare-Bereich.\r\n\r\nGerade in Krankenhäusern, Pflegeheimen, Kindergärten und andere Fürsorgeeinrichtungen, wo ein hohes Maß an Hygiene und Sicherheit gewährleistet sein muss, kommt es auf beste Produkte und Werkstoffe an. Besonders im Umgang mit kranken oder alten Menschen, deren Immunsysteme geschwächt sind, müssen bestehende Normen eingehalten sowie höchste Qualitäts- und Sicherheitsansprüche erfüllt werden.\r\n\r\nDarum ist die primäre Zielsetzung der Partner für Wasser e.V., die Anwender in Healthcare-Einrichtungen dafür zu sensibilisieren, was notwendig ist, um eine optimale Trinkwasserqualität zu gewährleisten und gegebenenfalls nachhaltig zu verbessern. Das steht in enger Verbindung mit einer fachgerechten Verarbeitung, die eine einwandfreie Funktion und die Sicherheit der Anlagen gewährleistet. In Krankenhäusern und Pflegeeinrichtungen herrscht oberstes Reinheitsgebot. Das gilt vor allem für das Wasser, das täglich durch die Leitungen und aus den Armaturen fließt.\r\n\r\nBesonders gefährdet sind alte Menschen oder Menschen mit schweren Grunderkrankungen, mit Malignomen, Patienten mit Immundefekt oder unter Immunsuppression, Personen mit offenen Wunden, mit Stoffwechsel- oder Herz-Kreislauf-Erkrankungen, chronisch Lungenkranke sowie Patienten unter einer Kortikosteroidtherapie.\r\n\r\nWasser wird beispielsweise im Krankenhaus zu vielen verschiedenen Zwecken und in ganz unterschiedlichen Zubereitungen verwendet: Leitungswasser dient zum Trinken und in der Pflege, es gibt Hämodialysewasser und Hämodialysierflüssigkeit, Wasser für pharmazeutische Zwecke, Lösungen zur Reinigung und Desinfektion, zur Aufbereitung medizinischer Geräte, Wasser in Therapie- und Gebärbädern sowie Eis. Und Wasser gilt als die am meisten übersehene wichtige, allerdings auch kontrollierbare Quelle nosokomialer Erkrankungen.\r\n\r\nWir wollen die Daseinsvorsorgeeinrichtungen mit Blick auf die erforderlichen Maßnahmen für die dauerhafte Sicherung einer möglichst optimalen Trinkwasserqualität beraten und gemeinsam Lösungsvorschläge erarbeiten, wie Gefährdungspotenziale z.B. durch Verunreinigungen oder einer nicht optimalen Wasserzirkulation minimiert werden können.",
         "activityOperationType": "SELF_OPERATED",
         "activity": {
           "code": "ACT_PRIVATE_ORGA",
@@ -104945,7 +104945,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "Gewinnermittlung-PfW-2020-LRBundestag.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/76/c0/1574/Gewinnermittlung-PfW-2020-LRBundestag.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/a9/ba/4229/Gewinnermittlung-PfW-2020-LRBundestag.pdf",
               "mimeType": "application/pdf"
             }
           }
