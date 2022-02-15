@@ -9,8 +9,370 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 486,
+  "resultCount": 488,
   "results": [
+    {
+      "registerNumber": "R000492",
+      "registerEntryDetail": {
+        "id": 1857,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 50001,
+          "to": 60000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000492",
+          "firstPublicationDate": "2022-02-15T09:13:36.000Z"
+        },
+        "activityDescription": "Die GeoUnion Alfred-Wegener-Stiftung ist eine gemeinnützige Stiftung des bürgerlichen Rechts; sie bildet zugleich den Zusammenschluss aller geowissenschaftlichen Vereinigungen und Großforschungseinrichtungen in Deutschland. Die GeoUnion fördert Wissenschaft, Forschung und Lehre auf dem Gebiet der Geowissenschaften. Insbesondere bemüht sie sich darum, das von den Geowissenschaften erarbeitete Wissen zur Erdsystemforschung in die Öffentlichkeit zu vermitteln. \r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "GeoUnion Alfred-Wegener-Stiftung ",
+          "phoneNumber": "+493319775789",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Institut f. Geowiss.",
+            "street": "Karl-Liebknecht-Str.",
+            "streetNumber": "24-25",
+            "zipCode": "14476",
+            "city": "Potsdam",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_RSBR",
+            "code_de": "Rechtsfähige Stiftung bürgerlichen Rechts",
+            "code_en": "Legal foundation under civil law",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "Christof.Ellger@geo-union.de"
+          ],
+          "websites": [
+            "www.geo-union.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Prof.",
+              "commonFirstName": "Manfred ",
+              "lastName": "Strecker",
+              "academicDegreeAfter": "PhD",
+              "function": "Präsident",
+              "phoneNumber": "+493319775811",
+              "organizationMemberEmails": [
+                "Manfred.Strecker@geo.uni-potsdam.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christof",
+              "lastName": "Ellger"
+            }
+          ],
+          "members": 35,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Deutscher Stiftungen"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NUCLEAR",
+            "de": "Atomenergie",
+            "en": "Nuclear power"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "GeoUnionEUR-Bericht-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/be/b2/3905/GeoUnionEUR-Bericht-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000491",
+      "registerEntryDetail": {
+        "id": 511,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 70001,
+          "to": 80000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "locationOfReportPublication": "https://www.bundesanzeiger.de",
+        "account": {
+          "registerNumber": "R000491",
+          "firstPublicationDate": "2022-02-15T09:12:23.000Z"
+        },
+        "activityDescription": "Dachverband und Zentralgenossenschaft der ostdeutschen Konsumgenossenschaften und Genossenschaften anderer Branchen sowie Unternehmen anderer Rechtsformen, die im Sinne des Genossenschaftsgedanken handeln.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Zentralkonsum eG",
+          "phoneNumber": "+4930275840",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Neue Grünstraße",
+            "streetNumber": "18",
+            "zipCode": "10179",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EG",
+            "code_de": "Eingetragene Genossenschaft (eG)",
+            "code_en": "Registered cooperative (eG)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@zentralkonsum.de"
+          ],
+          "websites": [
+            "www.zentralkonsum.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Bergner",
+              "function": "Vorstandssprecher",
+              "phoneNumber": "+4927584139",
+              "organizationMemberEmails": [
+                "bergner@zentralkonsum.de"
+              ]
+            },
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Bosse",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+493027584133",
+              "organizationMemberEmails": [
+                "bosse@zentralkonsum.de"
+              ]
+            },
+            {
+              "commonFirstName": "Sigrid",
+              "lastName": "Hebestreit",
+              "function": "Vorsitzende des Aufsichtsrates",
+              "phoneNumber": "+493643869610",
+              "organizationMemberEmails": [
+                "hebestreit@zentralkonsum.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Carola",
+              "lastName": "Pauly"
+            }
+          ],
+          "members": 30,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Zentralverband deutscher Konsumgenossenschaften e.V.",
+            "Genossenschaftsverband - Verband der Regionen e.V.",
+            "Bundesverband für freie Kammern e.V.",
+            "Bundesverein zur Förderung des Genossenschaftsgedankens e.V.",
+            "Deutsche Hermann-Schulze-Delitzsch-Gesellschaft e.V.",
+            "Europäische Bewegung Thüringen e.V. ",
+            "Progress Genossenschaftsverband e.V. ",
+            "Gesellschaft zur Förderung des Instituts für Genossenschaftswesen an der Humboldt-Universität zu Berlin e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_TOURISM",
+            "de": "Tourismus",
+            "en": "Tourism"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000490",
       "registerEntryDetail": {
