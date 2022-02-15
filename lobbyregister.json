@@ -9,8 +9,162 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 502,
+  "resultCount": 503,
   "results": [
+    {
+      "registerNumber": "R000508",
+      "registerEntryDetail": {
+        "id": 617,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 41,
+          "to": 50
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000508",
+          "firstPublicationDate": "2022-02-15T12:44:48.000Z"
+        },
+        "activityDescription": "Der Zweck des Verbandes ist, alle Medizinischen, Tiermedizinischen und Zahnmedizinischen Fachangestellten bzw. Arzt-, Tierarzt- und Zahnarzthelfer*innen sowie angestellten Zahntechniker*innen zusammenzuschließen, um ihre Berufs- und Standesinteressen auf gewerkschaftlicher Ebene wahrzunehmen und ihre berufliche Fortbildung zu fördern.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Verband medizinischer Fachberufe e.V.",
+          "phoneNumber": "+49234777280",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Gesundheitscampus-Süd",
+            "streetNumber": "33",
+            "zipCode": "44801",
+            "city": "Bochum",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@vmf-online.de"
+          ],
+          "websites": [
+            "www.vmf-online.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Ingrid",
+              "lastName": "Gerlach",
+              "function": "1. Vorsitzende",
+              "phoneNumber": "+495622919971",
+              "organizationMemberEmails": [
+                "igerlach@vmf-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stephanie",
+              "lastName": "Schreiber",
+              "function": "2. Vorsitzende",
+              "phoneNumber": "+4956529191555",
+              "organizationMemberEmails": [
+                "sschreiber@vmf-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Dagmar",
+              "lastName": "Bergschneider",
+              "function": "Geschäftsstellenleiterin",
+              "phoneNumber": "+49234777280",
+              "organizationMemberEmails": [
+                "dbergschneider@vmf-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hannelore",
+              "lastName": "König",
+              "function": "Präsidentin",
+              "phoneNumber": "+4941446981438",
+              "organizationMemberEmails": [
+                "hkoenig@vmf-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Karin",
+              "lastName": "Becker-Oevermann",
+              "function": "Vizepräsidentin",
+              "phoneNumber": "+492315890137",
+              "organizationMemberEmails": [
+                "kbecker-oevermann@vmf-online.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 20000,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "BMBF",
+            "description": "Zuschüsse zu Schulungsseminaren für Prüfungs- und Berufsbildungsausschussmitglieder der vertretenen Berufe i. d. R. aus dem ESF",
+            "location": "Berlin",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 90001,
+              "to": 100000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Es handelt sich um interne Daten, die nur den Mitgliedern öffentlich zu machen sind. "
+      }
+    },
     {
       "registerNumber": "R000507",
       "registerEntryDetail": {
