@@ -9,8 +9,206 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 520,
+  "resultCount": 521,
   "results": [
+    {
+      "registerNumber": "R000526",
+      "registerEntryDetail": {
+        "id": 179,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 300001,
+          "to": 310000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000526",
+          "firstPublicationDate": "2022-02-15T17:11:13.000Z"
+        },
+        "activityDescription": "Der Industrieverband Klebstoffe e.V. ist ein Wirtschaftsverband und vertritt die deutsche Klebstoffindustrie in Hinblick auf technische, ökonomische, ökologische und soziale Interessen im Sinne eines nachhaltigen Handelns.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Industrieverband Klebstoffe e.V.",
+          "phoneNumber": "+492116793110",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Völklinger Straße",
+            "streetNumber": "4",
+            "zipCode": "40219",
+            "city": "Düsseldorf",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "vera.haye@klebstoffe.com"
+          ],
+          "websites": [
+            "www.klebstoffe.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Vera",
+              "lastName": "Haye",
+              "function": "Hauptgeschäftsführerin",
+              "phoneNumber": "+492116793110",
+              "organizationMemberEmails": [
+                "vera.haye@klebstoffe.com"
+              ]
+            },
+            {
+              "commonFirstName": "Klaus",
+              "lastName": "Winkels",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+492116793120",
+              "organizationMemberEmails": [
+                "klaus.winkels@klebstoffe.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Axel",
+              "lastName": "Heßland",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+492116793121",
+              "organizationMemberEmails": [
+                "axel.hessland@klebstoffe.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Boris",
+              "lastName": "Tasche",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+492117979097",
+              "organizationMemberEmails": [
+                "boris.tasche@henkel.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "René",
+              "lastName": "Rambusch",
+              "function": "Stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+492022554840",
+              "organizationMemberEmails": [
+                "rene.rambusch@certoplast.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 150,
+          "membersCountDate": "2021-01-04T00:00:00.000Z",
+          "membershipEntries": [
+            "Verband der Chemischen Industrie e.V.",
+            "Lebensmittelverband Deutschland e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000525",
       "registerEntryDetail": {
