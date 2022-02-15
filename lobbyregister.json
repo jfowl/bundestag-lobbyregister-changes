@@ -9,8 +9,148 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 484,
+  "resultCount": 485,
   "results": [
+    {
+      "registerNumber": "R000489",
+      "registerEntryDetail": {
+        "id": 1814,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": true,
+        "refuseDonationInformationReason": "",
+        "account": {
+          "registerNumber": "R000489",
+          "firstPublicationDate": "2022-02-15T08:32:31.000Z"
+        },
+        "activityDescription": "Als Digitalagentur beraten, planen, konzipieren und setzen wir digitale Produkte, Werbekampagnen für den Verband der Bau- und Rohstoffindustrie e. V. um.",
+        "activityOperationType": "MANDATE_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Baseplus DIGITAL MEDIA GmbH",
+          "phoneNumber": "+49216289750221",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Baseplus DIGITAL MEDIA GmbH",
+            "street": "Hardter Straße",
+            "streetNumber": "31",
+            "zipCode": "41747",
+            "city": "Viersen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "marvin.schlusen@baseplus.de"
+          ],
+          "websites": [
+            "https://www.baseplus.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Marvin",
+              "lastName": "Schlusen",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+49216289750221",
+              "organizationMemberEmails": [
+                "marvin.schlusen@baseplus.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Marisa",
+              "lastName": "Rosin"
+            }
+          ],
+          "membershipEntries": [
+            "Bundesverband digitale Wirtschaft BVDW"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_ADVERTISEMENT",
+            "de": "Werbung",
+            "en": "Advertising"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Verband der Bau- und Rohstoffindustrie e. V.",
+            "phoneNumber": "+492039923923",
+            "address": {
+              "type": "NATIONAL",
+              "street": "Düsseldorfer Straße",
+              "streetNumber": "50",
+              "zipCode": "47051",
+              "city": "Duisburg",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "kim.walter@baustoffverbaende.de"
+            ],
+            "websites": [
+              "http://www.vero-baustoffe.de "
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Raimo",
+                "lastName": "Benger",
+                "function": "Geschäftsführer",
+                "phoneNumber": "+49203992390",
+                "organizationMemberEmails": [
+                  "info@vero-baustoffe.de"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": ""
+      }
+    },
     {
       "registerNumber": "R000488",
       "registerEntryDetail": {
