@@ -9,8 +9,225 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 491,
+  "resultCount": 492,
   "results": [
+    {
+      "registerNumber": "R000497",
+      "registerEntryDetail": {
+        "id": 346,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 480001,
+          "to": 490000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000497",
+          "firstPublicationDate": "2022-02-15T10:26:03.000Z"
+        },
+        "activityDescription": "Der Deutsche Braunkohlen-Industrie-Verein e.V. (DEBRIV) wurde 1885 in Halle/Saale gegründet und ist ein Branchenfachverband, in dem alle Unternehmen Mitglied sind, die Braunkohle gewinnen, verarbeiten oder sich mit der Braunkohlensanierung befassen. Darüber hinaus gibt es viele Mitglieder, die als Zulieferer oder Unternehmerfirmen in der Braunkohlenindustrie tätig sind. Der DEBRIV arbeitet konsequent daran, die technische, wissenschaftliche, wirtschaftliche und politische Entwicklung der Braunkohlenindustrie voranzubringen und hat die Aufgabe, Belange der Braunkohlenindustrie zu artikulieren. Die Arbeit umfasst Themenbereiche wie Wirtschafts- und Energiepolitik, Berg- und Rohstoffwirtschaft, Umwelt- und Klimapolitik und die entsprechende Rechtsetzung durch die EU, den Bund und die Länder. Große Bedeutung hat für den DEBRIV auch die Fortentwicklung des sogenannten sekundären Rechts, wo über technische Regeln, Richtlinien und Normen die Anforderungen an den Arbeits- und Umweltschutz konkretisiert werden. Der DEBRIV ist zudem Träger von Gemeinschaftseinrichtungen wie der Rheinischen Braunkohlenbergschule, an der in den Fachrichtungen Bergbau-, Elektro- und Maschinentechnik Aufsichtspersonen für Tagebaubetriebe, insbesondere für den Braunkohlenbergbau und die dazugehörigen Veredelungsbetriebe und Werkstätten mit dem Abschluss Staatlich geprüfter Techniker ausgebildet werden. Die so genannten Oberklassen führen zum Abschluss Ingenieur. Der DEBRIV ist zudem ein Arbeitgeberverband, der für Mitgliedsunternehmen Tarifverträge abschließt.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Braunkohlen-Industrie-Verein e.V.",
+          "phoneNumber": "+492271995770",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Auenheimer Straße",
+            "streetNumber": "27",
+            "zipCode": "50129",
+            "city": "Bergheim",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "debriv@braunkohle.de"
+          ],
+          "websites": [
+            "www.braunkohle.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Helmar",
+              "lastName": "Rendez",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+492271995770",
+              "organizationMemberEmails": [
+                "debriv@braunkohle.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Lars",
+              "lastName": "Kulik",
+              "function": "Stellvertretender Vorstandsvorsitzender",
+              "phoneNumber": "+492271995770",
+              "organizationMemberEmails": [
+                "debriv@braunkohle.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Frank",
+              "lastName": "Weigand",
+              "function": "Schatzmeister",
+              "phoneNumber": "+492271995770",
+              "organizationMemberEmails": [
+                "debriv@braunkohle.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thorsten",
+              "lastName": "Diercks"
+            },
+            {
+              "commonFirstName": "Kay",
+              "lastName": "Stelter"
+            },
+            {
+              "academicDegreeBefore": "Dipl. Ing.",
+              "commonFirstName": "Birgit",
+              "lastName": "Schroeckh"
+            }
+          ],
+          "members": 41,
+          "membersCountDate": "2022-02-09T00:00:00.000Z",
+          "membershipEntries": [
+            "Vereinigung Rohstoffe und Bergbau",
+            "Gesellschaft zum Studium strukturpolitischer Fragen",
+            "Forum für Zukunftsenergien",
+            "Weltenergierat - Deutschland",
+            "Wirtschaftsrat der CDU",
+            "Vereinigung der Unternehmensverbände Berlin und Brandenburg",
+            "Vereinigung der Sächsischen Wirtschaft",
+            "Unternehmer NRW",
+            "EURACOAL",
+            "Arbeitsgemeinschaft Energiebilanzen",
+            "Gesellschaft für Umweltrecht",
+            "Deutsche Wissenschaftliche Gesellschaft für Erdöl, Erdgas und Kohle",
+            "Gesellschaft zur Förderung des Energiewirtschaftlichen Instituts an der Uni Köln"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bezirksregierung Arnsberg",
+            "description": "Erstattung von Personalausgaben der Rheinischen Braunkohlenbergschule für das Rechnungsjahr 2021.",
+            "location": "Laurentiusstraße 1, 59821 Arnsberg",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 60001,
+              "to": 70000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-DEBRIV.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/1c/2b/3952/Jahresabschluss-DEBRIV.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000496",
       "registerEntryDetail": {
