@@ -43779,17 +43779,22 @@
     {
       "registerNumber": "R000327",
       "registerEntryDetail": {
-        "id": 1329,
+        "id": 3121,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
           "to": 10
         },
         "refuseFinancialExpensesInformation": false,
-        "refusePublicAllowanceInformation": true,
-        "refusePublicAllowanceInformationReason": "Keine Zuwendungen oder Zuschüsse erhalten",
-        "refuseDonationInformation": true,
-        "refuseDonationInformationReason": "Keine Schenkungen oder sonstige Zuwendungen erhalten",
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000327",
           "firstPublicationDate": "2022-02-07T16:05:41.000Z"
