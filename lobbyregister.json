@@ -14,7 +14,7 @@
     {
       "registerNumber": "R000515",
       "registerEntryDetail": {
-        "id": 84,
+        "id": 3047,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -439,7 +439,7 @@
             "type": "CODE_OF_CONDUCT",
             "media": {
               "fileName": "201207sbCodeOfConduct-neu.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/d4/1f/4168/201207sbCodeOfConduct-neu.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/fb/08/4173/201207sbCodeOfConduct-neu.pdf",
               "mimeType": "application/pdf"
             }
           },
@@ -447,12 +447,13 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "210930sbStiftungBildungJahresbericht2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/18/09/4169/210930sbStiftungBildungJahresbericht2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/83/39/4174/210930sbStiftungBildungJahresbericht2020.pdf",
               "mimeType": "application/pdf"
             }
           }
         ],
-        "disclosureRequirementsExist": true,
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
         "annualReportExist": true
       }
     },
