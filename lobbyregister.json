@@ -9,23 +9,142 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 485,
+  "resultCount": 486,
   "results": [
+    {
+      "registerNumber": "R000490",
+      "registerEntryDetail": {
+        "id": 2078,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000490",
+          "firstPublicationDate": "2022-02-15T08:37:52.000Z"
+        },
+        "activityDescription": "Der Bundesverband für Kindertagespflege ist der Fachverband für die Kindertagespflege in der Bundesrepublik Deutschland. Er nimmt Stellung zu Gesetzesvorhaben, beantwortet Anfragen zu Themen der Kindertagespflege und setzt sich für die Weiterentwicklung der Rahmenbedingungen der Kindertagespflege ein. In diesem Zusammenhang hat der Bundesverband Kontakt zu Regierungsvertreter*innen und Bundestagsabgeordneten und deren Mitarbeiter*innen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband für Kindertagespflege",
+          "phoneNumber": "+493078097078",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Baumschulenstr. ",
+            "streetNumber": "74",
+            "zipCode": "12437",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "h.krause@bvktp.de",
+            "gerszonowicz@bvktp.de"
+          ],
+          "websites": [
+            "www.bvktp.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Heiko",
+              "lastName": "Krause",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+493078097078",
+              "organizationMemberEmails": [
+                "h.krause@bvktp.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 310,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Paritätischer Gesamtverband",
+            "Deutsche Liga für das Kind",
+            "Deutscher Verein für öffentliche und private Fürsorge",
+            "National Coalition"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "description": "Infrastrukturförderung nach dem Kinder- und Jugendplan für den Bundesverband für Kindertagespflege,\r\nProjektförderung nach dem Kinder- und Jugendplan für das Projekt Begleitung und Beratung zur Umsetzung des kompetenzorientierten Qualifizierungshandbuches Kindertagespflege und des Bundesprogramms ProKindertagespflege \r\nProjektförderung aus dem Bundesprogramm Demokratie leben mit dem Titel Demokratie und Partizipation in der Kindertagespflege",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 830001,
+              "to": 840000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Jahresabschluss für 2021 ist noch in Arbeit. "
+      }
+    },
     {
       "registerNumber": "R000489",
       "registerEntryDetail": {
-        "id": 1814,
+        "id": 2949,
         "clientIdentity": "ORGANIZATION",
         "employeeCount": {
           "from": 1,
           "to": 10
         },
-        "refuseFinancialExpensesInformation": true,
-        "refuseFinancialExpensesInformationReason": "",
-        "refusePublicAllowanceInformation": true,
-        "refusePublicAllowanceInformationReason": "",
-        "refuseDonationInformation": true,
-        "refuseDonationInformationReason": "",
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
         "account": {
           "registerNumber": "R000489",
           "firstPublicationDate": "2022-02-15T08:32:31.000Z"
@@ -41,7 +160,7 @@
         "lobbyistIdentity": {
           "identity": "ORGANIZATION",
           "name": "Baseplus DIGITAL MEDIA GmbH",
-          "phoneNumber": "+49216289750221",
+          "phoneNumber": "+4921628975020",
           "address": {
             "type": "NATIONAL",
             "nationalAdditional1": "Baseplus DIGITAL MEDIA GmbH",
@@ -60,7 +179,7 @@
             "type": "JURISTIC_PERSON"
           },
           "organizationEmails": [
-            "marvin.schlusen@baseplus.de"
+            "info@baseplus.de"
           ],
           "websites": [
             "https://www.baseplus.de"
@@ -80,6 +199,14 @@
             {
               "commonFirstName": "Marisa",
               "lastName": "Rosin"
+            },
+            {
+              "commonFirstName": "Laura",
+              "lastName": "Lübbers"
+            },
+            {
+              "commonFirstName": "Kim",
+              "lastName": "Holtschoppen"
             }
           ],
           "membershipEntries": [
@@ -98,11 +225,6 @@
             "code": "FOI_MEDIA|FOI_MEDIA_ADVERTISEMENT",
             "de": "Werbung",
             "en": "Advertising"
-          },
-          {
-            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
-            "de": "Digitalisierung",
-            "en": "Digitalization"
           }
         ],
         "clientOrganizations": [
