@@ -9,8 +9,185 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 521,
+  "resultCount": 522,
   "results": [
+    {
+      "registerNumber": "R000527",
+      "registerEntryDetail": {
+        "id": 3125,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "05/20",
+          "fiscalYearEnd": "04/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000527",
+          "firstPublicationDate": "2022-02-15T18:13:48.000Z"
+        },
+        "activityDescription": "Das Nepal-Dialogforum (NDF) ist ein Netzwerk von Organisationen aus den Bereichen der Entwicklungszusammenarbeit, der Menschenrechtsarbeit, der Friedensförderung und Bereichen der Armutsbekämpfung und Förderung von globaler Gerechtigkeit, die ihre eigene Arbeit in Nepal durch gemeinsame Lobby- und Advocacyaktivitäten auf deutscher, europäischer und internationaler Ebene ergänzen wollen. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Nepal-Dialogforum für Frieden und Menschenrechte (NDF)",
+          "phoneNumber": "+4915253361816",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Haus der Demokratie und MR",
+            "nationalAdditional2": "Aufgang A, Raum 1207",
+            "street": "Greifswalder Str. ",
+            "streetNumber": "4",
+            "zipCode": "10405",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "Netzwerk"
+          },
+          "organizationEmails": [
+            "koordination@nepal-dialogforum.de"
+          ],
+          "websites": [
+            "www.nepal-dialogforum.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Jörg",
+              "lastName": "Schwieger",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Erika",
+              "lastName": "Märke",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Anna",
+              "lastName": "Grimminger",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Dehn",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Uwe",
+              "lastName": "Hoering",
+              "function": "Mitglied im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            },
+            {
+              "commonFirstName": "Stefanie",
+              "lastName": "Elbern",
+              "function": "Stellvertretende Vorsitzende im Vorstand",
+              "phoneNumber": "+4922171612111",
+              "organizationMemberEmails": [
+                "asienhaus@asienhaus.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Birgit",
+              "lastName": "Felleisen",
+              "academicDegreeAfter": "M.A."
+            },
+            {
+              "commonFirstName": "Majid",
+              "lastName": "Lenz"
+            }
+          ],
+          "members": 10,
+          "membersCountDate": "2022-01-30T00:00:00.000Z",
+          "membershipEntries": [
+            "Gemeinsam mit anderen Netzwerken im Menschenrechtsbereich organisiert das NDF gelegentlich Veranstaltungen im Rahmen von \"Internationale Advocacynetzwerke\" (IAN). "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000526",
       "registerEntryDetail": {
