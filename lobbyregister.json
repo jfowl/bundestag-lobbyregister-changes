@@ -9,8 +9,595 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 508,
+  "resultCount": 510,
   "results": [
+    {
+      "registerNumber": "R000515",
+      "registerEntryDetail": {
+        "id": 84,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": true,
+        "account": {
+          "registerNumber": "R000515",
+          "firstPublicationDate": "2022-02-15T14:24:10.000Z"
+        },
+        "activityDescription": "Zweck der spendenfinanzierten Stiftung Bildung ist die Förderung der Erziehung und Bildung sowie des bürgerlichen Engagements zugunsten gemeinnütziger Zwecke durch die Verbesserung der Bedingungen für die pädagogische Begleitung und Bildung von Kindern und Jugendlichen. \r\n\r\nDie Arbeit der Stiftung Bildung zeichnet aus, dass wir als bottom-up-Bewegung des zivilgesellschaftlichen Bildungsengagements einen bundesweit übergreifenden Blick aus der Praxis mitbringen. Junge Menschen bringen ihre Perspektive bei uns unmittelbar ein.\r\n\r\nMittels unserer wirkungsvollen Arbeit unterstützen wir das bundesweite Netzwerk aus Kita- und Schulfördervereinen u.a. bei:\r\n- der Durchführung von Bildungsprojekten und deren Veröffentlichung.\r\n- der ideellen und finanziellen Unterstützung von Fördervereinen an Schulen, Kindergärten und Kitas bei der Erstellung von Projektanträgen und Beschaffung von Fördermitteln.\r\n- der Motivation und Einbindung ehrenamtlich Engagierter in die Arbeit der Verbände der gemeinnützigen Fördervereine von Schulen, Kindergärten und Kitas und ihrer Mitgliedsorganisationen, etwa durch Informationen (Veranstaltungen, Seminare).\r\n- der Gründung und Tätigkeit von gemeinnützigen Fördervereinen an Schulen, Kindergärten und Kindertageseinrichtungen (Kitas), etwa durch Presse- und Öffentlichkeitsarbeit.\r\n- beim Aufbau der Verbandsstrukturen der gemeinnützigen Fördervereine, etwa durch Wahrnehmung von Koordinationsaufgaben.\r\n- der Verbesserung der Rahmenbedingungen ihrer Arbeit durch Kommunikation mit politisch und gesellschaftlich relevanten Personen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Stiftung Bildung",
+          "phoneNumber": "+493080962701",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Palais am Festungsgraben",
+            "street": "Am Festungsgraben",
+            "streetNumber": "1",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_RSBR",
+            "code_de": "Rechtsfähige Stiftung bürgerlichen Rechts",
+            "code_en": "Legal foundation under civil law",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@stiftungbildung.org"
+          ],
+          "websites": [
+            "www.stiftungbildung.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "M.A. phil.",
+              "commonFirstName": "Katja",
+              "lastName": "Hintze",
+              "function": "Vorstandsvorsitzende",
+              "phoneNumber": "+493080962701",
+              "organizationMemberEmails": [
+                "katja.hintze@stiftungbildung.org"
+              ]
+            },
+            {
+              "commonFirstName": "Andreas",
+              "lastName": "Kessel",
+              "function": "Vorstand",
+              "phoneNumber": "+493080962701",
+              "organizationMemberEmails": [
+                "andreas.kessel@stiftungbildung.org"
+              ]
+            },
+            {
+              "commonFirstName": "Natalja",
+              "lastName": "Bednar",
+              "function": "Vorstand und Schatzmeisterin",
+              "phoneNumber": "+493080962701",
+              "organizationMemberEmails": [
+                "natalja.bednar@stiftungbildung.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Aaron",
+              "lastName": "Schmidt"
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Pennig"
+            },
+            {
+              "commonFirstName": "Carolin",
+              "lastName": "Peters"
+            }
+          ],
+          "membershipEntries": [
+            "Deutscher Fundraising Verband (DFRV)",
+            "Initiative „Mein Erbe tut Gutes. Das Prinzip Apfelbaum“",
+            "Bundesnetzwerk Bürgerschaftliches Engagement (BBE)",
+            "Bundesverband Deutscher Stiftungen (BVDS)",
+            "Paritätischer Wohlfahrtsverband, Landesverband Berlin",
+            "Allianz “Rechtssicherheit für politische Willensbildung” e.V.",
+            "National Coalition Deutschland, Netzwerk zur Umsetzung der UN-Kinderrechtskonvention e.V.",
+            "Fair Share of Women Leaders",
+            "Initiative Vertrauen Macht Wirkung",
+            "Bündnisinitiative Bildung für eine demokratische Gesellschaft",
+            "Netzwerk Stiftungen und Bildung",
+            "Deutsches Zentralinstitut für soziale Fragen (DZI)",
+            "F20 Foundations Platform",
+            "Memorandum über die Kooperationen von Stiftungen und BMFSFJ bei der Förderung von bürgerschaftlichem Engagement",
+            "Nationale Kooperationen zur Berufs- und Studienwahl frei von Geschlechterklischees",
+            "Grundsätze guter Stiftungspraxis",
+            "Initiative Transparente Zivilgesellschaft (ITZ)",
+            "Charta der Vielfalt"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "BMFSFJ / BAFZA",
+            "description": "Als Trägerin im Bundesprogramm Menschen stärken Menschen des Bundesministeriums für\r\nFamilie, Senioren, Frauen und Jugend (BMFSFJ) hat die Stiftung Bildung bundesweit über 10.000 Patenschaften zwischen Kindern und Jugendlichen mit und ohne benachteiligende Lebensumstände gestiftet und unterstützt.\r\nDas Programm wurde 2018 unter dem Motto Chancenpatenschaften für junge Menschen mit\r\nunterschiedlichen Teilhabechancen ausgeweitet und die Stiftung Bildung nimmt weiterhin er-\r\nfolgreich als Trägerin im Bundesprogramm teil. Allein 2021 konnten so knapp 3.000 Paten-\r\nschaften an bundesweit rund 200 Bildungsstandorten mit Kindern und Jugendlichen initiiert\r\nwerden. In einer Patenschaft verabreden sich zwei oder mehrere Kinder mit unterschiedlichen Teilha-\r\nbechancen um miteinander Zeit zu verbringen.",
+            "location": "Köln/Berlin,  Deutschland",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 2070001,
+              "to": 2080000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "BpB, Bonn",
+            "description": "In der Schnittmenge von Bildung für nachhaltige Entwicklung, politischer Bildung und Demokratiepädagogik transformative Bildung gestalten.",
+            "location": "Bonn, Deutschland",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Unternehmen, München",
+            "description": "Spende für Bildung für Kinder und Jugendliche",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 10001,
+              "to": 20000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Privatperson",
+            "description": "Spende für Bildung für Kinder und Jugendliche",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 30001,
+              "to": 40000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Privatperson",
+            "description": "Zustiftung / Spende für Bildung für Kinder und Jugendliche",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 10001,
+              "to": 20000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Wolfgang Dürr Stiftung, Stuttgart",
+            "description": "Zuwendung in den Förderfonds Handwerk. Dieser unterstützt Projekte, in denen junge Menschen Einblicke in Handwerksberufe erhalten. Ihren handwerklichen Ideen und Interessen können Kinder und Jugendliche an Kitas und Schulen mit Unterstützung des Förderfonds Handwerk nachgehen. ",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "erdbär GmbH, Berlin",
+            "description": "Zuwendung in den Förderfonds Ernährung.",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Joachim Herz Stiftung, Hamburg",
+            "description": "Zuwendung in den Förderfonds Entrepreneurship Education. Der Förderfonds unterstützt Projektvorhaben und hilft mit Fördermitteln, diejenigen Ideen aus Kitas, Kindergärten, Grundschulen und weiterführenden Schulen umzusetzen, in denen junge Menschen unternehmerisches Denken und Handeln ausprobieren und bei denen ethisches und nachhaltiges Wirtschaften praktisch erfahrbar wird. ",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Karl Schlecht Stiftung, Aichtal",
+            "description": "Zuwendung in den Förderfonds Entrepreneurship Education \r\nDer Förderfonds unterstützt Projektvorhaben und hilft mit Fördermitteln, diejenigen Ideen aus Kitas, Kindergärten, Grundschulen und weiterführenden Schulen umzusetzen, in denen junge Menschen unternehmerisches Denken und Handeln ausprobieren und bei denen ethisches und nachhaltiges Wirtschaften praktisch erfahrbar wird. Informieren Sie sich gerne hier über Projekte, die bereits gefördert wurden.",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Bernhard Waldinger Stiftung, Frankfurt/Oder",
+            "description": "Zuwendung in den Föderfonds Chancengerechtigkeit.\r\nMit dem Förderfonds Chancengerechtigkeit wollen wir uns gemeinsam mit ehrenamtlich Engagierten, Erzieher*innen, Lehrkräften, Kindern, Eltern, Jugendlichen und allen Aktiven auf den Weg machen, um das Potenzial von Kindergärten und Schulen auszuschöpfen, alle Kinder und Jugendlichen individuell auf ihrem Lebensweg bestmöglich zu begleiten und zu unterstützen.",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Prof. Otto Beisheim Stiftung, München",
+            "description": "Zuwendung in den Förderfonds Schule bewegt.\r\nDer Förderfonds unterstützt Projektvorhaben und hilft mit Fördermitteln, Ideen von Grundschulen und weiterführenden Schulen umzusetzen, in denen junge Menschen, Kinder und Jugendliche lernen, Ideen und Konzepte für bewegten Unterricht eigenständig und kreativ umzusetzen.",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 40001,
+              "to": 50000
+            },
+            "categoryType": "DONATIONS"
+          },
+          {
+            "name": "Erasmus +, Brüssel",
+            "description": "EYSAD - European Youth for Sustainability and Digitalization\r\nIn einem zweijährigen Prozess setzen sich hier Menschen im Alter zwischen 18-30 aus den Ländern Litauen, Ungarn, Nordmazedonien und Deutschland mit den Themen Nachhaltigkeit und Digitalisierung auseinander und vernetzen diese interaktiv.\r\nZiel ist es, eine 360° Foto-Tour zum Thema Nachhaltigkeit zu entwickeln. In einer digitalen Umgebung werden so mit Foto-, Video- und Audiomaterial Herausforderungen zu Umweltschutz und Klimawandel aufgezeigt.",
+            "location": "Brüssel, Belgien",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 20001,
+              "to": 30000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "BMBF / DLR",
+            "description": "Das Team für Jugendbeteiligung gehört zur Spendenorganisation Stiftung Bildung. Mit einer Förderung des Bundesministeriums für Bildung und Forschung haben wir im Sommer 2017 ein Jugendbeteiligungsprojekt gestartet. Und zwar, weil Menschen von über 350 Organisationen aus Zivilgesellschaft, Politik und Wirtschaft sowie viele Bürger*innen einen Aktionsplan erarbeitet haben, um Bildung in Deutschland zu Bildung für nachhaltige Entwicklung zu machen: den Nationalen Aktionsplan BNE.\r\n\r\nAn der Umsetzung dieses Plans wollen sich auch junge Menschen beteiligen! Dafür gibt es das youpaN und die youcoN! Das ist also auch dein Projekt, wenn du zwischen 16-27 Jahren alt bist und dich für eine zukunftsfähige Bildung einsetzen willst!\r\n",
+            "location": "Berlin, Deutschland",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 440001,
+              "to": 450000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          },
+          {
+            "name": "Dr. Anke und Uwe Schäkel Stiftung, Berlin",
+            "description": "Zuwendung in den Förderfonds Chancengerechtigkeit (20.000 EUR) und in den Förderfonds Demokratie (20.000 EUR)\r\nDarüber hinaus eine freie Zuwendung von 20.000 für beste Bildung für alle Kinder und Jugendlichen.",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 50001,
+              "to": 60000
+            },
+            "categoryType": "DONATIONS"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_VOTE",
+            "de": "Wahlrecht",
+            "en": "Suffrage"
+          },
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_CHILDHOOD",
+            "de": "Vorschulische Bildung",
+            "en": "Early childhood education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_INTEGRATION",
+            "de": "Integration",
+            "en": "Integration"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_CHILDREN",
+            "de": "Kinder- und Jugendpolitik",
+            "en": "Child and youth policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DISABILITY",
+            "de": "Rechte von Menschen mit Behinderung",
+            "en": "Rights of people with disabilities"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DIVERSITY",
+            "de": "Diversitätspolitik",
+            "en": "Diversity policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_FAMILY",
+            "de": "Familienpolitik",
+            "en": "Family policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_GENDER",
+            "de": "Geschlechterpolitik",
+            "en": "Gender politics"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_BASIC",
+            "de": "Grundsicherung",
+            "en": "Basic security"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "201207sbCodeOfConduct-neu.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/d4/1f/4168/201207sbCodeOfConduct-neu.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "210930sbStiftungBildungJahresbericht2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/18/09/4169/210930sbStiftungBildungJahresbericht2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000514",
+      "registerEntryDetail": {
+        "id": 754,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000514",
+          "firstPublicationDate": "2022-02-15T14:16:06.000Z"
+        },
+        "activityDescription": "Unser Verein ist im Tierschutz tätig und möchte die Rechte der  Tiere in Deutschland und  Europa nachhaltig verbessern.  Hierzu stehen wir im Austausch mit Bundestagsabgeordneten und Mitarbeitern von Bundesbehörden.\r\nWir wirken auch beratend an Gesetzgebungsverfahren und bei der Erstellung von Gutachten mit",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bund gegen Missbrauch der Tiere e.V.",
+          "phoneNumber": "+49221964769676",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Iddelsfelder Hardt",
+            "streetNumber": "1",
+            "zipCode": "51069",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "mail@bmt-tierschutz.de"
+          ],
+          "websites": [
+            "https://bmt-tierschutz.bmtev.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Karsten",
+              "lastName": "Plücker",
+              "function": "1. Vorsitzender",
+              "phoneNumber": "+491796866900",
+              "organizationMemberEmails": [
+                "karsten.pluecker@bmt-tierschutz.de"
+              ]
+            },
+            {
+              "commonFirstName": "Frank",
+              "lastName": "Weber",
+              "function": "2. Vorsitzender",
+              "phoneNumber": "+494055492834",
+              "organizationMemberEmails": [
+                "frweber@me.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Uwe",
+              "lastName": "Wagner",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+4916098904889",
+              "organizationMemberEmails": [
+                "dr.uwe.wagner@freenet.de"
+              ]
+            },
+            {
+              "commonFirstName": "Karin",
+              "lastName": "Stumpf",
+              "function": "Vorstandsmitglied",
+              "phoneNumber": "+492219505155",
+              "organizationMemberEmails": [
+                "K.Stumpf@koelncongress.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Torsten",
+              "lastName": "Schmidt"
+            },
+            {
+              "commonFirstName": "Sylvia",
+              "lastName": "Hemmerling"
+            },
+            {
+              "commonFirstName": "Rolf",
+              "lastName": "Kohnen"
+            }
+          ],
+          "members": 12900,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "DNR",
+            "Deutscher Spendenrat"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Tierschutz"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "bmt-GSB-2020-Web.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/2c/70/4153/bmt-GSB-2020-Web.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000513",
       "registerEntryDetail": {
@@ -64167,7 +64754,7 @@
     {
       "registerNumber": "R000210",
       "registerEntryDetail": {
-        "id": 591,
+        "id": 2710,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -64274,10 +64861,19 @@
         ],
         "clientOrganizations": [],
         "clientPersons": [],
-        "registerEntryMedia": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Einnahmenuberschussrechnung-BDTA-e-V-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/5e/e5/4156/Einnahmenuberschussrechnung-BDTA-e-V-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
         "disclosureRequirementsExist": false,
-        "refuseAnnualFinanceStatement": true,
-        "refuseAnnualFinanceStatementReason": "Es wird kein Jahresabschluss nach Steuer-/Handelsrecht erstellt sondern nur eine Einnahme-/Überschussrechnung"
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
       }
     },
     {
