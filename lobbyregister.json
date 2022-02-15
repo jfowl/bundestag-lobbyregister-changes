@@ -9,8 +9,249 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 524,
+  "resultCount": 525,
   "results": [
+    {
+      "registerNumber": "R000530",
+      "registerEntryDetail": {
+        "id": 1737,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000530",
+          "firstPublicationDate": "2022-02-15T21:51:45.000Z"
+        },
+        "activityDescription": "Sharkproject International ist die Dachorganisation von Sharkproject Germany e.V. und setzt sich für den Schutz der Haie und der Ökosysteme im Meer ein und versucht diesbezüglich Initiativen zu deren Schutz und Verbesserungen bzw. neue Gesetzgebung diesbezüglich voranzutreiben bzw. zu unterstützen.\r\nDes Weiteren bieten wir unsere Sichtweise und Expertise zu diesen Themen auch den PolitikerInnen und politischen Organen auf Bundes- und Landesebene an um so gemeinsam gegenwärtige Missstände und Probleme zu adressieren, sowie geeignete Verbesserungen und Reformen auf den Weg zu bringen. Hierfür bitten wir auch um Unterstützung seitens der Organe des Bundestages, der Ministerien, der Referate oder entsprechender Ausschüsse, sowie einzelner Abgeordneter auf Landes-, Bundes- und Europaebene.\r\nDiese Kontaktaufnahme und Kommunikation erfolgt in Form von Briefen, Teilnahme an Diskussionsveranstaltungen, sowie den direkten Kontakt in Form von Telefonaten und Treffen (physisch oder per WebEx) mit Einzelpersonen und/oder mehreren Vertretern.\r\nIm Rahmen dieser Kontaktaufnahme bitten wir um Unterstützung für allgemeine oder konkrete Maßnahmen oder zu spezifischen Positionen seitens der Bundesregierung und/oder ihrer Organe, sowie gegebenenfalls auch Rückmeldung zu anstehenden Vorhaben und deren Fortschritt.\r\n\r\nUnsere Interessen gelten dabei vor allem folgenden Themen: \r\n\r\nFischereipolitik auf Bundes- oder Europaebene, inklusive der Vertretung in der Ratsarbeitsgruppe zu diesen Themen für die Vertretung der EU Position als Mitglied verschiedener Regionaler Fischerei Management Organisationen wie z.B. ICCAT und IOTC.\r\n\r\nArtenschutz auf Bundes- und Europaebene inklusive des nachhaltigen Handels von geschützten Arten im Rahmen von CITES und der Ausweitung dieses Schutzes auf weitere Arten.\r\n\r\nZusammenarbeit mit Vertretern Deutschlands auf verschiedenen Themengebieten zum Meeres- und Artenschutz auch im Rahmen der Mitgliedschaft in der IUCN.\r\n\r\nAusweitung und Verbesserung des Meeresschutzes auf nationaler, europäischer und internationaler Ebene durch Rechtsabkommen und Verbesserungen / Nachbesserungen existierender Verordnungen, vor allem in den Bereichen, Ausweisung und Erweiterung von Meeresschutzgebieten, dem effektiven Schutz der Tiefsee vor Fischerei und Tiefseebergbau, dem rechtsverbindlichen Schutz der Hochsee und ein Ende von schädlichen Subventionen zur Erweiterung der Fangkapazitäten.\r\n\r\nHandelsbeschränkungen oder Verbote für Haiprodukte unterschiedlicher Art durch die der weiteren  Ausbeutung mariner Ressourcen Vorschub geleistet wird. Diese stammen oftmals aus nicht nachhaltiger Gewinnung oder sogar aus illegalen Fangaktivitäten, die auf See oftmals schwer bzw. nur unzureichend kontrolliert werden können (z.B. Haifischflossenhandel, Squalen und Haileberöl).\r\n\r\nMeeresverschmutzung und Lebensraumzerstörung im Meer und in den Küstenbereichen durch unterschiedliche Aggressoren (Lärm, Gifte, Mikroplastik, Überdüngung, Müll, Fischerei, Gewinnung von Bodenschätzen, u. a.) verhindern, reduzieren oder rückgängig machen.\r\n\r\nVerbesserte Kennzeichnung bzgl. Herkunft und Nachhaltigkeit von Produkten die aus dem Meer stammen, unter Verwendung mariner Ressourcen erzeugt wurden, sowie Beschränkungen für deren Import und Handel um zu erreichen dass Verbraucher bewusste und nachhaltige Entscheidungen treffen können.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Sharkproject International",
+          "phoneNumber": "+41445865002",
+          "address": {
+            "type": "FOREIGN",
+            "internationalAdditional1": "Rebhaldenstrasse 2",
+            "internationalAdditional2": "",
+            "city": "8910 Affoltern am Albis",
+            "country": {
+              "code": "CH"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "code_de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "code_en": "Other juristic person",
+            "type": "JURISTIC_PERSON",
+            "legalFormText": "Im Handelsregister der Schweiz eingetragener Verein"
+          },
+          "organizationEmails": [
+            "office.international@sharkproject.org"
+          ],
+          "websites": [
+            "https://www.sharkproject.org/sharkproject"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Smolinsky",
+              "function": "Präsident",
+              "phoneNumber": "+41793597534",
+              "organizationMemberEmails": [
+                "a.smolinsky@sharkproject.org"
+              ]
+            },
+            {
+              "commonFirstName": "Christine",
+              "lastName": "Gstöttner",
+              "function": "Vize-Präsidentin",
+              "phoneNumber": "+436763043872",
+              "organizationMemberEmails": [
+                "c.gstoettner@sharkproject.org"
+              ]
+            },
+            {
+              "commonFirstName": "Denise",
+              "lastName": "Smolinsky",
+              "function": "Aktuarin",
+              "phoneNumber": "+41796858812",
+              "organizationMemberEmails": [
+                "d.smolinsky@sharkproject.org"
+              ]
+            },
+            {
+              "commonFirstName": "Jasmin",
+              "lastName": "Finger",
+              "function": "Kassiererin",
+              "phoneNumber": "+491717519452",
+              "organizationMemberEmails": [
+                "j.finger@sharkproject.org"
+              ]
+            },
+            {
+              "commonFirstName": "Herbert",
+              "lastName": "Futterknecht",
+              "function": "Mitglied des Vorstandes",
+              "phoneNumber": "+436608385824",
+              "organizationMemberEmails": [
+                "h.futterknecht@sharkproject.org"
+              ]
+            },
+            {
+              "commonFirstName": "Britta",
+              "lastName": "Baur",
+              "function": "Miglied des Vorstandes",
+              "phoneNumber": "+41764880722",
+              "organizationMemberEmails": [
+                "b.baur@sharkproject.org"
+              ]
+            },
+            {
+              "commonFirstName": "Petra",
+              "lastName": "Schwerdtfeger",
+              "function": "Mitglied des Vorstandes",
+              "phoneNumber": "+4915252412901",
+              "organizationMemberEmails": [
+                "p.schwerdtfeger@sharkproject.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Iris",
+              "lastName": "Ziegler"
+            },
+            {
+              "commonFirstName": "Tina",
+              "lastName": "Reiterer"
+            },
+            {
+              "commonFirstName": "Christina",
+              "lastName": "Aust"
+            },
+            {
+              "commonFirstName": "Sarah",
+              "lastName": "Rußwurm"
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Gahr"
+            },
+            {
+              "commonFirstName": "Nina",
+              "lastName": "Eschner"
+            }
+          ],
+          "members": 12,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Tiefseebergbau; Meeresschutzgebiete;"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "2021-08-28-Leitbild-SHARKPROJECT.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/94/ac/4445/2021-08-28-Leitbild-SHARKPROJECT.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "def-JAB-2020-Sharkproject-International.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/1c/b0/4446/def-JAB-2020-Sharkproject-International.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000529",
       "registerEntryDetail": {
