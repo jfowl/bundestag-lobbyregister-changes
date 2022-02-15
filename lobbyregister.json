@@ -9,8 +9,233 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 522,
+  "resultCount": 523,
   "results": [
+    {
+      "registerNumber": "R000528",
+      "registerEntryDetail": {
+        "id": 1601,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 80001,
+          "to": 90000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000528",
+          "firstPublicationDate": "2022-02-15T18:29:04.000Z"
+        },
+        "activityDescription": "Der Bundesverband Automatenunternehmer e.V. (BA) vertritt seit 1953 als Spitzenverband der Automatenwirtschaft die Unternehmensinteressen der organisierten Anbieterinnen und Anbieter gewerblicher Geldspielgeräte in Spielhallen und Gastronomiebetrieben.\r\n\r\nIm Bundesverband Automatenunternehmer sind elf Landesverbände und zwei Fachverbände mit rund 2.000 Mitgliedsunternehmerinnen und -unternehmern organisiert. Mit dieser föderalen Struktur besetzt der BA alle Bereiche der wirtschaftlichen, juristischen, politischen und sozialrelevanten Interessenvertretung seiner Mitgliederschaft.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband Automatenunternehmer e.V.",
+          "phoneNumber": "+493072625500",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Am Weidendamm",
+            "streetNumber": "1a",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "BA@baberlin.de"
+          ],
+          "websites": [
+            "www.baberlin.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Breitkopf",
+              "function": "Präsident",
+              "phoneNumber": "+493072625500",
+              "organizationMemberEmails": [
+                "T.Breitkopf.Lobbyregister@baberlin.de"
+              ]
+            },
+            {
+              "commonFirstName": "Andy",
+              "lastName": "Meindl",
+              "function": "Präsident",
+              "phoneNumber": "+493072625500",
+              "organizationMemberEmails": [
+                "A.Meindl.Lobbyregister@baberlin.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gundolf",
+              "lastName": "Aubke",
+              "function": "Vizepräsident und Schatzmeister",
+              "phoneNumber": "+493072625500",
+              "organizationMemberEmails": [
+                "G.Aubke.Lobbyregister@baberlin.de"
+              ]
+            },
+            {
+              "commonFirstName": "Freddy",
+              "lastName": "Fischer",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493072625500",
+              "organizationMemberEmails": [
+                "F.Fischer.Lobbyregister@baberlin.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Stang",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493072625500",
+              "organizationMemberEmails": [
+                "M.Stang.Lobbyregister@baberlin.de"
+              ]
+            },
+            {
+              "commonFirstName": "Dirk",
+              "lastName": "Fischer",
+              "function": "Vizepräsident",
+              "phoneNumber": "+493072625500",
+              "organizationMemberEmails": [
+                "D.Fischer.Lobbyregister@baberlin.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Simone Carin",
+              "lastName": "Storch"
+            },
+            {
+              "commonFirstName": "Stephan",
+              "lastName": "Burger"
+            },
+            {
+              "commonFirstName": "Marcel",
+              "lastName": "Fischer"
+            }
+          ],
+          "members": 13,
+          "membersCountDate": "2022-02-09T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband der Dienstleistungswirtschaft e.V. - BDWi ",
+            "Liberaler Mittelstand e.V. Bundesvereinigung"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_OTHER",
+            "de": "Sonstiges im Bereich „Sport, Freizeit und Tourismus“",
+            "en": "Other in the field of “Sports, leisure and tourism”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Rechenschaftsbericht-Lobbyregister.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/71/f5/4427/Rechenschaftsbericht-Lobbyregister.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000527",
       "registerEntryDetail": {
