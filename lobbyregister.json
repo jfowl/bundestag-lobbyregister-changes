@@ -9,8 +9,1083 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 514,
+  "resultCount": 517,
   "results": [
+    {
+      "registerNumber": "R000522",
+      "registerEntryDetail": {
+        "id": 2479,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 80001,
+          "to": 90000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000522",
+          "firstPublicationDate": "2022-02-15T16:19:30.000Z"
+        },
+        "activityDescription": "In den Jugendverbänden engagieren sich Kinder und Jugendliche mit ganz eigenen Wünschen, Sorgen und Interessen, unterschiedlichen Fähigkeiten und Perspektiven. Sie alle brauchen eine starke Stimme in der Politik - ihre Interessenvertretung sind wir, der Bundesjugendring. Als Arbeitsgemeinschaft der Jugendverbände und Landesjugendringe in Deutschland ist der Bundesjugendring ein starkes Netzwerk. Rund sechs Millionen Kinder und Jugendliche sind in den Jugendverbänden und -ringen zusammengeschlossen und engagiert. Jugendverbände sind Orte, an denen Kinder und Jugendliche Gemeinschaft erleben, lernen, Freizeit gestalten, aktiv sind. In Gesprächen mit Entscheidungsträger:innen aus Politik und Gesellschaft bringt der Bundesjugendring ein, was der jungen Generation auf den Nägeln brennt. Er repräsentiert die Vielfalt jugendlicher Belange und Forderungen gegenüber Parlament, Regierung und Öffentlichkeit. Der Bundesjugendring kämpft für eine Jugendpolitik, die junge Menschen wahrnimmt, ihnen selbstbestimmtes Handeln und Aufwachsen ermöglicht, Freiräume einräumt und sie in ihrer persönlichen Entwicklung unterstützt. Für eine gerechte Teilhabe an der Gesellschaft.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Bundesjugendring",
+          "phoneNumber": "+493040040400",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Mühlendamm",
+            "streetNumber": "3",
+            "zipCode": "10178",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@dbjr.de"
+          ],
+          "websites": [
+            "www.dbjr.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Daniela",
+              "lastName": "Broda",
+              "function": "Vorsitzende",
+              "phoneNumber": "+493040040400",
+              "organizationMemberEmails": [
+                "daniela.broda@dbjr.de"
+              ]
+            },
+            {
+              "commonFirstName": "Wendelin",
+              "lastName": "Haag",
+              "function": "Vorsitzender",
+              "phoneNumber": "+493040040400",
+              "organizationMemberEmails": [
+                "wendelin.haag@dbjr.de"
+              ]
+            },
+            {
+              "commonFirstName": "Özge ",
+              "lastName": "Erdoğan",
+              "function": "stellvertretende Vorsitzende",
+              "phoneNumber": "+493040040400",
+              "organizationMemberEmails": [
+                "oezge.erdogan@dbjr.de"
+              ]
+            },
+            {
+              "commonFirstName": "Lea",
+              "lastName": "Herzig",
+              "function": "stellvertretende Vorsitzende",
+              "phoneNumber": "+493040040400",
+              "organizationMemberEmails": [
+                "lea.herzig@dbjr.de"
+              ]
+            },
+            {
+              "commonFirstName": "Loreen",
+              "lastName": "Schreck",
+              "function": "stellvertretende Vorsitzende",
+              "phoneNumber": "+493040040400",
+              "organizationMemberEmails": [
+                "loreen.schreck@dbjr.de"
+              ]
+            },
+            {
+              "commonFirstName": "Daniela",
+              "lastName": "Hottenbacher",
+              "function": "stellvertretende Vorsitzende",
+              "phoneNumber": "+493040040400",
+              "organizationMemberEmails": [
+                "daniela.hottenbacher@dbjr.de"
+              ]
+            },
+            {
+              "commonFirstName": "Raoul",
+              "lastName": "Taschinski",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+493040040400",
+              "organizationMemberEmails": [
+                "raoul.taschinski@dbjr.de"
+              ]
+            },
+            {
+              "commonFirstName": "Marius",
+              "lastName": "Schlageter",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+493040040400",
+              "organizationMemberEmails": [
+                "marius.schlageter@dbjr.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Kirstin",
+              "lastName": "Weis"
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Weis"
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Scholl"
+            },
+            {
+              "commonFirstName": "Ludwig",
+              "lastName": "Weigel"
+            },
+            {
+              "commonFirstName": "Aaron",
+              "lastName": "Remus"
+            },
+            {
+              "commonFirstName": "Jochen",
+              "lastName": "Rummenhöller"
+            },
+            {
+              "commonFirstName": "Carolin",
+              "lastName": "Vogt"
+            }
+          ],
+          "members": 51,
+          "membersCountDate": "2022-02-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesnetzwerk Bürgerschaftliches Engagement (BBE)",
+            "Europäische Bewegung Deutschlands (EBD)",
+            "IJAB - Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland",
+            "Bündnis für Gemeinnützigkeit (BfG)",
+            "Deutsches Jugendinstitut (DJI)",
+            "Bundesausschuss politische Bildung e.V. (bap)",
+            "Nationale Armutskonferenz (NAK)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "description": "Mittel aus dem Kinder- und Jugendplan des Bundes für Maßnahmen, Personal und Infrastruktur.",
+            "location": "Deutschland",
+            "fiscalYearStart": "01/20",
+            "fiscalYearEnd": "12/20",
+            "donationEuro": {
+              "from": 1170001,
+              "to": 1180000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_ANTI_EXTREMISM",
+            "de": "Extremismusbekämpfung",
+            "en": "Counter extremism"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_INTEGRATION",
+            "de": "Integration",
+            "en": "Integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_REFUGEE",
+            "de": "Asyl und Flüchtlingsschutz",
+            "en": "Asylum and refugee protection"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_CHILDREN",
+            "de": "Kinder- und Jugendpolitik",
+            "en": "Child and youth policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DISABILITY",
+            "de": "Rechte von Menschen mit Behinderung",
+            "en": "Rights of people with disabilities"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_DIVERSITY",
+            "de": "Diversitätspolitik",
+            "en": "Diversity policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_GENDER",
+            "de": "Geschlechterpolitik",
+            "en": "Gender politics"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_BASIC",
+            "de": "Grundsicherung",
+            "en": "Basic security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "2020-dbjr-jahresabschluss.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/64/27/4302/2020-dbjr-jahresabschluss.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000521",
+      "registerEntryDetail": {
+        "id": 2567,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "",
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000521",
+          "firstPublicationDate": "2022-02-15T16:12:47.000Z"
+        },
+        "activityDescription": "Unternehmensberatung im Bereich politische Kommunikation",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "NATURAL",
+          "academicDegreeBefore": "Dipl.-Kfm",
+          "commonFirstName": "Guido",
+          "lastName": "Mumm"
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of “Bundestag”"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_AFFAIRS",
+            "de": "Bundeswehrangelegenheiten",
+            "en": "Bundeswehr affairs"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INSURANCE",
+            "de": "Versicherungswesen",
+            "en": "Insurance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_OTHER",
+            "de": "Sonstiges im Bereich „Bildung und Erziehung“",
+            "en": "Other in the field of “Education and parenting”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_SCHOOL",
+            "de": "Schulische Bildung",
+            "en": "School education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_DISASTER_CONTROL",
+            "de": "Bevölkerungsschutz und Katastrophenhilfe",
+            "en": "Civil protection"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_FREEDOM_OF_SPEECH",
+            "de": "Meinungs- und Pressefreiheit",
+            "en": "Freedom of speech and freedom of the press"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_MASS",
+            "de": "Massenmedien",
+            "en": "Mass media"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_OTHER",
+            "de": "Sonstiges im Bereich „Medien, Kommunikation und  Informationstechnik“",
+            "en": "Other in the field of “Media, communication and information technology”"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of “Spatial planning, construction and housing”"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_OTHER",
+            "de": "Sonstiges im Bereich „Staat und Verwaltung“",
+            "en": "Other in the field of “Government and administration”"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of “Social security”"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Arbeitskreis Wirtschaft Hürth",
+            "phoneNumber": "+49223379092400",
+            "address": {
+              "type": "NATIONAL",
+              "nationalAdditional1": "im Hause der ",
+              "nationalAdditional2": "GVG Rhein-Erft GmbH ",
+              "street": "Max-Planck-Str.",
+              "streetNumber": "11",
+              "zipCode": "50354",
+              "city": "Hürth",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "info@awh-hürth.de"
+            ],
+            "websites": [
+              "www.awh-huerth.de"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Guido",
+                "lastName": "Mumm",
+                "function": "erweiterter Vorstand",
+                "phoneNumber": "+491738902939",
+                "organizationMemberEmails": [
+                  "guido@mumm.ag"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
+    {
+      "registerNumber": "R000520",
+      "registerEntryDetail": {
+        "id": 1323,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 150001,
+          "to": 160000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000520",
+          "firstPublicationDate": "2022-02-15T16:02:36.000Z"
+        },
+        "activityDescription": "Stryker ist eines der weltweit führenden Medizintechnikunternehmen und setzt sich gemeinsam mit seinen Kunden:innen für eine bessere Gesundheitsversorgung ein. Weltweit beschäftigt das Unternehmen über 46.000 Mitarbeiter:innen (2021) und verfügt über 31 Produktions-, Forschungs- und Entwicklungsstandorte. In Deutschland hat Stryker seinen Sitz in Duisburg, Produktions-, Forschungs- und Entwicklungsstandorte befinden sich wiederum in Freiburg (Breisgau), Tuttlingen und Schönkirchen (Kiel). \r\n\r\nStrykers Werte sind:\r\nIntegrität - wir tun das, was richtig ist \r\nVerantwortung - wir stehen zu unserem Wort, \r\nLeistung - wir liefern das, was wir versprechen und\r\nMenschen - wir fördern unsere Mitarbeiter:innen.\r\n\r\nGeleitet von diesen Werten bietet Stryker eine breite Palette innovativer Produkte und Dienstleistungen in den Bereichen Orthopädie, Medizintechnik und Chirurgie sowie Neurotechnologie und Wirbelsäulenchirugie, mit denen das Unternehmen zur Verbesserung der Patientenversorgung beitragen möchte. \r\n\r\nStryker bringt sein Fachwissen in politische Debatten ein, entweder eigenständig oder über Industrieverbände. Auch arbeitete das Unternehmen mit verschiedenen Interessensgruppen des Gesundheitswesens zusammen, um gemeinsam gesundheitspolitische Prioritäten sowie übergreifende Themen wie Nachhaltigkeit, Digitalisierung und die Attraktivität des Gesundheitsstandorts Deutschland anzugehen. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Stryker GmbH & Co. KG",
+          "phoneNumber": "+4920658370",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Dr. - Homer-Stryker- Platz ",
+            "streetNumber": "1",
+            "zipCode": "47228",
+            "city": "Duisburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_LA",
+            "code_de": "Sonstige Personengesellschaft",
+            "code_en": "Other legal association",
+            "type": "LEGAL_ASSOCIATION",
+            "legalFormText": "GmbH & Co. KG"
+          },
+          "organizationEmails": [
+            "info-deutschland@stryker.com"
+          ],
+          "websites": [
+            "https://www.stryker.com/de/de/index.html "
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Markus ",
+              "lastName": "Wiegmann",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+491741657792",
+              "organizationMemberEmails": [
+                "markus.wiegmann@stryker.com"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Sophie",
+              "lastName": "Meiser"
+            },
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Christoph ",
+              "lastName": "Pross"
+            }
+          ],
+          "membershipEntries": [
+            "Bundesverband der Medizintechnologie e.V.",
+            "Senat der Wirtschaft Deutschland e.V.",
+            "Wirtschaftsrat der CDU e.V.",
+            "Unternehmerverband Ruhr-Niederrhein e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000519",
       "registerEntryDetail": {
@@ -100472,7 +101547,7 @@
     {
       "registerNumber": "R000027",
       "registerEntryDetail": {
-        "id": 2722,
+        "id": 3095,
         "clientIdentity": "",
         "employeeCount": {
           "from": 11,
@@ -100579,8 +101654,8 @@
             "fiscalYearStart": "01/20",
             "fiscalYearEnd": "12/20",
             "donationEuro": {
-              "from": 10030001,
-              "to": 10040000
+              "from": 1030001,
+              "to": 1040000
             },
             "categoryType": "PUBLIC_ALLOWANCES"
           },
@@ -100656,7 +101731,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "WUS-Finanzbericht-2020-kurz.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/7f/43/3484/WUS-Finanzbericht-2020-kurz.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/ef/e7/4292/WUS-Finanzbericht-2020-kurz.pdf",
               "mimeType": "application/pdf"
             }
           }
