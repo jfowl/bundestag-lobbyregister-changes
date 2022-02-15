@@ -9,8 +9,144 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 523,
+  "resultCount": 524,
   "results": [
+    {
+      "registerNumber": "R000529",
+      "registerEntryDetail": {
+        "id": 1852,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "locationOfReportPublication": "Die Axon Public Safety Germany SE wird im Handelsregister Frankfurt am Main, HRB 86915 geführt.",
+        "account": {
+          "registerNumber": "R000529",
+          "firstPublicationDate": "2022-02-15T18:52:54.000Z"
+        },
+        "activityDescription": "Axons Lösungen bieten Mehrwert: Mensch, digitale Technologien, Applikation und Systemtechnik verbinden sich zu einem stetig wachsenden Netzwerk im Dienst der öffentlichen Sicherheit.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Axon Public Safety Germany SE",
+          "phoneNumber": "+496967866747",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Axon Public Safety Germany SE",
+            "street": "Hugo-Junkers-Str.",
+            "streetNumber": "3",
+            "zipCode": "60386",
+            "city": "Frankfurt am Main",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_SE",
+            "code_de": "Europäische Aktiengesellschaft (SE)",
+            "code_en": "European stock company (SE)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "sales-dach@axon.com"
+          ],
+          "websites": [
+            "https://de.axon.com"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Scherf",
+              "function": "Geschäftsführender Direktor",
+              "phoneNumber": "+496967866747",
+              "organizationMemberEmails": [
+                "sales-dach@axon.com"
+              ]
+            },
+            {
+              "commonFirstName": "Rick",
+              "lastName": "Smith",
+              "function": "Geschäftsführender Direktor",
+              "phoneNumber": "+496967866747",
+              "organizationMemberEmails": [
+                "sales-dach@axon.com"
+              ]
+            },
+            {
+              "commonFirstName": "Luke",
+              "lastName": "Larson",
+              "function": "Geschäftsführender Direktor",
+              "phoneNumber": "+496967866747",
+              "organizationMemberEmails": [
+                "sales-dach@axon.com"
+              ]
+            },
+            {
+              "commonFirstName": "Paul",
+              "lastName": "Strozier",
+              "function": "Geschäftsführender Direktor",
+              "phoneNumber": "+496967866747",
+              "organizationMemberEmails": [
+                "sales-dach@axon.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000528",
       "registerEntryDetail": {
