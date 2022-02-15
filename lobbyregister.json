@@ -9,8 +9,165 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 483,
+  "resultCount": 484,
   "results": [
+    {
+      "registerNumber": "R000488",
+      "registerEntryDetail": {
+        "id": 207,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000488",
+          "firstPublicationDate": "2022-02-15T07:31:35.000Z"
+        },
+        "activityDescription": "Der Zentralverband deutscher Milchwirtschaftler e.V.  (ZDM) vertritt die Interessen von Mitarbeitern in Molkereien und der Zulieferindustrie gegenüber deren Arbeitgebern durch persönliche Beratung der persönlichen Mitglieder. Der ZDM ist als Vertreter der Arbeitgeberseite der Sozialpartner bei der Erstellung sowie Neuordnung berufsspezifischer Ausbildungs- und Fortbildungsverordnungen, die vom BMEL geleitet werden. Der ZDM berät und unterstützt Hochschulen und Universitäten mit milchwirtschaftlichen Studiengängen hinsichtlich der aktuellen milchrechtlichen Entwicklungen und unterhält ein Netzwerk zur Unterstützung der persönlichen Mitglieder bei ihrem beruflichen Werdegang. Der ZDM richtet bundesweite und regionale Veranstaltungen aus um die Attraktivität der milchwirtschaftlichen Berufe zu erhöhen und die Mitarbeiter in den Molkereien zu motivieren. Der ZDM führt jedes Jahr Ehrungsveranstaltungen für die bundesweit besten Auszubildenden, Meister, Techniker, Bachelor und Master sowie die jahresbesten Ausbilder in der deutschen Molkereiwirtschaft aus. Der ZDM organisiert auch, dass die o.a. Jahresbesten eine Urkunde von dem/der amtierenden Buneslandswirtschaftminister /in erhalten.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Zentralverband Deutscher Milchwirtschaftler e.V.",
+          "phoneNumber": "+4930403044552",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o Milchverbände",
+            "street": "Jägerstr.",
+            "streetNumber": "51",
+            "zipCode": "10117",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@zdm-ev.de"
+          ],
+          "websites": [
+            "www.zdm-ev.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Torsten",
+              "lastName": "Sach",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4930403044552",
+              "organizationMemberEmails": [
+                "info@zdm-ev.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 3000,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Bauernverband e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_ACADEMIC",
+            "de": "Hochschulbildung",
+            "en": "Academic education"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Bilanz-ZDM-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/e6/c8/3892/Bilanz-ZDM-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000487",
       "registerEntryDetail": {
