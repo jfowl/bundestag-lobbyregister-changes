@@ -9,8 +9,199 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 510,
+  "resultCount": 511,
   "results": [
+    {
+      "registerNumber": "R000516",
+      "registerEntryDetail": {
+        "id": 1823,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000516",
+          "firstPublicationDate": "2022-02-15T14:48:54.000Z"
+        },
+        "activityDescription": "Der Bundesverband der Niedergelassenen Diabetologen e.V. vertritt die sozial- und berufspolitischen Interessen der Diabetologen in niedergelassenen Schwerpunktpraxen. Der BVND vertritt dabei hausärztlich und fachärztlich niedergelassene Diabetologen.\r\n\r\nIm Mittelpunkt der Aktivitäten des BVND e.V. stehen folgende Ziele:\r\n\r\n    Sicherung der Versorgungsqualität von Patienten mit Diabetes mellitus\r\n    Bundesweite Anerkennung des Diabetologen als Schwerpunktbezeichnung\r\n    Existenzsicherung und Planungssicherheit für diabetologische Schwerpunktpraxen\r\n\r\nDer BVND ist ein bundesweit tätiger Dachverband von eigenständigen Landesverbänden. Derzeit laufen Aktivitäten, um Landesverbände zu gründen bzw. bestehende Landesverbände unter dem Dach des Bundesverbands zusammenzuführen.\r\n\r\nDer BVND wird durch den Vorstand geführt und hat seine Geschäftsstelle in Heidenheim.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband niedergelassener Diabetologen e.V. (BVND)",
+          "phoneNumber": "+4973219469190",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o med info GmbH",
+            "street": "Hainenbachstraße",
+            "streetNumber": "25",
+            "zipCode": "89522",
+            "city": "Heidenheim",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "mail@bvnd.de"
+          ],
+          "websites": [
+            "www.bvnd.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Nikolaus",
+              "lastName": "Scheper",
+              "function": "Vorsitzender",
+              "phoneNumber": "+4973219469190",
+              "organizationMemberEmails": [
+                "n.scheper@bvnd.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Dorothea",
+              "lastName": "Reichert",
+              "function": "stellvertretende Vorsitzende",
+              "phoneNumber": "+4973219469190",
+              "organizationMemberEmails": [
+                "d.reichert@bvnd.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Ralf-Uwe",
+              "lastName": "Häußler",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+4973219469190",
+              "organizationMemberEmails": [
+                "u.haeussler@bvnd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Antje",
+              "lastName": "Weichard",
+              "function": "Schatzmeisterin",
+              "phoneNumber": "+4973219469190",
+              "organizationMemberEmails": [
+                "a.weichard@bvnd.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Gerhard",
+              "lastName": "Klausmann",
+              "function": "Schriftführer",
+              "phoneNumber": "+4973219469190",
+              "organizationMemberEmails": [
+                "g.klausmann@bvnd.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. med.",
+              "commonFirstName": "Iris",
+              "lastName": "Dötsch",
+              "function": "Beisitzer",
+              "phoneNumber": "+4973219469190",
+              "organizationMemberEmails": [
+                "i.doetsch@bvnd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Toralf",
+              "lastName": "Schwarz",
+              "function": "Beisitzer",
+              "phoneNumber": "+4973219469190",
+              "organizationMemberEmails": [
+                "t.schwarz@bvnd"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Naudorf",
+              "function": "Beisitzer",
+              "phoneNumber": "+4973219469190",
+              "organizationMemberEmails": [
+                "m.naudorf@bvnd.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Horst",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4973219469190",
+              "organizationMemberEmails": [
+                "m.horst@med-info-gmbh.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 574,
+          "membersCountDate": "2022-02-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Spitzenverband Fachärzte Deutschlands e.V. "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Verhaltenskodex-BVND-mit-Unterschriften-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/8b/98/4190/Verhaltenskodex-BVND-mit-Unterschriften-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "BVND-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f6/87/4191/BVND-Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000515",
       "registerEntryDetail": {
@@ -12315,7 +12506,7 @@
     {
       "registerNumber": "R000461",
       "registerEntryDetail": {
-        "id": 2106,
+        "id": 3056,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -12378,17 +12569,17 @@
               "function": "Geschäftsführer",
               "phoneNumber": "+496217590",
               "organizationMemberEmails": [
-                "james.fischer.jf1@roche.com"
+                "diabetescare.deutschland@roche.com"
               ]
             },
             {
               "academicDegreeBefore": "Dr.",
               "commonFirstName": "Christiane",
               "lastName": "Arras-Friederich",
-              "function": "Leiterin Market Access",
-              "phoneNumber": "+496217590",
+              "function": "Roche Diabetes Care Deutschland GmbH",
+              "phoneNumber": "+49621759",
               "organizationMemberEmails": [
-                "christiane.arras-friederich@roche.com"
+                "diabetescare.deutschland@roche.com"
               ]
             },
             {
@@ -12398,7 +12589,7 @@
               "function": "Leiter Market Access",
               "phoneNumber": "+496217590",
               "organizationMemberEmails": [
-                "marc_oliver.hergel@roche.com"
+                "diabetescare.deutschland@roche.com"
               ]
             },
             {
@@ -12407,7 +12598,7 @@
               "function": "Senior Market Access Manager",
               "phoneNumber": "+496217590",
               "organizationMemberEmails": [
-                "michael.kulling@roche.com"
+                "diabetescare.deutschland@roche.com"
               ]
             }
           ],
@@ -12447,7 +12638,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "1-geschaeftsbericht-2020-original-c-roche-1.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/89/b7/3656/1-geschaeftsbericht-2020-original-c-roche-1.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/08/2b/4192/1-geschaeftsbericht-2020-original-c-roche-1.pdf",
               "mimeType": "application/pdf"
             }
           }
