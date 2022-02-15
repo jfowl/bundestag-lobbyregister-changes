@@ -9,8 +9,303 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 511,
+  "resultCount": 513,
   "results": [
+    {
+      "registerNumber": "R000518",
+      "registerEntryDetail": {
+        "id": 2415,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000518",
+          "firstPublicationDate": "2022-02-15T15:23:59.000Z"
+        },
+        "activityDescription": "Zweck und Aufgaben der Arbeitsgemeinschaft\r\n\r\nDie Arbeitsgemeinschaft hat den Zweck, die gemeinsamen Interessen ihrer Mitglieder wahrzunehmen und die Belange der Bergbau- und Mineralgewinnungsbetriebe im Lande Bayern zu fördern.\r\n\r\nDie Arbeitsgemeinschaft hat die Aufgabe, die Interessen der Mitgliedsunternehmen in ihrer Gesamtheit bei Regierungsstellen, Behörden und Verbänden zu vertreten.\r\n\r\nIm Einzelnen hat die Arbeitsgemeinschaft die nachstehenden Aufgaben\r\n  Förderung der Zusammenarbeit aller Mitglieder zur Wahrung der allgemeinen Interessen,\r\n  Erfahrungsaustausch in betriebstechnischer Hinsicht zur Ausnutzung der Kapazität und zur Produktionssteigerung,\r\n  Information der Mitglieder über juristische und wirtschaftliche Fragen, die den Bergbau betreffen.\r\nDabei beachten alle Mitglieder die aktuellen gesetzlichen Regelungen zu Kartellrecht und Datenschutz. \r\n\r\nDie Arbeitsgemeinschaft verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnittes Steuerbegünstigte Zwecke der Abgabenordnung.\r\n\r\nDie Arbeitsgemeinschaft ist selbstlos tätig; sie verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.\r\n\r\nMittel der Arbeitsgemeinschaft dürfen nur für satzungsgemäße Zwecke verwendet werden.\r\n\r\nDie Mitglieder erhalten keine Zuwendungen aus Mitteln der Arbeitsgemeinschaft.\r\n\r\nEs darf keine Person durch Ausgaben, die dem Zweck der Arbeitsgemeinschaft fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "ABBM - Arbeitsgemeinschaft Bayerischer Bergbau- und Mineralgewinnungsbetriebe e.V.",
+          "phoneNumber": "+49843153226",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "c/o Knauf Gips KG",
+            "street": "Postfach",
+            "streetNumber": "10",
+            "zipCode": "97343",
+            "city": "Iphofen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "manfred.hoffmann@sonax.de"
+          ],
+          "websites": [
+            "www.abbm-bayern.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christoph",
+              "lastName": "Heim",
+              "function": "Vorstand",
+              "phoneNumber": "+4983792348450",
+              "organizationMemberEmails": [
+                "christoph.heim@geigergruppe.de"
+              ]
+            },
+            {
+              "commonFirstName": "Manfred",
+              "lastName": "Hoffmann",
+              "function": "Geschäftsführender Vorsitzender ",
+              "phoneNumber": "+49843153226",
+              "organizationMemberEmails": [
+                "manfred.hoffmann@sonax.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Matthias",
+              "lastName": "Reimann",
+              "function": "Vorstand",
+              "phoneNumber": "+49932331209",
+              "organizationMemberEmails": [
+                "Matthias.Reimann@Knauf.com"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 50,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "vrb  Vereinigung Rohstoffe und Bergbau e.V.",
+            "vbw  Vereinigung der Bayerischen Wirtschaft e. V. "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Rechnungsbericht-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f0/b9/4237/Rechnungsbericht-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000517",
+      "registerEntryDetail": {
+        "id": 372,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 230001,
+          "to": 240000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000517",
+          "firstPublicationDate": "2022-02-15T15:22:27.000Z"
+        },
+        "activityDescription": "Vertretung der Interessen der unabhängigen Tanklager-Industrie auf dem Gebiet der Bundesrepublik Deutschland gegenüber der Politik, anderen Interessenverbänden sowie der Bevölkerung.\r\nSicherstellung der Energieversorgung mit flüssigen Energieträgern im täglichen Leben sowie in Krisen-Situationen. Aktive Mitarbeit im Rahmen der Umsetzung der Klimaziele insbesondere durch die Förderung von treibhausgasneutralen und biogenen flüssigen Energieträgern.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "UTV Unabhängiger Tanklagerverband e.V.",
+          "phoneNumber": "+491712315882",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Unabhängiger Tanklagerverband ",
+            "street": "Georgenstr.",
+            "streetNumber": "23",
+            "zipCode": "10117",
+            "city": "Berlin ",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@tanklagerverband.de"
+          ],
+          "websites": [
+            "www.tanklagerverband.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Frank",
+              "lastName": "Schaper",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+491712315882",
+              "organizationMemberEmails": [
+                "schaper@tanklagerverband.de"
+              ]
+            },
+            {
+              "commonFirstName": "Onno",
+              "lastName": "Handels",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+491724534446",
+              "organizationMemberEmails": [
+                "onno.handels@varoenergy.com"
+              ]
+            },
+            {
+              "commonFirstName": "Sebastian",
+              "lastName": "van der Ploeg",
+              "function": "Vorstand",
+              "phoneNumber": "+491722138876",
+              "organizationMemberEmails": [
+                "sebastian.vanderploeg@tanquid.com"
+              ]
+            },
+            {
+              "commonFirstName": "Ulfert",
+              "lastName": "Cornelius",
+              "function": "Vorstand",
+              "phoneNumber": "+491724300933",
+              "organizationMemberEmails": [
+                "ulfert.cornelius@evos.eu"
+              ]
+            },
+            {
+              "commonFirstName": "Ulrike",
+              "lastName": "Ferch",
+              "function": "Vorstand",
+              "phoneNumber": "+491755814770",
+              "organizationMemberEmails": [
+                "ulrike.ferch@portofrostock.de"
+              ]
+            },
+            {
+              "commonFirstName": "Frank",
+              "lastName": "Schulze",
+              "function": "Vorstand",
+              "phoneNumber": "+491703328043",
+              "organizationMemberEmails": [
+                "frank.schulze@exolum.com"
+              ]
+            },
+            {
+              "commonFirstName": "Sven",
+              "lastName": "Thiessen",
+              "function": "Vorstand",
+              "phoneNumber": "+4940370047460",
+              "organizationMemberEmails": [
+                "sven.thiessen@oiltanking-deutschland.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 28,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "MEW Mittelständische Energiewirtschaft Deutschland e.V.",
+            "FETSA Federation of European Tank Storage Associations B.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "UTV-Unterschriebene-Gewinnermittlung-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/13/5d/4235/UTV-Unterschriebene-Gewinnermittlung-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000516",
       "registerEntryDetail": {
