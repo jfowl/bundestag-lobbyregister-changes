@@ -9,8 +9,186 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 542,
+  "resultCount": 543,
   "results": [
+    {
+      "registerNumber": "R000548",
+      "registerEntryDetail": {
+        "id": 2570,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000548",
+          "firstPublicationDate": "2022-02-16T10:37:35.000Z"
+        },
+        "activityDescription": "Die Pharmainitiative Bayern ist ein Zusammenschluss von vorwiegend forschenden Pharmaunternehmen mit Sitz in Bayern und einem Fokus auf Humanarzneimittel. Mit Unterstützung des VCI-LV Bayern und der im VCI organisiereten Pharma-Fachverbände BPI und vfa setzt sich die Pharmainitiative Bayern im Interesse einer optimalen Patientenversorgung für eine starke (auch innovationsstarke) Pharmabranche in Bayern ein. Themen sind vor allem die Gesundheits- und Standortpolitik.\r\nDie Pharmainitiative will insbesondere auch Ansprechpartner sein und sich mit Sachargumenten und Fachwissen in den politischen Dialog einbringen.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Pharmainitiative Bayern",
+          "phoneNumber": "+49899269132",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional2": "Korrespondenzadresse:",
+            "street": "Innstr.",
+            "streetNumber": "15",
+            "zipCode": "81679",
+            "city": "München",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "Die Pharmainitiative Bayern ist ein Zusammenschluss von Pharmaunternehmen, die gemeinsam agieren wollen."
+          },
+          "organizationEmails": [
+            "info@pharmainitiative-bayern.de"
+          ],
+          "websites": [
+            "www.pharmainitiative-bayern.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Yvonne",
+              "lastName": "Ziegler",
+              "function": "Lenkungskreismitglied",
+              "phoneNumber": "+499112730",
+              "organizationMemberEmails": [
+                "infoservice.novartis@novartis.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Leonie",
+              "lastName": "Uhl",
+              "function": "Lenkungskreismitglied",
+              "phoneNumber": "+49891490960",
+              "organizationMemberEmails": [
+                "governmentaffairs-germany@amgen.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Andreas",
+              "lastName": "Heigl",
+              "function": "Lenkungskreismitglied",
+              "phoneNumber": "+4915152627492",
+              "organizationMemberEmails": [
+                "andreas.heigl@servier.com"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Markus",
+              "lastName": "Born",
+              "function": "Lenkungskreismitglied",
+              "phoneNumber": "+49899269132",
+              "organizationMemberEmails": [
+                "born@lv-bayern.vci.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 13,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_MEDICINE",
+            "de": "Arzneimittel",
+            "en": "Medicine"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "akg-verhaltenskodex-22-04-2015-blanco.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/cf/81/4574/akg-verhaltenskodex-22-04-2015-blanco.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ]
+      }
+    },
     {
       "registerNumber": "R000547",
       "registerEntryDetail": {
@@ -16022,7 +16200,7 @@
     {
       "registerNumber": "R000476",
       "registerEntryDetail": {
-        "id": 365,
+        "id": 3187,
         "clientIdentity": "",
         "employeeCount": {
           "from": 81,
@@ -16398,13 +16576,18 @@
             {
               "commonFirstName": "Ulrike",
               "lastName": "Zimmer"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Sonja",
+              "lastName": "Wendenburg"
             }
           ],
           "members": 1900,
           "membersCountDate": "2022-01-18T00:00:00.000Z",
           "membershipEntries": [
             "American Chamber of Commerce in Germany e. V.",
-            "BDI - Bundeverband der Chemischen Industrie e. V.",
+            "BDI - Bundesverband der Deutschen Industrie e. V.",
             "Bundesvereinigung Materialwissenschaft und Werkstofftechnik e. V.",
             "CEPS - Centre for European Policy Studies",
             "DECHEMA - Gesellschaft für Chemische Technik und Biotechnologie e. V.",
@@ -16981,7 +17164,7 @@
             "type": "CODE_OF_CONDUCT",
             "media": {
               "fileName": "vci-compliance-leitfaden.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/1e/b1/3771/vci-compliance-leitfaden.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/29/0d/4584/vci-compliance-leitfaden.pdf",
               "mimeType": "application/pdf"
             }
           },
@@ -16989,7 +17172,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "VCI-Ergebnisrechnung2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/47/61/3772/VCI-Ergebnisrechnung2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/40/c5/4585/VCI-Ergebnisrechnung2020.pdf",
               "mimeType": "application/pdf"
             }
           }
