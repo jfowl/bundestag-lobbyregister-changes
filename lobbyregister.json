@@ -9,8 +9,1297 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 534,
+  "resultCount": 540,
   "results": [
+    {
+      "registerNumber": "R000545",
+      "registerEntryDetail": {
+        "id": 858,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000545",
+          "firstPublicationDate": "2022-02-16T09:52:49.000Z"
+        },
+        "activityDescription": "EPEGA hat den Zweck, die fachlichen Standesinteressen seiner Mitglieder zu wahren und zu fördern. Dazu gehören insbesondere die regelmäßige Information und Beratung der Mitglieder die Wahrnehmung ihrer gemeinsamen Interessen gegenüber wirtschaftlichen und behördlichen Stellen in Deutschland und in der Europäischen Union.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Vereinigung der Eier-, Wild- und Geflügelwirtschaft e.V. (EPEGA)",
+          "phoneNumber": "+492289596015",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "EPEGA",
+            "street": "Konrad-Zuse-Platz",
+            "streetNumber": "5",
+            "zipCode": "53227",
+            "city": "Bonn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@epega.org"
+          ],
+          "websites": [
+            "www.epega.org"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Wolfgang",
+              "lastName": "Christ",
+              "function": "Vorsitzender des Vorstandes",
+              "phoneNumber": "+4969590763",
+              "organizationMemberEmails": [
+                "wchrist@christ-fra.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christine",
+              "lastName": "Amling",
+              "function": "stellvertretende Vorsitzende und Geschäftsführerin",
+              "phoneNumber": "+492289596015",
+              "organizationMemberEmails": [
+                "amling@epega.org"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Franziska",
+              "lastName": "Ginthör-Reuber"
+            }
+          ],
+          "members": 68,
+          "membersCountDate": "2022-01-03T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Großhandel, Außenhandel, Dienstleistungen e.V. (BGA)",
+            "International Poultry Council (IPC)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_OTHER",
+            "de": "Sonstiges im Bereich „Landwirtschaft und Ernährung“",
+            "en": "Other in the field of “Agriculture and food”"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "EPEGA-Einnahmen-Ausgaben-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/33/5e/4516/EPEGA-Einnahmen-Ausgaben-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000544",
+      "registerEntryDetail": {
+        "id": 2036,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000544",
+          "firstPublicationDate": "2022-02-16T09:51:31.000Z"
+        },
+        "activityDescription": "Das philippinenbüro ist ein unabhängiges, soziopolitisches Informationszentrum. Unsere Aufgabe ist es, Interessierten aktuelle gesellschafts- und entwicklungspolitische Hintergründe und Zusammenhänge zu den Philippinen aufzuzeigen. Neben der Informations- und Bildungsarbeit zu aktuellen Entwicklungen in den Philippinen, vermittelt das Büro Kontakte zur philippinischen Zivilgesellschaft und fungiert als Dokumentationszentrum. \r\nUnser Verein steht in engem Austausch mit verschiedenen europäischen und philippinischen Nichtregierungsorganisationen, Netzwerken und Hilfswerken, die in den Philippinen oder zu Themen der Globalisierung tätig sind.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "philippinenbüro e.V.",
+          "phoneNumber": "+4922171612121",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Hohenzollernring",
+            "streetNumber": "52",
+            "zipCode": "50672",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "philippinenbuero@asienhaus.de"
+          ],
+          "websites": [
+            "www.philippinenbuero.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Mirjam",
+              "lastName": "Overhoff",
+              "function": "Geschäftsführung",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "mirjam.overhoff@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hannah",
+              "lastName": "Wolf",
+              "function": "stv. Geschäftsführung, Bildungsreferentin",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "hannah.wolf@philippinenbuero.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Angela",
+              "lastName": "Dencker",
+              "function": "Vorstand",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Mary",
+              "lastName": "Montemayor",
+              "function": "Vorstand",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Bernhard",
+              "lastName": "Höper",
+              "function": "Vorstand",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jasmine Grace",
+              "lastName": "Wenzel",
+              "function": "Vorstand",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Niggemann",
+              "function": "Vorstand",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Analie",
+              "lastName": "Neiteler",
+              "function": "Vorstand",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gebhard",
+              "lastName": "Körte",
+              "function": "Vorstand",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christina",
+              "lastName": "Keppel"
+            },
+            {
+              "commonFirstName": "Lisa",
+              "lastName": "Hölscher"
+            },
+            {
+              "commonFirstName": "Lorena",
+              "lastName": "Sirsch"
+            }
+          ],
+          "members": 169,
+          "membersCountDate": "2021-08-15T00:00:00.000Z",
+          "membershipEntries": [
+            "Aktionsbündnis Menschenrechte Philippinen (AMP)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_CULTURE",
+            "de": "Auswärtige Kultur- und Bildungspolitik",
+            "en": "Foreign cultural and educational policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+            "de": "Migration, Flüchtlingspolitik und Integration",
+            "en": "Migration, refugee policy and integration"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_MIGRATION",
+            "de": "Migration",
+            "en": "Migration and residence"
+          },
+          {
+            "code": "FOI_REFUGEE_INTEGRATION_POLICY|FOI_RPI_OTHER",
+            "de": "Sonstiges im Bereich „Migration, Flüchtlingspolitik und Integration“",
+            "en": "Other in the field of “Migration, refugee policy and integration”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Burobericht-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/5e/f5/4513/Burobericht-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000543",
+      "registerEntryDetail": {
+        "id": 534,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 40001,
+          "to": 50000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000543",
+          "firstPublicationDate": "2022-02-16T09:50:14.000Z"
+        },
+        "activityDescription": "Der Bundesverband der Gipsindustrie e.V. vertritt die Interessen der gipsabbauenden und gipsherstellenden Unternehmen in Deutschland. Er ist aus dem 1899 gegründeten Deutschen Gipsverein hervorgegangen und repräsentiert heute eine sowohl von mittelständischen als auch von großen Unternehmen geprägte Branche mit ca. 7.000 Mitarbeitern.\r\n\r\nZu den Aufgaben des Verbands gehört die Darstellung der Vorteile des Baustoffs Gips sowie der modernen Trocken- und Leichtbauweisen mit Gips in der Fachwelt ebenso wie in der breiten Öffentlichkeit. Die Forschung und Entwicklung für neue Anwendungsmöglichkeiten des Materials, für nachhaltige, ressourcenschonende Herstellungs- und Veredelungstechniken sowie für den bauphysikalisch und technisch optimalen Einsatz in Gebäuden wird begleitet, koordiniert und mit ihren Ergebnissen kommuniziert. Der Bundesverband der Gipsindustrie e.V. engagiert sich in der nationalen sowie europäischen Normung. Er positioniert sich darüber hinaus in  den Diskussionen zu den gesetzlichen Rahmenbedingungen der Bauwirtschaft, der Rohstoffgewinnung sowie dem Umwelt- und Naturschutz.\r\n\r\nBei all diesen Aufgaben kann er auf das fundierte Wissen und die umfangreichen Erfahrungen der Mitgliedsunternehmen zurückgreifen, steht doch die deutsche Gipsindustrie für gleichbleibend hohe Spitzenleistungen in der Produktion ihrer Gipsbaustoffe und Qualitätsgipse, für die Schonung von Umwelt- und Rohstoffressourcen, z.B. durch den Einsatz Recycling-Gips oder von Nebenprodukten wie REA-Gips, für eine an strenge Auflagen gebundene Gewinnungs- und Veredelungstechnik zur Reduktion des Primärenergiebedarfs sowie bei der Erarbeitung von konsensgetragenen Maßnahmen zur Renaturierung und Rekultivierung.\r\n\r\nIhre hauptsächliche Anwendung finden Gipsprodukte im Bauwesen und hier vor allem im Innenausbau mit modernen Trocken- und Leichtbauweisen. Eine Schlüsselrolle spielen dabei verschiedene Gips-Fertigelemente wie Gipsplatten, Gipsfaserplatten oder Gips-Wandbauplatten, mit denen sich leichte raumbegrenzende Konstruktionen im zeitgemäßen Trockenbau für Wände, Decken und Böden beim Gebäude- und Dachgeschossausbau errichten lassen. Für das Flächenfinish werden Baugipse, heute überwiegend in Form von Gips-Trockenmörteln, eingesetzt, etwa als Gipsputze und Gipsspachtel. Ausgezeichnete Leistungseigenschaften für Fußböden bieten darüber hinaus Calciumsulfat-Fließestriche. Außerhalb der Bauwirtschaft kommen Spezialgipse zudem in sehr unterschiedlichen Wirtschaftsbereichen und Industriezweigen mit rein quantitativ kleineren Mengen, aber qualitativ großer Bedeutung zum Einsatz, zum Beispiel im Modell- und Formenbau oder in den Bereichen Landwirtschaft, Ernährung und Medizin.\r\n\r\nDie verschiedenen Industriegruppen des Bundesverbands stehen jeweils für bestimmte Produkt- und Anwendungslösungen des Naturbaustoffs Gips und engagieren sich vor allem in der verarbeitungstechnischen Praxis, etwa mit der Erarbeitung von Merkblättern, Informationsdiensten und anderen Publikationen.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Gipsindustrie e.V.",
+          "phoneNumber": "+4930311698220",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Kochstr.",
+            "streetNumber": "6-7",
+            "zipCode": "10969",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@gips.de"
+          ],
+          "websites": [
+            "www.gips.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl. -Kfm.",
+              "commonFirstName": "Thomas",
+              "lastName": "Bremer",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4930311698220",
+              "organizationMemberEmails": [
+                "info@gips.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Dorn",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+4930311698220",
+              "organizationMemberEmails": [
+                "info@gips.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jörg",
+              "lastName": "Brinkmann",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+4930311698220",
+              "organizationMemberEmails": [
+                "info@gips.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Holger",
+              "lastName": "Ortleb"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Hans-Jörg",
+              "lastName": "Kersten"
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Doris",
+              "lastName": "Pfeffermann"
+            },
+            {
+              "commonFirstName": "Alexandra",
+              "lastName": "Schoone"
+            }
+          ],
+          "members": 12,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband Baustoffe - Steine und Erden e.V.",
+            "Unternehmerverbände Niedersachsen e.V.",
+            "Wirtschaftsrat der CDU e.V.",
+            "Deutsche Gesellschaft für Nachhaltiges Bauen e.V.",
+            "Institut für Bauen und Umwelt e.V.",
+            "Förderverein Bundesstiftung Baukultur e.V.",
+            "Aktion \"Impulse für den Wohnungsbau\""
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_HANDCRAFT",
+            "de": "Handwerk",
+            "en": "Handcraft"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Rohstoffsicherung, Raumplanung, Recycling, Leichtbau, Circular Economy"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_COUNTRYSIDE",
+            "de": "Ländlicher Raum",
+            "en": "Rural area"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_OTHER",
+            "de": "Sonstiges im Bereich „Raumordnung, Bau- und Wohnungswesen“",
+            "en": "Other in the field of “Spatial planning, construction and housing”"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/63/17/4512/Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000542",
+      "registerEntryDetail": {
+        "id": 1303,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 560001,
+          "to": 570000,
+          "fiscalYearStart": "10/20",
+          "fiscalYearEnd": "09/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000542",
+          "firstPublicationDate": "2022-02-16T09:43:30.000Z"
+        },
+        "activityDescription": "Die Reemtsma Cigarettenfabriken GmbH ist ein deutsches Tabakunternehmen mit Sitz in Hamburg und beschäftigt in Deutschland über 1.600 Mitarbeiter. Seit 2002 sind wir ein Teil der  Unternehmensgruppe Imperial Brands mit Sitz in Bristol (UK). Zu den Produkten von Reemtsma zählen neben klassischen Tabakwaren (Zigaretten und Feinschnitttabak) sowie Zubehör (Zigarettenpapier, Filter und Hülsen) auch neuartige Produktalternativen mit potenziell deutlich geringeren gesundheitlichen Risiken, namentlich E-Zigaretten und Kautabak.\r\nFür Reemtsma ist klar: Die Gesellschaft und das damit verbundene Image klassischer Tabakprodukte wandeln sich. Das hat direkte Auswirkungen auf unsere Branche und unser Geschäftsmodell. Diesem Wandel stellen wir uns und möchten ihn auch im Dialog mit Vertretern von Politik, Regierung, Behörden und Zivilgesellschaft aktiv mitgestalten.\r\nDenn als verantwortungsvoller Konsumgüterhersteller wissen wir um die Rolle, die wir als Unternehmen bei der Erreichung von mehr Nachhaltigkeit in Wirtschaft und Gesellschaft spielen. Eine wesentliche Bedingung für verantwortungsvolles Verhalten ist es für uns, transparent zu arbeiten und zu kommunizieren. Dies gilt insbesondere für unsere Kommunikation mit Politik und Zivilgesellschaft. \r\nWir zeigen Offenheit im Handeln und bei neuen Strategien, bringen uns mit Expertise in aktuelle Debatten sowie Gesetzes- und Willensbildungsprozesse ein und scheuen dabei auch keine kontroversen, faktenbasierten und zielorientierten Diskussionen. Integres, offenes, ehrliches und professionelles Handeln ist dabei für uns eine Selbstverständlichkeit.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_ORGANIZATION",
+          "de": "Unternehmen",
+          "en": "Company"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "REEMTSMA Cigarettenfabriken GmbH",
+          "phoneNumber": "+494082200",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Max-Born-Straße ",
+            "streetNumber": "4",
+            "zipCode": "22761",
+            "city": "Hamburg",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_GMBH",
+            "code_de": "Gesellschaft mit beschränkter Haftung (GmbH); auch gemeinnützige GmbH (gGmbH)",
+            "code_en": "Limited liability company (GmbH); also non-profit GmbH (gGmbH)",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "corporate.affairs@reemtsma.de"
+          ],
+          "websites": [
+            "https://www.reemtsma.com/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Carsten",
+              "lastName": "Wehrmann",
+              "function": "General Manager Cluster D-A-CH und Sprecher des Vorstands, Sprecher der Geschäftsführung",
+              "phoneNumber": "+494082200",
+              "organizationMemberEmails": [
+                "corporate.affairs@reemtsma.de"
+              ]
+            },
+            {
+              "commonFirstName": "Anja",
+              "lastName": "Gräfe",
+              "function": "People & Culture Director Germany & Cluster DACH, Geschäftsführerin",
+              "phoneNumber": "+494082200",
+              "organizationMemberEmails": [
+                "corporate.affairs@reemtsma.de"
+              ]
+            },
+            {
+              "commonFirstName": "Rémi",
+              "lastName": "Guillon",
+              "function": "Director Planning & Supply, Geschäftsführer",
+              "phoneNumber": "+494082200",
+              "organizationMemberEmails": [
+                "corporate.affairs@reemtsma.de"
+              ]
+            },
+            {
+              "commonFirstName": "Moritz",
+              "lastName": "Stucki",
+              "function": "Chief Financial Officer, Geschäftsführer",
+              "phoneNumber": "+494082200",
+              "organizationMemberEmails": [
+                "corporate.affairs@reemtsma.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jared",
+              "lastName": "Wiener",
+              "function": "Supply Chain Director AAA, Geschäftsführer",
+              "phoneNumber": "+494082200",
+              "organizationMemberEmails": [
+                "corporate.affairs@reemtsma.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Eva",
+              "lastName": "Schobeß-Stein",
+              "function": "Head of Legal & Compliance, Prokuristin",
+              "phoneNumber": "+494082200",
+              "organizationMemberEmails": [
+                "corporate.affairs@reemtsma.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Julian",
+              "lastName": "Stürcken"
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Cordes"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thomas",
+              "lastName": "Nahde"
+            },
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Bargon"
+            }
+          ],
+          "membershipEntries": [
+            "BVTE Bundesverband der Tabakwirtschaft und neuartiger Erzeugnisse e.V.",
+            "DZV Deutscher Zigarettenverband e.V.",
+            "Grüner Wirtschaftsdialog e.V.",
+            "Markenverband e.V.",
+            "Wirtschaftsforum der SPD e.V.",
+            "Wirtschaftsrat der CDU e.V.",
+            "Bundesverband der Energie-Abnehmer e.V.",
+            "VZI Verband der Zigarettenpapier verarbeitenden Industrie e.V.",
+            "Industrieverband Hamburg e.V.",
+            "Deutscher Verband der Aromaindustrie e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_INDUSTRY",
+            "de": "Lebens- und Genussmittelindustrie",
+            "en": "Food and luxury food industry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FOOD_SAFETY",
+            "de": "Lebensmittelsicherheit",
+            "en": "Food safety"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          },
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of “Bundestag”"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_CONSUMER_PROTECTION",
+            "de": "Verbraucherschutz",
+            "en": "Consumer protection"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_COOPERATION",
+            "de": "Polizeiliche und justizielle Zusammenarbeit in der EU",
+            "en": "Police and judicial cooperation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CRIME",
+            "de": "Kriminalitätsbekämpfung",
+            "en": "Fight against crime"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_ADVERTISEMENT",
+            "de": "Werbung",
+            "en": "Advertising"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_OTHER",
+            "de": "Sonstiges im Bereich „Medien, Kommunikation und  Informationstechnik“",
+            "en": "Other in the field of “Media, communication and information technology”"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Reemtsma-Jahresabschluss-Bundesanzeiger.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/e8/e3/4504/Reemtsma-Jahresabschluss-Bundesanzeiger.pdf",
+              "mimeType": "application/pdf"
+            }
+          },
+          {
+            "type": "CODE_OF_CONDUCT",
+            "media": {
+              "fileName": "Verhaltenskodex-Reemtsma.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/aa/b8/4505/Verhaltenskodex-Reemtsma.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000541",
+      "registerEntryDetail": {
+        "id": 2492,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000541",
+          "firstPublicationDate": "2022-02-16T09:39:20.000Z"
+        },
+        "activityDescription": "a) Erarbeitung agrarpolitischer Erfordernisse für die Schafhaltung, \r\nb) Zusammenarbeit mit Behörden, berufsständischen Organisationen und \r\nVermarktungsorganisationen in der Schafhaltung. \r\nc) Durchführung von Versammlungen, Lehrgängen, Leistungshüten, Vorträgen, Mitarbeit in \r\nder Fachpresse, Ausrichtung von Ausstellungen. \r\nd) Durchführung von Maßnahmen zur Erhaltung der Kulturlandschaft. \r\ne) Aus- und Fortbildung von Schafhaltern. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Dachverband der Bayerischen Schaf- und Ziegenzuchtverbände e.V.",
+          "phoneNumber": "+4989536226",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Senator-Gerauer-Str.",
+            "streetNumber": "23a",
+            "zipCode": "85586",
+            "city": "Poing-Grub",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "dachverband@t-online.de"
+          ],
+          "websites": [
+            "www.derbayerischeschafhalter.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Joseph",
+              "lastName": "Grasegger",
+              "function": "1. Vorstand",
+              "phoneNumber": "+4989536226",
+              "organizationMemberEmails": [
+                "dachverband@t-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Bartl",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4989536226",
+              "organizationMemberEmails": [
+                "dachverband@t-online.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 8,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Keine Umsätze für 2021"
+      }
+    },
+    {
+      "registerNumber": "R000540",
+      "registerEntryDetail": {
+        "id": 2484,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000540",
+          "firstPublicationDate": "2022-02-16T09:35:10.000Z"
+        },
+        "activityDescription": "a) Erarbeitung agrarpolitischer Erfordernisse für die Schafhaltung, \r\nb) Zusammenarbeit mit Behörden, berufsständischen Organisationen und \r\nVermarktungsorganisationen in der Schafhaltung. \r\nc) Durchführung von Versammlungen, Lehrgängen, Leistungshüten, Vorträgen, Mitarbeit in \r\nder Fachpresse, Ausrichtung von Ausstellungen. \r\nd) Durchführung von Maßnahmen zur Erhaltung der Kulturlandschaft. \r\ne) Aus- und Fortbildung von Schafhaltern. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Landesverband Bayerischer Schafhalter e.V.",
+          "phoneNumber": "+4989536226",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Senator-Gerauer-Str.",
+            "streetNumber": "23a",
+            "zipCode": "85586",
+            "city": "Poing-Grub",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "lv.schafeby@t-online.de"
+          ],
+          "websites": [
+            "www.derbayerischeschafhalter.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Joseph",
+              "lastName": "Grasegger",
+              "function": "1. Vorstand",
+              "phoneNumber": "+49536226",
+              "organizationMemberEmails": [
+                "lv.schafeby@t-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Klemens",
+              "lastName": "Ross",
+              "function": "2. Vorstand",
+              "phoneNumber": "+4989536226",
+              "organizationMemberEmails": [
+                "lv.schafeby@t-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Robert",
+              "lastName": "Drexel",
+              "function": "2. Vorstand",
+              "phoneNumber": "+4989536226",
+              "organizationMemberEmails": [
+                "lv.schafeby@t-online.de"
+              ]
+            },
+            {
+              "commonFirstName": "Martin",
+              "lastName": "Bartl",
+              "function": "Geschäftsführer",
+              "phoneNumber": "+4989536226",
+              "organizationMemberEmails": [
+                "lv.schafeby@t-online.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 1421,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Dachverband der Bayerischen Schaf- und Ziegenzuchverbände e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": false,
+        "missingAnnualReportReason": "Jahresabschluss wird vermutlich im Mai des Folgejahres erstellt."
+      }
+    },
     {
       "registerNumber": "R000539",
       "registerEntryDetail": {
@@ -93562,7 +94851,7 @@
     {
       "registerNumber": "R000091",
       "registerEntryDetail": {
-        "id": 240,
+        "id": 3161,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -93570,8 +94859,8 @@
         },
         "refuseFinancialExpensesInformation": false,
         "financialExpensesEuro": {
-          "from": 580001,
-          "to": 590000,
+          "from": 0,
+          "to": 0,
           "fiscalYearStart": "01/20",
           "fiscalYearEnd": "12/20"
         },
@@ -93690,7 +94979,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "Bilanz-GuV-31-12-2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/4d/2a/895/Bilanz-GuV-31-12-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/43/63/4498/Bilanz-GuV-31-12-2020.pdf",
               "mimeType": "application/pdf"
             }
           }
