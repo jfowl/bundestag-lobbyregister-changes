@@ -9,8 +9,324 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 526,
+  "resultCount": 527,
   "results": [
+    {
+      "registerNumber": "R000532",
+      "registerEntryDetail": {
+        "id": 732,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 10001,
+          "to": 20000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000532",
+          "firstPublicationDate": "2022-02-16T08:19:01.000Z"
+        },
+        "activityDescription": "Die Arbeitsgemeinschaft für wirtschaftliche Verwaltung e.V. (AWV) ist das zentrale Forum in Deutschland, das aktuelle Fragen rund um das Thema Wirtschaftlichkeit in der Verwaltung von Staat und Unternehmen aufgreift. Erklärtes Ziel dabei ist es, Antworten auf die Anforderungen eines permanenten Aufgaben- und Technologiewandels zu liefern, und so eine reibungslose, effiziente Verwaltung zu fördern. Sie wird dabei vom Bundesministerium für Wirtschaft und Klimaschutz aufgrund eines Beschlusses des Deutschen Bundestages gefördert.\r\n\r\nMit über 200 Mitgliedsunternehmen und -einrichtungen und mehr als 1.200 ehrenamtlichen Expertinnen und Experten arbeiten wir an der Entwicklung zukunftswirksamer Regeln und Verfahren, die Verwaltungskosten reduzieren und den Nutzen für Wirtschaft und Verwaltung optimieren. Im Rahmen von Arbeitskreisen wirken hierfür Kooperationspartner aus öffentlicher Verwaltung, Wirtschaft und Drittem Sektor - unter Beteiligung der Wissenschaft - aktiv zusammen. Die AWV versteht sich dabei als neutraler Mittler zwischen den Sektoren und lässt sich vom Gedanken einer Partnerschaft zwischen Wirtschaft und Verwaltung leiten.\r\nDie Ergebnisse unserer Arbeit - z.B. Richtlinien, Praxisleitfäden und Gutachten - stellen wir im Rahmen von Seminaren, Workshops, Konferenzen und Kongressen sowie in unseren Publikationen zur Verfügung.\r\n\r\nIm Rahmen der fachlichen Arbeit entstehen auch Stellungnahmen und Positionspapiere. Diese werden in der Regel direkt im Rahmen der Facharbeit bearbeitet und umgesetzt. Im Einzelfall werden Stellungnahmen auch an Bundesministerien oberhalb der Referatsebene gerichtet.\r\n\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Arbeitsgemeinschaft für wirtschaftliche Verwaltung - AWV e.V.",
+          "phoneNumber": "+4961967772626",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Düsseldorfer Straße ",
+            "streetNumber": "40",
+            "zipCode": "65760",
+            "city": "Eschborn",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "naujokat@awv-net.de"
+          ],
+          "websites": [
+            "www.awv-net.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Werner",
+              "lastName": "Schmidt",
+              "function": "Präsident",
+              "phoneNumber": "+496196777260",
+              "organizationMemberEmails": [
+                "naujokat@awv-net.de"
+              ]
+            },
+            {
+              "commonFirstName": "Christoph",
+              "lastName": "Verenkotte",
+              "function": "Vizepräsident",
+              "phoneNumber": "+496196777260",
+              "organizationMemberEmails": [
+                "naujokat@awv-net.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Roland",
+              "lastName": "Wirth"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Ulrich",
+              "lastName": "Naujokat"
+            }
+          ],
+          "members": 201,
+          "membersCountDate": "2022-02-02T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesverband der Dienstleister für Online Anbieter BDOA e.V.",
+            "Deutsche Gesellschaft für Recht und Informatik e.V.",
+            "Deutscher Verein für öffentliche und private Fürsorge e.V.",
+            "Deutsche Gesellschaft für Information und Wissen e.V. (DGI)",
+            "Finsoz e.V. Fachverband Informationstechnologie",
+            "fir - Forschungsinstitut für Rationalisierung e. V.",
+            "Wirtschaftsverband Kopie & Medientechnik e.V.",
+            "gfo gesellschaft für organisation e.V.",
+            "REFA Bundesverband e. V.",
+            "TeleTrusT - Bundesverband IT-Sicherheit e. V.",
+            "VOI Verband Organisations- und Informationssysteme e.V.",
+            "Fachverband für Multimediale Informationsverarbeitung e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+            "description": "Die Arbeitsgemeinschaft für wirtschaftliche Verwaltung e.V. (AWV) fördert Wissenschaft und Forschung auf dem Gebiet der wirtschaftlichenGestaltung von Verwaltungsabläufen.\r\n\r\nZiel der Facharbeit der AWV ist es, der Wirtschafts- und Verwaltungspraxis in Unternehmen und Behörden unmittelbar verwertbare Vereinfachungen und Problemlösungen zu vermitteln. Dabei bedient sie sich der Erkenntnisse, die sie in Fachausschüssen, Arbeitskreisen und Projektgruppen gewonnen hat, in denen Fachleute der privaten Wirtschaft und der öffentlichen Hand ihre Erfahrungen zur Verfügung stellen.",
+            "location": "Berlin",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 1360001,
+              "to": 1370000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_ECOMMERCE",
+            "de": "E-Commerce",
+            "en": "E-commerce"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_FINANCE",
+            "de": "Bank- und Finanzwesen",
+            "en": "Banking and finance"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SERVICES",
+            "de": "Handel und Dienstleistungen",
+            "en": "Trade and services"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COMMUNICATION",
+            "de": "Kommunikations- und Informationstechnik",
+            "en": "Communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_OTHER",
+            "de": "Sonstiges im Bereich „Medien, Kommunikation und  Informationstechnik“",
+            "en": "Other in the field of “Media, communication and information technology”"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_PRIVACY",
+            "de": "Datenschutz und Informationssicherheit",
+            "en": "Data protection and information security"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_ORGANIZATION",
+            "de": "Staatsorganisation",
+            "en": "State organization"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_OTHER",
+            "de": "Sonstiges im Bereich „Staat und Verwaltung“",
+            "en": "Other in the field of “Government and administration”"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_ADMINISTRATION",
+            "de": "Verwaltungstransparenz/Open Government",
+            "en": "Public administration"
+          },
+          {
+            "code": "FOI_STATE_ADMIN|FOI_SA_PUBLIC_SERVICE",
+            "de": "Öffentlicher Dienst und öffentliche Verwaltung",
+            "en": "Public service"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_ACCIDENT",
+            "de": "Unfallversicherung",
+            "en": "Accident insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OTHER",
+            "de": "Sonstiges im Bereich „Soziale Sicherung“",
+            "en": "Other in the field of “Social security”"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_UNEMPLOYMENT",
+            "de": "Arbeitslosenversicherung",
+            "en": "Unemployment insurance"
+          },
+          {
+            "code": "FOI_STATE_ADMIN",
+            "de": "Staat und Verwaltung",
+            "en": "Government and administration"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true,
+        "refuseAnnualFinanceStatementReason": "Jahresabschluss und Rechenschaftsbericht liegen dem Zuwendungsgeber BMWK vor."
+      }
+    },
     {
       "registerNumber": "R000531",
       "registerEntryDetail": {
