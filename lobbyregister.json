@@ -9,8 +9,553 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 531,
+  "resultCount": 534,
   "results": [
+    {
+      "registerNumber": "R000539",
+      "registerEntryDetail": {
+        "id": 2213,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 180001,
+          "to": 190000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000539",
+          "firstPublicationDate": "2022-02-16T09:13:54.000Z"
+        },
+        "activityDescription": "Unser Verein verhilft den Landwirten und der ländlichen Bevölkerung innerhalb unseres Wirkungskreises zur Wahrung ihrer wirtschaftlichen, sozialen, kulturellen, steuerlichen und rechtlichen Interessen nach Maßgabe der gültigen Gesetze (inkl. außergerichtliche sowie gerichtliche Vertretung).Wir beraten und vertreten unsere Mitglieder, um ihre wirtschaftliche Existenz zu fördern und zu sichern. Auch die Nachwuchsförderung wird durch unseren Verein unterstützt. All dies geschieht ausschließlich durch Finanzierung von Mitgliedsbeiträgen; unser Verein ist parteipolitisch und konfessionell neutral.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Kreislandvolkverband Friesland e.V.",
+          "phoneNumber": "+49440198050",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Albrecht-Thaer-Str.",
+            "streetNumber": "2",
+            "zipCode": "26939",
+            "city": "Ovelgönne",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "kreislandvolk.friesland@ewetel.net"
+          ],
+          "websites": [
+            "www.kreislandvolk-friesland.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Hartmut",
+              "lastName": "Seetzen",
+              "function": "1. Vorsitzender",
+              "phoneNumber": "+49440198050",
+              "organizationMemberEmails": [
+                "kreislandvolk.friesland@ewetel.net"
+              ]
+            },
+            {
+              "commonFirstName": "Gerke",
+              "lastName": "Albers",
+              "function": "stellvertretender Vorsitzender",
+              "phoneNumber": "+49440198050",
+              "organizationMemberEmails": [
+                "kreislandvolk.friesland@ewetel.net"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Manfred",
+              "lastName": "Ostendorf"
+            }
+          ],
+          "members": 712,
+          "membersCountDate": "2022-02-07T00:00:00.000Z",
+          "membershipEntries": [
+            "Arbeitgeberverband",
+            "Initiative Echt grün- Eure Landwirte",
+            "Landvolk Niedersachsen - Landesbauernverband"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "vorl-JA-2020-KLV-Friesland.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/bb/55/4484/vorl-JA-2020-KLV-Friesland.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000538",
+      "registerEntryDetail": {
+        "id": 958,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 0,
+          "to": 0,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000538",
+          "firstPublicationDate": "2022-02-16T09:07:04.000Z"
+        },
+        "activityDescription": "Dem Bundesarbeitgeberverband Glas und Solar e.V. obliegt als Berufsverband die Wahrung, Förderung und Vertretung der Interessen seiner Mitglieder in Bezug auf ihre sozialpolitischen, tariflichen und arbeitsrechtlichen Belange. Hierzu gehört insbesondere der Abschluss von Tarifverträgen.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_EMPLOYER_ASSOC",
+          "de": "Arbeitgeberverband",
+          "en": "Employers association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesarbeitgeberverband Glas und Solar e. V. ",
+          "phoneNumber": "+498941119430",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Max-Joseph-Straße",
+            "streetNumber": "5",
+            "zipCode": "80333",
+            "city": "München",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bagv.de"
+          ],
+          "websites": [
+            "https://www.bagv.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Harms",
+              "lastName": "Lefnaer",
+              "function": "Hauptgeschäftsführer",
+              "phoneNumber": "+498941119430",
+              "organizationMemberEmails": [
+                "info@bagv.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gernot",
+              "lastName": "Orben",
+              "function": "Vizepräsident",
+              "phoneNumber": "+498941119430",
+              "organizationMemberEmails": [
+                "info@bagv.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hans-Peter",
+              "lastName": "Langer",
+              "function": "Präsident",
+              "phoneNumber": "+498941119430",
+              "organizationMemberEmails": [
+                "info@bagv.de"
+              ]
+            },
+            {
+              "commonFirstName": "Nikolaus",
+              "lastName": "Wiegand",
+              "function": "Vizepräsident",
+              "phoneNumber": "+49894111430",
+              "organizationMemberEmails": [
+                "info@bagv.de"
+              ]
+            },
+            {
+              "commonFirstName": "Marcus",
+              "lastName": "Mosner",
+              "function": "Vizepräsident",
+              "phoneNumber": "+498941119430",
+              "organizationMemberEmails": [
+                "info@bagv.de"
+              ]
+            },
+            {
+              "commonFirstName": "Maik",
+              "lastName": "Cebulla",
+              "function": "Vizepräsident",
+              "phoneNumber": "+498941119430",
+              "organizationMemberEmails": [
+                "info@bagv.de"
+              ]
+            },
+            {
+              "commonFirstName": "Heiko",
+              "lastName": "Probst",
+              "function": "Vizepräsident",
+              "phoneNumber": "+498941119430",
+              "organizationMemberEmails": [
+                "info@bagv.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Julian",
+              "lastName": "Henning"
+            },
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "Amann"
+            },
+            {
+              "commonFirstName": "Natascha",
+              "lastName": "Arbes"
+            },
+            {
+              "commonFirstName": "Vanessa",
+              "lastName": "Werner"
+            },
+            {
+              "commonFirstName": "Frederike",
+              "lastName": "Reichhold"
+            },
+            {
+              "commonFirstName": "Gilbert",
+              "lastName": "Wittig"
+            }
+          ],
+          "members": 116,
+          "membersCountDate": "2022-01-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Bundesvereinigung der Deutschen Arbeitgeberverbände",
+            "Vereinigung der Bayerischen Wirtschaft"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY",
+            "de": "Soziale Sicherung",
+            "en": "Social security"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_ACCIDENT",
+            "de": "Unfallversicherung",
+            "en": "Accident insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_HEALTH",
+            "de": "Krankenversicherung",
+            "en": "Health insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_LONGTERM",
+            "de": "Pflegeversicherung",
+            "en": "Long term care"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_OLD_AGE",
+            "de": "Rente/Alterssicherung",
+            "en": "Old-age insurance"
+          },
+          {
+            "code": "FOI_SOCIAL_SECURITY|FOI_SS_UNEMPLOYMENT",
+            "de": "Arbeitslosenversicherung",
+            "en": "Unemployment insurance"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_OTHER",
+            "de": "Sonstiges im Bereich „Arbeit und Beschäftigung“",
+            "en": "Other in the field of “Work and employment”"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_RIGHT",
+            "de": "Arbeitsrecht/Arbeitsbedingungen",
+            "en": "Work right"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresabschluss-2020-BAGV-2021-02-23.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f3/52/4480/Jahresabschluss-2020-BAGV-2021-02-23.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000537",
+      "registerEntryDetail": {
+        "id": 802,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/21",
+          "fiscalYearEnd": "12/21"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000537",
+          "firstPublicationDate": "2022-02-16T09:06:58.000Z"
+        },
+        "activityDescription": "Zweck des LJV ist es, das gesamte Jagdwesen, den Tier- und Naturschutz, den Wildtierschutz, die Jagdwissenschaft, jagdliche Kultur und Brauchtum sowie die Aus- und Weiterbildung der Jägerschaft nachhaltig zu fördern und zu sichern. Diese Zwecke werden insbesondere verwirklicht durch die Förderung des Artenschutzes mit geeigneten Maßnahmen zur Erhaltung artenreicher, gesunder und den landeskulturellen Verhältnissen angepasster Wildtierbestände, des Tierschutzes durch tierschutzgerechte Jagd sowie die Bekämpfung von Wildkrankheiten, des Naturschutzes und der Landschaftspflege, insbesondere als anerkannter Naturschutzverband, des Biotopschutzes durch die Sicherung und Pflege der Lebensräume wild lebender Tierarten, der jagdlichen Kultur und des Brauchtums, des jagdlichen Schrifttums, jagdkultureller Einrichtungen sowie der Fortentwicklung der allgemein anerkannten Grundsätze deutscher Waidgerechtigkeit, des jagdlichen Schießens und Jagdhornblasens, der Führung und Prüfung brauchbarer Jagdhunde, der Übernahme hoheitlicher Aufgaben durch Beleihung, des Natur- und Umweltbewusstseins junger Menschen, insbesondere in außer-schulischen Lernorten, von Wissenschaft und Forschung durch Anregungen und Hingabe zweckgebundener Mittel im Rahmen der steuerrechtlichen Regelung, der Wildbrethygiene als Verbraucherschutz, des Wildtiermanagements und des Wildtiermonitorings, der nachhaltigen Nutzung von Wildtieren sowie durch Zusammenarbeit mit den jeweiligen Landesverbänden der Jagdgenossenschaften und Eigenjagdbesitzer, der Land- und Forstwirtschaft, der Falknerei, der Fischerei und des Natur-, Umwelt- und Tierschutzes und durch Beratung von Regierung, Parlament und Behörden in Fragen der Jagd, des Waffenrechts, des Natur-, Umwelt- und Tierschutzes sowie der Mitgliedsvereine und deren Mitglieder. ",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Landesjagdverband Baden-Württemberg e.V. ",
+          "phoneNumber": "+497119958990",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Felix-Dahn-Strasse ",
+            "streetNumber": "41",
+            "zipCode": "70597",
+            "city": "Stuttgart ",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@landesjagdverband.de"
+          ],
+          "websites": [
+            "www.landesjagdverband.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr. ",
+              "commonFirstName": "Jörg ",
+              "lastName": "Friedmann  ",
+              "function": "Vorsitzender  ",
+              "phoneNumber": "+497119958990",
+              "organizationMemberEmails": [
+                "info@landesjagdverband.de"
+              ]
+            },
+            {
+              "commonFirstName": "Wolf",
+              "lastName": "Riedl  ",
+              "function": "Stv. Vorsitzender ",
+              "phoneNumber": "+497119958990",
+              "organizationMemberEmails": [
+                "info@landesjagdverband.de"
+              ]
+            },
+            {
+              "commonFirstName": "Claus ",
+              "lastName": "Kissel ",
+              "function": "2. Stv. Vorsitzender ",
+              "phoneNumber": "+497119958990",
+              "organizationMemberEmails": [
+                "info@landesjagdverband.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Regina ",
+              "lastName": "Merklein "
+            }
+          ],
+          "members": 33000,
+          "membersCountDate": "2021-01-01T00:00:00.000Z",
+          "membershipEntries": [
+            "Deutscher Jagdverband e.V.  "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [
+          {
+            "name": "Ministerium für Ernährung, Ländlicher Raum und Verbraucherschutz Baden-Württemberg  ",
+            "description": "Jagdabgabe zur Verwendung für Jagdförderung, jagdliche und wildbiologische Forschung, Wildschadensverhütung\r\n(§ 28 Jagd-und Wildtiermanagementgesetz BW) ",
+            "location": "Stuttgart ",
+            "fiscalYearStart": "01/21",
+            "fiscalYearEnd": "12/21",
+            "donationEuro": {
+              "from": 770001,
+              "to": 780000
+            },
+            "categoryType": "PUBLIC_ALLOWANCES"
+          }
+        ],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_CULTURE",
+            "de": "Kultur",
+            "en": "Culture"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_ANIMAL",
+            "de": "Tierschutz",
+            "en": "Animal welfare"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Wild und Jagd "
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Jahresbschluss-LJV-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/03/be/4479/Jahresbschluss-LJV-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000536",
       "registerEntryDetail": {
