@@ -9,8 +9,1168 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 528,
+  "resultCount": 531,
   "results": [
+    {
+      "registerNumber": "R000536",
+      "registerEntryDetail": {
+        "id": 2202,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 350001,
+          "to": 360000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": true,
+        "refusePublicAllowanceInformationReason": "",
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000536",
+          "firstPublicationDate": "2022-02-16T08:48:06.000Z"
+        },
+        "activityDescription": "Unser Verein verhilft den Landwirten und der ländlichen Bevölkerung innerhalb unseres Wirkungskreises zur Wahrung ihrer wirtschaftlichen, sozialen, kulturellen, steuerlichen und rechtlichen Interessen nach Maßgabe der gültigen Gesetze (inkl. außergerichtliche sowie gerichtliche Vertretung).Wir beraten und vertreten unsere Mitglieder, um ihre wirtschaftliche Existenz zu fördern und zu sichern. Auch die Nachwuchsförderung wird durch unseren Verein unterstützt. All dies geschieht ausschließlich durch Finanzierung von Mitgliedsbeiträgen; unser Verein ist parteipolitisch und konfessionell neutral.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PROFESSION_ASSOC",
+          "de": "Berufsverband",
+          "en": "Professional association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Kreislandvolkverband Wesermarsch e.V.",
+          "phoneNumber": "+49440198050",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Albrecht-Thaer-Str.",
+            "streetNumber": "2",
+            "zipCode": "26939",
+            "city": "Ovelgönne",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "kreislandvolk@klv-wesermarsch.de"
+          ],
+          "websites": [
+            "www.klv-wesermarsch.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Karsten",
+              "lastName": "Padeken",
+              "function": "1. Vorsitzender",
+              "phoneNumber": "+49440198050",
+              "organizationMemberEmails": [
+                "kreislandvolk@klv-wesermarsch.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Manfred",
+              "lastName": "Ostendorf"
+            }
+          ],
+          "members": 1771,
+          "membersCountDate": "2022-02-07T00:00:00.000Z",
+          "membershipEntries": [
+            "Arbeitgeberverband",
+            "Initiative Echt Grün- Eure Landwirte",
+            "Landvolk Niedersachsen - Landesbauernverband"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_AGRICULTURE_FOOD|FOI_AF_FORESTRY",
+            "de": "Land- und Forstwirtschaft",
+            "en": "Agriculture and forestry"
+          },
+          {
+            "code": "FOI_AGRICULTURE_FOOD",
+            "de": "Landwirtschaft und Ernährung",
+            "en": "Agriculture and food"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "vorl-JA-2020-KLV-Wesermarsch.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/e6/bf/4473/vorl-JA-2020-KLV-Wesermarsch.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000535",
+      "registerEntryDetail": {
+        "id": 2019,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 11,
+          "to": 20
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1800001,
+          "to": 1810000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000535",
+          "firstPublicationDate": "2022-02-16T08:39:52.000Z"
+        },
+        "activityDescription": "Zwecke des Verbandes sind die Förderung des öffentlichen Gesundheitswesens und der öffentlichen Gesundheitspflege, die Förderung von Wissenschaft und Forschung, die Förderung der Erziehung, der Volks und Berufsbildung. Der Satzungszweck wird verwirklicht insbesondere durch die Entwicklung und Umsetzung gezielter gesundheitssportlicher und bewegungs- und sporttherapeutischer Maßnahmen, durch die Förderung öffentlicher Gesundheit, durch die Unterstützung gesundheitsbewussten Verhaltens sowie die Verleihung der damit verbunden Qualifikationen Gesundheitssport und Sport- und Bewegungstherapeut. Der Gesundheitssport soll gesundheitlichen Beeinträchtigungen vorbeugen. Die Sport- und Bewegungstherapie soll dazu beitragen, körperliche, psychische und psychosoziale Beeinträchtigungen zu beheben oder auszugleichen und dadurch die Lebensqualität, besonders von chronisch Kranken und Behinderten, zu erhöhen. Hierzu gehören unter anderem folgende Aufgaben: Entwicklung und Ausbau des Gesundheitssportes und der Sport- und Bewegungstherapie auf der Basis von Sportwissenschaft, Rehabilitationswissenschaft, Gesundheitswissenschaft und Medizin, in interdisziplinärer Zusammenarbeit. \r\nBeratung in Belangen des Gesundheitssports und der Sport- und Bewegungstherapie. Wahrung berufsständischer Interessen der in Prävention, Therapie und Rehabilitation tätigen Sport- und Bewegungsfachkräften; insbesondere Berufsberatung sowie Arbeitsvermittlung nach AFG. \r\nQualitätsmanagement auf dem Gebiet des Gesundheitssportes und der Sport- und Bewegungstherapie. \r\nEntwicklung, Erprobung und Fortschreibung von Curricula für die \r\nAus-, Fort- und Weiterbildung sowie Prüfung von Sportpädagogen/Sportwissenschaftlern in den unterschiedlichen Arbeitsfeldern der bewegungsbezogenen Prävention, Gesundheitsförderung und Rehabilitation durch Gesundheitssport und Sport- und Bewegungstherapie.",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_PRIVATE_ORGA",
+          "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)",
+          "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Deutscher Verband für Gesundheitssport und Sporttherapie (DVGS) e. V.",
+          "phoneNumber": "+49223365017",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "DVGS e. V.",
+            "street": "Vogelsanger Weg",
+            "streetNumber": "48",
+            "zipCode": "50354",
+            "city": "Hürth-Efferen",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "dvgs@dvgs.de"
+          ],
+          "websites": [
+            "www.dvgs.de"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Angelika",
+              "lastName": "Baldus",
+              "function": "Hauptamtlicher Vorstand",
+              "phoneNumber": "+49223365019",
+              "organizationMemberEmails": [
+                "angelika.baldus@dvgs.de"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 2738,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "GVG e. V.",
+            "DEGEMED e. V.",
+            "DNVF e. V.",
+            "BVPG e. V. "
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_EDUCATION_PARENTING",
+            "de": "Bildung und Erziehung",
+            "en": "Education and parenting"
+          },
+          {
+            "code": "FOI_EDUCATION_PARENTING|FOI_EP_WORK",
+            "de": "Berufliche Bildung",
+            "en": "Job education"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_CARE",
+            "de": "Pflege",
+            "en": "Health care"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_PROMOTION",
+            "de": "Gesundheitsförderung",
+            "en": "Health promotion"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_SUPPLY",
+            "de": "Gesundheitsversorgung",
+            "en": "Health supply"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_OTHER",
+            "de": "Sonstiges im Bereich „Sport, Freizeit und Tourismus“",
+            "en": "Other in the field of “Sports, leisure and tourism”"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT|FOI_LAS_POPULAR_SPORT",
+            "de": "Breitensport",
+            "en": "Popular sports"
+          },
+          {
+            "code": "FOI_LEISURE_AND_SPORT",
+            "de": "Sport, Freizeit und Tourismus",
+            "en": "Sports, leisure and tourism"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_OTHER",
+            "fieldOfInterestText": "Ambulante und stationäre Rehabilitation "
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_CHILDREN",
+            "de": "Kinder- und Jugendpolitik",
+            "en": "Child and youth policy"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_ELDERLY",
+            "de": "Seniorenpolitik",
+            "en": "Elderly/senior citizens policy"
+          },
+          {
+            "code": "FOI_WORK",
+            "de": "Arbeit und Beschäftigung",
+            "en": "Work and employment"
+          },
+          {
+            "code": "FOI_WORK|FOI_WORK_POLICY",
+            "de": "Arbeitsmarkt",
+            "en": "Job market"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "DVGS-Rechenschaftsbericht-2021.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/ac/db/4469/DVGS-Rechenschaftsbericht-2021.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": true,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000534",
+      "registerEntryDetail": {
+        "id": 447,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 111,
+          "to": 120
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 7400001,
+          "to": 7410000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000534",
+          "firstPublicationDate": "2022-02-16T08:35:18.000Z"
+        },
+        "activityDescription": "Unsere Mission\r\n\r\nFür den Wohlstand Deutschlands hat die Industrie eine herausragende Bedeutung. Gemeinsam mit den industrienahen Dienstleistungen bildet die Industrie den Wachstumskern unserer Volkswirtschaft. Industrie und industrienahe Dienstleistungen stehen für rund ein Drittel der heimischen Wirtschaftskraft. Deutschland ist und bleibt ein Industrieland. \r\n\r\nDer BDI ist die Spitzenorganisation der deutschen Industrie und der industrienahen Dienstleister. Wir vertreten 40 Branchenverbände mit mehr als 100.000 Unternehmen mit rund acht Millionen Beschäftigten im Inland, arbeiten an den Standorten Berlin, Brüssel, Peking und Washington. Wir verfügen über 15 Landesvertretungen, rund 170 feste Mitarbeitende und etwa 3000 ehrenamtlich tätige Unternehmens- und Verbandsverteterinnen und -vertreter in unseren Gremien. Wir sind die Stimme der deutschen Industrie.\r\n\r\nPurpose\r\nWir arbeiten für eine moderne, nachhaltige und erfolgreiche Industrie in Deutschland, Europa und der Welt.\r\n\r\nMission\r\nAls Interessensvertretung adressieren wir die Positionen vielfältiger Industriebranchen und industrienaher Dienstleister gegenüber Politik, NGOs, Zivilgesellschaft und Wissenschaft. Damit unterstützen wir die Unternehmen im globalen Wettbewerb. Wir verdeutlichen, welche Auswirkungen Wirtschaftspolitik auf die Gesellschaft hat, wir bieten Informationen und wirtschaftspolitische Beratung für alle industrierelevanten Themen und helfen mit politischer Flankierung bei der internationalen Markterschließung. Wir verfügen über ein weit verzweigtes Netzwerk in Deutschland und Europa, auf allen wichtigen Märkten und in internationalen Organisationen.\r\n\r\nWirtschaft ist Gesellschaft\r\nWir sind Teil des demokratischen Willensbildungsprozesses und stehen für eine sachliche und faire Diskussionskultur. Erst im Wettbewerb der Ideen finden sich beste Lösungen für unser Gemeinwesen. Deshalb sind wir unverzichtbarer bürgerschaftlicher Akteur-und eine wichtige gesellschaftspolitische Reformkraft. Industrie und die industrienahen Dienstleistungen sind Teil der Gesellschaft und wollen gesellschaftspolitische Diskussionen mitgestalten.\r\n\r\nTransparente Interessenvertretung mit Sachverstand\r\nWir verfügen über eine einzigartige Kombination von Sachverstand und Lösungsorientierung. Ehrenamtlich tätige Unternehmerinnen und Unternehmer, engagierte Unternehmen, Mitgliedsverbände und Landesvertretungen sowie Mitarbeitende in Berlin, Brüssel, Washington und Peking bündeln ihre Expertise. Basis für die Positionierungen des BDI bilden die Grundprinzipien der sozialen Marktwirtschaft und die Interessen der Mitgliedsverbände und ihrer Mitgliedsunternehmen. Damit sind wir das Kompetenzzentrum für Wirtschafts- und Industriepolitik in der Bundesrepublik. Unseren Erfolg messen wir an der Umsetzung unserer Positionen in die politische Wirklichkeit. Wir pflegen Kontakte zu Regierungen und zur Europäischen Kommission, zu Parteien, Parlamenten und Ministerien, zur Wissenschaft, zur Öffentlichkeit und zum diplomatischen Corps. Unsere Glaubwürdigkeit basiert auf überparteilicher, sachorientierter und wissenschaftlich fundierter Argumentation. Unsere Kommunikation an die Politik ist transparent.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Bundesverband der Deutschen Industrie e.V.",
+          "phoneNumber": "+493020280",
+          "address": {
+            "type": "NATIONAL",
+            "street": "Breite Str.",
+            "streetNumber": "29",
+            "zipCode": "10178",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@bdi.eu"
+          ],
+          "websites": [
+            "www.bdi.eu"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Professor",
+              "commonFirstName": "Siegfried",
+              "lastName": "Russwurm",
+              "function": "Präsident",
+              "phoneNumber": "+493020280",
+              "organizationMemberEmails": [
+                "info@bdi.eu"
+              ]
+            },
+            {
+              "commonFirstName": "Ingeborg",
+              "lastName": "Neumann",
+              "function": "Schatzmeisterin",
+              "phoneNumber": "+493020280",
+              "organizationMemberEmails": [
+                "info@bdi.eu"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Joachim",
+              "lastName": "Lang"
+            },
+            {
+              "commonFirstName": "Holger",
+              "lastName": "Lösch"
+            },
+            {
+              "commonFirstName": "Wolfgang",
+              "lastName": "Niedermark"
+            },
+            {
+              "commonFirstName": "Iris",
+              "lastName": "Plöger"
+            },
+            {
+              "commonFirstName": "Jürgen",
+              "lastName": "Hasler"
+            },
+            {
+              "commonFirstName": "Anika",
+              "lastName": "Gensicke"
+            },
+            {
+              "commonFirstName": "Julian",
+              "lastName": "Ostendorf"
+            },
+            {
+              "commonFirstName": "Manuel",
+              "lastName": "Schamun"
+            },
+            {
+              "commonFirstName": "Katharina",
+              "lastName": "Will"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Jobst-Hinrich",
+              "lastName": "Wiskow"
+            },
+            {
+              "commonFirstName": "Anna-Lena",
+              "lastName": "Gleich"
+            },
+            {
+              "commonFirstName": "Felix",
+              "lastName": "Rupprecht"
+            },
+            {
+              "commonFirstName": "Isabell",
+              "lastName": "Wolfgramm"
+            },
+            {
+              "commonFirstName": "Alexander",
+              "lastName": "Mihm"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Klaus Günther",
+              "lastName": "Deutsch"
+            },
+            {
+              "commonFirstName": "Corinna",
+              "lastName": "Neumann"
+            },
+            {
+              "commonFirstName": "Kenneth",
+              "lastName": "Frisse"
+            },
+            {
+              "commonFirstName": "Thomas",
+              "lastName": "Hüne"
+            },
+            {
+              "commonFirstName": "Solveigh",
+              "lastName": "Jäger"
+            },
+            {
+              "commonFirstName": "Petra",
+              "lastName": "Küntzel"
+            },
+            {
+              "commonFirstName": "Paul Philipp",
+              "lastName": "Maeser"
+            },
+            {
+              "commonFirstName": "Miriam",
+              "lastName": "Philipp"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Monika",
+              "lastName": "Wünnemann"
+            },
+            {
+              "commonFirstName": "David",
+              "lastName": "Gajda"
+            },
+            {
+              "commonFirstName": "Benjamin",
+              "lastName": "Koller"
+            },
+            {
+              "commonFirstName": "Annette",
+              "lastName": "Selter"
+            },
+            {
+              "commonFirstName": "Cedric",
+              "lastName": "von der Hellen"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thomas",
+              "lastName": "Koenen"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Michael",
+              "lastName": "Dose"
+            },
+            {
+              "commonFirstName": "Dominic",
+              "lastName": "Glock"
+            },
+            {
+              "commonFirstName": "Oliver",
+              "lastName": "Klein"
+            },
+            {
+              "commonFirstName": "Christian",
+              "lastName": "Rudelt"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Carsten",
+              "lastName": "Wehmeyer"
+            },
+            {
+              "commonFirstName": "Steven",
+              "lastName": "Heckler"
+            },
+            {
+              "commonFirstName": "Niels",
+              "lastName": "Lau"
+            },
+            {
+              "commonFirstName": "Sebastian",
+              "lastName": "Freimuth"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Kerstin",
+              "lastName": "Lappe"
+            },
+            {
+              "commonFirstName": "Ines",
+              "lastName": "Nitsche"
+            },
+            {
+              "commonFirstName": "Claudia",
+              "lastName": "Voss"
+            },
+            {
+              "commonFirstName": "Verena",
+              "lastName": "Westphal"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Peter",
+              "lastName": "Schäfer"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Ulrike",
+              "lastName": "Suchsland"
+            },
+            {
+              "commonFirstName": "Anja",
+              "lastName": "Mundt"
+            },
+            {
+              "commonFirstName": "Felix",
+              "lastName": "Esser"
+            },
+            {
+              "commonFirstName": "Maria",
+              "lastName": "Kusmina"
+            },
+            {
+              "commonFirstName": "Cora",
+              "lastName": "Loh"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Carsten",
+              "lastName": "Rolle"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Eike",
+              "lastName": "Blume-Werry"
+            },
+            {
+              "commonFirstName": "Maximilian",
+              "lastName": "Fricke"
+            },
+            {
+              "commonFirstName": "Lilly",
+              "lastName": "Höhn"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Beatrix",
+              "lastName": "Jahn"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Joachim",
+              "lastName": "Hein"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Eberhard",
+              "lastName": "Rottenburg"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Thomas",
+              "lastName": "Holtmann "
+            },
+            {
+              "academicDegreeBefore": "Professor Dr.",
+              "commonFirstName": "Herbert",
+              "lastName": "Bender"
+            },
+            {
+              "commonFirstName": "Simon",
+              "lastName": "Weimer"
+            },
+            {
+              "commonFirstName": "Franz-Josef",
+              "lastName": "von Kempis"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Mirjam",
+              "lastName": "Merz"
+            },
+            {
+              "commonFirstName": "Catrin",
+              "lastName": "Schiffer"
+            },
+            {
+              "commonFirstName": "Annette",
+              "lastName": "Giersch"
+            },
+            {
+              "commonFirstName": "Uta Maria",
+              "lastName": "Pfeiffer"
+            },
+            {
+              "commonFirstName": "Jonas",
+              "lastName": "Fritz"
+            },
+            {
+              "commonFirstName": "Robin",
+              "lastName": "Kunst"
+            },
+            {
+              "commonFirstName": "Petra",
+              "lastName": "Richter"
+            },
+            {
+              "commonFirstName": "Vanessa",
+              "lastName": "Wannicke"
+            },
+            {
+              "commonFirstName": "Fabian",
+              "lastName": "Wehnert"
+            },
+            {
+              "commonFirstName": "Sandra",
+              "lastName": "Koch"
+            },
+            {
+              "commonFirstName": "Friedolin",
+              "lastName": "Strack"
+            },
+            {
+              "commonFirstName": "Ischa-Monika",
+              "lastName": "Harzog"
+            },
+            {
+              "commonFirstName": "Benjamin",
+              "lastName": "Godel"
+            },
+            {
+              "commonFirstName": "Uta",
+              "lastName": "Knott"
+            },
+            {
+              "commonFirstName": "Patricia",
+              "lastName": "Schetelig"
+            },
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "Krämer"
+            },
+            {
+              "commonFirstName": "Anna Lena",
+              "lastName": "Kantrup"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Nikolas",
+              "lastName": "Keßels"
+            },
+            {
+              "commonFirstName": "Valerie",
+              "lastName": "Ross"
+            },
+            {
+              "commonFirstName": "Katherine",
+              "lastName": "Tepper"
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Christoph",
+              "lastName": "Sprich"
+            },
+            {
+              "commonFirstName": "Julia Maria",
+              "lastName": "Howald"
+            },
+            {
+              "commonFirstName": "Matthias",
+              "lastName": "Wachter"
+            },
+            {
+              "commonFirstName": "Sarah",
+              "lastName": "Hillmann"
+            },
+            {
+              "commonFirstName": "Anne",
+              "lastName": "Lauenroth"
+            },
+            {
+              "commonFirstName": "Lara",
+              "lastName": "Petersen"
+            },
+            {
+              "commonFirstName": "Eva",
+              "lastName": "Gauß"
+            },
+            {
+              "commonFirstName": "Kerstin",
+              "lastName": "Petretto"
+            },
+            {
+              "commonFirstName": "Jennifer",
+              "lastName": "Howe"
+            }
+          ],
+          "members": 40,
+          "membersCountDate": "2021-12-31T00:00:00.000Z",
+          "membershipEntries": [
+            "Strukturgesellschaft Berlin e. V.",
+            "Ostausschuss der Deutschen Wirtschaft e.V.",
+            "Wirtschaftspolitischer Club Deutschland e.V.",
+            "CCA ",
+            "Forum Zukunftsenergien e.V.",
+            "Deutsche Gesellschaft für Gesetzgebung",
+            "Deutsches Aktieninstitut e.V.",
+            "Verband der deutschen Messewirtschaft e.V.",
+            "Deutscher Schutzverband Wirtschaftskriminlät e.V.",
+            "Bündnis \"Zukunft der Industrie\" e.V.",
+            "Deutsche Statistische Gesellschaft e.V.",
+            "Deutsches Institut für Wirtschaftsforschung (ifo)",
+            "Gemeinschaftsausschuss der Dt. Gewerbl. Wirtschaft",
+            "Leibnitz-Institut für Wirtschaftsforschung an der Universität München e.V.",
+            "Deutsche Prüfstelle für Rechnungslegung",
+            "Deutsche Rechnungslegungs Standards Committee",
+            "Deutsche Steuerjuristische Gesellschaft e.V.",
+            "Institut Finanzen und Steuern e.V.",
+            "Wirtschafts- und steuerrechtliche Vereinigung e.V.",
+            "UmsatzsteuerForum e.V.",
+            "Gesellschaft zur Förderung des Energiewirtsch. Instituts an der Uni Köln ",
+            "Arbeitsgruppe Emissionshandel",
+            "Wirtschaftspublizistische Vereinigung e.V.",
+            "Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall e.V.",
+            "Gesellschaft für Umweltrecht e.V.",
+            "Förderverein des Instituts für das Recht der Wasser- und Entsorgungswirtschaft an der Universität Bonn e.V.",
+            "Forum f. Luft- und Raumfahrt",
+            "Deutsche Gesellschaft für Auswärtige Politik e.V.",
+            "Pro Mobilität - Initiative für Verkehrsinfrastruktur e.V.",
+            "Gesellschaft zur Förderung der Verkehrswissenschaft an der Uni Münster",
+            "Aktionskreis gegen Produkt- und Markenpiraterie e.V.",
+            "Berliner Gesprächskreis zum europäischen Beihilferecht e.V. ",
+            "Deutsche Stiftung für Internationale Rechtliche Zusammenarbeit e.V. ",
+            "Deutsche Vereinigung für gewerblichen Rechtschutz und Urheberrecht e.V.",
+            "Gesellschaft für Datenschutz und Datensicherheit e.V.",
+            "Wissenschaftliche Vereinigung für Unternehmens- und Gesellschaftsrecht e.V.",
+            "Zentrale zur Bekämpfung unlauteren Wettbewerbs e.V.",
+            "Zentralverband der deutschen Werbewirtschaft  e.V.",
+            "Vereinigung deutscher Wirtschaftsarchivare e.V.",
+            "Gesellschaft für Unternehmensgeschichte e.V.",
+            "GAIA-X",
+            "Stifterverband e.V."
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_BUNDESTAG",
+            "de": "Bundestag",
+            "en": "Bundestag"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_OTHER",
+            "de": "Sonstiges im Bereich „Bundestag“",
+            "en": "Other in the field of “Bundestag”"
+          },
+          {
+            "code": "FOI_BUNDESTAG|FOI_BUNDESTAG_PARLIAMENTARY",
+            "de": "Parlamentarisches Verfahren",
+            "en": "Parliamentary procedure"
+          },
+          {
+            "code": "FOI_DEFENSE",
+            "de": "Verteidigung",
+            "en": "Defense"
+          },
+          {
+            "code": "FOI_DEFENSE|FOI_DEFENSE_OTHER",
+            "de": "Sonstiges im Bereich „Verteidigung“",
+            "en": "Other in the field of “Defense”"
+          },
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_COMPETITION_LAW",
+            "de": "Wettbewerbsrecht",
+            "en": "Competition law"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_OTHER",
+            "de": "Sonstiges im Bereich „Wirtschaft“",
+            "en": "Other in the field of “Economy”"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_SAM_BUSINESS",
+            "de": "Kleine und mittlere Unternehmen",
+            "en": "Small and medium business"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_FOSSILE",
+            "de": "Fossile Energien",
+            "en": "Fossil fuels"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NUCLEAR",
+            "de": "Atomenergie",
+            "en": "Nuclear power"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OTHER",
+            "de": "Sonstiges im Bereich „Energie“",
+            "en": "Other in the field of “Energy”"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_OVERALL",
+            "de": "Allgemeine Energiepolitik",
+            "en": "Energy policy in general"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_CLIMATE",
+            "de": "Klimaschutz",
+            "en": "Climate protection"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_POLLUTION",
+            "de": "Immissionsschutz",
+            "en": "Immission control"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SPECIES",
+            "de": "Artenschutz/Biodiversität",
+            "en": "Species protection/biodiversity"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_DOMESTIC_MARKET",
+            "de": "EU-Binnenmarkt",
+            "en": "EU internal market"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_OTHER",
+            "de": "Sonstiges im Bereich „Europapolitik und Europäische Union“",
+            "en": "Other in the field of “European politics and the EU”"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_POLITICS",
+            "de": "Institutionelle Fragen der EU",
+            "en": "Institutional questions of European politics"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_SAFETY_POLICY",
+            "de": "Gemeinsame Außen- und Sicherheitspolitik der EU",
+            "en": "Common foreign and security policy of the EU"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          },
+          {
+            "code": "FOI_FOREIGN_TRADE",
+            "de": "Außenwirtschaft",
+            "en": "Foreign trade"
+          },
+          {
+            "code": "FOI_HEALTH",
+            "de": "Gesundheit",
+            "en": "Health"
+          },
+          {
+            "code": "FOI_HEALTH|FOI_HEALTH_OTHER",
+            "de": "Sonstiges im Bereich „Gesundheit“",
+            "en": "Other in the field of “Health”"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY",
+            "de": "Innere Sicherheit",
+            "en": "Internal security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_CYBER",
+            "de": "Cybersicherheit",
+            "en": "Cyber security"
+          },
+          {
+            "code": "FOI_INTERNAL_SECURITY|FOI_IS_OTHER",
+            "de": "Sonstiges im Bereich „Innere Sicherheit“",
+            "en": "Other in the field of “Internal security”"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_CIVIL_RIGHT",
+            "de": "Zivilrecht",
+            "en": "Civil rights"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_LEGAL",
+            "de": "Rechtspolitik",
+            "en": "Legal policy"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_PUBLIC",
+            "de": "Öffentliches Recht",
+            "en": "Public law"
+          },
+          {
+            "code": "FOI_MEDIA",
+            "de": "Medien, Kommunikation und Informationstechnik",
+            "en": "Media, communication and information technology"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_ADVERTISEMENT",
+            "de": "Werbung",
+            "en": "Advertising"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_COPYRIGHT",
+            "de": "Urheberrecht",
+            "en": "Copyright"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_DIGITALIZATION",
+            "de": "Digitalisierung",
+            "en": "Digitalization"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_INTERNET_POLICY",
+            "de": "Internetpolitik",
+            "en": "Internet policy"
+          },
+          {
+            "code": "FOI_MEDIA|FOI_MEDIA_OTHER",
+            "de": "Sonstiges im Bereich „Medien, Kommunikation und  Informationstechnik“",
+            "en": "Other in the field of “Media, communication and information technology”"
+          },
+          {
+            "code": "FOI_POLITICAL_PARTIES",
+            "de": "Politisches Leben, Parteien",
+            "en": "Political life, parties"
+          },
+          {
+            "code": "FOI_PUBLIC_FINANCE",
+            "de": "Öffentliche Finanzen, Steuern und Abgaben",
+            "en": "Public finances, taxes and duties"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY",
+            "de": "Gesellschaftspolitik und soziale Gruppen",
+            "en": "Social politics and social groups"
+          },
+          {
+            "code": "FOI_SOCIAL_POLICY|FOI_SP_OTHER",
+            "de": "Sonstiges im Bereich „Gesellschaftspolitik und soziale Gruppen“",
+            "en": "Other in the field of “Social politics and social groups”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AEROSPACE",
+            "de": "Luft- und Raumfahrt",
+            "en": "Aerospace"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_RAIL",
+            "de": "Schienenverkehr",
+            "en": "Rail transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "Einnahmen-Ausgabenrechnung-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/80/71/4465/Einnahmen-Ausgabenrechnung-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000533",
       "registerEntryDetail": {
