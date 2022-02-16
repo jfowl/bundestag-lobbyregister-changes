@@ -9,8 +9,252 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 527,
+  "resultCount": 528,
   "results": [
+    {
+      "registerNumber": "R000533",
+      "registerEntryDetail": {
+        "id": 2125,
+        "clientIdentity": "ORGANIZATION",
+        "employeeCount": {
+          "from": 0,
+          "to": 0
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000533",
+          "firstPublicationDate": "2022-02-16T08:22:04.000Z"
+        },
+        "activityDescription": "Erstellung von Positionspapieren zu Gesetztesvorhaben\r\nKommentierung von Gesetztesvorhaben\r\nTechnische und/oder marktrelevante Aufklärung relevanter politischer Entscheidungsträger zu Themen rund um das Laden von Elektrofahrzeugen",
+        "activityOperationType": "BOTH",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Charging Interface Initative (CharIN) e.V.",
+          "phoneNumber": "+493028883880",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "CharIN e.V.",
+            "nationalAdditional2": "c/o innos GmbH",
+            "street": "Kurfürstendamm",
+            "streetNumber": "11",
+            "zipCode": "10719",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "coordination@charin.global"
+          ],
+          "websites": [
+            "www.charin.global "
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Claas",
+              "lastName": "Bracklo",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+493028883880",
+              "organizationMemberEmails": [
+                "claas.bracklo@charin.global"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Keller",
+              "function": "Vorstand",
+              "phoneNumber": "+493028883880",
+              "organizationMemberEmails": [
+                "michael.keller@charin.global"
+              ]
+            }
+          ],
+          "namedEmployees": [],
+          "members": 250,
+          "membersCountDate": "2022-01-01T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ECONOMY",
+            "de": "Wirtschaft",
+            "en": "Economy"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_AUTOMOBILE",
+            "de": "Automobilwirtschaft",
+            "en": "Automotive industry"
+          },
+          {
+            "code": "FOI_ECONOMY|FOI_ECONOMY_INDUSTRIAL",
+            "de": "Industriepolitik",
+            "en": "Industrial policy"
+          },
+          {
+            "code": "FOI_ENERGY",
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_NET",
+            "de": "Energienetze",
+            "en": "Energy networks"
+          },
+          {
+            "code": "FOI_ENERGY|FOI_ENERGY_RENEWABLE",
+            "de": "Erneuerbare Energien",
+            "en": "Renewable energy"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION|FOI_EU_LAWS",
+            "de": "EU-Gesetzgebung",
+            "en": "EU legislation"
+          },
+          {
+            "code": "FOI_EUROPEAN_UNION",
+            "de": "Europapolitik und Europäische Union",
+            "en": "European politics and the EU"
+          },
+          {
+            "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+            "de": "Wissenschaft, Forschung und Technologie",
+            "en": "Science, research and technology"
+          },
+          {
+            "code": "FOI_TRANSPORTATION",
+            "de": "Verkehr",
+            "en": "Transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AEROSPACE",
+            "de": "Luft- und Raumfahrt",
+            "en": "Aerospace"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_AUTOMOBILE",
+            "de": "Straßenverkehr",
+            "en": "Road traffic"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+            "de": "Güterverkehr",
+            "en": "Freight transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_INDRASTRUCTURE",
+            "de": "Verkehrsinfrastruktur",
+            "en": "Infrastructure"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_OTHER",
+            "de": "Sonstiges im Bereich „Verkehr“",
+            "en": "Other in the field of “Transportation”"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_POLICY",
+            "de": "Verkehrspolitik",
+            "en": "Transport policy"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+            "de": "Personenverkehr",
+            "en": "Public transportation"
+          },
+          {
+            "code": "FOI_TRANSPORTATION|FOI_TRANSPORTATION_SHIPPING",
+            "de": "Schifffahrt",
+            "en": "Shipping"
+          }
+        ],
+        "clientOrganizations": [
+          {
+            "name": "Charging Interface Initative (CharIN) e.V.",
+            "phoneNumber": "+493028883880",
+            "address": {
+              "type": "NATIONAL",
+              "nationalAdditional1": "CharIN e. V.",
+              "nationalAdditional2": "c/o innos GmbH",
+              "street": "Kurfürstendamm",
+              "streetNumber": "11",
+              "zipCode": "10719",
+              "city": "Berlin",
+              "country": {
+                "code": "DE"
+              }
+            },
+            "legalForm": {
+              "code": "LF_EV",
+              "code_de": "Eingetragener Verein (e. V.)",
+              "code_en": "Registered association",
+              "type": "JURISTIC_PERSON"
+            },
+            "organizationEmails": [
+              "coordination@charin.global"
+            ],
+            "websites": [
+              "www.charin.global"
+            ],
+            "legalRepresentatives": [
+              {
+                "commonFirstName": "Claas",
+                "lastName": "Bracklo",
+                "function": "Vorstandsvorsitzender",
+                "phoneNumber": "+493028883880",
+                "organizationMemberEmails": [
+                  "claas.bracklo@charin.global"
+                ]
+              },
+              {
+                "commonFirstName": "Michael",
+                "lastName": "Keller",
+                "function": "Vorstand",
+                "phoneNumber": "+493028883880",
+                "organizationMemberEmails": [
+                  "michael.keller@charin.global"
+                ]
+              }
+            ]
+          }
+        ],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "CharIN-Jahresabschluss-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7f/ae/4458/CharIN-Jahresabschluss-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
     {
       "registerNumber": "R000532",
       "registerEntryDetail": {
@@ -13719,7 +13963,7 @@
     {
       "registerNumber": "R000473",
       "registerEntryDetail": {
-        "id": 2347,
+        "id": 3055,
         "clientIdentity": "",
         "employeeCount": {
           "from": 11,
@@ -13768,8 +14012,7 @@
             "type": "JURISTIC_PERSON"
           },
           "organizationEmails": [
-            "info@ifg-online.com",
-            "j.pichler@bdi.eu"
+            "info@ifg-online.com"
           ],
           "websites": [
             "ifg-online.com"
@@ -13816,6 +14059,7 @@
               "lastName": "Strack"
             },
             {
+              "academicDegreeBefore": "Dr.",
               "commonFirstName": "Serhat",
               "lastName": "Ünaldi"
             },
@@ -13928,7 +14172,7 @@
             "type": "ANNUAL_REPORT",
             "media": {
               "fileName": "GuV-2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/62/1e/3730/GuV-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/f0/81/4460/GuV-2020.pdf",
               "mimeType": "application/pdf"
             }
           }
