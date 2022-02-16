@@ -9,8 +9,375 @@
     "facets": [],
     "numberRanges": []
   },
-  "resultCount": 540,
+  "resultCount": 542,
   "results": [
+    {
+      "registerNumber": "R000547",
+      "registerEntryDetail": {
+        "id": 2224,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 1,
+          "to": 10000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000547",
+          "firstPublicationDate": "2022-02-16T10:11:07.000Z"
+        },
+        "activityDescription": "Der GVSS e.V. ist ein freiwilliger Zusammenschluss von in der Schadstoffsanierung engagierten natürlichen Personen, Gesellschaften und juristischen Personen aus der Bundesrepublik Deutschland sowie dem europäischen Ausland. Er fördert und vertritt die ideellen, fachlichen und wirtschaftlichen Inte-ressen der Schadstoffsanierungsbranche.\r\n\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_TRADE_ASSOC",
+          "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+          "en": "Trade association"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Gesamtverband Schadstoffsanierung e.V.",
+          "phoneNumber": "+4930200052760",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "Gesamtverband",
+            "nationalAdditional2": "Schadstoffsanierung e.V.",
+            "street": "Von-der-Heydt-Straße",
+            "streetNumber": "2",
+            "zipCode": "10785",
+            "city": "Berlin",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_EV",
+            "code_de": "Eingetragener Verein (e. V.)",
+            "code_en": "Registered association",
+            "type": "JURISTIC_PERSON"
+          },
+          "organizationEmails": [
+            "info@gesamtverband-schadstoff.de"
+          ],
+          "websites": [
+            "https://gesamtverband-schadstoff.de/"
+          ],
+          "legalRepresentatives": [
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Christoph",
+              "lastName": "Hohlweck",
+              "function": "Vorstandsvorsitzender",
+              "phoneNumber": "+4930200052760",
+              "organizationMemberEmails": [
+                "info@gesamtverband-schadstoff.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Hans-Dieter",
+              "lastName": "Bossemeyer",
+              "function": "stellv. Vorstandsvorsitzender",
+              "phoneNumber": "+4930200052760",
+              "organizationMemberEmails": [
+                "info@gesamtverband-schadstoff.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dipl.-Geoökologe",
+              "commonFirstName": "Olaf",
+              "lastName": "Dünger",
+              "function": "stellv. Vorstandsvorsitzender",
+              "phoneNumber": "+4930200052760",
+              "organizationMemberEmails": [
+                "info@gesamtverband-schadstoff.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "academicDegreeBefore": "Dipl.-Ing.",
+              "commonFirstName": "Sandra",
+              "lastName": "Giern"
+            }
+          ],
+          "members": 69,
+          "membersCountDate": "2022-02-07T00:00:00.000Z",
+          "membershipEntries": []
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_ENVIRONMENT",
+            "de": "Umwelt",
+            "en": "Environment"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_OTHER",
+            "de": "Sonstiges im Bereich „Umwelt“",
+            "en": "Other in the field of “Environment”"
+          },
+          {
+            "code": "FOI_ENVIRONMENT|FOI_ENVIRONMENT_SUSTAINABILITY",
+            "de": "Nachhaltigkeit und Ressourcenschutz",
+            "en": "Sustainability and resource protection"
+          },
+          {
+            "code": "FOI_LAW",
+            "de": "Recht",
+            "en": "Law"
+          },
+          {
+            "code": "FOI_LAW|FOI_LAW_OTHER",
+            "de": "Sonstiges im Bereich „Recht“",
+            "en": "Other in the field of “Law”"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING",
+            "de": "Raumordnung, Bau- und Wohnungswesen",
+            "en": "Spatial planning, construction and housing"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_CITY",
+            "de": "Stadtentwicklung",
+            "en": "Urban development"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_DEVELOPMENT",
+            "de": "Bauwesen und Bauwirtschaft",
+            "en": "Construction and construction industry"
+          },
+          {
+            "code": "FOI_REGINAL_PLANNING|FOI_RP_RESIDE",
+            "de": "Wohnen",
+            "en": "Reside"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": [
+          {
+            "type": "ANNUAL_REPORT",
+            "media": {
+              "fileName": "210112-JA-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/7f/7e/4533/210112-JA-2020.pdf",
+              "mimeType": "application/pdf"
+            }
+          }
+        ],
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false,
+        "annualReportExist": true
+      }
+    },
+    {
+      "registerNumber": "R000546",
+      "registerEntryDetail": {
+        "id": 2521,
+        "clientIdentity": "",
+        "employeeCount": {
+          "from": 1,
+          "to": 10
+        },
+        "refuseFinancialExpensesInformation": false,
+        "financialExpensesEuro": {
+          "from": 20001,
+          "to": 30000,
+          "fiscalYearStart": "01/20",
+          "fiscalYearEnd": "12/20"
+        },
+        "refusePublicAllowanceInformation": false,
+        "refuseDonationInformation": false,
+        "donationInformationRequired": false,
+        "account": {
+          "registerNumber": "R000546",
+          "firstPublicationDate": "2022-02-16T09:53:39.000Z"
+        },
+        "activityDescription": "Ziel des Aktionsbündnis Menschenrechte - Philippinen (AMP) ist es, durch Öffentlichkeits- und Lobbyarbeit auf Entscheider/innen und Multiplikator/innen in Deutschland, der EU und auf UN-Ebene zu wirken, um zu einer Verbesserung der Menschenrechtssituation in den Philippinen beizutragen.\r\nDas Bündnis erstellt seit seiner Gründung im August 2007 Publikationen und koordiniert Kampagnen, Politikgespräche und internationale Veranstaltungen. Thematische Schwerpunkte der Arbeit sind die große Zahl der politisch motivierten Morde sowie die Praxis des erzwungenen Verschwindenlassens.\r\nUnsere Arbeit:\r\n- Beobachtung der Menschenrechtssituation in den Philippinen auf der Grundlage direkter Informationen unserer Partner, durch eigene Reisen und über Medienberichte Öffentlichkeitsarbeit zur Menschenrechtssituation in den Philippinen\r\n- Diskussion der Menschenrechtssituation in den Philippinen mit politischen Entscheidungsträgern und relevanten staatlichen Stellen in Deutschland, bei der Europäischen Kommission, den Vereinten Nationen und in den Philippinen\r\n- Unterstützung der Opfer von Menschenrechtsverletzungen und deren Familienangehörigen und Kollegen durch Aktions- und Lobbybriefe Organisation von Veranstaltungen zum Thema politische Morde und Verschwindenlassen\r\n- Unterstützung unserer philippinischen Partner bei ihrer internationalen Lobby- und Advocacyarbeit.\r\n- Erstellung monatlicher und regelmäßige Pressemitteilungen zu philippinischen Menschenrechtsthemen\r\n- Dokumentation von Fällen außergerichtlicher Hinrichtungen und erzwungenem Verschwindenlassen",
+        "activityOperationType": "SELF_OPERATED",
+        "activity": {
+          "code": "ACT_NONPROFIT_ORGA",
+          "de": "Nichtstaatliche Organisation (Nichtregierungsorganisation, Plattform oder Netzwerk)",
+          "en": "Non-governmental organizations (non-governmental organization, platform or network)"
+        },
+        "codexViolation": false,
+        "lobbyistIdentity": {
+          "identity": "ORGANIZATION",
+          "name": "Aktionsbündnis Menschenrechte - Philippinen (AMP)",
+          "phoneNumber": "+4922171612122",
+          "address": {
+            "type": "NATIONAL",
+            "nationalAdditional1": "AMP",
+            "nationalAdditional2": "c/o philippinenbüro e.V.",
+            "street": "Hohenzollernring",
+            "streetNumber": "52",
+            "zipCode": "50672",
+            "city": "Köln",
+            "country": {
+              "code": "DE"
+            }
+          },
+          "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "code_de": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+            "code_en": "Networks, platforms or other forms of collective activity",
+            "type": "NETWORK_PLATFORM_OR_OTHER",
+            "legalFormText": "Netzwerk"
+          },
+          "organizationEmails": [
+            "info@amp.ngo"
+          ],
+          "websites": [
+            "amp.ngo"
+          ],
+          "legalRepresentatives": [
+            {
+              "commonFirstName": "Mirjam",
+              "lastName": "Overhoff",
+              "function": "Geschäftsführung philippinenbüro e.V.",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "mirjam.overhoff@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Hannah",
+              "lastName": "Wolf",
+              "function": "stv. Geschäftsführung philippinenbüro e.V.",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "hannah.wolf@philippinenbuero.de"
+              ]
+            },
+            {
+              "academicDegreeBefore": "Dr.",
+              "commonFirstName": "Angela",
+              "lastName": "Dencker",
+              "function": "Vorstand philippinenbüro e.V.",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Mary",
+              "lastName": "Montemayor",
+              "function": "Vorstand philippinenbüro e.V.",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Bernhard",
+              "lastName": "Höper",
+              "function": "Vorstand philippinenbüro e.V.",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Jasmine Grace",
+              "lastName": "Wenzel",
+              "function": "Vorstand philippinenbüro e.V.",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Michael",
+              "lastName": "Niggemann",
+              "function": "Vorstand philippinenbüro e.V.",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Analie",
+              "lastName": "Neiteler",
+              "function": "Vorstand philippinenbüro e.V.",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            },
+            {
+              "commonFirstName": "Gebhard",
+              "lastName": "Körte",
+              "function": "Vorstand philippinenbüro e.V.",
+              "phoneNumber": "+4922171612121",
+              "organizationMemberEmails": [
+                "vorstand@philippinenbuero.de"
+              ]
+            }
+          ],
+          "namedEmployees": [
+            {
+              "commonFirstName": "Christina",
+              "lastName": "Keppel"
+            },
+            {
+              "commonFirstName": "Lisa",
+              "lastName": "Hölscher"
+            }
+          ],
+          "members": 7,
+          "membersCountDate": "2022-02-10T00:00:00.000Z",
+          "membershipEntries": [
+            "Internationale Advocacy Netzwerke (IAN)"
+          ]
+        },
+        "legislativeProjects": [],
+        "donators": [],
+        "fieldsOfInterest": [
+          {
+            "code": "FOI_DEVELOPMENT_POLICY",
+            "de": "Entwicklungspolitik",
+            "en": "Development policy"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_BRD",
+            "de": "Außenpolitik",
+            "en": "Foreign policy of the federal republic of Germany"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_HUMAN_RIGHTS",
+            "de": "Menschenrechte",
+            "en": "Human rights"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_INTERNATIONAL",
+            "de": "Internationale Beziehungen",
+            "en": "International relations"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS|FOI_FA_OTHER",
+            "de": "Sonstiges im Bereich „Außenpolitik und internationale Beziehungen“",
+            "en": "Other in the field of “Foreign policy and international relations”"
+          },
+          {
+            "code": "FOI_FOREIGN_AFFAIRS",
+            "de": "Außenpolitik und internationale Beziehungen",
+            "en": "Foreign policy and international relations"
+          }
+        ],
+        "clientOrganizations": [],
+        "clientPersons": [],
+        "registerEntryMedia": []
+      }
+    },
     {
       "registerNumber": "R000545",
       "registerEntryDetail": {
@@ -94851,7 +95218,7 @@
     {
       "registerNumber": "R000091",
       "registerEntryDetail": {
-        "id": 3161,
+        "id": 3162,
         "clientIdentity": "",
         "employeeCount": {
           "from": 1,
@@ -94978,8 +95345,8 @@
           {
             "type": "ANNUAL_REPORT",
             "media": {
-              "fileName": "Bilanz-GuV-31-12-2020.pdf",
-              "url": "https://www.lobbyregister.bundestag.de/media/43/63/4498/Bilanz-GuV-31-12-2020.pdf",
+              "fileName": "Geschaftsjahr-2020.pdf",
+              "url": "https://www.lobbyregister.bundestag.de/media/08/52/4518/Geschaftsjahr-2020.pdf",
               "mimeType": "application/pdf"
             }
           }
